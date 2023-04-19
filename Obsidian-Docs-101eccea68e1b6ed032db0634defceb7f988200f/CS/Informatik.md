@@ -24,7 +24,7 @@
 -   Imaging
     
 -   Simulation
-
+https://i.imgur.com/yQNtoNU.png
 
 -   Digital Documents(Email, E-Books, Presentations)
     
@@ -97,7 +97,7 @@ Difference Engine
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ae/Shannon-Weaver_model_of_communication.svg)
 
 ## Alan Turing (1912–1954)
-
+https://i.imgur.com/yQNtoNU.png
 -   led the WWII research group that broke the code for the Enigma machine
 -   proposed a simple abstract universal machine model for defining computability
 
