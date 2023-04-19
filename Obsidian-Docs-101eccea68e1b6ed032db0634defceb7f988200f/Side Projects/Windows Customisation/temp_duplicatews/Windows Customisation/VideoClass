@@ -1,0 +1,34 @@
+Video Class:
+//Melody Tweak
+"DDC2Disabled"=dword:00000001
+"MultiFunctionSupported"=dword:00000001
+"TimingSelection"=dword:00000000
+"VgaCompatible"=dword:00000000
+"Adaptive De-interlacing"=dword:00000000
+"VPE Adaptive De-interlacing"=dword:00000000
+"GCOOPTION_DisableGPIOPowerSaveMode"=dword:00000001
+"TVEnableOverscan"=dword:00000000
+"UA_Enabled"=dword:00000001 
+"KMD_EnableOPM2Interface"=dword:00000001
+"WmAgpMaxIdleClk"=dword:00000020
+"MemInitLatencyTimer"=dword:00000001
+"GamePerformanceAdviserEnabled"=dword:00000000
+"DisableAllClockGating"=dword:00000001 
+"DisableGfxCGPowerGating"=dword:00000001
+"DisableCpPowerGating"=dword:00000001
+"DisableStaticGfxMGPowerGating"=dword:00000001
+"DisableSAMUPowerGating"=dword:00000001
+"DisablePowerGating"=dword:00000001
+"DisablePCIConfigAsicReset"=dword:00000001
+"KMD_CursorMagnificationThreshold"=-0
+"DisableDynamicGfxMGPowerGating"=dword:00000001
+"EnableLBPWSupport"=dword:00000001
+"DisableRlcSmuPGHandshake"=dword:00000001
+"DisableSysClockGating"=dword:00000001
+"DisableGfxClockGating"=dword:00000001
+"EnableUlps"=dword:00000000
+"DisableFBCSupport"=dword:00000001
+"EnableCrossFireAutoLink"=dword:00000000
+"ExtEvent_BIOSEventByInterrupt"=dword:00000000
+"TVDisableModes"=dword:00000001
+"LazyPreload"=dword:00000001

@@ -1,0 +1,158 @@
+shell
+
+[HKEY_CLASSES_ROOT\*\shell\runas]
+@="Take Ownership"
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\*\shell\runas\command]
+@="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+"IsolatedCommand"="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas]
+@="Take Ownership"
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas\command]
+@="cmd.exe /c takeown /f \"%1\" /r /d y && icacls \"%1\" /grant administrators:F /t"
+"IsolatedCommand"="cmd.exe /c takeown /f \"%1\" /r /d y && icacls \"%1\" /grant administrators:F /t"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\01powerplans]
+"icon"="powercpl.dll"
+"muiverb"="Power Plans"
+"position"="top"
+"subcommands"=""
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\01powerplans\shell\01highperformance]
+"icon"="powercpl.dll"
+"muiverb"="Performance Plan (Idle Disabled)"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\01powerplans\shell\01highperformance\command]
+@="powercfg.exe /setactive 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\01powerplans\shell\02balanced]
+"icon"="powercpl.dll"
+"muiverb"="Balanced Plan (Idle Enabled)"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\01powerplans\shell\02balanced\command]
+@="powercfg.exe /setactive 381b4222-f694-41f0-9685-ff5bb260df2e"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\01powerplans\shell\03openpoweroptions]
+"icon"="powercpl.dll"
+"muiverb"="Power Options"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\01powerplans\shell\03openpoweroptions\command]
+@="control.exe powercfg.cpl"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\02gameboost]
+"icon"="joy.cpl"
+"muiverb"="Game Boost"
+"position"="top"
+"subcommands"=""
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\02gameboost\shell\01boost]
+"icon"="joy.cpl"
+@="On"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\02gameboost\shell\01boost\command]
+@="powerrun boost.bat"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\02gameboost\shell\02unboost]
+"icon"="joy.cpl"
+@="Off"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\shell\02gameboost\shell\02unboost\command]
+@="powerrun unboost.bat"
+
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
+"EnableSmartScreen"=dword:00000000
+"AllowCrossDeviceClipboard"=dword:00000000
+"DisableAcrylicBackgroundOnLogon"=dword:00000001
+"AllowClipboardHistory"=dword:00000000
+"EnableFontProviders"=dword:00000001
+"DisableHHDEP"=dword:00000001
+"DisableForceUnload"=dword:00000001
+"SlowLinkDetectEnabled"=dword:00000000
+"DeleteRoamingCache"=dword:00000001
+"CompatibleRUPSecurity"=dword:00000001
+"EnableActivityFeed"=dword:00000000
+"PublishUserActivities"=dword:00000000
+"UploadUserActivities"=dword:00000000
+"DisableLockScreenAppNotifications"=dword:00000001
+"RSoPLogging"=dword:00000000
+"EnableMmx"=dword:00000000
+"EnableCdp"=dword:00000000
+"AllowBlockingAppsAtShutdown"=dword:00000000
+"HiberbootEnabled"=dword:00000001
+
+
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\QuietHours]
+"Enable"=dword:00000000
+"AllowCalls"=dword:00000000
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\LocationAndSensors]
+"DisableLocation"=dword:00000001
+"DisableLocationScripting"=dword:00000001
+"DisableWindowsLocationProvider"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Siuf\Rules]
+"NumberOfSIUFInPeriod"=dword:00000000
+"PeriodInNanoSeconds"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"DSCAutomationHostEnabled"=dword:00000000
+"EnableCursorSuppression"=dword:00000000
+"EnableInstallerDetection"=dword:00000000
+"EnableLUA"=dword:00000000
+"EnableSecureUIAPaths"=dword:00000000
+"EnableUIADesktopToggle"=dword:00000000
+"EnableUwpStartupTasks"=dword:00000000
+"EnableVirtualization"=dword:00000000
+"PromptOnSecureDesktop"=dword:00000000
+"scforceoption"=dword:00000000
+"shutdownwithoutlogon"=dword:00000001
+"undockwithoutlogon"=dword:00000001
+"NoInternetOpenWith"=dword:00000001
+"EnableFirstLogonAnimation"=dword:00000000
+
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlers\ShowPicturesOnArrival]
+@="MSOpenFolder"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlers\WPD\ImageSource]
+@="MSOpenFolder"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlersDefaultSelection]
+@="MSOpenFolder"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlersDefaultSelection\CameraAlternate\ShowPicturesOnArrival]
+@="MSOpenFolder"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\EventHandlersDefaultSelection\StorageOnArrival]
+@="MSOpenFolder"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\Handlers]
+@="MSOpenFolder"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\UserChosenExecuteHandlers]
+@="MSOpenFolder"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\UserChosenExecuteHandlers\StorageOnArrival]
+@="MSOpenFolder"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers]
+"DisableAutoplay"=dword:00000000 
+
+
+
+
+
+
+
+
+
+
+

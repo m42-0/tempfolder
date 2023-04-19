@@ -1,0 +1,31 @@
+Software Locations:
+HKLM\SOFTWARE(\WOW6432Node)
+HKU\.DEFAULT\SOFTWARE
+HKCU\SOFTWARE(\Wow6432Node)
+
+Graphics Keys:
+...,...,...
+
+Graphics Control Location:
+HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
+HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\SubSystems
+
+AudioSrv:
+HKLM\SYSTEM\ControlSet001\Services\Audiosrv\PARAMETERS
+HKLM\SYSTEM\ControlSet001\Services\Audiosrv
+
+Network Adapter Class:
+HKLM\SYSTEM\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001-009
+
+Nvidia Service:
+HKLM\SYSTEM\ControlSet001\Services\nvlddmkm\Global\NVTweak
+HKLM\SYSTEM\ControlSet001\Services\nvlddmkm
+
+Windows Graphics Drivers:
+HKLM\SYSTEM\ControlSet001\Control\GraphicsDrivers\FeatureSetUsage
+HKLM\SYSTEM\ControlSet001\Control\GraphicsDrivers
+HKLM\SYSTEM\ControlSet001\Control\GraphicsDrivers\Configuration\MONITORID
+
+Windows DWM:
+HKLM\SOFTWARE(\WOW6432Node)\Microsoft\WINDOWS\DWM
+User(\.DEFAULT)\USERID\SOFTWARE\Microsoft\WINDOWS\DWM

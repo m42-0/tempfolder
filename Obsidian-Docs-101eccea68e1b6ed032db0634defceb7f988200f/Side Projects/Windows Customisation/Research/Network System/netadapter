@@ -1,0 +1,448 @@
+https://www.google.at/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjiofybsvv6AhUQVfEDHZSlC044ChAWegQICRAB&url=https%3A%2F%2Fwww.blackhat.com%2Fpresentations%2Fbh-europe-07%2FKumar%2FWhitepaper%2Fbh-eu-07-Kumar-WP-apr19.pdf&usg=AOvVaw3dIhmQOcza2m70Sw-APqib
+
+
+
+ Get-NetOffloadGlobalSetting
+
+
+ReceiveSideScaling           : Enabled
+ReceiveSegmentCoalescing     : Enabled
+Chimney                      : Disabled
+TaskOffload                  : Enabled
+NetworkDirect                : Enabled
+NetworkDirectAcrossIPSubnets : Blocked
+PacketCoalescingFilter       : Enabled
+
+
+Get-NetAdapterAdvancedProperty
+
+Name                      DisplayName                    DisplayValue                   RegistryKeyword RegistryValue
+----                      -----------                    ------------                   --------------- -------------
+Ethernet                  Energy-Efficient Ethernet      Disabled                       *EEE            {0}
+Ethernet                  Flow Control                   Rx & Tx Enabled                *FlowControl    {3}
+Ethernet                  Interrupt Moderation           Enabled                        *InterruptMo... {1}
+Ethernet                  IPv4 Checksum Offload          Tx Enabled                     *IPChecksumO... {1}
+Ethernet                  Jumbo Frame                    Disabled                       *JumboPacket    {1514}
+Ethernet                  Large Send Offload v2 (IPv4)   Enabled                        *LsoV2IPv4      {1}
+Ethernet                  Large Send Offload v2 (IPv6)   Enabled                        *LsoV2IPv6      {1}
+Ethernet                  ARP Offload                    Enabled                        *PMARPOffload   {1}
+Ethernet                  NS Offload                     Enabled                        *PMNSOffload    {1}
+Ethernet                  Priority & VLAN                Priority & VLAN Enabled        *PriorityVla... {3}
+Ethernet                  Receive Buffers                512                            *ReceiveBuffers {512}
+Ethernet                  Speed & Duplex                 Auto Negotiation               *SpeedDuplex    {0}
+Ethernet                  TCP Checksum Offload (IPv4)    Tx Enabled                     *TCPChecksum... {1}
+Ethernet                  TCP Checksum Offload (IPv6)    Tx Enabled                     *TCPChecksum... {1}
+Ethernet                  Transmit Buffers               512                            *TransmitBuf... {512}
+Ethernet                  UDP Checksum Offload (IPv4)    Tx Enabled                     *UDPChecksum... {1}
+Ethernet                  UDP Checksum Offload (IPv6)    Tx Enabled                     *UDPChecksum... {1}
+Ethernet                  Wake on Magic Packet           Enabled                        *WakeOnMagic... {1}
+Ethernet                  Wake on pattern match          Enabled                        *WakeOnPattern  {1}
+Ethernet                  Advanced EEE                   Disabled                       AdvancedEEE     {0}
+Ethernet                  EEE Max Support Speed          1.0 Gbps Full Duplex           EEEMaxSuppor... {1000}
+Ethernet                  Green Ethernet                 Enabled                        EnableGreenE... {1}
+Ethernet                  Gigabit Lite                   Enabled                        GigaLite        {1}
+Ethernet                  Network Address                --                             NetworkAddress  {--}
+Ethernet                  Power Saving Mode              Enabled                        PowerSavingMode {1}
+Ethernet                  VLAN ID                        0                              RegVlanid       {0}
+Ethernet                  Shutdown Wake-On-Lan           Enabled                        S5WakeOnLan     {1}
+Ethernet                  WOL & Shutdown Link Speed      10 Mbps First                  WolShutdownL... {0}
+
+
+
+
+
+
+
+Get-NetAdapterBinding
+>>
+
+Name                           DisplayName                                        ComponentID          Enabled
+----                           -----------                                        -----------          -------
+Ethernet                       Microsoft LLDP Protocol Driver                     ms_lldp              True
+Ethernet                       Microsoft Network Adapter Multiplexor Protocol     ms_implat            False
+Ethernet                       Link-Layer Topology Discovery Mapper I/O Driver    ms_lltdio            True
+Ethernet                       Internet Protocol Version 6 (TCP/IPv6)             ms_tcpip6            False
+Ethernet                       Internet Protocol Version 4 (TCP/IPv4)             ms_tcpip             True
+Ethernet                       Link-Layer Topology Discovery Responder            ms_rspndr            True
+Ethernet                       File and Printer Sharing for Microsoft Networks    ms_server            False
+Ethernet                       Client for Microsoft Networks                      ms_msclient          True
+Ethernet                       QoS Packet Scheduler                               ms_pacer             True
+
+
+ Get-NetAdapterHardwareInfo
+
+Name                           Segment Bus Device Function Slot NumaNode PcieLinkSpeed PcieLinkWidth Version
+----                           ------- --- ------ -------- ---- -------- ------------- ------------- -------
+Ethernet                             0   5      0        0    6               5.0 GT/s             1 1.1
+
+
+PS C:\Windows\system32> Get-NetAdapterIPsecOffload
+PS C:\Windows\system32> Get-NetAdapterLso
+
+Name                           Version         V1IPv4Enabled  IPv4Enabled  IPv6Enabled
+----                           -------         -------------  -----------  -----------
+Ethernet                       LSO Version 2   False          True         True
+
+
+PS C:\Windows\system32> Get-NetAdapterPowerManagement
+
+
+InterfaceDescription    : Realtek Gaming 2.5GbE Family Controller
+Name                    : Ethernet
+ArpOffload              : Enabled
+NSOffload               : Enabled
+RsnRekeyOffload         : Unsupported
+D0PacketCoalescing      : Unsupported
+SelectiveSuspend        : Enabled
+DeviceSleepOnDisconnect : Unsupported
+WakeOnMagicPacket       : Enabled
+WakeOnPattern           : Enabled
+
+
+ Get-NetOffloadGlobalSetting
+
+
+ReceiveSideScaling           : Enabled
+ReceiveSegmentCoalescing     : Enabled
+Chimney                      : Disabled
+TaskOffload                  : Enabled
+NetworkDirect                : Enabled
+NetworkDirectAcrossIPSubnets : Blocked
+PacketCoalescingFilter       : Enabled
+
+ Set-NetOffloadGlobalSetting -ReceiveSegmentCoalescing Disabled
+PS C:\Windows\system32> Get-NetOffloadGlobalSetting
+
+
+ReceiveSideScaling           : Enabled
+ReceiveSegmentCoalescing     : Disabled
+Chimney                      : Disabled
+TaskOffload                  : Enabled
+NetworkDirect                : Enabled
+NetworkDirectAcrossIPSubnets : Blocked
+PacketCoalescingFilter       : Enabled
+
+
+
+PS C:\Windows\system32> Disable-NetAdapterRsc -Name *
+PS C:\Windows\system32> Get-NetAdapterRdma -Name *
+PS C:\Windows\system32> Get-NetAdapterChecksumOffload
+
+Name                           IpIPv4Enabled   TcpIPv4Enabled  TcpIPv6Enabled  UdpIPv4Enabled  UdpIPv6Enabled
+----                           -------------   --------------  --------------  --------------  --------------
+Ethernet                       TxEnabled       TxEnabled       TxEnabled       TxEnabled       TxEnabled
+
+
+PS C:\Windows\system32> Set-NetTCPSetting -SettingName internet -InitialRto 3000
+PS C:\Windows\system32>
+
+
+PS C:\Windows\system32> Set-NetTCPSetting -SettingName internet -InitialRto 3000
+PS C:\Windows\system32> Get-NetIPv4Protocol
+
+
+DefaultHopLimit             : 128
+NeighborCacheLimit(Entries) : 256
+RouteCacheLimit(Entries)    : 4096
+ReassemblyLimit(Bytes)      : 267380800
+IcmpRedirects               : Disabled
+SourceRoutingBehavior       : Drop
+DhcpMediaSense              : Enabled
+MediaSenseEventLog          : Disabled
+IGMPLevel                   : All
+IGMPVersion                 : Version3
+MulticastForwarding         : Disabled
+GroupForwardedFragments     : Disabled
+RandomizeIdentifiers        : Enabled
+AddressMaskReply            : Disabled
+MinimumMtu(Bytes)           : 576
+DeadGatewayDetection        : Enabled
+MultipleArpAnnouncements    : Enabled
+
+
+
+PS C:\Windows\system32> Get-NetCompartment
+
+
+CompartmentId          : 1
+CompartmentDescription : Default Compartment
+CompartmentGuid        : {b1062982-2b18-4b4f-b3d5-a78ddb9cdd49}
+
+
+
+PS C:\Windows\system32> Get-NetIPAddress
+
+
+IPAddress         : ::1
+InterfaceIndex    : 1
+InterfaceAlias    : Loopback Pseudo-Interface 1
+AddressFamily     : IPv6
+Type              : Unicast
+PrefixLength      : 128
+PrefixOrigin      : WellKnown
+SuffixOrigin      : WellKnown
+AddressState      : Preferred
+ValidLifetime     :
+PreferredLifetime :
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : 192.168.1.38
+InterfaceIndex    : 10
+InterfaceAlias    : Ethernet
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 24
+PrefixOrigin      : Manual
+SuffixOrigin      : Manual
+AddressState      : Preferred
+ValidLifetime     :
+PreferredLifetime :
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : 127.0.0.1
+InterfaceIndex    : 1
+InterfaceAlias    : Loopback Pseudo-Interface 1
+AddressFamily     : IPv4
+Type              : Unicast
+PrefixLength      : 8
+PrefixOrigin      : WellKnown
+SuffixOrigin      : WellKnown
+AddressState      : Preferred
+ValidLifetime     :
+PreferredLifetime :
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+
+
+PS C:\Windows\system32> Get-NetIPConfiguration
+
+
+InterfaceAlias       : Ethernet
+InterfaceIndex       : 10
+InterfaceDescription : Realtek Gaming 2.5GbE Family Controller
+NetProfile.Name      : Network
+IPv4Address          : 192.168.1.38
+IPv4DefaultGateway   : 192.168.1.1
+DNSServer            :
+
+
+
+PS C:\Windows\system32> Get-NetIPHttpsConfiguration
+
+
+PolicyStore       : ActiveStore
+ConfigurationType : GroupPolicy
+Profile           :
+ProfileActivated  :
+State             : Disabled
+ServerURL         : about:blank
+Type              : Client
+AuthMode          :
+StrongCRLRequired :
+
+
+
+PS C:\Windows\system32> Set-NetTCPSetting -SettingName internet -EcnCapability enabled
+
+
+
+PS C:\Windows\system32> Get-NetTCPSetting
+
+
+SettingName                     : Automatic
+MinRto(ms)                      :
+InitialCongestionWindow(MSS)    :
+CongestionProvider              :
+CwndRestart                     :
+DelayedAckTimeout(ms)           :
+DelayedAckFrequency             :
+MemoryPressureProtection        :
+AutoTuningLevelLocal            :
+AutoTuningLevelGroupPolicy      :
+AutoTuningLevelEffective        :
+EcnCapability                   :
+Timestamps                      :
+InitialRto(ms)                  :
+ScalingHeuristics               :
+DynamicPortRangeStartPort       :
+DynamicPortRangeNumberOfPorts   :
+AutomaticUseCustom              :
+NonSackRttResiliency            :
+ForceWS                         :
+MaxSynRetransmissions           :
+AutoReusePortRangeStartPort     :
+AutoReusePortRangeNumberOfPorts :
+
+SettingName                     : InternetCustom
+MinRto(ms)                      : 300
+InitialCongestionWindow(MSS)    : 10
+CongestionProvider              : CUBIC
+CwndRestart                     : False
+DelayedAckTimeout(ms)           : 40
+DelayedAckFrequency             : 2
+MemoryPressureProtection        : Enabled
+AutoTuningLevelLocal            : Normal
+AutoTuningLevelGroupPolicy      : NotConfigured
+AutoTuningLevelEffective        : Local
+EcnCapability                   : Enabled
+Timestamps                      : Disabled
+InitialRto(ms)                  : 3000
+ScalingHeuristics               : Disabled
+DynamicPortRangeStartPort       : 49152
+DynamicPortRangeNumberOfPorts   : 16384
+AutomaticUseCustom              : Disabled
+NonSackRttResiliency            : Disabled
+ForceWS                         : Enabled
+MaxSynRetransmissions           : 4
+AutoReusePortRangeStartPort     : 0
+AutoReusePortRangeNumberOfPorts : 0
+
+SettingName                     : DatacenterCustom
+MinRto(ms)                      : 60
+InitialCongestionWindow(MSS)    : 10
+CongestionProvider              : CUBIC
+CwndRestart                     : False
+DelayedAckTimeout(ms)           : 10
+DelayedAckFrequency             : 2
+MemoryPressureProtection        : Enabled
+AutoTuningLevelLocal            : Normal
+AutoTuningLevelGroupPolicy      : NotConfigured
+AutoTuningLevelEffective        : Local
+EcnCapability                   : Enabled
+Timestamps                      : Disabled
+InitialRto(ms)                  : 3000
+ScalingHeuristics               : Disabled
+DynamicPortRangeStartPort       : 49152
+DynamicPortRangeNumberOfPorts   : 16384
+AutomaticUseCustom              : Disabled
+NonSackRttResiliency            : Disabled
+ForceWS                         : Enabled
+MaxSynRetransmissions           : 4
+AutoReusePortRangeStartPort     : 0
+AutoReusePortRangeNumberOfPorts : 0
+
+SettingName                     : Compat
+MinRto(ms)                      : 300
+InitialCongestionWindow(MSS)    : 4
+CongestionProvider              : NewReno
+CwndRestart                     : False
+DelayedAckTimeout(ms)           : 200
+DelayedAckFrequency             : 2
+MemoryPressureProtection        : Enabled
+AutoTuningLevelLocal            : Normal
+AutoTuningLevelGroupPolicy      : NotConfigured
+AutoTuningLevelEffective        : Local
+EcnCapability                   : Enabled
+Timestamps                      : Disabled
+InitialRto(ms)                  : 3000
+ScalingHeuristics               : Disabled
+DynamicPortRangeStartPort       : 49152
+DynamicPortRangeNumberOfPorts   : 16384
+AutomaticUseCustom              : Disabled
+NonSackRttResiliency            : Disabled
+ForceWS                         : Enabled
+MaxSynRetransmissions           : 4
+AutoReusePortRangeStartPort     : 0
+AutoReusePortRangeNumberOfPorts : 0
+
+SettingName                     : Datacenter
+MinRto(ms)                      : 60
+InitialCongestionWindow(MSS)    : 10
+CongestionProvider              : CUBIC
+CwndRestart                     : False
+DelayedAckTimeout(ms)           : 10
+DelayedAckFrequency             : 2
+MemoryPressureProtection        : Enabled
+AutoTuningLevelLocal            : Normal
+AutoTuningLevelGroupPolicy      : NotConfigured
+AutoTuningLevelEffective        : Local
+EcnCapability                   : Enabled
+Timestamps                      : Disabled
+InitialRto(ms)                  : 3000
+ScalingHeuristics               : Disabled
+DynamicPortRangeStartPort       : 49152
+DynamicPortRangeNumberOfPorts   : 16384
+AutomaticUseCustom              : Disabled
+NonSackRttResiliency            : Disabled
+ForceWS                         : Enabled
+MaxSynRetransmissions           : 4
+AutoReusePortRangeStartPort     : 0
+AutoReusePortRangeNumberOfPorts : 0
+
+SettingName                     : Internet
+MinRto(ms)                      : 300
+InitialCongestionWindow(MSS)    : 10
+CongestionProvider              : CUBIC
+CwndRestart                     : False
+DelayedAckTimeout(ms)           : 40
+DelayedAckFrequency             : 2
+MemoryPressureProtection        : Enabled
+AutoTuningLevelLocal            : Normal
+AutoTuningLevelGroupPolicy      : NotConfigured
+AutoTuningLevelEffective        : Local
+EcnCapability                   : Enabled
+Timestamps                      : Disabled
+InitialRto(ms)                  : 3000
+ScalingHeuristics               : Disabled
+DynamicPortRangeStartPort       : 49152
+DynamicPortRangeNumberOfPorts   : 16384
+AutomaticUseCustom              : Disabled
+NonSackRttResiliency            : Disabled
+ForceWS                         : Enabled
+MaxSynRetransmissions           : 4
+AutoReusePortRangeStartPort     : 0
+AutoReusePortRangeNumberOfPorts : 0
+
+
+
+PS C:\Windows\system32> Get-NetUDPSetting
+
+
+DynamicPortRangeStartPort     : 49152
+DynamicPortRangeNumberOfPorts : 16384
+
+PS C:\Windows\system32> Set-NetUDPSetting -DynamicPortRangeStartPort 7000 -DynamicPortRangeNumberOfPorts 1181
+PS C:\Windows\system32> Get-NetUDPSetting
+
+
+DynamicPortRangeStartPort     : 7000
+DynamicPortRangeNumberOfPorts : 1181
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

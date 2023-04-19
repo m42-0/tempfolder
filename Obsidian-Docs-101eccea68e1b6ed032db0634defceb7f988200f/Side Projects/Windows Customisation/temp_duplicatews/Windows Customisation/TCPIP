@@ -1,0 +1,1563 @@
+TCPIP
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters
+
+
+"EnableDeadGWDetect"=dword:00000000
+"EnablePmtubhDetect"=dword:00000000
+"EnablePmtuDiscovery"=dword:00000001
+"EnableTcpa"=dword:00000001
+"GlobalMaxTCPWindowSize"=dword:0000ff3c
+"KeepAliveInterval"=dword:00000064
+"KeepAliveTime"=dword:0007a120
+"MaxConnectionsPerServer"=dword:00000000
+"MaxFreeTcbs"=dword:00010000
+"MaxHashTableSize"=dword:0000ffff
+"MaxUserPort"=dword:0000fffe
+"NumTcbTablePartitions"=dword:00000004
+"SackOpts"=dword:00000000
+"SynAttackProtect"=dword:00000000
+"TCP1323Opts"=dword:00000000
+"TCPMaxdupacks"=dword:00000002
+"TCPTimedWaitDelay"=dword:0000001e
+"DisableLargeMTU"=dword:00000000
+"EnableDCA"=dword:00000001
+"TCPMaxDataRetransmissions"=dword:00000005
+"TCPCreateAndConnectTcbRateLimitDepth"=dword:00000000
+"TCPNumConnections"=dword:000001f4
+"DisableTaskOffload"=dword:00000001
+"EnableWsd"=dword:00000000
+
+"EnableIPAutoConfigurationLimits"=dword:00000000
+"EnableWsd"=dword:00000000
+"DisableDynamicDiscovery"=dword:00000001
+"EnablePMTUDiscovery"=dword:00000000
+"EnablePMTUBDetect"=dword:00000000
+"EnableICMPRedirect"=dword:00000001
+"DisableTaskOffload"=dword:00000001
+"TcpMaxDupAcks"=dword:00000002
+"Tcp1323Opts"=dword:00000003
+"TcpTimedWaitDelay"=dword:00000030
+"MaxFreeTcbs"=dword:0000ffff
+"TCPCongestionControl"=dword:00000001
+"SackOpts"=dword:00000000
+"DefaultTTL"=dword:00000040
+"CongestionAlgorithm"=dword:00000001
+"MultihopSets"=dword:0000000f
+"FastCopyReceiveThreshold"=dword:00004000
+"FastSendDatagramThreshold"=dword:00004000
+"DelayedAckFrequency"=dword:00000000
+"DelayedAckTicks"=dword:00000000
+"UseDomainNameDevolution"=dword:00000000
+"IGMPLevel"=dword:00000000
+"GlobalMaxTcpWindowSize"=dword:0000ffff
+"TcpWindowSize"=dword:00256960
+"MaxConnectionsPer1_0Server"=dword:00000016
+"MaxConnectionsPerServer"=dword:00000016
+"MaxUserPort"=dword:00065534
+"ArpAlwaysSourceRoute"=dword:00000000
+"ArpCacheLife"=dword:00001800
+"ArpCacheMinReferencedLife"=dword:00003600
+"ArpCacheSize"=dword:00000200
+"EnableRSS"=dword:00000001
+"MaxFreeTWTcbs"=dword:00010000
+"TcpFinWait2Delay"=dword:00000060
+"TcpUseRFC1122UrgentPointe"=dword:00000001
+"EnableFastRouteLookup"=dword:00000001
+"TcpMaxSendFree"=dword:00065535
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:00000000
+"TcpMaxDataRetransmissions"=dword:00000003
+"TcpMaxConnectRetransmissions"=dword:00000002
+"TcpMaxConnectResponseRetransmissions"=dword:00000002
+"SynAttackProtect"=dword:00000001
+"SyncDomainWithMembership""=dword:00000001
+"StrictTimeWaitSeqCheck"=dword:00000001
+"NumTcbTablePartitions"=dword:00000022
+"ForwardBufferMemory"=dword:00150016
+"MaxForwardBufferMemory"=dword:00150016
+"NumForwardPackets"=dword:00000586
+"MaxNumForwardPackets"=dword:00000586
+"IPEnableRouter"=dword:00000000
+"QualifyingDestinationThreshold"=dword:00000003
+parameters" "defaultttl" "64" 
+parameters" "disabletaskoffload" "0" 
+parameters" "enabledeadgwdetect" "0" 
+parameters" "enableicmpredirect" "1" 
+parameters" "enablepmtubhdetect" "0" 
+parameters" "enablepmtudiscovery" "1" 
+parameters" "enablepmtudiscovery" "1" 
+parameters" "enabletcpa" 00000001 
+parameters" "enablewsd" 00000000 
+parameters" "forwardbroadcasts" "0" 
+parameters" "globalmaxtcpwindowsize" "65340" 
+parameters" "igmplevel" "0" 
+parameters" "ipenablerouter" "0" 
+parameters" "keepaliveinterval" "100" 
+parameters" "keepalivetime" "500000" 
+parameters" "maxconnectionsperserver" "0" 
+parameters" "maxfreetcbs" "65536" 
+parameters" "maxhashtablesize" "65535" 
+parameters" "maxuserport" "65534" 
+parameters" "maxuserport" "65534" 
+parameters" "numtcbtablepartitions" "4" 
+parameters" "sackopts" "0" 
+parameters" "synattackprotect" "0" 
+parameters" "tcp1323opts" "0" 
+parameters" "tcpmaxdupacks" "2" 
+parameters" "tcptimedwaitdelay" "30" 
+parameters" disablelargemtu "00000000" 
+parameters" enableconnectionratelimiting "00000000" 
+parameters" enabledca "00000001" 
+parameters" qualifyingdestinationthreshold "00000003" 
+parameters" tcpmaxdataretransmissions "00000005" 
+parameters" tcpcreateandconnecttcbratelimitdepth "00000000" 
+parameters" tcpnumconnections "00000500" 
+parameters" "defaultttl" "64" 
+parameters" "disabletaskoffload" "0" 
+parameters" "enabledeadgwdetect" "0" 
+parameters" "enableicmpredirect" "1" 
+parameters" "enablepmtubhdetect" "0" 
+parameters" "enablepmtudiscovery" "1" 
+parameters" "enablepmtudiscovery" "1" 
+parameters" "enabletcpa" 00000001 
+parameters" "enablewsd" 00000000 
+parameters" "forwardbroadcasts" "0" 
+parameters" "globalmaxtcpwindowsize" "65340" 
+parameters" "igmplevel" "0" 
+parameters" "ipenablerouter" "0" 
+parameters" "keepaliveinterval" "100" 
+parameters" "keepalivetime" "500000" 
+parameters" "maxconnectionsperserver" "0" 
+parameters" "maxfreetcbs" "65536" 
+parameters" "maxhashtablesize" "65535" 
+parameters" "maxuserport" "65534" 
+parameters" "maxuserport" "65534" 
+parameters" "numtcbtablepartitions" "4" 
+parameters" "sackopts" "0" 
+parameters" "synattackprotect" "0" 
+parameters" "tcp1323opts" "0" 
+parameters" "tcpmaxdupacks" "2" 
+parameters" "tcptimedwaitdelay" "30" 
+parameters" disablelargemtu "00000000" 
+parameters" enableconnectionratelimiting "00000000" 
+parameters" enabledca "00000001" 
+parameters" qualifyingdestinationthreshold "00000003" 
+parameters" tcpmaxdataretransmissions "00000005" 
+parameters" tcpcreateandconnecttcbratelimitdepth "00000000" 
+parameters" tcpnumconnections "00000500" 
+parameters\interfaces\%guid1%" "ipautoconfigurationenabled" "0" 
+parameters\interfaces\%guid1%" "mtu" "1492" 
+parameters\interfaces\%guid1%" "performrouterdiscovery" "0" 
+parameters\interfaces\%guid1%" "tcpnodelay" "1" 
+parameters\interfaces\%guid1%" "tcpackfrequency" "1" 
+parameters\interfaces\%guid1%" "tcpdelackticks" "0" 
+parameters\interfaces\%guid1%" "tcpwindowsize" "65340" 
+parameters\winsock" "maxsockaddrlength" "16" 
+parameters\winsock" "minsockaddrlength" "16" 
+parameters\winsock" "usedelayedacceptance" "0"
+parameters" "defaultttl" "64" 
+parameters" "disabletaskoffload" "0" 
+parameters" "enabledeadgwdetect" "0" 
+parameters" "enableicmpredirect" "1" 
+parameters" "enablepmtubhdetect" "0" 
+parameters" "enablepmtudiscovery" "1" 
+parameters" "enablepmtudiscovery" "1" 
+parameters" "enabletcpa" 00000001 
+parameters" "enablewsd" 00000000 
+parameters" "forwardbroadcasts" "0" 
+parameters" "globalmaxtcpwindowsize" "65340" 
+parameters" "igmplevel" "0" 
+parameters" "ipenablerouter" "0" 
+parameters" "keepaliveinterval" "100" 
+parameters" "keepalivetime" "500000" 
+parameters" "maxconnectionsperserver" "0" 
+parameters" "maxfreetcbs" "65536" 
+parameters" "maxhashtablesize" "65535" 
+parameters" "maxuserport" "65534" 
+parameters" "maxuserport" "65534" 
+parameters" "numtcbtablepartitions" "4" 
+parameters" "sackopts" "0" 
+parameters" "synattackprotect" "0" 
+parameters" "tcp1323opts" "0" 
+parameters" "tcpmaxdupacks" "2" 
+parameters" "tcptimedwaitdelay" "30" 
+parameters" disablelargemtu "00000000" 
+parameters" enableconnectionratelimiting "00000000" 
+parameters" enabledca "00000001" 
+parameters" qualifyingdestinationthreshold "00000003" 
+parameters" tcpmaxdataretransmissions "00000005" 
+parameters" tcpcreateandconnecttcbratelimitdepth "00000000" 
+parameters" tcpnumconnections "00000500" 
+parameters\interfaces\%guid1%" "ipautoconfigurationenabled" "0" 
+parameters\interfaces\%guid1%" "mtu" "1492" 
+parameters\interfaces\%guid1%" "performrouterdiscovery" "0" 
+parameters\interfaces\%guid1%" "tcpnodelay" "1" 
+parameters\interfaces\%guid1%" "tcpackfrequency" "1" 
+parameters\interfaces\%guid1%" "tcpdelackticks" "0" 
+parameters\interfaces\%guid1%" "tcpwindowsize" "65340" 
+parameters\winsock" "maxsockaddrlength" "16" 
+parameters\winsock" "minsockaddrlength" "16" 
+parameters\winsock" "usedelayedacceptance" "0" 
+Parameters" "DefaultTTL" "64" 
+Parameters" "DesktopTTL" "64" 
+Parameters" "EnablePMTUBHDetect" "0" 
+Parameters" "EnablePMTUDiscovery" "1" 
+Parameters" "IRPStackSize" "50" 
+Parameters" "MaxFreeTcbs" "65535" 
+Parameters" "MaxUserPort" "65534" 
+Parameters" "SackOpts" "1" 
+Parameters" "Tcp1323Opts" "1" 
+Parameters" "TcpMaxDataRetransmissions" "5" 
+Parameters" "TcpTimedWaitDelay" "30" 
+Parameters\Interfaces" "DefaultTTL" "64" 
+Parameters\Interfaces" "DesktopTTL" "64" 
+Parameters\Interfaces" "EnablePMTUBHDetect" "0" 
+Parameters\Interfaces" "EnablePMTUDiscovery" "1" 
+Parameters\Interfaces" "IRPStackSize" "50" 
+Parameters\Interfaces" "InterfaceMetric" "70" 
+Parameters\Interfaces" "MaxFreeTcbs" "65535" 
+Parameters\Interfaces" "MaxUserPort" "65534" 
+Parameters\Interfaces" "SackOpts" "1" 
+Parameters\Interfaces" "TCPNoDelay" "1" 
+Parameters\Interfaces" "Tcp1323Opts" "1" 
+Parameters\Interfaces" "TcpAckFrequency" "1" 
+Parameters\Interfaces" "TcpDelAckTicks" "0" 
+Parameters\Interfaces" "TcpMaxDataRetransmissions" "5" 
+Parameters\Interfaces" "TcpTimedWaitDelay" "30" 
+Parameters" "DefaultTTL" "64" 
+Parameters" "DisableLargeMTU" "0" 
+Parameters" "DisableTaskOffload" "0" 
+Parameters" "EnableConnectionRateLimiting" "0" 
+Parameters" "EnableDCA" "1" 
+Parameters" "EnableICMPRedirect" "0" 
+Parameters" "EnableMulticastForwarding" "0" 
+Parameters" "EnablePMTUBHDetect" "0" 
+Parameters" "EnablePMTUDiscovery" "1" 
+Parameters" "EnableRSS" "1" 
+Parameters" "EnableTCPA" "1" 
+Parameters" "EnableWsd" "0" 
+Parameters" "ForwardBufferMemory" "1376256" 
+Parameters" "GlobalMaxTcpWindowSize" "65535" 
+Parameters" "IRPStackSize" "50" 
+Parameters" "KeepAliveInterval" "1" 
+Parameters" "KeepAliveTime" "7200000" 
+Parameters" "MSS" "1460" 
+Parameters" "MTU" "1500" 
+Parameters" "MaxConnectionsPer1_0Server" "16" 
+Parameters" "MaxConnectionsPerServer" "16" 
+Parameters" "MaxForwardBufferMemory" "1376256" 
+Parameters" "MaxFreeTcbs" "65535" 
+Parameters" "MaxHashTableSize" "65536" 
+Parameters" "MaxNumForwardPackets" "598" 
+Parameters" "MaxUserPort" "65534" 
+Parameters" "NumForwardPackets" "598" 
+Parameters" "QualifyingDestinationThreshold" "3" 
+Parameters" "SackOpts" "1" 
+Parameters" "SynAttackProtect" "1" 
+Parameters" "TCPDelAckTicks" "0" 
+Parameters" "TCPInitialRtt" "32767" 
+Parameters" "TCPMaxDataRetransmissions" "3" 
+Parameters" "TCPNoDelay" "1" 
+Parameters" "Tcp1323Opts" "1" 
+Parameters" "TcpAckFrequency" "1" 
+Parameters" "TcpCreateAndConnectTcbRateLimitDepth" "0" 
+Parameters" "TcpMaxConnectRetransmissions" "3" 
+Parameters" "TcpMaxDupAcks" "2" 
+Parameters" "TcpNumConnections" "1280" 
+Parameters" "TcpTimedWaitDelay" "30" 
+Parameters" "TcpUseRFC1122UrgentPointer" "0" 
+Parameters" "TcpWindowSize" "65535" 
+Parameters" "DisableIPSourceRouting" 1 
+Parameters" "TransmitWorker" "32" 
+Parameters\Interfaces" "DefaultTTL" "64" 
+Parameters\Interfaces" "DisableLargeMTU" "0" 
+Parameters\Interfaces" "DisableTaskOffload" "0" 
+Parameters\Interfaces" "EnableConnectionRateLimiting" "0" 
+Parameters\Interfaces" "EnableDCA" "1" 
+Parameters\Interfaces" "EnableDynamicBacklog" "1" 
+Parameters\Interfaces" "EnableICMPRedirect" "0" 
+Parameters\Interfaces" "EnableMulticastForwarding" "0" 
+Parameters\Interfaces" "EnablePMTUBHDetect" "0" 
+Parameters\Interfaces" "EnablePMTUDiscovery" "1" 
+Parameters\Interfaces" "EnableRSS" "1" 
+Parameters\Interfaces" "EnableTCPA" "1" 
+Parameters\Interfaces" "EnableWsd" "0" 
+Parameters\Interfaces" "ForwardBufferMemory" "1376256" 
+Parameters\Interfaces" "GlobalMaxTcpWindowSize" "65535" 
+Parameters\Interfaces" "IRPStackSize" "50" 
+Parameters\Interfaces" "KeepAliveInterval" "1" 
+Parameters\Interfaces" "KeepAliveTime" "7200000" 
+Parameters\Interfaces" "MSS" "1460" 
+Parameters\Interfaces" "MTU" "1500" 
+Parameters\Interfaces" "MaxConnectionsPer1_0Server" "16" 
+Parameters\Interfaces" "MaxConnectionsPerServer" "16" 
+Parameters\Interfaces" "MaxForwardBufferMemory" "1376256" 
+Parameters\Interfaces" "MaxFreeTcbs" "65535" 
+Parameters\Interfaces" "MaxHashTableSize" "65536" 
+Parameters\Interfaces" "MaxMSS" "1460" 
+Parameters\Interfaces" "MaxMTU" "1500" 
+Parameters\Interfaces" "MaxNumForwardPackets" "598" 
+Parameters\Interfaces" "MaxUserPort" "65534" 
+Parameters\Interfaces" "NTEContextList" "1" 
+Parameters\Interfaces" "NumForwardPackets" "598" 
+Parameters\Interfaces" "QualifyingDestinationThreshold" "3" 
+Parameters\Interfaces" "SackOpts" "1" 
+Parameters\Interfaces" "SynAttackProtect" "1" 
+Parameters\Interfaces" "TCPAllowedPorts" "1" 
+Parameters\Interfaces" "TCPDelAckTicks" "0" 
+Parameters\Interfaces" "TCPInitialRtt" "32767" 
+Parameters\Interfaces" "TCPMaxDataRetransmissions" "3" 
+Parameters\Interfaces" "TCPNoDelay" "1" 
+Parameters\Interfaces" "Tcp1323Opts" "1" 
+Parameters\Interfaces" "TcpAckFrequency" "1" 
+Parameters\Interfaces" "TcpCreateAndConnectTcbRateLimitDepth" "0" 
+Parameters\Interfaces" "TcpMaxConnectRetransmissions" "3" 
+Parameters\Interfaces" "TcpMaxDupAcks" "2" 
+Parameters\Interfaces" "TcpNumConnections" "1280" 
+Parameters\Interfaces" "TcpTimedWaitDelay" "30" 
+Parameters\Interfaces" "TcpUseRFC1122UrgentPointer" "0" 
+Parameters\Interfaces" "TcpWindowSize" "65535" 
+Parameters\Interfaces" "TransmitWorker" "32" 
+Parameters\Interfaces" "UseZeroBroadcast" "0" 
+Parameters" "EnableICMPRedirect" "1" 
+Parameters" "EnablePMTUDiscovery" "1" 
+Parameters" "Tcp1323Opts" "0" 
+Parameters" "TcpMaxDupAcks" "2" 
+Parameters" "TcpTimedWaitDelay" "32" 
+Parameters" "GlobalMaxTcpWindowSize" "8760" 
+Parameters" "TcpWindowSize" "8760" 
+Parameters" "MaxConnectionsPerServer" "0" 
+Parameters" "MaxUserPort" "65534" 
+Parameters" "SackOpts" "0" 
+Parameters" "DefaultTTL" "64" 
+Parameters" "DeadGWDetectDefault" "1" 
+Parameters" "DefaultTTL" "64" 
+Parameters" "DisableTaskOffload" "0" 
+Parameters" "EnableICMPRedirect" "1" 
+Parameters" "EnablePMTUDiscovery" "1" 
+Parameters" "GlobalMaxTcpWindowSize" "5840" 
+Parameters" "MaxConnectionsPerServer" "0" 
+Parameters" "MaxUserPort" "65534" 
+Parameters" "SackOpts" "0" 
+Parameters" "Tcp1323Opts" "0" 
+Parameters" "TcpMaxDupAcks" "2" 
+Parameters" "TcpTimedWaitDelay" "32" 
+Parameters" "TcpWindowSize" "5840" 
+Parameters" "DefaultTTL" "64" 
+Parameters" "EnableHeuristics" "0" 
+Parameters" "EnableWsd" "0" 
+Parameters" "MaxUserPort" "65534" 
+Parameters" "Tcp1323Opts" "1" 
+Parameters" "TcpTimedWaitDelay" "30" 
+Parameters" "DisableLargeMtu" "0" 
+Parameters" "TCPMaxDataRetransmissions" "5" 
+Parameters" "SynAttackProtect" "1" 
+Parameters" "EnableConnectionRateLimiting" "0" 
+Parameters" "MaxFreeTcbs" "65535" 
+Parameters" "MaxHashTableSize" "65535" 
+Parameters" "DeadGWDetectDefault" "1" 
+Parameters" "DefaultTTL" "64" 
+Parameters" "DisableLargeMtu" "0" 
+Parameters" "DisableTaskOffload" "0" 
+Parameters" "EnableConnectionRateLimiting" "0" 
+Parameters" "EnableHeuristics" "0" 
+Parameters" "EnableICMPRedirect" "1" 
+Parameters" "EnablePMTUBHDetect" "0" 
+Parameters" "EnablePMTUDiscovery" "1" 
+Parameters" "EnableWsd" "0" 
+Parameters" "GlobalMaxTcpWindowSize" "8760" 
+Parameters" "MaxConnectionsPerServer" "20" 
+Parameters" "MaxFreeTcbs" "65535" 
+Parameters" "MaxHashTableSize" "65535" 
+Parameters" "MaxUserPort" "65534" 
+Parameters" "SackOpts" "0" 
+Parameters" "SynAttackProtect" "1" 
+Parameters" "TCPMaxDataRetransmissions" "5" 
+Parameters" "Tcp1323Opts" "0" 
+Parameters" "TcpMaxDupAcks" "2" 
+Parameters" "TcpTimedWaitDelay" "30" 
+Parameters" "TcpWindowSize" "8760" 
+Parameters\Winsock" "MaxSockAddrLength" "16" 
+Parameters\Winsock" "MinSockAddrLength" "16" 
+Parameters\Winsock" "UseDelayedAcceptance" "0" 
+Parameters" "GlobalMaxTcpWindowSize" "5840" 
+Parameters" "TcpWindowSize" "5840" 
+Parameters" "DisableTaskOffload" "0" 
+Parameters" "DeadGWDetectDefault" "1" 
+Parameters" "EnableICMPRedirect" "1" 
+Parameters" "EnablePMTUDiscovery" "1" 
+Parameters" "Tcp1323Opts" "0" 
+Parameters" "TcpMaxDupAcks" "2" 
+Parameters" "TcpTimedWaitDelay" "32" 
+Parameters" "GlobalMaxTcpWindowSize" "5840" 
+Parameters" "TcpWindowSize" "5840" 
+Parameters" "DisableTaskOffload" "0" 
+Parameters" "MaxConnectionsPerServer" "0" 
+Parameters" "MaxUserPort" "65534" 
+Parameters" "SackOpts" "0" 
+Parameters" "DeadGWDetectDefault" "1" 
+Parameters" "DefaultTTL" "64" 
+parameters" "defaultttl" "64" 
+parameters" "disabletaskoffload" "0" 
+parameters" "enabledeadgwdetect" "0" 
+parameters" "enableicmpredirect" "1" 
+parameters" "enablepmtubhdetect" "0" 
+parameters" "enablepmtudiscovery" "1" 
+parameters" "enablepmtudiscovery" "1" 
+parameters" "enabletcpa" 00000001 
+parameters" "enablewsd" 00000000 
+parameters" "forwardbroadcasts" "0" 
+parameters" "globalmaxtcpwindowsize" "65340" 
+parameters" "igmplevel" "0" 
+parameters" "ipenablerouter" "0" 
+parameters" "keepaliveinterval" "100" 
+parameters" "keepalivetime" "500000" 
+parameters" "maxconnectionsperserver" "0" 
+parameters" "maxfreetcbs" "65536" 
+parameters" "maxhashtablesize" "65535" 
+parameters" "maxuserport" "65534" 
+parameters" "maxuserport" "65534" 
+parameters" "numtcbtablepartitions" "4" 
+parameters" "sackopts" "0" 
+parameters" "synattackprotect" "0" 
+parameters" "tcp1323opts" "0" 
+parameters" "tcpmaxdupacks" "2" 
+parameters" "tcptimedwaitdelay" "30" 
+parameters" disablelargemtu "00000000" 
+parameters" enableconnectionratelimiting "00000000" 
+parameters" enabledca "00000001" 
+parameters" qualifyingdestinationthreshold "00000003" 
+parameters" tcpmaxdataretransmissions "00000005" 
+parameters" tcpcreateandconnecttcbratelimitdepth "00000000" 
+parameters" tcpnumconnections "00000500" 
+parameters\interfaces\%guid1%" "ipautoconfigurationenabled" "0" 
+parameters\interfaces\%guid1%" "mtu" "1492" 
+parameters\interfaces\%guid1%" "performrouterdiscovery" "0" 
+parameters\interfaces\%guid1%" "tcpnodelay" "1" 
+parameters\interfaces\%guid1%" "tcpackfrequency" "1" 
+parameters\interfaces\%guid1%" "tcpdelackticks" "0" 
+parameters\interfaces\%guid1%" "tcpwindowsize" "65340" 
+parameters\winsock" "maxsockaddrlength" "16" 
+parameters\winsock" "minsockaddrlength" "16" 
+parameters\winsock" "usedelayedacceptance" "0" 
+Parameters" "EnableICMPRedirect" "1" 
+Parameters" "EnablePMTUDiscovery" "1" 
+Parameters" "Tcp1323Opts" "0" 
+Parameters" "TcpMaxDupAcks" "2" 
+Parameters" "TcpTimedWaitDelay" "32" 
+Parameters" "GlobalMaxTcpWindowSize" "8760" 
+Parameters" "TcpWindowSize" "8760" 
+Parameters" "MaxConnectionsPerServer" "0" 
+Parameters" "MaxUserPort" "65534" 
+Parameters" "SackOpts" "0" 
+Parameters" "DefaultTTL" "64" 
+
+"EnableDeadGWDetect"=dword:00000000
+"EnablePmtubhDetect"=dword:00000000
+"EnablePmtuDiscovery"=dword:00000001
+"EnableTcpa"=dword:00000001
+"GlobalMaxTCPWindowSize"=dword:0000ff3c
+"KeepAliveInterval"=dword:00000064
+"KeepAliveTime"=dword:0007a120
+"MaxConnectionsPerServer"=dword:00000000
+"MaxFreeTcbs"=dword:00010000
+"MaxHashTableSize"=dword:0000ffff
+"MaxUserPort"=dword:0000fffe
+"NumTcbTablePartitions"=dword:00000004
+"SackOpts"=dword:00000001
+"SynAttackProtect"=dword:00000000
+"TCP1323Opts"=dword:00000001
+"TCPMaxdupacks"=dword:00000002
+"TCPTimedWaitDelay"=dword:0000001e
+"DisableLargeMTU"=dword:00000000
+"EnableDCA"=dword:00000001
+"TCPMaxDataRetransmissions"=dword:00000005
+"TCPCreateAndConnectTcbRateLimitDepth"=dword:00000000
+"TCPNumConnections"=dword:000001f4
+"DisableTaskOffload"=dword:00000001
+"EnableWsd"=dword:00000000
+"TcpMaxDupAcks"=dword:00000002
+Interfaces\{0A21087F-330E-485C-8E14-994C1F397879}]
+"TCPWindowSize"=dword:0000ff3c
+"MTU"=dword:000005d4
+"IPAutoConfigurationEnabled"=dword:00000000
+"PerformrouterDiscovery"=dword:00000000
+"TCPAckFrequency"=dword:00000001
+"TCPDelackTicks"=dword:00000000
+"TCPNoDelay"=dword:00000001
+
+Interfaces\{8718928D-CBEB-45EA-A621-800A9249001D}]
+"TCPWindowSize"=dword:0000ff3c
+"MTU"=dword:000005d4
+"IPAutoConfigurationEnabled"=dword:00000000
+"PerformrouterDiscovery"=dword:00000000
+"TCPAckFrequency"=dword:00000001
+"TCPDelackTicks"=dword:00000000
+"TCPNoDelay"=dword:00000001
+
+parameters\interfaces\%guid1%" "ipautoconfigurationenabled" "0" 
+parameters\interfaces\%guid1%" "mtu" "1492" 
+parameters\interfaces\%guid1%" "performrouterdiscovery" "0" 
+parameters\interfaces\%guid1%" "tcpnodelay" "1" 
+parameters\interfaces\%guid1%" "tcpackfrequency" "1" 
+parameters\interfaces\%guid1%" "tcpdelackticks" "0" 
+parameters\interfaces\%guid1%" "tcpwindowsize" "65340" 
+"TCPWindowSize"=dword:0000ff3c
+"MTU"=dword:000005d4
+"IPAutoConfigurationEnabled"=dword:00000000
+"PerformrouterDiscovery"=dword:00000000
+"TCPAckFrequency"=dword:00000001
+"TCPDelackTicks"=dword:00000000
+"TCPNoDelay"=dword:00000001
+"TCPWindowSize"=dword:0000ff3c
+"MTU"=dword:000005d4
+"IPAutoConfigurationEnabled"=dword:00000000
+"PerformrouterDiscovery"=dword:00000000
+"TCPAckFrequency"=dword:00000001
+"TCPDelackTicks"=dword:00000000
+"TCPNoDelay"=dword:00000001
+
+\Winsock]
+"UseDelayedAcceptance"=dword:00000000
+"MaxSockAddrLength"=dword:00000010
+"MinSockAddrLength"=dword:00000010
+parameters\winsock" "maxsockaddrlength" "16" 
+parameters\winsock" "minsockaddrlength" "16" 
+parameters\winsock" "usedelayedacceptance" "0" 
+Parameters\Winsock" "UseDelayedAcceptance" "0" 
+Parameters\Winsock" "MaxSockAddrLength" "16" 
+Parameters\Winsock" "MinSockAddrLength" "16"
+
+\QoS]
+"Do not use NLA"="1" 
+
+
+
+
+afd\parameters" "defaultreceivewindow" "66550" 
+afd\parameters" "defaultsendwindow" "66550" 
+afd\parameters" "dynamicbackloggrowthdelta" "10" 
+afd\parameters" "enabledynamicbacklog" "1" 
+afd\parameters" "fastcopyreceivethreshold" "000005dc" 
+afd\parameters" "fastcopyreceivethreshold" "1500" 
+afd\parameters" "fastsenddatagramthreshold" "000005dc" 
+afd\parameters" "fastsenddatagramthreshold" "1500" 
+afd\parameters" "irpstacksize" "50" 
+afd\parameters" "largebuffersize" "32768" 
+afd\parameters" "maximumdynamicbacklog" "20000" 
+afd\parameters" "mediumbuffersize" "12032" 
+afd\parameters" "minimumdynamicbacklog" "20" 
+afd\parameters" "nonblockingsendspecialbuffering" "1" 
+afd\parameters" "priorityboost" "8" 
+afd\parameters" "smallbuffersize" "1024" 
+afd\parameters" "defaultreceivewindow" "66550" 
+afd\parameters" "defaultsendwindow" "66550" 
+afd\parameters" "dynamicbackloggrowthdelta" "10" 
+afd\parameters" "enabledynamicbacklog" "1" 
+afd\parameters" "fastcopyreceivethreshold" "000005dc" 
+afd\parameters" "fastcopyreceivethreshold" "1500" 
+afd\parameters" "fastsenddatagramthreshold" "000005dc" 
+afd\parameters" "fastsenddatagramthreshold" "1500" 
+afd\parameters" "irpstacksize" "50" 
+afd\parameters" "largebuffersize" "32768" 
+afd\parameters" "maximumdynamicbacklog" "20000" 
+afd\parameters" "mediumbuffersize" "12032" 
+afd\parameters" "minimumdynamicbacklog" "20" 
+afd\parameters" "nonblockingsendspecialbuffering" "1" 
+afd\parameters" "priorityboost" "8" 
+afd\parameters" "smallbuffersize" "1024" 
+afd\parameters" "defaultreceivewindow" "66550" 
+afd\parameters" "defaultsendwindow" "66550" 
+afd\parameters" "dynamicbackloggrowthdelta" "10" 
+afd\parameters" "enabledynamicbacklog" "1" 
+afd\parameters" "fastcopyreceivethreshold" "000005dc" 
+afd\parameters" "fastcopyreceivethreshold" "1500" 
+afd\parameters" "fastsenddatagramthreshold" "000005dc" 
+afd\parameters" "fastsenddatagramthreshold" "1500" 
+afd\parameters" "irpstacksize" "50" 
+afd\parameters" "largebuffersize" "32768" 
+afd\parameters" "maximumdynamicbacklog" "20000" 
+afd\parameters" "mediumbuffersize" "12032" 
+afd\parameters" "minimumdynamicbacklog" "20" 
+afd\parameters" "nonblockingsendspecialbuffering" "1" 
+afd\parameters" "priorityboost" "8" 
+afd\parameters" "smallbuffersize" "1024" 
+ADF\Parameters" "EnableDynamicBacklog" "1" 
+ADF\Parameters" "MaximumDynamicBacklog" "131072" 
+ADF\Parameters" "MinimumDynamicBacklog" "512" 
+AFD\Parameters" "BufferMultiplier" "1024" 
+AFD\Parameters" "DefaultReceiveWindow" "3539039" 
+AFD\Parameters" "DefaultSendWindow" "1048576" 
+AFD\Parameters" "DynamicBacklogGrowthDelta" "256" 
+AFD\Parameters" "EnableDynamicBacklog" "1" 
+AFD\Parameters" "FastCopyReceiveThreshold" "1500" 
+AFD\Parameters" "FastSendDatagramThreshold" "16384" 
+AFD\Parameters" "KeepAliveInterval" "1" 
+AFD\Parameters" "MaximumDynamicBacklog" "131072" 
+AFD\Parameters" "MinimumDynamicBacklog" "512" 
+AFD\Parameters" "NonBlockingSendSpecialBuffering" "1" 
+afd\parameters" "defaultreceivewindow" "66550" 
+afd\parameters" "defaultsendwindow" "66550" 
+afd\parameters" "dynamicbackloggrowthdelta" "10" 
+afd\parameters" "enabledynamicbacklog" "1" 
+afd\parameters" "fastcopyreceivethreshold" "000005dc" 
+afd\parameters" "fastcopyreceivethreshold" "1500" 
+afd\parameters" "fastsenddatagramthreshold" "000005dc" 
+afd\parameters" "fastsenddatagramthreshold" "1500" 
+afd\parameters" "irpstacksize" "50" 
+afd\parameters" "largebuffersize" "32768" 
+afd\parameters" "maximumdynamicbacklog" "20000" 
+afd\parameters" "mediumbuffersize" "12032" 
+afd\parameters" "minimumdynamicbacklog" "20" 
+afd\parameters" "nonblockingsendspecialbuffering" "1" 
+afd\parameters" "priorityboost" "8" 
+afd\parameters" "smallbuffersize" "1024" 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"FastSendDatagramThreshold"=dword:000005dc
+"FastCopyReceiveThreshold"=dword:000005dc
+
+
+lanmanserver\parameters" disablebandwidththrottling 00000001 
+lanmanserver\parameters" keepalivetime "0" 
+lanmanserver\parameters" maxmpxct "2048" 
+lanmanserver\parameters" maxworkitems "8192" 
+lanmanserver\parameters" sizreqbuf 00006300 
+lanmanserver\parameters" size "3" 
+lanmanserver\parameters" disablebandwidththrottling 00000001 
+lanmanserver\parameters" keepalivetime "0" 
+lanmanserver\parameters" maxmpxct "2048" 
+lanmanserver\parameters" maxworkitems "8192" 
+lanmanserver\parameters" sizreqbuf 00006300 
+lanmanserver\parameters" size "3" 
+lanmanserver\parameters" disablebandwidththrottling 00000001 
+lanmanserver\parameters" keepalivetime "0" 
+lanmanserver\parameters" maxmpxct "2048" 
+lanmanserver\parameters" maxworkitems "8192" 
+lanmanserver\parameters" sizreqbuf 00006300 
+lanmanserver\parameters" size "3" 
+LanmanServer\Parameters" "DisablePagingExecutive" "1" 
+LanmanServer\Parameters" "DisableStrictNameChecking" "1" 
+LanmanServer\Parameters" "IRPStackSize" "32" 
+LanmanServer\Parameters" "IRPStackSize" "50" 
+LanmanServer\Parameters" "MaxMpxCt" "125" 
+LanmanServer\Parameters" "MaxMpxCt" "2048" 
+LanmanServer\Parameters" "MaxWorkItems" "8192" 
+LanmanServer\Parameters" "SizReqBuf" "17424" 
+LanmanServer\Parameters" "Size" "3" 
+LanmanServer\Parameters" "IRPStackSize" 32 
+LanmanServer\Parameters" "SizReqBuf" 16384 
+LanmanServer\Parameters" "Size" 3 
+LanmanServer\Parameters" "IRPStackSize" 32 
+LanmanServer\Parameters" "SizReqBuf" 16384 
+LanmanServer\Parameters" "Size" "3" 
+Services\LanmanServer\Parameters" -Name "IRPStackSize" -Type DWord -Value 20
+lanmanserver\parameters" disablebandwidththrottling 00000001 
+lanmanserver\parameters" keepalivetime "0" 
+lanmanserver\parameters" maxmpxct "2048" 
+lanmanserver\parameters" maxworkitems "8192" 
+lanmanserver\parameters" sizreqbuf 00006300 
+lanmanserver\parameters" size "3"
+
+
+ 
+Dnscache\Parameters" "NegativeCacheTime" "0" 
+Dnscache\Parameters" "NegativeSOACacheTime" "0" 
+Dnscache\Parameters" "NetFailureCacheTime" "0" 
+
+Dnscache\Parameters" "CacheHashTableBucketSize" "1" 
+Dnscache\Parameters" "CacheHashTableSize" "384" 
+Dnscache\Parameters" "MaxCacheEntryTtlLimit" "86400" 
+Dnscache\Parameters" "MaxSOACacheEntryTtlLimit" "300" 
+Dnscache\Parameters" "NegativeCacheTime" "0" 
+Dnscache\Parameters" "NegativeSOACacheTime" "0" 
+Dnscache\Parameters" "NetFailureCacheTime" "0" 
+Dnscache\Parameters" "ServiceDllUnloadOnStop" "1" 
+Dnscache\Parameters" "maxcachettl" "13824" 
+Dnscache\Parameters" "maxnegativecachettl" "0" 
+Dnscache\Parameters" "ServiceDllUnloadOnStop" "1" 
+Dnscache\Parameters" "maxcachettl" "13824" 
+Dnscache\Parameters" "maxnegativecachettl" "0" 
+Dnscache\Parameters" "NetFailureCacheTime" "0" 
+Dnscache\Parameters" "NegativeSOACacheTime" "0" 
+Dnscache\Parameters" "NegativeCacheTime" "0" 
+Dnscache\Parameters" "CacheHashTableBucketSize" "1" 
+Dnscache\Parameters" "MaxCacheEntryTtlLimit" "86400" 
+Dnscache\Parameters" "MaxSOACacheEntryTtlLimit" "300" 
+Dnscache\Parameters" "CacheHashTableSize" "384" 
+dnscache\parameters" "cachehashtablebucketsize" "1" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "maxcacheentryttllimit" "86400" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+dnscache\parameters" "maxsoacacheentryttllimit" "300" 
+dnscache\parameters" "negativecachetime" "0" 
+dnscache\parameters" "negativesoacachetime" "0" 
+dnscache\parameters" "netfailurecachetime" "0" 
+dnscache\parameters" "servicedllunloadonstop" "1" 
+dnscache\parameters" "maxcachettl" "13824" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+Dnscache\Parameters" "CacheHashTableBucketSize" "1" 
+Dnscache\Parameters" "CacheHashTableSize" "384" 
+Dnscache\Parameters" "MaxCacheEntryTtlLimit" "86400" 
+Dnscache\Parameters" "MaxSOACacheEntryTtlLimit" "300" 
+Dnscache\Parameters" "NegativeCacheTime" "0" 
+Dnscache\Parameters" "NegativeSOACacheTime" "0" 
+Dnscache\Parameters" "NetFailureCacheTime" "0" 
+Dnscache\Parameters" "ServiceDllUnloadOnStop" "1" 
+Dnscache\Parameters" "maxcachettl" "13824" 
+Dnscache\Parameters" "maxnegativecachettl" "0" 
+Dnscache\Parameters" "ServiceDllUnloadOnStop" "1" 
+Dnscache\Parameters" "maxcachettl" "13824" 
+Dnscache\Parameters" "maxnegativecachettl" "0" 
+Dnscache\Parameters" "NetFailureCacheTime" "0" 
+Dnscache\Parameters" "NegativeSOACacheTime" "0" 
+Dnscache\Parameters" "NegativeCacheTime" "0" 
+Dnscache\Parameters" "CacheHashTableBucketSize" "1" 
+Dnscache\Parameters" "MaxCacheEntryTtlLimit" "86400" 
+Dnscache\Parameters" "MaxSOACacheEntryTtlLimit" "300" 
+Dnscache\Parameters" "CacheHashTableSize" "384" 
+dnscache\parameters" "cachehashtablebucketsize" "1" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "maxcacheentryttllimit" "86400" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+dnscache\parameters" "maxsoacacheentryttllimit" "300" 
+dnscache\parameters" "negativecachetime" "0" 
+dnscache\parameters" "negativesoacachetime" "0" 
+dnscache\parameters" "netfailurecachetime" "0" 
+dnscache\parameters" "servicedllunloadonstop" "1" 
+dnscache\parameters" "maxcachettl" "13824" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+dnscache\parameters" "cachehashtablebucketsize" "1" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "maxcacheentryttllimit" "86400" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+dnscache\parameters" "maxsoacacheentryttllimit" "300" 
+dnscache\parameters" "negativecachetime" "0" 
+dnscache\parameters" "negativesoacachetime" "0" 
+dnscache\parameters" "netfailurecachetime" "0" 
+dnscache\parameters" "servicedllunloadonstop" "1" 
+dnscache\parameters" "maxcachettl" "13824" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+dnscache\parameters" "cachehashtablebucketsize" "1" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "maxcacheentryttllimit" "86400" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+dnscache\parameters" "maxsoacacheentryttllimit" "300" 
+dnscache\parameters" "negativecachetime" "0" 
+dnscache\parameters" "negativesoacachetime" "0" 
+dnscache\parameters" "netfailurecachetime" "0" 
+dnscache\parameters" "servicedllunloadonstop" "1" 
+dnscache\parameters" "maxcachettl" "13824" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+dnscache\parameters" "cachehashtablebucketsize" "1" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "maxcacheentryttllimit" "86400" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+dnscache\parameters" "maxsoacacheentryttllimit" "300" 
+dnscache\parameters" "negativecachetime" "0" 
+dnscache\parameters" "negativesoacachetime" "0" 
+dnscache\parameters" "netfailurecachetime" "0" 
+dnscache\parameters" "servicedllunloadonstop" "1" 
+dnscache\parameters" "maxcachettl" "13824" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+Dnscache\Parameters" "MaxCacheEntryTtlLimit" "10800" 
+Dnscache\Parameters" "MaxCacheTtl" "10800" 
+Dnscache\Parameters" "MaxNegativeCacheTtl" "0" 
+Dnscache\Parameters" "NegativeSOACacheTime" "0" 
+Dnscache\Parameters" "NetFailureCacheTime" "0" 
+DNScache\Parameters" "CacheHashTableBucketSize" "1" 
+DNScache\Parameters" "CacheHashTableSize" "384" 
+DNScache\Parameters" "MaxCacheEntryTtlLimit" "64000" 
+DNScache\Parameters" "MaxCacheTtl" "0" 
+DNScache\Parameters" "MaxNegativeCacheTtl" "0" 
+DNScache\Parameters" "MaxSOACacheEntryTtlLimit" "301" 
+DNScache\Parameters" "MaximumUdpPacketSize" "4864" 
+DNScache\Parameters" "NegativeCacheTime" "0" 
+DNScache\Parameters" "NegativeSOACacheTime" "0" 
+DNScache\Parameters" "NetFailureCacheTime" "0" 
+DNScache\Parameters" "ServerPriorityTimeLimit" "0" 
+DNScache\Parameters" "ServiceDllUnloadOnStop" "1" 
+Dnscache\Parameters" "NegativeCacheTime" "0" 
+Dnscache\Parameters" "NegativeSOACacheTime" "0" 
+Dnscache\Parameters" "NetFailureCacheTime" "0" 
+Dnscache\Parameters" "CacheHashTableBucketSize" "1" 
+Dnscache\Parameters" "CacheHashTableSize" "384" 
+Dnscache\Parameters" "MaxCacheEntryTtlLimit" "86400" 
+Dnscache\Parameters" "MaxSOACacheEntryTtlLimit" "300" 
+Dnscache\Parameters" "NegativeCacheTime" "0" 
+Dnscache\Parameters" "NegativeSOACacheTime" "0" 
+Dnscache\Parameters" "NetFailureCacheTime" "0" 
+Dnscache\Parameters" "ServiceDllUnloadOnStop" "1" 
+Dnscache\Parameters" "maxcachettl" "13824" 
+Dnscache\Parameters" "maxnegativecachettl" "0" 
+Dnscache\Parameters" "ServiceDllUnloadOnStop" "1" 
+Dnscache\Parameters" "maxcachettl" "13824" 
+Dnscache\Parameters" "maxnegativecachettl" "0" 
+Dnscache\Parameters" "NetFailureCacheTime" "0" 
+Dnscache\Parameters" "NegativeSOACacheTime" "0" 
+Dnscache\Parameters" "NegativeCacheTime" "0" 
+Dnscache\Parameters" "CacheHashTableBucketSize" "1" 
+Dnscache\Parameters" "MaxCacheEntryTtlLimit" "86400" 
+Dnscache\Parameters" "MaxSOACacheEntryTtlLimit" "300" 
+Dnscache\Parameters" "CacheHashTableSize" "384" 
+dnscache\parameters" "cachehashtablebucketsize" "1" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "cachehashtablesize" "384" 
+dnscache\parameters" "maxcacheentryttllimit" "86400" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+dnscache\parameters" "maxsoacacheentryttllimit" "300" 
+dnscache\parameters" "negativecachetime" "0" 
+dnscache\parameters" "negativesoacachetime" "0" 
+dnscache\parameters" "netfailurecachetime" "0" 
+dnscache\parameters" "servicedllunloadonstop" "1" 
+dnscache\parameters" "maxcachettl" "13824" 
+dnscache\parameters" "maxnegativecachettl" "0" 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"CacheHashTableBucketSize"=dword:00000001
+"CacheHashTableSize"=dword:00000180
+"MaxCacheentryTTLLimit"=dword:00015180
+"MaxNegativeCacheTTL"=dword:00000000
+"MaxSoaCacheEntryTTLLimit"=dword:0000012c
+"NegativeCachetime"=dword:00000000
+"NegativeSoaCacheTime"=dword:00000000
+"NetFailureCacheTime"=dword:00000000
+"MaxCacheTTL"=dword:00003600
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"CacheHashTableBucketSize"=dword:00000001
+"CacheHashTableSize"=dword:00000180
+"MaxCacheentryTTLLimit"=dword:00015180
+"MaxNegativeCacheTTL"=dword:00000000
+"MaxSoaCacheEntryTTLLimit"=dword:0000012c
+"NegativeCachetime"=dword:00000000
+"NegativeSoaCacheTime"=dword:00000000
+"NetFailureCacheTime"=dword:00000000
+"MaxCacheTTL"=dword:00003600
+
+
+internet settings" "dnscachetimeout" "7200" 
+internet settings" "keepalivetimeout" "300000" 
+internet settings" "maxconnectionsper1_0server" "10" 
+internet settings" "maxconnectionsperserver" "10" 
+internet settings" "receivetimeout" "60000" 
+internet settings" "serverinfotimeout" "300000" 
+internet settings" "socketreceivebufferlength" "65536" 
+internet settings" "socketsendbufferlength" "65536" 
+internet settings" "tcpautotuning" "0" internet settings" "dnscachetimeout" "7200" 
+internet settings" "keepalivetimeout" "300000" 
+internet settings" "maxconnectionsper1_0server" "10" 
+internet settings" "maxconnectionsperserver" "10" 
+internet settings" "receivetimeout" "60000" 
+internet settings" "serverinfotimeout" "300000" 
+internet settings" "socketreceivebufferlength" "65536" 
+internet settings" "socketsendbufferlength" "65536" 
+internet settings" "tcpautotuning" "0" 
+internet settings" "dnscachetimeout" "7200" 
+internet settings" "keepalivetimeout" "300000" 
+internet settings" "maxconnectionsper1_0server" "10" 
+internet settings" "maxconnectionsperserver" "10" 
+internet settings" "receivetimeout" "60000" 
+internet settings" "serverinfotimeout" "300000" 
+internet settings" "socketreceivebufferlength" "65536" 
+internet settings" "socketsendbufferlength" "65536" 
+internet settings" "tcpautotuning" "0" 
+Internet Settings" "MaxConnectionsPer1_0Server" "16" 
+Internet Settings" "MaxConnectionsPerServer" "16" 
+Internet Settings\CACHE" "Persistent" "0" 
+CurrentVersion\Internet Settings" "MaxConnectionsPer1_0Server" "16" 
+CurrentVersion\Internet Settings" "MaxConnectionsPerServer" "16" 
+internet settings" "dnscachetimeout" "7200" 
+internet settings" "keepalivetimeout" "300000" 
+internet settings" "maxconnectionsper1_0server" "10" 
+internet settings" "maxconnectionsperserver" "10" 
+internet settings" "receivetimeout" "60000" 
+internet settings" "serverinfotimeout" "300000" 
+internet settings" "socketreceivebufferlength" "65536" 
+internet settings" "socketsendbufferlength" "65536" 
+internet settings" "tcpautotuning" "0" 
+currentversion\internet settings" "maxconnectionsper1_0server" "10" 
+currentversion\internet settings" "maxconnectionsperserver" "10" 
+
+
+serviceprovider" "class" "8" 
+serviceprovider" "dnspriority" "6" 
+serviceprovider" "hostspriority" "5" 
+serviceprovider" "localpriority" "4" 
+serviceprovider" "netbtpriority" "7" 
+serviceprovider" "class" "8" 
+serviceprovider" "dnspriority" "6" 
+serviceprovider" "hostspriority" "5" 
+serviceprovider" "localpriority" "4" 
+serviceprovider" "netbtpriority" "7" 
+serviceprovider" "class" "8" 
+serviceprovider" "dnspriority" "6" 
+serviceprovider" "hostspriority" "5" 
+serviceprovider" "localpriority" "4" 
+serviceprovider" "netbtpriority" "7" 
+ServiceProvider" "DnsPriority" "6" 
+ServiceProvider" "HostsPriority" "5" 
+ServiceProvider" "LocalPriority" "4" 
+ServiceProvider" "NetbtPriority" "7" 
+ServiceProvider" "DnsPriority" "6" 
+ServiceProvider" "HostsPriority" "5" 
+ServiceProvider" "LocalPriority" "4" 
+ServiceProvider" "NetbtPriority" "7" 
+
+ServiceProvider" "LocalPriority" "4" 
+ServiceProvider" "HostPriority" "5" 
+ServiceProvider" "DnsPriority" "6" 
+ServiceProvider" "NetbtPriority" "7" 
+ServiceProvider" "Class" "8" 
+ServiceProvider" "DnsPriority" "6" 
+ServiceProvider" "HostPriority" "5" 
+ServiceProvider" "LocalPriority" "4" 
+ServiceProvider" "NetbtPriority" "7" 
+ServiceProvider" "Class" "8" 
+ServiceProvider" "DnsPriority" "6" 
+ServiceProvider" "HostsPriority" "5" 
+ServiceProvider" "LocalPriority" "4" 
+ServiceProvider" "NetbtPriority" "7" 
+serviceprovider" "class" "8" 
+serviceprovider" "dnspriority" "6" 
+serviceprovider" "hostspriority" "5" 
+serviceprovider" "localpriority" "4" 
+serviceprovider" "netbtpriority" "7" 
+
+
+DNS\Parameters" "MaximumUdpPacketSize" "1221"
+Services\DNS\Parameters" "MaximumUdpPacketSize" "1221" 
+DNS\Parameters" "MaximumUdpPacketSize" "1221" 
+Services\DNS\Parameters" "MaximumUdpPacketSize" "1221" 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\dns\parameters]
+"MaximumUdpPacketSize"=dword:00000576
+"NegativeCacheTime"=dword:00000000
+"NegativeSOACacheTime"=dword:00000000
+"NetFailureCacheTime"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\dns\parameters]
+"MaximumUdpPacketSize"=dword:00000200
+dns\parameters" "maximumudppacketsize" "512" 
+dns\parameters" "maximumudppacketsize" "512" 
+dns\parameters" "maximumudppacketsize" "512" 
+DNS\Parameters" "MaximumUdpPacketSize" "1221" 
+Services\DNS\Parameters" "MaximumUdpPacketSize" "1221" 
+DNS\Parameters" "TcpReceivePacketSize" 0xFF00 
+dns\parameters" "maximumudppacketsize" "512"
+
+lanmanworkstation\parameters" "disablebandwidththrottling" "00000001" 
+lanmanworkstation\parameters" "disablelargemtu" "00000000" 
+lanmanworkstation\parameters" "keepconn" "00015180" 
+lanmanworkstation\parameters" "maxcmds" "00000001" 
+lanmanworkstation\parameters" "maxcollectioncount" "00000020" 
+lanmanworkstation\parameters" "maxthreads" "00000064" 
+lanmanworkstation\parameters" "disablebandwidththrottling" "00000001" 
+lanmanworkstation\parameters" "disablelargemtu" "00000000" 
+lanmanworkstation\parameters" "keepconn" "00015180" 
+lanmanworkstation\parameters" "maxcmds" "00000001" 
+lanmanworkstation\parameters" "maxcollectioncount" "00000020" 
+lanmanworkstation\parameters" "maxthreads" "00000064" 
+lanmanworkstation\parameters" "disablebandwidththrottling" "00000001" 
+lanmanworkstation\parameters" "disablelargemtu" "00000000" 
+lanmanworkstation\parameters" "keepconn" "00015180" 
+lanmanworkstation\parameters" "maxcmds" "00000001" 
+lanmanworkstation\parameters" "maxcollectioncount" "00000020" 
+lanmanworkstation\parameters" "maxthreads" "00000064" 
+msmq\parameters" "tcpnodelay" "1" 
+LanmanWorkstation\Parameters" "DisableBandwidthThrottling" "1" 
+LanmanWorkstation\Parameters" "DisableLargeMTU" "0" 
+LanmanWorkstation\Parameters" "EnableSecuritySignature" "0" 
+LanmanWorkstation\Parameters" "KeepConn" "86400" 
+LanmanWorkstation\Parameters" "MaxCmds" "2048" 
+LanmanWorkstation\Parameters" "MaxCmds" "30" 
+LanmanWorkstation\Parameters" "MaxCollectionCount" "32" 
+LanmanWorkstation\Parameters" "MaxThreads" "30" 
+LanmanWorkstation\Parameters" "UseLockReadUnlock" "1" 
+LanmanWorkstation\Parameters" "UtilizeNtCaching" "0" 
+lanmanworkstation\parameters" "disablebandwidththrottling" "00000001" 
+lanmanworkstation\parameters" "disablelargemtu" "00000000" 
+lanmanworkstation\parameters" "keepconn" "00015180" 
+lanmanworkstation\parameters" "maxcmds" "00000001" 
+lanmanworkstation\parameters" "maxcollectioncount" "00000020" 
+lanmanworkstation\parameters" "maxthreads" "00000064" 
+
+
+msmq\parameters" "tcpnodelay" "1" 
+msmq\parameters" "tcpnodelay" "1" 
+
+MSMQ\Parameters" "IgnoreOSNameValidation" "1" 
+MSMQ\Parameters" "TCPNoDelay" "1"
+MSMQ\Parameters" "EnableICMPRedirect" 0 
+MSMQ\Parameters" "TCPNoDelay" "1" 
+MSMQ\Parameters" "TCPNoDelay" "1" 
+msmq\parameters" "tcpnodelay" "1" 
+
+
+reg add "hklm\system\controlset001\services\netbt\parameters" "namesrvquery" "3000" 
+reg add "hklm\system\controlset001\services\netbt\parameters" "namesrvquery" "3000"
+reg add "hklm\system\controlset001\services\netbt\parameters" "namesrvquery" "3000"
+NetBT\Parameters" "EnableLMHOSTS" "0" 
+Services\NetBT\Parameters" "NameSrvQueryTimeout" "3000" 
+NetBT\Parameters" "EnableLMHOSTS" "0" 
+NetBT\Parameters" "NameSrvQueryTimeout" "3000" 
+netbt\parameters" "namesrvquery" "3000" 
+
+
+
+netsh winsock reset catalog 
+netsh winsock reset 
+netsh winsock set autotuning off 
+netsh int ip reset 
+netsh int tcp reset 
+netsh int ip delete arpcache 
+netsh int ipv4 reset reset.log 
+netsh int ipv6 reset reset.log 
+netsh branchcache reset 
+netsh branchcache flush 
+regsvr32 /s actxprxy.dll 
+netsh int teredo set state disabled 
+netsh int 6to4 set state disabled 
+netsh int isatap set state disable 
+netsh int ip set global taskoffload=disabled 
+netsh int ip set global neighborcachelimit=4096 
+netsh int tcp set heuristics disabled 
+netsh int tcp set global congestionprovider=ctcp 
+netsh int tcp set supplemental Internet congestionprovider=CTCP 
+netsh int tcp set supplemental custom congestionprovider=CTCP 
+netsh int tcp set supplemental InternetCustom congestionprovider=CTCP 
+netsh int tcp set global rss=enabled 
+netsh int tcp set global rsc=disabled 
+netsh int tcp set global chimney=disabled 
+netsh int tcp set global timestamps=disabled 
+netsh int tcp set global nonsackrttresiliency=disabled 
+netsh int tcp set global maxsynretransmissions=2 
+netsh int tcp set global autotuninglevel=disabled 
+netsh int tcp set global ecncapability=enabled
+netsh int tcp set global fastopen=enabled 
+netsh int ipv4 set interface "Ethernet" mtu=1492 
+netsh int ipv4 set interface "Wi-Fi" mtu=1492 
+netsh int ipv4 set interface "Ethernet" mtu=1492 store=persistent 
+netsh int ipv4 set interface "Wi-Fi" mtu=1492 store=persistent 
+netsh int ipv4 set interface "Local Area Connection" mtu=1492 
+netsh int ipv4 set interface "Local Area Connection" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Ethernet" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Wi-Fi" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Local Area Connection" mtu=1492 store=persistent
+netsh int isatap set state disable
+netsh int ip set global taskoffload=disabled
+netsh int tcp set global timestamps=disabled
+netsh int tcp set heuristics disabled
+netsh int tcp set global chimney=disabled
+netsh int tcp set global ecncapability=disabled
+netsh int tcp set global rss=enabled
+netsh int tcp set global rsc=disabled
+netsh int tcp set global dca=enabled
+netsh int tcp set global netdma=enabled
+netsh int tcp set global nonsackrttresiliency=disabled
+netsh int tcp set security mpp=disabled
+netsh int tcp set security profiles=disabled
+netsh int ip set global icmpredirects=disabled
+netsh int tcp set security mpp=disabled profiles=disabled
+netsh int ip set global multicastforwarding=disabled
+netsh interface teredo set state disabled
+netsh interface 6to4 set state disabled
+netsh winsock reset
+netsh int isatap set state disable
+netsh int ip set global taskoffload=disabled
+netsh int ip set global neighborcachelimit=4096
+netsh int tcp set global timestamps=disabled
+netsh int tcp set heuristics disabled
+netsh int tcp set global autotuninglevel=disable
+netsh int tcp set global chimney=disabled
+netsh int tcp set global ecncapability=disabled
+netsh int tcp set global rss=enabled
+netsh int tcp set global rsc=disabled
+netsh int tcp set global dca=enabled
+netsh int tcp set global netdma=enabled
+netsh int tcp set global nonsackrttresiliency=disabled
+netsh int tcp set security mpp=disabled
+netsh int tcp set security profiles=disabled
+netsh int ip set global icmpredirects=disabled
+netsh int tcp set security mpp=disabled profiles=disabled
+netsh int ip set global multicastforwarding=disabled
+::netsh int ip reset
+::netsh int tcp reset
+::netsh winsock reset
+::netsh winsock reset proxy
+::netsh winsock reset catalog
+::netsh advfirewall reset
+netsh winsock reset catalog 
+netsh winsock reset 
+netsh winsock set autotuning off 
+netsh int ip reset 
+netsh int tcp reset 
+netsh int ip delete arpcache 
+netsh int ipv4 reset reset.log 
+netsh int ipv6 reset reset.log 
+netsh branchcache reset 
+netsh branchcache flush 
+netsh int teredo set state disabled 
+netsh int 6to4 set state disabled 
+netsh int isatap set state disable 
+netsh int ip set global taskoffload=disabled 
+netsh int ip set global neighborcachelimit=4096 
+netsh int tcp set heuristics disabled 
+netsh int tcp set global congestionprovider=ctcp 
+netsh int tcp set supplemental Internet congestionprovider=CTCP 
+netsh int tcp set supplemental custom congestionprovider=CTCP 
+netsh int tcp set supplemental InternetCustom congestionprovider=CTCP 
+netsh int tcp set global rss=enabled 
+netsh int tcp set global rsc=disabled 
+netsh int tcp set global dca=enabled 
+netsh int tcp set global netdma=enabled 
+netsh int tcp set global chimney=disabled 
+netsh int tcp set global timestamps=disabled 
+netsh int tcp set global nonsackrttresiliency=disabled 
+netsh int tcp set global maxsynretransmissions=2 
+netsh int tcp set global autotuninglevel=disabled 
+netsh int tcp set global ecncapability=enabled
+netsh int tcp set global fastopen=enabled 
+netsh int ipv4 set interface "Ethernet" mtu=1492 
+netsh int ipv4 set interface "Wi-Fi" mtu=1492 
+netsh int ipv4 set interface "Ethernet" mtu=1492 store=persistent 
+netsh int ipv4 set interface "Wi-Fi" mtu=1492 store=persistent 
+netsh int ipv4 set interface "Local Area Connection" mtu=1492 
+netsh int ipv4 set interface "Local Area Connection" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Ethernet" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Wi-Fi" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Local Area Connection" mtu=1492 store=persistent
+netsh winsock reset catalog 
+netsh winsock reset 
+netsh winsock set autotuning off 
+netsh int ip reset 
+netsh int tcp reset 
+netsh int ip delete arpcache 
+netsh int ipv4 reset reset.log 
+netsh int ipv6 reset reset.log 
+netsh branchcache reset 
+netsh branchcache flush 
+netsh int teredo set state disabled 
+netsh int 6to4 set state disabled 
+netsh int isatap set state disable 
+netsh int ip set global taskoffload=disabled 
+netsh int ip set global neighborcachelimit=4096 
+netsh int tcp set heuristics disabled 
+netsh int tcp set global congestionprovider=ctcp 
+netsh int tcp set supplemental Internet congestionprovider=CTCP 
+netsh int tcp set supplemental custom congestionprovider=CTCP 
+netsh int tcp set supplemental InternetCustom congestionprovider=CTCP 
+netsh int tcp set global rss=enabled 
+netsh int tcp set global rsc=disabled 
+netsh int tcp set global dca=enabled 
+netsh int tcp set global netdma=enabled 
+netsh int tcp set global chimney=disabled 
+netsh int tcp set global timestamps=disabled 
+netsh int tcp set global nonsackrttresiliency=disabled 
+netsh int tcp set global maxsynretransmissions=2 
+netsh int tcp set global autotuninglevel=disabled 
+netsh int tcp set global ecncapability=enabled
+netsh int tcp set global fastopen=enabled 
+netsh int ipv4 set interface "Ethernet" mtu=1492 
+netsh int ipv4 set interface "Wi-Fi" mtu=1492 
+netsh int ipv4 set interface "Ethernet" mtu=1492 store=persistent 
+netsh int ipv4 set interface "Wi-Fi" mtu=1492 store=persistent 
+netsh int ipv4 set interface "Local Area Connection" mtu=1492 
+netsh int ipv4 set interface "Local Area Connection" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Ethernet" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Wi-Fi" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Local Area Connection" mtu=1492 store=persistent
+netsh winsock reset catalog 
+netsh winsock reset 
+netsh winsock set autotuning off 
+netsh int ip reset 
+netsh int tcp reset 
+netsh int ip delete arpcache 
+netsh int ipv4 reset reset.log 
+netsh int ipv6 reset reset.log 
+netsh branchcache reset 
+netsh branchcache flush
+netsh int teredo set state disabled 
+netsh int 6to4 set state disabled 
+netsh int isatap set state disable 
+netsh int ip set global taskoffload=disabled 
+netsh int ip set global neighborcachelimit=4096 
+netsh int tcp set heuristics disabled 
+netsh int tcp set global congestionprovider=ctcp 
+netsh int tcp set supplemental Internet congestionprovider=CTCP 
+netsh int tcp set supplemental custom congestionprovider=CTCP 
+netsh int tcp set supplemental InternetCustom congestionprovider=CTCP 
+netsh int tcp set global rss=enabled 
+netsh int tcp set global rsc=disabled 
+netsh int tcp set global dca=enabled 
+netsh int tcp set global netdma=enabled 
+netsh int tcp set global chimney=disabled 
+netsh int tcp set global timestamps=disabled 
+netsh int tcp set global nonsackrttresiliency=disabled 
+netsh int tcp set global maxsynretransmissions=2 
+netsh int tcp set global autotuninglevel=disabled 
+netsh int tcp set global ecncapability=enabled
+netsh int tcp set global fastopen=enabled 
+netsh int ipv4 set interface "Ethernet" mtu=1492 
+netsh int ipv4 set interface "Wi-Fi" mtu=1492 
+netsh int ipv4 set interface "Ethernet" mtu=1492 store=persistent 
+netsh int ipv4 set interface "Wi-Fi" mtu=1492 store=persistent 
+netsh int ipv4 set interface "Local Area Connection" mtu=1492 
+netsh int ipv4 set interface "Local Area Connection" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Ethernet" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Wi-Fi" mtu=1492 store=persistent 
+netsh int ipv6 set interface "Local Area Connection" mtu=1492 store=persistent
+netsh interface ip delete arpcache
+netsh interface ipv6 6to4 set state state=disabled undoonstop=disabled
+netsh int tcp set supplemental custom congestionprovider = ctcp
+netsh int ipv6 set state disabled
+netsh int isatap set state disabled
+netsh int tcp set global autotuninglevel=normal
+::netsh int tcp set global chimney=disabled
+netsh int tcp set global dca=enabled
+netsh int tcp set global ecn=enabled
+netsh int tcp set global ecncapability=enabled
+netsh int tcp set global initialRto=2000
+netsh int tcp set global maxsynretransmissions=2
+netsh int tcp set global netdma=enabled
+netsh int tcp set global nonsackrttresiliency=disabled
+netsh int tcp set global rsc=disabled
+netsh int tcp set global rss=enabled
+netsh int tcp set global timestamps=disabled
+netsh int tcp set heuristics disabled
+netsh int tcp set security mpp=disabled
+netsh int tcp set security profiles=disabled
+netsh int tcp set supplemental Custom
+netsh int tcp set supplemental Custom congestionprovider=ctcp
+netsh int tcp set supplemental Internet congestionprovider=ctcp
+netsh int tcp set supplemental InternetCustom
+netsh int tcp set supplemental InternetCustom congestionprovider=ctcp
+netsh int teredo set state disabled
+netsh int tsp set global maxsynretransmissions=2
+netsh winsock set autotuning on
+
+echo >> ctcp.reg Windows Registry Editor Version 5.00 
+echo >> ctcp.reg [HKLM\SYSTEM\CurrentControlSet\Control\Nsi\{eb004a03-9b1a-11d4-9123-0050047759bc}\0] 
+echo >> ctcp.reg "0200"=hex:00,00,00,00,01,00,00,07,00,00,00,00,00,00,00,00,1e,00,00,00,00,00,\ 
+echo >> ctcp.reg 00,00,00,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,\ 
+echo >> ctcp.reg 00,ff,00,ff,ff,00,00,00,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,\ 
+echo >> ctcp.reg ff,ff,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00 
+echo >> ctcp.reg "1700"=hex:00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\ 
+echo >> ctcp.reg 00,00,00,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\ 
+echo >> ctcp.reg 00,ff,00,ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\ 
+echo >> ctcp.reg ff,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00  
+
+
+powershell Set-NetAdapterRss -Name "Ethernet" -NumberOfReceiveQueues 2
+powershell Set-NetAdapterRss -Name "Ethernet" -NumberOfReceiveQueues 4
+powershell Set-NetAdapterRss -Name "Ethernet 2" -NumberOfReceiveQueues 2
+powershell Set-NetAdapterRss -Name "Ethernet 2" -NumberOfReceiveQueues 4
+PowerShell Disable-NetAdapterChecksumOffload -Name "*"
+PowerShell Disable-NetAdapterLso -Name "*"
+PowerShell Disable-NetAdapterRsc -Name "*"
+PowerShell Disable-NetAdapterIPsecOffload -Name "*"
+PowerShell Disable-NetAdapterPowerManagement -Name "*"
+PowerShell Disable-NetAdapterQos -Name "*"
+powershell -Command "Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\*' -Name TcpAckFrequency -Value 1"
+powershell -Command "Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\*' -Name TcpDelAckTicks -Value 0"
+powershell -Command "Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\*' -Name TCPNoDelay -Value 1"
+PowerShell Disable-NetAdapterLso -Name "*"
+powershell "ForEach($adapter In Get-NetAdapter){Disable-NetAdapterPowerManagement -Name $adapter.Name -ErrorAction SilentlyContinue}"
+powershell "ForEach($adapter In Get-NetAdapter){Disable-NetAdapterLso -Name $adapter.Name -ErrorAction SilentlyContinue}"
+
+Powershell -Command "Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\*' -Name TcpAckFrequency -Value 1"
+Powershell -Command "Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\*' -Name TcpDelAckTicks -Value 0"
+Powershell -Command "Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\*' -Name TCPNoDelay -Value 1"
+
+PowerShell Disable-NetAdapterQos -Name "*"
+PowerShell Disable-NetAdapterRsc -Name "*"
+PowerShell Disable-NetAdapterChecksumOffload -Name "*"
+PowerShell Disable-NetAdapterPowerManagement -Name "*"
+PowerShell Disable-NetAdapterIPsecOffload -Name "*"
+PowerShell Disable-NetAdapterLso -Name "*"
+powershell "ForEach($adapter In Get-NetAdapter){Disable-NetAdapterPowerManagement -Name $adapter.Name -ErrorAction SilentlyContinue}"
+powershell "ForEach($adapter In Get-NetAdapter){Disable-NetAdapterLso -Name $adapter.Name -ErrorAction SilentlyContinue}"
+
+
+
+internet explorer\main\featurecontrol\feature_maxconnectionsper1_0server" "explorer.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsper1_0server" "iexplore.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsperserver" "explorer.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsperserver" "iexplore.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsper1_0server" "explorer.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsper1_0server" "iexplore.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsperserver" "explorer.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsperserver" "iexplore.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsper1_0server" "explorer.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsper1_0server" "iexplore.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsperserver" "explorer.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsperserver" "iexplore.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsper1_0server" "explorer.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsper1_0server" "iexplore.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsperserver" "explorer.exe" "10" 
+internet explorer\main\featurecontrol\feature_maxconnectionsperserver" "iexplore.exe" "10" 
+
+
+
+reg add "hklm\system\controlset001\services\netbt\parameters" "namesrvquery" "3000" 
+reg add "hklm\system\controlset001\services\netbt\parameters" "namesrvquery" "3000"
+reg add "hklm\system\controlset001\services\netbt\parameters" "namesrvquery" "3000"
+NetBT\Parameters" "EnableLMHOSTS" "0" 
+Services\NetBT\Parameters" "NameSrvQueryTimeout" "3000" 
+NetBT\Parameters" "EnableLMHOSTS" "0" 
+NetBT\Parameters" "NameSrvQueryTimeout" "3000" 
+netbt\parameters" "namesrvquery" "3000" 
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000]
+"LogLinkStateEvent"="14"
+"ITR"="0"
+"TxIntDelay"="1"
+"EnableMSI"="00000001"
+"Enable9KJFTpt"="0"
+"*LsoV1IPv4"="0"
+"LinkNegotiationProcess"="1"
+"WakeOnSlot"="0"
+"*DeviceSleepOnDisconnect"="0"
+"ReceiveScalingMode"="1"
+"EnableTss"="0"
+"*FlowControl"="0"
+"*InterruptModeration"="0"
+"*IPChecksumOffloadIPv4"="1"
+"*JumboPacket"="1514"
+"*LsoV2IPv4"="0"
+"*LsoV2IPv6"="0"
+"*NumRssQueues"="8"
+"*PMARPOffload"="0"
+"*PMNSOffload"="0"
+"*PriorityVLANTag"="0"
+"*ReceiveBuffers"="256"
+"*RSS"="1"
+"*SpeedDuplex"="6"
+"*TCPChecksumOffloadIPv4"="0"
+"*TCPChecksumOffloadIPv6"="0"
+"*TransmitBuffers"="256"
+"*UDPChecksumOffloadIPv4"="0"
+"*UDPChecksumOffloadIPv6"="0"
+"*WakeOnMagicPacket"="0"
+"*WakeOnPattern"="0"
+"AdaptiveIFS"="0"
+"EEELinkAdvertisement"="0"
+"EnablePME"="0"
+"MasterSlave"="1"
+"ReduceSpeedOnPowerDown"="0"
+"SipsEnabled"="0"
+"WaitAutoNegComplete"="0"
+"WakeOnLink"="0"
+"NumRssQueues"="2"
+"Ulpmode"="0"
+"*TxAbsIntDelay"="1"
+"*RxAbsintDelay"="1"
+"*RxIntDelay"="1"
+"*LLIPush"="1472"
+"*LLISize"="1"
+"*IntMode"="2"
+"*EnableMSI"=dword:00000001
+"*EEE"="0"
+"*RssProfile"="2"
+"*AlternateSemaphoreDelay"="0"
+"EEE"="0"
+"Node"="0"
+"LLIPush"="1"
+"LLISize"="1472"
+"IntMode"=dword:00000001
+"TxAbsIntDelay"="1"
+"RxAbsIntDelay"=dword:00000001
+"AlternateSemaphoreDelay"="0"
+
+"*flowcontrol" "0" 
+"*interruptmoderation" "0" 
+"*ipchecksumoffloadipv4" "1" 
+"*jumbopacket" "1514" 
+"*lsov2ipv4" "0" 
+"*lsov2ipv6" "0" 
+"*pmarpoffload" "0" 
+"*pmnsoffload" "0" 
+"*priorityvlantag" "0" 
+"*receivebuffers" "2048" 
+"*rss" "1" 
+"*speedduplex" "0" 
+"*tcpchecksumoffloadipv4" "0" 
+"*tcpchecksumoffloadipv6" "0" 
+"*transmitbuffers" "2048" 
+"*udpchecksumoffloadipv4" "0" 
+"*udpchecksumoffloadipv6" "0" 
+"*wakeonmagicpacket" "0" 
+"*wakeonpattern" "0" 
+"eeelinkadvertisement" "0" 
+"enablemsi" "00000001" 
+"enablepme" "0" 
+"itr" "0" 
+"loglinkstateevent" "16" 
+"numrssqueues" "4" 
+"receivescalingmode" "1" 
+"reducespeedonpowerdown" "0" 
+"sipsenabled" "0" 
+"txintdelay" "28" 
+"ulpmode" "0" 
+"masterslave" "0" 
+"wakeonlink" "0" 
+"wakeonslot" "0"
+
+"*txabsintdelay" "1" 
+"*rxabsintdelay" "1" 
+"*rxintdelay" "1" 
+"*llipush" "1472" 
+"*llisize" "1" 
+"*intmode" "2" 
+"*enablemsi" "1" 
+"*eee" "0" 
+"*speedduplex" "6" 
+"*rssprofile" "4" 
+"*numrssqueues" "2" 
+"*alternatesemaphoredelay" "0" 
+"masterslave" "1" 
+"waitautonegcomplete" "0" 
+"txintdelay" "1" 
+"eee" "0" 
+"loglinkstateevent" "14" 
+"node" "0" 
+"llipush" "1" 
+"llisize" "1472" 
+"intmode" "1" 
+"txabsintdelay" "1" 
+"rxabsintdelay" "1" 
+"alternatesemaphoredelay" "0" 
+"enable9kjftpt" "0" 
+
+ndis\parameters" "maxnumrsscpus" "4" 
+ndis\parameters" "rssbasecpu" "0" 
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000\Ndi\Params\*NumRssQueues]
+"ParamDesc"="Maximum Number of RSS Queues"
+"default"="2"
+"type"="enum"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000\Ndi\Params\*NumRssQueues\Enum]
+"1"="1 Queue"
+"2"="2 Queues"
+"3"="3 Queues"
+"4"="4 Queues"
+"5"="5 Queues"
+"6"="6 Queues"
+"7"="7 Queues"
+"8"="8 Queues"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000\Ndi\Params\*RSSProfile]
+"ParamDesc"="RSS load balancing profile"
+"default"="1"
+"type"="enum"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000\Ndi\Params\*RSSProfile\Enum]
+"1"="ClosestProcessor"
+"2"="ClosestProcessorStatic"
+"3"="NUMAScaling"
+"4"="NUMAScalingStatic"
+"5"="ConservativeScaling"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000\Ndi\Params\NumRssQueues\enum]
+"1"="1 Queue"
+"2"="2 Queues"
+"3"="3 Queues"
+"4"="4 Queues"
+"5"="5 Queues"
+"6"="6 Queues"
+"7"="7 Queues"
+"8"="8 Queues"
+
+[HKLM\SYSTEM\CurrentControlSet\services\TCPIP6\Parameters]
+"EnableICSIPv6"=dword:00000000
+"DisabledComponents"=dword:00000001
+
+
+
+
+
+
+
+
+Scripts:
+
+for  %%i in ('wmic path win32_networkadapter get GUID ^| findstr "{"') do set guid1=%%i
+for  "usebackq tokens=6 delims=\" %%a in (`reg query hklm\system\controlset001\control\class /s  "Network adapters"`) do set guid2=%%a
+ipconfig /release 
+ipconfig /renew 
+ipconfig flushdns 
+regsvr32 /s actxprxy.dll 
+
+
+
+
+
+
+
+reg add "hklm\software\policies\microsoft\windows nt\dnsclient" "enablemulticast" "0" 
+currentversion\internet settings" "maxconnectionsper1_0server" "10" 
+currentversion\internet settings" "maxconnectionsperserver" "10" 
+reg delete "hklm\system\currentcontrolset\services\tcpip\parameters\interfaces\%guid1%" "tcpinitialrtt" 
+ndis\parameters" "maxnumrsscpus" "2" 
+class\%guid2%\0000" "numrssqueues" "2" 
+reg add "hklm\software\policies\microsoft\windows nt\dnsclient" "enablemulticast" "0" 
+currentversion\internet settings" "maxconnectionsper1_0server" "10" 
+currentversion\internet settings" "maxconnectionsperserver" "10" 
+reg delete "hklm\system\currentcontrolset\services\tcpip\parameters\interfaces\%guid1%" "tcpinitialrtt" 
+reg add "hklm\software\policies\microsoft\windows nt\dnsclient" "enablemulticast" "0" 
+currentversion\internet settings" "maxconnectionsper1_0server" "10" 
+currentversion\internet settings" "maxconnectionsperserver" "10" 
+Psched" "NonBestEffortLimit" "0" 
+QoS" "Do not use NLA" "1" 
+Explorer" "NetLinkTimeout" "1000" 
+Windows NT\CurrentVersion\EMDMgmt" "AllowNewCachesByDefault" "0" 
+Windows NT\CurrentVersion\EMDMgmt" "GroupPolicyDisallowCaches" "1" 
+Windows\CurrentVersion\Explorer\Advanced" "CopyBufferSize" "65536" 
+Microsoft\Windows NT\DnsClient" "EnableMulticast" "0" 
+Microsoft\Windows\HomeGroup" "DisableHomeGroup" "1" 
+Microsoft\Windows\Psched" "NonBestEffortLimit" "0" 
+Microsoft\Windows\System" "CopyFileBufferedSynchronousIo" "1" 
+Microsoft\Windows\System" "CopyFileChunkSize" "16384" 
+Microsoft\Windows\System" "CopyFileOverlappedCount" "16" 
+Control" "IRPStackSize" "50" 
+Control\GraphicsDrivers\Scheduler" "VsyncIdleTimeout" "0" 
+Control\Lsa" "DisableLoopbackCheck" "1" 
+Control\Lsa" "DisableStrictNameChecking" "1" 
+Control\NetworkProvider" "DeferConnection" "1" 
+Control\NetworkProvider" "RestoreConnection" "1" 
+Control\NetworkProvider" "RestoreTimeout" "20" 
+Control\Network\Connections\StatMon" "ShowLanErrors" "1" 
+Control\Network\SharedAccessConnection" "DeviceTimeout" "1000" 
+Control\Network\SharedAccessConnection" "EnableControl" "1" 
+Control\PriorityControl" "Win32PrioritySeparation" "38" 
+SControl\SecurityProviders\SCHANNEL" "ServerCacheTime" "0" 
+Browser" "Start" "4" 
+Class\Net" "MaxMSS" "1460" 
+Class\Net" "MaxMTU" "1500" 
+Class\NetTrans" "MaxMSS" "1460" 
+Class\NetTrans" "MaxMTU" "1500" 
+LanmanWorkstation\Parameters" "ReconnectTimeout" "5" 
+NDIS\Parameters" "RssBaseCpu" "1" 
+SysMain" "Start" "4" 
+rdyboost" "Start" "0" 
+NDIS\Parameters" "MaxNumRssCpus" "4" 
+Microsoft\Windows\Psched" "NonBestEffortLimit" "0" 
+TCPIP\v6Transition" /t REG_SZ "Disabled" 
+TCPIP\v6Transition" "Teredo_State" /d "Disabled" 
+ Control\Power\PowerThrottlinge" "PowerThrottlingOff" 1 
+TCPIP6\Parameters" "EnableICSIPv6" 0 
+QoS" "Do not use NLA" "1" 
+Dnscache\Parameters" "EnableAutoDoh" "2" 
+xbgm" "Start" "4" 
+TCPIP6\Parameters" "EnableICSIPv6" 0 
+Dnscache\Parameters" "EnableAutoDoh" "2" 
+QoS" "Do not use NLA" "1" 
+LanmanServer\Parameters"" "DisableCompression" 1 
+NTDS\Parameters" "LdapEnforceChannelBinding" 2
+CurrentVersion\Explorer\Advanced" "NoNetCrawling" "1" 
+Microsoft\Windows\Psched" "NonBestEffortLimit" "0" 
+Group Policy Objects\{7081E8E0-307B-48AB-8DB1-A9F1FC59D021}Machine\Software\Policies\Microsoft\Windows\Psched" "NonBestEffortLimit" "100" 
+windows nt\dnsclient" "enablemulticast" "0" 
+currentversion\internet settings" "maxconnectionsper1_0server" "10" 
+currentversion\internet settings" "maxconnectionsperserver" "10" 
+

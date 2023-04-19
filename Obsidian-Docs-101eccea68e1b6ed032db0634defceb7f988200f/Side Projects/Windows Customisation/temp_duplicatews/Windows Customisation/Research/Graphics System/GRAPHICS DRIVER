@@ -1,0 +1,94 @@
+GRAPHICS DRIVERS
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
+\Scheduler
+\MemoryManager
+\Power?
+
+"DpiMapIommuContiguous" "1" 
+"HwSchedMode" "2" 
+"TdrLevel"=dword:00000000
+"UseGpuTimer"=dword:00000001
+"RmGpsPsEnablePerCpuCoreDpc"=dword:00000001
+"PowerSavingTweaks"=dword:00000000
+"DisableWriteCombining"=dword:00000001
+"EnableRuntimePowerManagement"=dword:00000000
+"PrimaryPushBufferSize"=dword:00000001
+"FlTransitionLatency"=dword:00000000
+"D3PCLatency"=dword:00000000
+"RMDeepLlEntryLatencyUsec"=dword:00000000
+"PciLatencyTimerControl"=dword:00000020
+"Node3DLowLatency"=dword:00000001
+"LOWLATENCY"=dword:00000001
+"RmDisableRegistryCaching"=dword:00000001
+"RMDisablePostL2Compression"=dword:00000001
+"PlatformSupportMiracast"=dword:00000001
+"DpiMapIommuContiguous"=dword:00000001
+"TdrDebugMode" "0" 
+"TdrLevel" "0" 
+"RmGpsPsEnablePerCpuCoreDpc" "1" 
+
+\Scheduler]
+"EnablePreemption"=dword:00000000
+"VsyncIdleTimeout"
+
+\Power]
+"RmGpsPsEnablePerCpuCoreDpc"=dword:00000001
+"PowerSavingTweaks"=dword:00000000
+"DisableWriteCombining"=dword:00000001
+"EnableRuntimePowerManagement"=dword:00000000
+"PrimaryPushBufferSize"=dword:00000001
+"FlTransitionLatency"=dword:00000000
+"D3PCLatency"=dword:00000000
+"RMDeepLlEntryLatencyUsec"=dword:00000000
+"PciLatencyTimerControl"=dword:00000001
+"Node3DLowLatency"=dword:00000001
+"LOWLATENCY"=dword:00000001
+"RmDisableRegistryCaching"=dword:00000001
+"RMDisablePostL2Compression"=dword:00000001
+"DefaultMemoryRefreshLatencyToleranceNoContext"=dword:00000001
+"DefaultMemoryRefreshLatencyToleranceMonitorOff"=dword:00000001
+"DefaultMemoryRefreshLatencyToleranceActivelyUsed"=dword:00000001
+"DefaultLatencyToleranceTimerPeriod "=dword:00000001
+"DefaultLatencyToleranceOther"=dword:00000001
+"DefaultLatencyToleranceNoContextMonitorOff"=dword:00000001
+"DefaultLatencyToleranceNoContext"=dword:00000001
+"DefaultLatencyToleranceMemory"=dword:00000001
+"DefaultLatencyToleranceIdle1MonitorOff"=dword:00000001
+"DefaultLatencyToleranceIdle1"=dword:00000001
+"DefaultLatencyToleranceIdle0MonitorOff"=dword:00000001
+"DefaultLatencyToleranceIdle0"=dword:00000001
+"DefaultD3TransitionLatencyIdleVeryLongTime"=dword:00000001
+"DefaultD3TransitionLatencyIdleShortTime"=dword:00000001
+"DefaultD3TransitionLatencyIdleNoContext"=dword:00000001
+"DefaultD3TransitionLatencyIdleMonitorOff"=dword:00000001
+"DefaultD3TransitionLatencyIdleLongTime"=dword:00000001
+"DefaultD3TransitionLatencyActivelyUsed"=dword:00000001
+"Latency"=dword:00000001
+"DefaultD3TransitionLatencyActivelyUsed"=dword:00000001
+"TransitionLatency"=dword:00000001
+"MonitorRefreshLatencyTolerance"=dword:00000001
+"MonitorLatencyTolerance"=dword:00000001
+"MiracastPerfTrackGraphicsLatency"=dword:00000001
+"MaxIAverageGraphicsLatencyInOneBucket"=dword:00000001
+
+
+
+Reg.exe add "HKCU\Software\Microsoft\Windows\DWM" /v "CompositionPolicy" "1" 
+Reg.exe add "HKCU\Software\Microsoft\Windows\DWM" /v "EnableAeroPeek" "1" 
+
+
+Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\Dwm" /v "AnimationAttributionEnabled" "0" 
+Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\Dwm" /v "AnimationAttributionHashingEnabled" "0" 
+Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\Dwm" /v "EnableDesktopOverlays" "0" 
+Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\Dwm" /v "DisableProjectedShadows" "1" 
+Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\Dwm" /v "DisableHologramCompositor" "1" 
+Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\Dwm" /v "OneCoreNoBootDWM" "0" 
+Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\Dwm\ExtendedComposition" /v "ExclusiveModeFramerateAveragingPeriodMs" "0" 
+Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\Dwm\ExtendedComposition" /v "ExclusiveModeFramerateThresholdPercent" "0" 
+Reg.exe add "HKLM\SOFTWARE\Policies\Microsoft\Windows\DWM" /v "DWMWA_TRANSITIONS_FORCEDISABLED" "1" 
+Reg.exe add "HKLM\SOFTWARE\Policies\Microsoft\Windows\DWM" /v "DisallowAnimations" "1" 
+Reg.exe add "HKLM\SOFTWARE\Policies\Microsoft\Windows\DWM" /v "DisallowFlip3d" "1" 
+Reg.exe add "HKLM\SOFTWARE\Policies\Microsoft\Windows\DWM" /v "DisallowColorizationColorChanges" "1" 
+Reg.exe add "HKCU\SOFTWARE\Policies\Microsoft\Windows\DWM" /v "DisallowFlip3d" "1" 
+Reg.exe add "HKCU\SOFTWARE\Policies\Microsoft\Windows\DWM" /v "DisallowAnimations" "1" 
+Reg.exe add "HKCU\SOFTWARE\Policies\Microsoft\Windows\DWM" /v "DisallowColorizationColorChanges" "1" 

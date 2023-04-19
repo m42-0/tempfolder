@@ -1,0 +1,85 @@
+DirectX
+
+Swap Effect
+[HKEY_CURRENT_USER\Software\Microsoft\DirectX\GraphicsSettings]
+"SwapEffectUpgradeCache"=dword:00000001
+[HKEY_CURRENT_USER\Software\Microsoft\DirectX\UserGpuPreferences]
+"DirectXUserGlobalSettings"="SwapEffectUpgradeEnable=1;"
+
+
+Avalon Graphics
+
+
+HW Acceleration, Multisample Size, Reference Rasterizer
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Avalon.Graphics]
+"DisableHWAcceleration"=dword:00000000
+"MaxMultisampleSize"=dword:00000000
+"UseReferenceRasterizer"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Avalon.Graphics]
+"DisableHWAcceleration"=dword:00000000
+"MaxMultisampleSize"=dword:00000000
+"UseReferenceRasterizer"=dword:00000001
+[HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\Avalon.Graphics]
+"DisableHWAcceleration"=dword:00000000
+"MaxMultisampleSize"=dword:00000000
+"UseReferenceRasterizer"=dword:00000001
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Avalon.Graphics]
+"DisableHWAcceleration"=dword:00000000
+"MaxMultisampleSize"=dword:00000000
+"UseReferenceRasterizer"=dword:00000001
+
+Direct3D
+
+VidMemVBs, MMX Fast Path, FlipNoVsync
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Direct3D]
+"DisableVidMemVBs"=dword:00000001
+"MMX Fast Path"=dword:00000001
+"FlipNoVsync"=dword:00000001
+[HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\Direct3D]
+"DisableVidMemVBs"=dword:00000001
+"MMX Fast Path"=dword:00000001
+"FlipNoVsync"=dword:00000001
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Direct3D]
+"DisableVidMemVBs"=dword:00000001
+"MMX Fast Path"=dword:00000001
+"FlipNoVsync"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Direct3D]
+"DisableVidMemVBs"=dword:00000000
+"MMX Fast Path"=dword:00000001
+"FlipNoVsync"=dword:00000001
+
+
+Software only
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Direct3D\Drivers]
+"SoftwareOnly"=dword:00000000
+[HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\Direct3D\Drivers]
+"SoftwareOnly"=dword:00000000
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Direct3D\Drivers]
+"SoftwareOnly"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Direct3D\Drivers]
+"SoftwareOnly"=dword:00000000
+
+
+DirectDraw
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DirectDraw]
+"EmulationOnly"=dword:00000000
+[HKEY_USERS\.DEFAULT\SOFTWARE\Microsoft\DirectDraw]
+"EmulationOnly"=dword:00000000
+[-HKEY_CURRENT_USER\SOFTWARE\Microsoft\DirectDraw]
+"EmulationOnly"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\DirectDraw]
+"EmulationOnly"=dword:00000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+

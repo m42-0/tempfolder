@@ -1,0 +1,231 @@
+Session Manager
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager
+SafeDLLSearchMode 1 
+ProtectionMode 1 
+
+
+\Power]
+"HiberbootEnabled" "0" 
+
+
+\\PowerThrottling]
+"PowerThrottlingOff"=dword:00000001
+
+
+\Memory Management]
+"CoalescingTimerInterval"=dword:00000000
+"LargePageDrivers"=
+clearpagefileatshutdown" "0" 
+featuresettingsoverride" reg_dword /d "00000003" 
+featuresettingsoverridemask" reg_dword /d "00000003" 
+iopagelocklimit" "08000000" 
+largesystemcache" "00000000" 
+systempages" "4294967295" 
+disablepagingexecutive" "1" 
+iopagelocklimit" "16710656" 
+largesystemcache" "00000000" 
+"DisablePagingExecutive" "1" 
+"IoPageLockLimit" "983040" 
+"LargeSystemCache" "0" 
+"MapAllocationFragment" "131072" 
+"PhysicalAddressExtension" "1" 
+"SystemCacheLimit" "1024" 
+"SystemPages" "0" 
+LargeSystemCache "1" 
+"SecondLevelDataCache" "512" 
+"DisablePagingExecutive" "1" 
+
+IOPageLockLimit", IOPLL 
+DisablePagingExecutive", DPE
+FeatureSettings", 0
+FeatureSettingsOverride", 1024
+FeatureSettingsOverrideMask", 1024
+LargeSystemCache", 0
+NonPagedPoolQuota", 0
+NonPagedPoolSize", 0
+PagedPoolQuota", 0
+PagedPoolSize", 0 
+PhysicalAddressExtension", 1, 
+SecondLevelDataCache", 0
+SessionPoolSize", 64
+SessionViewSize", 96
+SystemPages", -1
+
+"PagedPoolSize" "421527552" 
+"SecondLevelDataCache" "1024"
+
+"DisablePagingExecutive"=dword:00000001
+"LargeSystemCache"=dword:00000001
+"NonPagedPoolSize"=dword:000000c0
+"PagedPoolSize"=dword:000000c0
+"FeatureSettings"=dword:00000001
+"FeatureSettingsOverride"=dword:00000003
+"FeatureSettingsOverrideMask"=dword:00000003
+"PoolUsageMaximum"=dword:00000060
+"EnableCfg"=dword:00000000
+"IoPageLockLimit"=dword:ffffffff
+"ProtectionMode"=dword:00000000
+"ThirdLevelDataCache"=dword:00008192
+"MoveImages"=dword:00000000
+"PhysicalAddressExtension"=dword:00000001
+"SecondLevelDataCache"=dword:00003072
+"NonPagedPoolQuota"=dword:00000000
+"NonPagedPoolSize"=dword:00000000
+"PagedPoolQuota"=dword:00000000
+"SessionPoolSize"=dword:000000c0
+"SessionViewSize"=dword:000000c0
+"MinimumWorkingSet"=hex(b):00,00,00,00,00,10,00,00
+"MinimumFileCacheSize"=hex(b):00,00,00,00,00,10,00,00
+"OverlayTestMode"=dword:00000005
+"UseLargePages"=dword:00000001
+
+"FeatureSettingsOverride" "2" 
+"SecondLevelDataCache" "0" 
+"IoPageLockLimit" "134217728" 
+"DisablePagingExecutive" "1" 
+"LargeSystemCache" "0" 
+
+"ClearPageFileAtShutdown"=dword:00000000
+"DisablePagingExecutive"=dword:00000001
+"LargeSystemCache"=dword:00000000
+
+"IoPageLockLimit"=dword:08000000
+"DisablePagingExecutive"=dword:00000001
+"LargeSystemCache"=dword:00000000
+"SecondLevelDataCache"=dword:00000200
+
+
+Prefetch Parameters]
+"enableboottrace" "0" 
+"enableprefetcher" "0" 
+"enablesuperfetch" "0" 
+SfTracingState 0 
+"BootId"=-
+"BaseTime"=-
+
+
+kernel]
+"CoalescingTimerInterval"=dword:00000000
+DisableTsx" "1" 
+
+"DpcWatchdogProfileOffset"=dword:00000000
+"DpcTimeout"=dword:00000000
+"DpcWatchdogPeriod"=dword:00000000
+"DisableExceptionChainValidation"=dword:00000001
+"KernelSEHOPEnabled"=dword:00000000
+"DpcWatchdogProfileOffset"=dword:00000000
+"MitigationAuditOptions"=hex:00,00,00,00,00,00,20,22,00,00,00,00,00,00,00,20,\
+  00,00,00,00,00,00,00,00
+"MitigationOptions"=hex:00,22,22,20,22,20,22,22,20,00,00,00,00,20,00,20,00,00,\
+  00,00,00,00,00,00
+"DisableExceptionChainValidation"=dword:00000001
+"MaximumSharedReadyQueueSize"=dword:00000001
+"DisableAutoBoost"=dword:00000001
+"DistributeTimers"=dword:00000001
+"IdealDpcRate"=dword:00000001
+"MaximumDpcQueueDepth"=dword:00000001
+"MinimumDpcRate"=dword:00000001
+"ThreadDpcEnable"=dword:00000001
+"AdjustDpcThreshold"=dword:00000000
+
+
+CoalescingTimerInterval 0 
+DisablePagingCombining 1 
+DisablePagingExecutive 1 
+LargeSystemCache 1 
+
+Throttle]
+"PerfEnablePackageIdle"=dword:00000000
+
+\Executive]
+"CoalescingTimerInterval"=dword:00000000
+"AdditionalCriticalWorkerThreads" "16" 
+"AdditionalDelayedWorkerThreads" "16" 
+"UuidSequenceNumber" "2710507" 
+"WorkerFactoryThreadIdleTimeout" "600" 
+"AdditionalCriticalWorkerThreads" "2" 
+"AdditionalDelayedWorkerThreads" "1" 
+"AdditionalCriticalWorkerThreads"=dword:00000020
+"AdditionalDelayedWorkerThreads"=dword:00000020
+"additionalcriticalworkerthreads" "00000016" 
+"additionaldelayedworkerthreads" "00000016" 
+
+\Session Manager]
+"CoalescingTimerInterval"=dword:00000000
+
+..\Control
+"CoalescingTimerInterval"=dword:00000000
+"WaitToKillServiceTimeout"="1"
+"DisableRemoteScmEndpoints"dword:00000000
+
+\Power\ModernSleep]
+"CoalescingTimerInterval"=dword:00000000
+
+\I/O System]
+"PassiveIntRealTimeWorkerPriority"=dword:00000018
+"countoperations" "00000000" 
+
+\Control\KernelVelocity]
+"DisableFGBoostDecay"=dword:00000001
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM]
+"MinimumWorkingSet"=hex(b):00,00,00,00,00,10,00,00
+"MinimumFileCacheSize"=hex(b):00,00,00,00,00,10,00,00
+"increaseuserva"=dword:0fffff80
+"InterruptSteeringDisabled"=dword:00000001
+"OverlayTestMode"=dword:00000005
+"UseLargePages"=dword:00000001
+
+
+powershell "Disable-MMAgent -MemoryCompression"
+powershell "Disable-MMAgent -PageCombining"
+
+
+Session Manager" CoalescingTimerInterval 0 
+Executive" CoalescingTimerInterval "0" 
+Power" CoalescingTimerInterval 0 
+kernel" CoalescingTimerInterval "0" 
+Power\ModernSleep" "CoalescingTimerInterval" "0" 
+Memory Management" "CoalescingTimerInterval" "0" 
+CurrentControlSet\Control" "CoalescingTimerInterval" "0" 
+
+
+
+
+
+
+Control\Session Manager\Executive" "AdditionalCriticalWorkerThreads" "16" 
+Control\Session Manager\Executive" "AdditionalDelayedWorkerThreads" "16" 
+Control\Session Manager\Executive" "UuidSequenceNumber" "2710507" 
+Control\Session Manager\Executive" "WorkerFactoryThreadIdleTimeout" "600" 
+Control\Session Manager\Memory Management" "DisablePagingExecutive" "1" 
+Control\Session Manager\Memory Management" "IoPageLockLimit" "983040" 
+Control\Session Manager\Memory Management" "LargeSystemCache" "0" 
+Control\Session Manager\Memory Management" "MapAllocationFragment" "131072" 
+Control\Session Manager\Memory Management" "PhysicalAddressExtension" "1" 
+Control\Session Manager\Memory Management" "SystemCacheLimit" "1024" 
+Control\Session Manager\Memory Management" "SystemPages" "0" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability]
+"TimeStampInterval"=dword:00000000
+
+
+
+
+
+
+
