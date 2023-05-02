@@ -1,7 +1,6 @@
-#basics
-
 # Introduction
 ## Digitalism
+
 -   Spreadsheets
     
 -   Accounting
@@ -67,7 +66,9 @@
 
 [Microsoft Word - Chapter 2 Sampled Data Systems F.doc (analog.com)](https://www.analog.com/media/en/training-seminars/design-handbooks/data-conversion-handbook/chapter2.pdf)
 
+
 # History of Computing
+
 ## Schickard Calculator
 ![](https://images.computerhistory.org/revonline/images/b1626.01p-03-06.jpg?w=600)
 William Schickard (1592–1635), mechanical calculator
@@ -125,12 +126,815 @@ G. W. F. Leibniz (1646–1716), “Stepped Reckoner,” full-featured calculator
 
 ## 1880-1901 The Birth of the Modern Mechanical Calculator
 
-[Mechanical Calculators - History-Computer](https://history-computer.com/mechanical-calculators/)
-[The History Of The Calculator: When was the Calculator First Invented? (edtechmagazine.com)](https://edtechmagazine.com/k12/article/2012/11/calculating-firsts-visual-history-calculators)
-[Mechanical calculator - Wikipedia](https://en.wikipedia.org/wiki/Mechanical_calculator)
-[The First Mechanical Calculator and the Computer Revolution of the 160 – mimicEducationalRobots (mimicrobots.com)](https://mimicrobots.com/pages/the-first-mechanical-calculator-and-the-computer-revolution-of-the-1600s)
+# Computer Architecture
+## The Uber Stack
 
-# Binary Computing
+
+
+How We Interact with Computers
+
+
+
+
+Digital Components
+
+
+
+
+
+“Digital”
+
+
+
+
+
+-   DIGITAL - Digital means discrete.  
+    
+
+  
+
+-   Digital representation is comprised of a limited number of data points to encode information. 
+    
+
+  
+
+-   Most of our electronic devices use Digital techniques to work with data and information
+    
+
+  
+Since we have a limited number of data points to work with, it means that many representations are approximations of the real thing
+
+	 
+
+
+
+
+What are computers made of?
+
+
+
+
+
+
+-   Primarily Transistors
+    
+
+  
+
+-   Invented in 1951, the Transistor is the basic electrical building block for all modern electronics
+    
+
+  
+
+-   “the greatest invention of the 20th century”
+    
+
+  
+
+-   For Digital applications, transistors are packaged in what is known as Integrated Circuits (ICs)
+    
+
+  
+
+-   As many as 30+ Billion Transistors can be packaged in a single large  IC today
+    
+
+
+
+
+
+Anatomy of a Transistor
+
+
+
+
+
+-   Transistors are fabricated using silicon (derived from quartz) and tiny amounts of impurities such as selenium or gallium arsenide to create what is called a “semiconductor”
+    
+
+  
+
+-   Semiconductors allow us to control the flow of electrical charge (electrons) very precisely.  
+    
+
+  
+
+-   Billions of semiconductors can be placed on an integrated circuit using a process called photolithography
+    
+
+
+
+
+
+Transistor Functionality
+
+
+
+
+
+-   In various circuits Transistors can be made to:
+    
+
+  
+
+-   Amplify or Attenuate electrical signals
+    
+-   Invert electrical signals
+    
+-   Store electrical voltage values
+    
+-   Switch electrical signals off and on
+    
+
+  
+
+-   Transistors can be combined to create logic circuits commonly known as  “GATES”
+    
+
+  
+
+-   Gates are packed into Integrated Circuits commonly known as “Chips”
+    
+
+
+
+
+
+Simple Silicon Semiconductor Devices
+
+
+
+
+
+
+-   It could only add and subtract 4 bits at a time.
+    
+
+
+
+       AMD Athlon64 Processor
+
+
+Use of Logic Gates in Computers
+
+
+
+
+
+-   Primary Uses:
+    
+-   Switches and logic circuits that can be switched between 0 and 5 volts.  In this way a Switch can signify a “bit”   that is a 1 or a 0
+    
+
+  
+Storage of voltage levels equivalent to 0 or 5 volts.  In this way a “bits” of memory can be implemented or  pixels on an LCD display on a laptop can be created
+
+
+
+
+AND and OR Gates
+
+
+
+
+
+![2or](https://lh4.googleusercontent.com/tPPueKTVxTT5T9xp547TjtX9IslVvCtF58MQvrnO1WMompqApao-knk53GO_7Fwkq3Jm9xSXCJ5KiKq5xxxlu-Q-5Lg4GDPYzhBFRdV2nFKjb4NHAnBgwkg25mZSUmzeUQg4P2CEs-ATk4M=s2048)![2and](https://lh3.googleusercontent.com/D3x0qKjM1RcbJWbPoDGD8ogFUaVPe9byQai6oyd-98SOiswYfQROEYkzQn2nOO8W6hWJtTXVzSLHuThNbf1tDJKy0F8e4vGxBoaYSZsQMvpgWt6nROyEFS_Yo1XsJmzdV7t_HsaZRI-DFQE=s2048)![2andtuth](https://lh6.googleusercontent.com/V-7yOa8AWP-wCkD9HICbXJwI6uXp18zFAj6nhN8HmVqgnQbdrmkarPPJy0meVBosR4NIGkym5XAnbwM2PxjmlMqtjVwesxFLK0UVuOuCN0lBh-m1rMIK0IY_-G73oMUDv-1RoOVps5Pmg4A=s2048)![truth](https://lh6.googleusercontent.com/T_t4aSjNzm1XoaNd4VgdaAyN43lkQFq0_HVaWeKZYChmpdmaGYVGI3_5h82LZOtIaRdl1rXhrZbCyhhFUkCvhKKGhrDSxHAeB9cknz2mG9qYxHk-no7a0Q9lUFsC5FdUgFkXTd0GJPNgrUU=s2048)
+
+
+By combining gates we can create useful functions such as a the ability to store a bit of information
+
+
+
+
+
+
+-   The purpose of a latch is to allow a data value to be stored temporarily. So that we can hold it and “use” it for awhile…like a “bit” of memory
+    
+
+
+
+![Clocked RS NAND latch](https://lh3.googleusercontent.com/ng5onQGc4UiIWobCXDRefs5UoRsrczQhv6frMOOLcLZAZ5h3WB6W3ug8vYIs_whtSL4xmdH-5SfCA2-tuMl7wOD3bncEHWQoF8-zYnK0uPlZmoPZO1ey5SSQxf9J1VhRNN7d5er_5q566RM=s2048)
+
+
+
+
+Fetch, Decode, Execute Cycle
+
+
+
+
+
+-   Computer instructions are stored (as bits) in memory.  To run a program, each instruction is:
+    
+-   Fetched from memory.
+    
+-   Decoded (the computer figures out what it should do based on the number).
+    
+-   Then the instruction is executed.
+    
+-   The speed at which this cycle occurs is determined
+    
+
+by the system clock
+
+
+
+
+Cycle Times
+
+
+
+
+
+-   Generally the faster your computer can get through a fetch-decode-execute cycle, the faster it will perform.
+    
+-   Cycle times are measured in “gigahertz”, a billion cycles per second.
+    
+-   PCs these days reach 3500 Megahertz or 3.5 Gigahertz (3 billion cycles/sec)
+    
+
+
+
+
+
+Memory
+
+
+
+
+
+-   Each memory unit has its own address
+    
+-   Memory units are organized in groups of  Bytes (8 bits) or Words (16, 24, 32, 64 or 128 bits)
+    
+
+
+
+
+
+
+0  1  2  3  4 …………………………………..16 Billion
+
+
+
+
+
+Random Access Memory
+
+
+
+
+
+
+-   The main computer memory is called RAM (Random Access Memory)
+    
+-   It is “random” in that one may access any addressable memory unit independently of any other (and thus in “random” order).
+    
+-   In almost all modern machines the smallest single addressable amount of memory is one byte.
+    
+-   Memory is measured in megabytes or gigabytes or terabytes (millions, billions or trillions)
+    
+
+
+
+
+
+
+RAM chips on a Circuit board
+
+
+
+
+
+
+Dynamic Random Access Memory
+
+
+
+
+
+
+-   RAM allows for both reading and writing in memory.  Contrast this with ROM (read-only memory).
+    
+-   Most RAM is volatile, or “dynamic”.  When you turn off the power, the contents of RAM is lost.
+    
+-   Sometimes one talks about DRAM which is short for dynamic RAM).
+    
+
+
+
+
+
+Read Only Memory
+
+
+
+
+-   Read Only Memory can only be read from
+    
+-   It’s contents cannot be altered or written over easily
+    
+
+  
+
+-   This type of memory is used to hold instructions that need to always be there 
+    
+
+  
+For example, the initial instructions that are executed when your PC is turned on which instructs the machine to load Windows from the disk drive
+
+
+
+Machine Language
+
+
+
+
+
+-   Every computer CPU has its machine language, the set of basic instructions it knows how to execute.  
+    
+
+  
+A typical instruction might say, “get the contents of a memory location and put it in the accumulator register” (perhaps in preparation for adding it to another number).
+
+
+
+Machine Instructions
+
+
+
+
+-   Such an instruction would consist of two numbers:
+    
+-   One would be the address of the memory unit to be accessed.
+    
+
+The other would be the operation code of the instruction - the (somewhat arbitrary) number that refers to a unique and particular type of instruction
+
+
+
+
+Structure of Instructions
+
+
+
+Suppose we used 32 bits to encode a machine language instruction.
+
+
+
+
+Information Transfer inside the CPU
+
+
+
+
+-   Individual bits in a memory unit are transferred to the CPU in parallel (all at the same time).
+    
+-   This is opposed to serially (one at at time).
+    
+-   The same goes for information transferred between registers in the CPU.
+    
+
+A 64 bit machine can transfer 64 bits in parallel.
+
+
+
+Central Processing Unit
+
+
+
+
+-   manages the instruction-execution cycle
+    
+-   FETCH – DECODE – EXECUTE
+    
+-   coordinates the activities of other devices
+    
+
+
+
+![Block diagram of a generic computer](https://lh4.googleusercontent.com/cj8RA4uiCdLvmIvkP0QR5tP0KhstW3RB9iQWRTtsv0ur5nH9t7v_7N0ryaEl-z0ieqFmkMxVUOQrmOZGf-UUrgp7SO0C0wokKjoWYIS8fn6v2CVrdA6DcZmkW8tPBz-ASWifphMs7E5X_OQ=s2048)
+
+
+
+
+![Basic computer system](https://lh3.googleusercontent.com/obMAfxY1nRK2ro3OvSStzSv1bXG7oGAusgl8s1oYl8rZHSgOEirQA1llHmwT9AtEk0eNRAhFxY_wu_czdUu641KnXqHOJMcQe7SgIgOAZiXpQFoS2yzTkwSU64wEYTBoPU_gZ9gJC_1hDqE=s2048)
+
+
+
+![Data flow](https://lh4.googleusercontent.com/UHOQdDqUbw-zGOuOIc60MP6zuL1BQnTHhHZf2DEjPvxqNYgrrzrezqVGQrfC3p1GhlEnToJfhv0DPppjA64X5R0yJr4h0Wu2-UkLE1pII0lls73Kwt568VyUJ1ocLgU09i5Cnc-c-UdMngE=s2048)
+
+
+![](https://lh3.googleusercontent.com/ciPI2k80VBfR1ODwDG_82leuj1jET8SzIAlSHirND2moX2IMv5idxLTZvZqhRkVFxaa3zOG0Q_QrvKkHXttK12_whBYkofadRuy5p3Wzg6M1J0JSkHr931tEzYOVLOZ761euj8-JA5kXf6U=s2048)
+
+
+
+Types of Processor Operations
+
+
+
+
+
+
+-   Data Movement Operations
+    
+
+-   moving data from memory to the CPU
+    
+-   moving data from memory to memory
+    
+-   input and output
+    
+
+  
+
+-   Program Control
+    
+
+-   starting a program
+    
+-   halting a program
+    
+-   skipping to other instructions
+    
+-   testing data to decide whether to skip over some instructions
+    
+
+
+
+
+
+
+-   Arithmetic and Logical Operations
+    
+
+-   integer arithmetic
+    
+-   comparing two quantities
+    
+-   shifting, rotating bits in a quantity
+    
+-   testing, comparing, and converting bits
+    
+
+
+
+
+
+
+Challenges to Continuation of Moore’s Law
+
+
+
+
+-   The thickness (in atoms) between the silicon layers in transistors is getting very thin as we attempt to cram more transistors into the same amount of space…so much so that new materials need to be developed
+    
+
+  
+
+-   HEAT!!  As we put more and more transistors on a chip, the ability to cool it and keep it from burning up is increasingly a problem
+    
+
+  
+
+-   Noise -  As more transistors are packed ever more tightly together, the noise level of the circuits increases which affects reliability
+    
+
+
+
+
+Quad Core Processor
+
+
+  
+
+4 CPUs on one chip….. One way to increase performance…
+
+Parallel Processing
+
+
+
+
+# The Family of Computers  
+  
+  (Mainframes to Quantum)
+
+## The family….
+
+-   Mainframes
+    
+-   SuperComputers
+    
+-   MiniComputers
+    
+-   Servers
+    
+-   Personal Computers (PCs)
+    
+-   MicroControllers
+    
+-   Quantum Computers
+    
+-   NanoComputers
+    
+## Mainframes
+
+-   Nomenclature generally used for very large multi-processor systems capable of supporting hundreds of simultaneous users and programs via dumb terminals
+    
+-   Operates typically in “batch mode”
+    
+-   Timesharing paradigm
+    
+-   Highly centralized data and processing
+    
+-   Hardware optimized for general purpose computing
+    
+-   Capable of running several Operating Systems simultaneously
+    
+![slide07](https://lh6.googleusercontent.com/rMBu3Py__FaUu4OcwFCaakVQ0CWXlC9bJl7JMYyKJp_oxX6ZRraip1Vjq5DOUJcUsmN1ueIL84OYoguFtFI0m39YiG9sNQ099OBz0E20A7kMfrg2ul__1rg0VTNqRDLZ4Ep0ZMGgu4SmBL4=s2048)  
+
+## Mainframe Console
+![mage result for vintage mainframe computer pics](https://lh6.googleusercontent.com/IKB6eBRCSpw0PSYd0koAUAMVk2Mvfp8cZu7I_WpnXmTefhNtycPaQC0yiFyiNWDTmydshn3_Jb2zsjMfsiP6wKgT0RZW5e9ZnyGuSkzj7_RtL961WuarMZKMm75Y3zS4GRJdBG5pqU3TGwE=s2048)  
+
+## IBM 360 circa 1968 with  
+![360 photo](https://lh3.googleusercontent.com/tzXPk1ufTtFu41iZKA6QCRAJcgyERPbWUq_d7RB8DSsuQJq4kkK4iQFXz9KZXg8raj3hOff1sUEgELygOCi7WqoxbDZ8UUbg8lxSSxivVJTutIVZJgTy_-Tl2e0f-dRvMN5M2QPMSrRgZEU=s2048)  
+50 Megabytes of Storage on each disc!
+
+## Mainframes used lots of Tapes!
+![mage result for vintage mainframe computer pics](https://lh3.googleusercontent.com/A6vTsX8f4lSXCfPgS-bkDqnzlDP_jg0BpyMXxP6sxzhzwIan0efJA4AqwC_aVQh3d_hI1rqxp6qcUrqNRFmUVrHXBqnCVLyT0NExy9NwDQiaJ_mmveiBgfCs30x4rhP6Dew1KUFnFxc62Z4=s2048)  
+
+## Easy to use control panel!
+![onsole of an IBM 360/195 computer from 1971 - not really for music](https://lh6.googleusercontent.com/Tf6Y3cEwIeF2m-uCXt1c0R9-Rewe5yh1Wy3uRqDLoM8n3MqAmkc0RKz1ObKeyZrVsQ5iTDTS76gcXWWY4ZftGEiKVK6JXqujXumrezSquK9yuLUOfNFUWawb5LvxT6fsBRWhyVwH0hDYceo=s2048)  
+
+## Some Historical Mainframe Applications
+
+-   Accounting functions
+    
+-   Ticketing and Reservations
+    
+-   Manufacturing and Inventory Management
+    
+-   Payroll
+    
+-   Database Storage and Retrieval
+    
+## Mainframes…like the Brontosaurus, became an endangered species 
+
+-   IBM, Univac, Control Data, Honeywell, RCA, GE were all early producers of mainframe systems
+    
+-   Given the need for flexibility and scalability, mainframes are few and far between today
+    
+-   Mainframe functionality is better achieved with a network of smaller computers that distribute the processing
+    
+## Supercomputers
+
+-   Machines optimized for certains types of programs, usually involving intense numerical operation as opposed to general purpose computing.  These machines were sometimes of the “mainframe” variety and employ many hundreds of parallel processors
+    
+-   Cray Research
+    
+-   IBM
+    
+-   NEC
+    
+-   Fujitsu
+    
+
+## Supercomputing
+ 
+The high-end supercomputer market is where the world's most challenging  computing problems are addresse Problems of major economic and scientific importance were often handled by high-end supercomputers years before becoming "tractable" on less-capable systems.   
+
+## Supercomputer Performance
+
+-   A typical performance benchmark is the FLOP (Floating Point Operations per Second, which is multiplication of two large binary numbers)
+    
+-   MegaFlops (Million)
+    
+-   GigaFlops   (Billion)
+    
+-   TeraFlops   (Trillion)
+    
+![g152](https://lh3.googleusercontent.com/XSoP9VMmfz1NlDrJdLbJwdvFobD50Pb8Sujgm4VQuX_UBld1qtzmMrjnHEYo1utBTnC2gUpG4IWyMnJLOQ9W5vMlMFceb8wu7nlzSkqDu_HXpr4paoXyXcYFNYJPjF0cOsMy_dOOyEOCJIU=s2048)  
+
+## Examples of SuperComputing Applications
+
+-   Weather analysis/Climate Change
+    
+-   Rocket Science
+    
+-   Encryption/Decryption (code breaking)
+    
+-   Virtual Reality
+    
+-   Nuclear Research
+    
+-   Aerodynamics Simulation
+    
+-   Genetics
+    
+## Supercomputers, Cray 1 circa 1980
+![Cray-1](https://lh3.googleusercontent.com/ZsvyGxRafW3tkPS5bUn1QuJ7xB8UmaznH54i-24wIZ0KKPoS_vg5vfwcAaUPF6B5m1t21NkW7fKUYOObiHMf5e1uDnbg2wTi5qvuXtI1MRdx-o1Or1IY81f1i9wu5bo72Ga1wt1ghzl5ico=s2048)  
+
+## Cray T3 Today, 230 GFLOPs!
+![T3E](https://lh4.googleusercontent.com/u1fR96KhfjRIALNh5PbD7GARKPgsgyZF3c1BpOpLe-VbVQQBQkNCzjW02pkkVI6FgblWzExJ_uCHgtASjpUsD88OHrF2WOZV6CXaC4FEo936a1H1tWOF-_GBq7GWqdEgNk60tcaJwlI-1do=s2048)  
+
+## IBM Cluster 1600
+![IBM_cluster_front_3_550](https://lh6.googleusercontent.com/omA5OJCPf10Ye7faGRTdpYJkWWyQwSk3prSV1lGkhF_uXKiLkzXvOvNe4oKW6yUKO5qbYPIU-tCduf5bByz5SPIrVgLJNAY4y3DVSMox3M03F15OeCTBc_SvuvvlwECbkVqPYAbUfSxv34s=s2048)  
+
+## Earth Simulator by NEC
+![Earth Simulator](https://lh3.googleusercontent.com/sv-5BrpGyAfdERTFB2uGrWFrsqHix4C2s1E5rnFj5AI7lvTbxW1tKdwuScsTyM3HoISoujo_9G8j6_S7JBTXn52R14a9wdPsIVHa1WWEvCon2TIGU19hQYNmmBUXQ6owRUjTc1v14yPHlSU=s2048)  
+
+## Parallel Processing
+
+-   Many Machines, especially Supercomputers, use a technique known as parallel processing
+    
+-   It involves breaking a computational problem into parts that can be executed in parallel and processing the parts on a network of machines that can share intermediate results
+    
+-   The NEC Earth Simulator has 640 processing nodes and can achieve 30 Trillion Floating Point operations per second!
+    
+## MiniComputers
+
+-   MidSized system that fills the space between Workstations (PCs) and Mainframes.
+    
+-   First introduced in the late 60s by DEC and Data General to bring down the cost of computing from Mainframe prices
+    
+## Minicomputers
+
+-   Wide range of size and price points
+    
+-   Scalable compatibility
+    
+-   Became the dominant part of the computer market during the 70s and 80s
+    
+-   Slowly evolved into the machines that today we call “Servers”
+    
+PDP-11 and Vax Minicomputers from Digital Equipment Corp
+![10kl](https://lh6.googleusercontent.com/QNCm8xBgKdoIVv25-7OWErvrCluUty96PwYEm6_B2reyJR8zM6xbOzvhb3oEAtTs3cyHLd8t1XjEy8OPjYITT35jLfV-fUDBVQkmXIRW9QzKR0KGCtJRkmqZb3iaMppdJlZNKHmiZqyI2yA=s2048)
+![1144](https://lh3.googleusercontent.com/G_QLX0V5jN4UJKmiSRMX-Zgq-GZAclp9LY1C5ILVUWIlU9-eVOtYVo8o7pL9z8ZjdmtiNJcJxWlsMZkcElomA1SoD7uEuiFMrQqujG6zn1NafR5OaBcKwsP6O8svJCl8jyNX85KNB6XVe8c=s2048)
+![vax750](https://lh5.googleusercontent.com/BN7I0LjPGsDeZVaSofUCfHmuZ2jCl5DZoFyAy9OaMlZ2QsvurbPtleX1_UF60IiMlxBTtjoJex4_ZNZY-bybn3A-bFW3OHAidnsa-Ch6DOALI9s5JrY1YDkjGHnmvtpmRYCPeoUBBABCpmk=s2048)  
+
+## Servers, the new Minis
+
+-   Server class computers are the new nomenclature for Minis, whether they are used as servers, or not.
+    
+-   Serving up web pages on the internet has created huge demand for mid-sized, scalable systems
+    
+-   Moore’s law has enabled servers to become very powerful and cost effective tools for configuring scalable computing systems
+    
+## Rack mounted servers
+![mage result for computer server pics](https://lh5.googleusercontent.com/2Q1rrCep8L8vTDjz21OIR0044XFK-uOfZgzbixsI5lB81afP8QtO7ni3CUv9UgA78BbH3L8Mo5qaZ1MMVeiBf26GYC4D9Nk2fHTbYFbpPVQZ0IBORbqN3ZUSrMdfmEDlFXdCZEPK4HXR-hQ=s2048)  
+
+## Server Blades
+![mage result for pics of computer servers](https://lh3.googleusercontent.com/nL4pWTGQ18gvKqvPNtZLlaeS9sTXeV-MiALOJ2F9bDvZiShUiAAQYZoj2vkjhT7ReJ0K73caHWRkm4l3p1Cpd2FxTveia-IO4egYF2yTKuLFv4zW7F-9qzK20zZbpatHNoT5NFiwQLCx2RE=s2048)  
+
+## Lots of Servers configured  
+together
+
+## PC’s (Personal Computers)
+
+-   Desktops
+    
+-   Laptops
+    
+-   Typically used as clients or standalone machines
+    
+-   Larger PC’s can also be used as servers
+    
+-   The lines become more blurred over time
+    
+## Radio Shack TRS-80, 1978
+
+-   The first plug and play personal computer available at retail
+    
+-   Programmed in BASIC
+    
+-   Very successful
+    
+-   Very affordable
+    
+-   Limited commercial software
+    
+-   Created a cottage software industry of moonlighting programmers
+    
+![mod1bw](https://lh6.googleusercontent.com/iRUaPanZtu-WNr4eN8W9ooNXzl-WyeUNlsSMyPHSmUqRx65dW41aQqIeQW5mOyF-7sC2WIruDki2z8KcB7A8WNwcqqWPc4UZZEhoSe1t4KN33JTJBnTgUe0KN--0na21m01MZZQ_sSW235Y=s2048)  
+
+## The Apple II  - 1980
+
+-   The first commercially available Apple
+    
+-   Initially sold to Wall St. bankers who wanted the Spread-sheet program called Visicalc which ran on the Apple II
+    
+-   Put Apple on the Map
+    
+-   Several million produced through 1992
+    
+## Other types of “PCs”
+
+-   iPads etc.
+    
+-   PDAs (Personal Digital Assistants)
+    
+-   Game Consoles (Playstation, X-Box)
+    
+-   Programmable Calculators
+    
+-   Smart Phones
+    
+![g305](https://lh6.googleusercontent.com/8rQ5UXaFu6_xI1GUcQfmstLtUYE3l6AOybQEvIslOOubVtEz_Br8CCz1jn8mZ-0IlvUpP4PRc71wCLjKS17JGtZD0JuMH_U-EUIT0RTn9n49xNdRla7ouQ0KRZNKNdJ03VTQ8Wgqvf79rDk=s2048)  
+
+## Micro Controllers
+
+-   Application specific computers of very small size, low cost and limited function
+    
+-   Designed around their application
+    
+-   Simple OS ( often LINUX)
+    
+-   Very cost effective
+    
+## Typical Micro Controller Applications
+
+-   Robotics
+    
+-   Automotive 
+    
+-   Automation Systems
+    
+-   Appliances
+    
+-   Communications
+    
+-   Timepieces
+    
+-   Computer Peripherals (Disk, Keyboard, Display, CD, etc)
+    
+![g109](https://lh5.googleusercontent.com/yYzolU9eu76O5iJEcpKplm5TXMZ0NMp3XmV3lhZZ1JVNKinnO2nQCTd__XmIrCxDksINuC6j3RyGtj3-o84yLbi8p4AVQaoVIHNo4H3tv3XL1VywibMVA59cetOUKeK0IgdjABRFSZjnArw=s2048)  
+
+## Micro Controllers
+![mb1](https://lh3.googleusercontent.com/NjvwT0KXLuilEWUN12LMXahxzroftuSQMCqNApfyFsHizvbVmMyBmbhTks9hSwV_FBH-CGq0aMktmCdGLa0cLaJOaJTgrh2HcUPbTTxCLqWbjbVtbM9QN-a-vRvlXp5sPvmV6lvf_vPsPZo=s2048)  
+![Raspberry Pi 6010602](https://lh4.googleusercontent.com/vOFoJ0beIpyAjxEbSbdyGzln2QNxNBIOm9xL6t2pMyzUKc1FN44AOvKZCiMtah8USpAf4zdFzCABEWQFkDAQix4S53KugZuRpzOJ462DdwLnnPWSaXZ9kviIe3pTEzaQJwCODeFOHl5o_7A=s2048)  
+
+4 GB of Memory
+32 GB of Flash Storage
+4 USB port
+HDMI video output
+Sound Chip
+Wifi Radio
+$39.00 on Amazon!!!
+Rasberry Pi Micro  Computer
+
+## NanoComputing
+
+-   A nanometer is a billionth of a meter (10^-9) and spans approximately 10 atomic diameters
+    
+-   A nanocomputer is a computer whose fundamental components measure only a few nanometers(<100nm) 
+    
+-   Minimum feature size on today’s state-of-the-art commercial integrated circuits measure about 350nm 
+    
+-   Over 10,000 nanocomputer components could fit in the area of a single modern microcomputer component (= more speed & density) 
+    
+-   Nanotechnology and nanocomputers could introduce many new applications and possibilities
+    
+## NanoComputing Using Electronics
+![fig1](https://lh6.googleusercontent.com/rer2RKu4gJYV3CVh_sqbHNQItO-VbCJ5STm84Pd5S6cBLlerdW_dQjgWCu61xU7873pi3X-wTpxm1BMHJ40ldXYNFDzREpilLtcDhgDUo_cxU_YZxHDTNJ08sjLoEvJweiTcXryojZaPgBE=s2048)  
+
+## How small is small?
+![](https://lh6.googleusercontent.com/ByAFbIoJ9cWsuHZGdOinsnEb8ADSSHoPgZnHcVCH-EOSUQFf2xONHsU64uYrDqlWW1YNlt-wvXVrcG7FgUrfjOc4YFw79TY6p_ZxmqmO6voLpuEb-AKwcfPfU1WzvMYNm4FmR_hHCiiDGNM=s2048)  
+
+Nanocomputing using biological agents, molecules or atoms
+![fig3](https://lh3.googleusercontent.com/Zu7zBeAsLtAJoEJMAYU3XV2lsAgX3iS9BRH-V23tP9XF69NC99xuZmCJfcieB5MJb7hgCw5aUpv1FC7MqCDRsPghuKWBGGEhcbZwb71S3uPVY6gyYBOvheNtfQ3sRANO8HFmr_XwJpS4M7c=s2048)  
+![vg_possible_nanotech@100](https://lh4.googleusercontent.com/Q9yZDXiev7QgfKmVVDM3NTtJhzYM4jWIcruioUVB1ART2z1JsRNnKkYdAzfaccpPt--kh0Tu4y6FoZzFzMixqlpPapO_s_2gs2DkiNNAQVrtysqhjOSeqgtBWZZptC_H3Xv_Xu12cDJ4cQQ=s2048)  
+
+## Some Nanocomputing Applications
+
+-   Micro Miniature Robots
+    
+-   Computers under your skin!
+    
+-   Medicine
+    
+-   Artificial Brains
+    
+-   Invisible Sensors
+    
+-   Supercomputing at the very highest scale
+    
+## Skin computing!
+![elated image](https://lh3.googleusercontent.com/fuZIRNTvsLqWYJmxfISKQmuQblKqmFJh4Jbzo4UWqZ0xihXpwy5PhdnARDjLyZJm99xEe9ixdONTrsyWUGq9UfwrxXLQa1ehxYAyBy43eaK-ElDckz8EOugvQikx34rCpSkMZdWpSktGFyk=s2048)  
+![](https://lh6.googleusercontent.com/z3iOvh3JNzXKPaAl1GfLfXDHSp0XMbSiZpc97cu784G3__jg4hn-3FuV9CcRG4MNIWqThFTvGhBQ92TlRYaJAs2iyfzf3MjnI2PzT5jlzZMkwrsVVNg8-_k6zO1OgguzNm-GgC0IJEHzqXI=s2048)  
+![Image result for google quantum computer](https://lh5.googleusercontent.com/ICuBRYz_XwujunlVCkEN_wNPOp_e3M-S5neUKq7IyXxxzpIRnm3fW0xoBh4UHlcA3x3FA1S_b_YObTwFQCZdvzk395J7AVnlx58e46cELpTcUGCt0cXjvxFiBnkrVdUtfsOrZqBqw2DPDLU=s2048)  
+
+Recent announcement by Alphabet, Google’s parent company, about early results from their Quantum Computer development.
+
+Google has claimed "[quantum supremacy](https://www.livescience.com/65651-quantum-computers-get-scary-fast.html)" over the most powerful supercomputers in the world by solving a problem considered virtually impossible for normal machines.
+
+The quantum computer completed the complex computation in 200 seconds. That same calculation would take even the most powerful supercomputers approximately 10,000 years to finish,
+
+Q-BITs can have the value of 0 and 1 at the same time!
+
+Stay tuned as this and other Quantum experiments evolve.
+[https://www.livescience.com/google-hits-quantum-supremacy.html](https://www.livescience.com/google-hits-quantum-supremacy.html)
+
+# First Generation
 ## Claude Shannon 1916-2001
 
 -   In  1937 , Claude Shannon introduces the concept of binary logic for use in creating digital computing machines
@@ -172,7 +976,7 @@ A second generation electronic computing machine (1943) used to decrypt German e
 [CIS105 2023 Spring - Computer Generations (google.com)](https://sites.google.com/site/cis105portfolios/history/generations)
 [How many generations of the computer - javatpoint](https://www.javatpoint.com/how-many-generations-of-the-computer)
 
-# Post WWII
+## Post WWII
 ## IBM Harvard Mark I- 1944
 ![](https://cdn.britannica.com/93/23593-050-99D22EC5/Harvard-Mark-I-Howard-Aiken-ballistics-calculations-1943.jpg)
 The IBM Automatic Sequence Controlled Calculator after installation at Harvard University, 1944. It is 51 feet long, weighs 5 tons, and incorporates 750,000 parts.
@@ -208,7 +1012,7 @@ https://dl.acm.org/doi/pdf/10.5555/1074100.1074574
 https://spectrum.ieee.org/untold-history-of-ai-invisible-woman-programmed-americas-first-electronic-computer
 [Geschichte: 75 Jahre ENIAC: Der erste Universalrechner der Welt war streng geheim - ](https://www.geo.de/wissen/weltgeschichte/geschichte-75-jahre-eniac-der-erste-universalrechner-der-welt-war-streng-geheim-30378318.html)
 
-# Modern Computing
+# Second Generation
 ## John Von Neumann (1903-1954)
 ![](https://blog.hnf.de/wp-content/uploads/2017/01/JVN.jpg)
 
@@ -258,7 +1062,8 @@ https://www.i-programmer.info/history/people/294-the-mother-of-cobol.html
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/87/UNIVAC_I_Interior.jpg)
 
-# Bell's Early Transistors 
+# Third Generation
+## Bell's Early Transistors 
 
 ## "The most important invention of the 20th century"
 
@@ -304,7 +1109,7 @@ https://www.allaboutcircuits.com/news/jack-kilby-and-the-world-first-integrated-
 http://www.quadibloc.com/comp/pan05.htm
 
 
-# Gordon Bell
+## Gordon Bell
 
 -   Developed the first “Mini” computers 1960-83
     
@@ -327,7 +1132,7 @@ http://www.quadibloc.com/comp/pan05.htm
 
 ## IBM 1130, built their  own “small” computer, designed to compete with DEC’s minis
 
-# Specialized Supercomputers
+## Specialized Supercomputers
 ![Cray-1-supercomputer-diameter-1976.jpg (1600×1417) (britannica.com)](https://cdn.britannica.com/11/23611-050-81E61C8A/Cray-1-supercomputer-diameter-1976.jpg)
 
 -   First developed in the late 1970’s
@@ -348,7 +1153,8 @@ http://www.quadibloc.com/comp/pan05.htm
 -   Control Data Corporation, Cray Research, NEC, IBM and others
     
 
-# Intel 4004 Microprocessor - 1972
+# Fourth Generation
+## Intel 4004 Microprocessor - 1972
 ![photo-intel.jpg (2400×1800) (ieee.org)](https://spectrum.ieee.org/media-library/photo-intel.jpg?id=25586036&width=2400&height=1800)
 
 -   First commercially available micro-processor – first used in a programmable calculator
@@ -374,7 +1180,7 @@ http://www.quadibloc.com/comp/pan05.htm
 [Altair BASIC – Wikipedia](https://de.wikipedia.org/wiki/Altair_BASIC)
 [Altair BASIC 3.2 (4K Edition)](http://altairbasic.org/)
 
-# Start of the PC Era
+## Start of the PC Era
 ## Microsoft
 ![Altair_BASIC_Paper_Tape.jpg (3264×2448) (wikimedia.org)](https://upload.wikimedia.org/wikipedia/commons/9/9a/Altair_BASIC_Paper_Tape.jpg)
 
@@ -432,7 +1238,7 @@ Note the large 5” screen!
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2f/IBM_PCjr_wordmark.svg)
 ![1503091_orig.jpg (1100×731) (floridahistorynetwork.com)](http://www.floridahistorynetwork.com/uploads/2/5/3/4/25341746/1503091_orig.jpg)
 
-# GUI
+## GUI
 ## The Computer Company that wasn’t, Xerox
 ![star.jpg (300×376) (digibarn.com)](https://www.digibarn.com/collections/systems/xerox-8010/star.jpg)
 
@@ -462,7 +1268,7 @@ Note the large 5” screen!
 
 ![mac11deskicons.gif (512×342) (toastytech.com)](http://toastytech.com/guis/mac11deskicons.gif)
 
-# Just Some of the Companies that defined the Personal Computer Business early on
+## Just Some of the Companies that defined the Personal Computer Business early on
 -   Xerox
     
 -   IBM
@@ -556,7 +1362,7 @@ http://www.markrichards.com/Core_MemoryCollection/coreview/content/Control_Data_
 
 
 
-#  The Rise of the Internet
+##  The Rise of the Internet
 ## Factors behind the early development of the Internet
 
 -   U.S. and Soviet Bloc engaged in a “cold war” escalating after WWII 
@@ -1397,495 +2203,6 @@ Remember, everything is represented in bits!
     
 
 
-# Computer Architecture
-## The Uber Stack
-
-
-
-How We Interact with Computers
-
-
-
-
-Digital Components
-
-
-
-
-
-“Digital”
-
-
-
-
-
--   DIGITAL - Digital means discrete.  
-    
-
-  
-
--   Digital representation is comprised of a limited number of data points to encode information. 
-    
-
-  
-
--   Most of our electronic devices use Digital techniques to work with data and information
-    
-
-  
-Since we have a limited number of data points to work with, it means that many representations are approximations of the real thing
-
-	 
-
-
-
-
-What are computers made of?
-
-
-
-
-
-
--   Primarily Transistors
-    
-
-  
-
--   Invented in 1951, the Transistor is the basic electrical building block for all modern electronics
-    
-
-  
-
--   “the greatest invention of the 20th century”
-    
-
-  
-
--   For Digital applications, transistors are packaged in what is known as Integrated Circuits (ICs)
-    
-
-  
-
--   As many as 30+ Billion Transistors can be packaged in a single large  IC today
-    
-
-
-
-
-
-Anatomy of a Transistor
-
-
-
-
-
--   Transistors are fabricated using silicon (derived from quartz) and tiny amounts of impurities such as selenium or gallium arsenide to create what is called a “semiconductor”
-    
-
-  
-
--   Semiconductors allow us to control the flow of electrical charge (electrons) very precisely.  
-    
-
-  
-
--   Billions of semiconductors can be placed on an integrated circuit using a process called photolithography
-    
-
-
-
-
-
-Transistor Functionality
-
-
-
-
-
--   In various circuits Transistors can be made to:
-    
-
-  
-
--   Amplify or Attenuate electrical signals
-    
--   Invert electrical signals
-    
--   Store electrical voltage values
-    
--   Switch electrical signals off and on
-    
-
-  
-
--   Transistors can be combined to create logic circuits commonly known as  “GATES”
-    
-
-  
-
--   Gates are packed into Integrated Circuits commonly known as “Chips”
-    
-
-
-
-
-
-Simple Silicon Semiconductor Devices
-
-
-
-
-
-
--   It could only add and subtract 4 bits at a time.
-    
-
-
-
-       AMD Athlon64 Processor
-
-
-Use of Logic Gates in Computers
-
-
-
-
-
--   Primary Uses:
-    
--   Switches and logic circuits that can be switched between 0 and 5 volts.  In this way a Switch can signify a “bit”   that is a 1 or a 0
-    
-
-  
-Storage of voltage levels equivalent to 0 or 5 volts.  In this way a “bits” of memory can be implemented or  pixels on an LCD display on a laptop can be created
-
-
-
-
-AND and OR Gates
-
-
-
-
-
-![2or](https://lh4.googleusercontent.com/tPPueKTVxTT5T9xp547TjtX9IslVvCtF58MQvrnO1WMompqApao-knk53GO_7Fwkq3Jm9xSXCJ5KiKq5xxxlu-Q-5Lg4GDPYzhBFRdV2nFKjb4NHAnBgwkg25mZSUmzeUQg4P2CEs-ATk4M=s2048)![2and](https://lh3.googleusercontent.com/D3x0qKjM1RcbJWbPoDGD8ogFUaVPe9byQai6oyd-98SOiswYfQROEYkzQn2nOO8W6hWJtTXVzSLHuThNbf1tDJKy0F8e4vGxBoaYSZsQMvpgWt6nROyEFS_Yo1XsJmzdV7t_HsaZRI-DFQE=s2048)![2andtuth](https://lh6.googleusercontent.com/V-7yOa8AWP-wCkD9HICbXJwI6uXp18zFAj6nhN8HmVqgnQbdrmkarPPJy0meVBosR4NIGkym5XAnbwM2PxjmlMqtjVwesxFLK0UVuOuCN0lBh-m1rMIK0IY_-G73oMUDv-1RoOVps5Pmg4A=s2048)![truth](https://lh6.googleusercontent.com/T_t4aSjNzm1XoaNd4VgdaAyN43lkQFq0_HVaWeKZYChmpdmaGYVGI3_5h82LZOtIaRdl1rXhrZbCyhhFUkCvhKKGhrDSxHAeB9cknz2mG9qYxHk-no7a0Q9lUFsC5FdUgFkXTd0GJPNgrUU=s2048)
-
-
-By combining gates we can create useful functions such as a the ability to store a bit of information
-
-
-
-
-
-
--   The purpose of a latch is to allow a data value to be stored temporarily. So that we can hold it and “use” it for awhile…like a “bit” of memory
-    
-
-
-
-![Clocked RS NAND latch](https://lh3.googleusercontent.com/ng5onQGc4UiIWobCXDRefs5UoRsrczQhv6frMOOLcLZAZ5h3WB6W3ug8vYIs_whtSL4xmdH-5SfCA2-tuMl7wOD3bncEHWQoF8-zYnK0uPlZmoPZO1ey5SSQxf9J1VhRNN7d5er_5q566RM=s2048)
-
-
-
-
-Fetch, Decode, Execute Cycle
-
-
-
-
-
--   Computer instructions are stored (as bits) in memory.  To run a program, each instruction is:
-    
--   Fetched from memory.
-    
--   Decoded (the computer figures out what it should do based on the number).
-    
--   Then the instruction is executed.
-    
--   The speed at which this cycle occurs is determined
-    
-
-by the system clock
-
-
-
-
-Cycle Times
-
-
-
-
-
--   Generally the faster your computer can get through a fetch-decode-execute cycle, the faster it will perform.
-    
--   Cycle times are measured in “gigahertz”, a billion cycles per second.
-    
--   PCs these days reach 3500 Megahertz or 3.5 Gigahertz (3 billion cycles/sec)
-    
-
-
-
-
-
-Memory
-
-
-
-
-
--   Each memory unit has its own address
-    
--   Memory units are organized in groups of  Bytes (8 bits) or Words (16, 24, 32, 64 or 128 bits)
-    
-
-
-
-
-
-
-0  1  2  3  4 …………………………………..16 Billion
-
-
-
-
-
-Random Access Memory
-
-
-
-
-
-
--   The main computer memory is called RAM (Random Access Memory)
-    
--   It is “random” in that one may access any addressable memory unit independently of any other (and thus in “random” order).
-    
--   In almost all modern machines the smallest single addressable amount of memory is one byte.
-    
--   Memory is measured in megabytes or gigabytes or terabytes (millions, billions or trillions)
-    
-
-
-
-
-
-
-RAM chips on a Circuit board
-
-
-
-
-
-
-Dynamic Random Access Memory
-
-
-
-
-
-
--   RAM allows for both reading and writing in memory.  Contrast this with ROM (read-only memory).
-    
--   Most RAM is volatile, or “dynamic”.  When you turn off the power, the contents of RAM is lost.
-    
--   Sometimes one talks about DRAM which is short for dynamic RAM).
-    
-
-
-
-
-
-Read Only Memory
-
-
-
-
--   Read Only Memory can only be read from
-    
--   It’s contents cannot be altered or written over easily
-    
-
-  
-
--   This type of memory is used to hold instructions that need to always be there 
-    
-
-  
-For example, the initial instructions that are executed when your PC is turned on which instructs the machine to load Windows from the disk drive
-
-
-
-Machine Language
-
-
-
-
-
--   Every computer CPU has its machine language, the set of basic instructions it knows how to execute.  
-    
-
-  
-A typical instruction might say, “get the contents of a memory location and put it in the accumulator register” (perhaps in preparation for adding it to another number).
-
-
-
-Machine Instructions
-
-
-
-
--   Such an instruction would consist of two numbers:
-    
--   One would be the address of the memory unit to be accessed.
-    
-
-The other would be the operation code of the instruction - the (somewhat arbitrary) number that refers to a unique and particular type of instruction
-
-
-
-
-Structure of Instructions
-
-
-
-Suppose we used 32 bits to encode a machine language instruction.
-
-
-
-
-Information Transfer inside the CPU
-
-
-
-
--   Individual bits in a memory unit are transferred to the CPU in parallel (all at the same time).
-    
--   This is opposed to serially (one at at time).
-    
--   The same goes for information transferred between registers in the CPU.
-    
-
-A 64 bit machine can transfer 64 bits in parallel.
-
-
-
-Central Processing Unit
-
-
-
-
--   manages the instruction-execution cycle
-    
--   FETCH – DECODE – EXECUTE
-    
--   coordinates the activities of other devices
-    
-
-
-
-![Block diagram of a generic computer](https://lh4.googleusercontent.com/cj8RA4uiCdLvmIvkP0QR5tP0KhstW3RB9iQWRTtsv0ur5nH9t7v_7N0ryaEl-z0ieqFmkMxVUOQrmOZGf-UUrgp7SO0C0wokKjoWYIS8fn6v2CVrdA6DcZmkW8tPBz-ASWifphMs7E5X_OQ=s2048)
-
-
-
-
-![Basic computer system](https://lh3.googleusercontent.com/obMAfxY1nRK2ro3OvSStzSv1bXG7oGAusgl8s1oYl8rZHSgOEirQA1llHmwT9AtEk0eNRAhFxY_wu_czdUu641KnXqHOJMcQe7SgIgOAZiXpQFoS2yzTkwSU64wEYTBoPU_gZ9gJC_1hDqE=s2048)
-
-
-
-![Data flow](https://lh4.googleusercontent.com/UHOQdDqUbw-zGOuOIc60MP6zuL1BQnTHhHZf2DEjPvxqNYgrrzrezqVGQrfC3p1GhlEnToJfhv0DPppjA64X5R0yJr4h0Wu2-UkLE1pII0lls73Kwt568VyUJ1ocLgU09i5Cnc-c-UdMngE=s2048)
-
-
-![](https://lh3.googleusercontent.com/ciPI2k80VBfR1ODwDG_82leuj1jET8SzIAlSHirND2moX2IMv5idxLTZvZqhRkVFxaa3zOG0Q_QrvKkHXttK12_whBYkofadRuy5p3Wzg6M1J0JSkHr931tEzYOVLOZ761euj8-JA5kXf6U=s2048)
-
-
-
-Types of Processor Operations
-
-
-
-
-
-
--   Data Movement Operations
-    
-
--   moving data from memory to the CPU
-    
--   moving data from memory to memory
-    
--   input and output
-    
-
-  
-
--   Program Control
-    
-
--   starting a program
-    
--   halting a program
-    
--   skipping to other instructions
-    
--   testing data to decide whether to skip over some instructions
-    
-
-
-
-
-
-
--   Arithmetic and Logical Operations
-    
-
--   integer arithmetic
-    
--   comparing two quantities
-    
--   shifting, rotating bits in a quantity
-    
--   testing, comparing, and converting bits
-    
-
-
-
-
-
-
-Challenges to Continuation of Moore’s Law
-
-
-
-
--   The thickness (in atoms) between the silicon layers in transistors is getting very thin as we attempt to cram more transistors into the same amount of space…so much so that new materials need to be developed
-    
-
-  
-
--   HEAT!!  As we put more and more transistors on a chip, the ability to cool it and keep it from burning up is increasingly a problem
-    
-
-  
-
--   Noise -  As more transistors are packed ever more tightly together, the noise level of the circuits increases which affects reliability
-    
-
-
-
-
-Quad Core Processor
-
-
-  
-
-4 CPUs on one chip….. One way to increase performance…
-
-Parallel Processing
-
-
-
-
 # A New Computing Paradigm?
 
 
@@ -1933,6 +2250,10 @@ Parallel Processing
 
 -   Very much in primary research….not here yet
     
+
+
+
+
 
 
 
@@ -3886,303 +4207,9 @@ Flash Memory
 
 On/Off Switches, Temperature, Humidity Sensors
 
-# Binary Notation and Intro to Computer Graphics
 
-## Dealing with Binary
 
--   Binary numbers in their native notation are not very user friendly
--   Hex notation (short hand for Hexadecimal) is an easier and more intuitive way to express binary values
--   Many programs and programming languages allow the use of Hex to denote binary values
-
-Hex Notation using 4 bit Nibbles
-Binary    Hex    
-
-0000       0       
-
-0001     1     
-
-0010       2       
-
-0011       3       
-
-0100       4        
-
-0101       5        
-
-0110       6        
-
-0111     7        
-
-Binary      Hex      
-
-   1000 8  
-
-   1001 9    
-
-   1010 A    
-
-   1011 B    
-
-   1100 C    
-
-   1101 D    
-
-   1110 E    
-
-   1111 F
-
-Hex Example….
-
--   So the one byte Binary numbers:
-    
-
--        0010 0001 = 21 Hex =Decimal 33
-    
-
-            2     1
-
-        Or 128 + 64 +32+16 +8+4+2+1
-
-  
-
--         1010 0100 = A4  Hex =Decimal 164
-    
-
-        Or  128+64+32+16+8+4+2+1
-emember……
-
--   DIGITAL - Digital means discrete.  
-    
--   Digital representation is comprised of a limited number of data points to encode information. 
-    
--   Our electronic devices use Digital techniques to work with data and information
-    
--   Since we have a limited number of data points to work with, it means that all digital representations are approximations of the real thing
-    
-Representing Digital Samples
--   The values associated with Digital Samples are  stored in Binary form, which is a very easy and inexpensive way for electrical machines to store and manipulate values by using simple building block electronic circuits built out of transistors
-    
--   So, you should think of a computer or any digital device as a machine that can store, manipulate and move large amounts of binary information at very high rates of speed
-    
-
-## Graphics Buzzwords
-
--    Pixel- 
-    
--   a spatial sample of a digital image. A pixel element is the basic component of a digitized image, which contains a set of numbers representing the features (color, intensity) of that spatial sample (a pixel may only have ONE color and intensity, therefore it is the lowest element of an image)
-    
--   Bitmap-
-    
--   a method of representing and storing digital images and graphics whereby the image is composed of a collection of individual pixels
-    
-
-## More Buzz
-
--   Resolution- 
-    
--   The capacity for detail contained in a message or signal. Representations with high resolution capture more detail than those with low resolution 
-    
--   In the case of digital images, resolution is primarily determined by :
-    
--   Number of pixels
-    
--   Size of Pixels
-    
--   Density of Pixels
-    
-
-## Digital Images and Pictures  
-
-
-A picture (as on your computer monitor) consists of many “pixels” 
-
-(= “picture element”).  A pixel is a very small area of uniform color and intensity.  Think of your laptop monitor as consisting of over 1,000,000 discrete small squares, or pixels.
-
-## Bitmap Graphics
-
-  
-
--      To display things on the computer monitor, a modern-day computer has built in hardware (memory) for storing a “bitmap” that represents the “picture” that should be displayed on the monitor.  
-    
--   The Bitmap is stored in MEMORY…..the more bits stored, the more memory required….
-    
-
-Graphic images
--   (for display) graphic images are composed of pixels
-    
--   this type of graphic is called bit-mapped or raster graphics
-    
--   the image is stored as a sequence of bits (a) representing the pixel properties (b)
-    
-Resolution
-This is a very low resolution (3 pixels by 4 pixels) picture of the letter “Y”.
-A magnified bit map
-
-![raster_vs_vector_1](https://lh4.googleusercontent.com/pSZtASSEljzA9SyQ6uHVuPFgBGUeJzykcOt3rFGYD37vtIP0yvwVYtZm10zUteELvZAbNmFfwo_gV4z4umqQ7MPxeXtfrexuDp2lRCl1I0HXLHZ331CJ53JJkDZemR7r0KRzI0T6SVgN0R0=s2048)
-Red, Green, Blue   RGB
-
-  
-
--   RGB color values are supported in all browsers.
-    
--   An RGB color value is specified with: rgb( RED , GREEN , BLUE ).
-    
--   Each parameter defines the intensity of the color as an integer between 0 and 255.
-    
--   For example, rgb(0,0,255) is rendered as blue, because the blue parameter is set to its highest value (255) and the others are set to 0
-    
-Color Levels of Intensity
-
-  
-
--   For a black and white (Grayscale) picture we might use, say, 8 bits (one byte) to represent 256 levels of intensity, from 0 (black) to 255 (white)
-    
-
-  
-
--   For a color picture for each pixel we would have 3 bytes, one each for the intensity of red, green, and blue respectively
-    
-
-  
-
--   (0,0,0) would still be black, while (255,0,0) would be red, (255,255,255) is white, etc.  
-    
-
-  
-
--   This is commonly called RGB (Red, Green, Blue)
-    
-
-  
-
--   RGB typically uses 3 bytes (24 bits)  for each pixel so that equates to 16,777,216 different possible colors
-    
-Image Resolution
-
-  
-
--   Resolution (Accuracy) is determined by two primary factors, pixel size and number of pixels
-    
-
-  
-
--   Higher Resolution renders an image with greater accuracy for any given size
-    
-
-  
-
--   Resolution is directly proportional to number of bits used for storage (memory)
-    
-
-  
-
--   Color accuracy is also proportional to memory as is brightness and  contrast since their values must also be stored for each pixel
-    
-
-  
-
--   There is a delicate balance between image size and apparent resolution
-    
-Advantages of Bitmap Graphics
-
-  
-
--   It is easier to create hardware to go from a bitmap representation to the actual display on the monitor (which is why monitors use bitmaps)
-    
-
-  
-
--   It is easier to draw pictures of things with imprecise boundaries, (or that consist of so many parts it would not be feasible to draw them all)
-    
-
-  
-
--   Your PC utilizes Bitmap Graphics to display everything that appears on your screen
-    
-
-  
-
--   Ability to create multiple layers which can be overlayed to create composites
-    
-
-Original Image
-![key1](https://lh5.googleusercontent.com/wEwqzRcwKV6OoXQtZUAtNhJ7Bqe3WfM-HsYQa-TdX5Jpbopbxgn2JNFeTXPvZhoFbzIlv4Est-sDq5SSc6YGHqqJnFl5U2oj1CS20QAUWWVGRUlXR_U45JJ_qbsOoXI-smKfwxM4-LxocPI=s2048)
-
-Magnified 
-![key400nosmart](https://lh5.googleusercontent.com/trLFHwSPlYM8K5RaercnW05AAD0a480yHz_E092nVg1kxLjdIdMZHy1yppbg01yz75h4-BXXS1g7Rntzmd8tLBdDGtUxaqsAAfAzeFwXjhhF_FD6kMbveN3kU_hbIadAZYkgsPv58dj1TwU=s2048)
-
-Bit Map Demo
-Paint  Brush
-
-
-## Vector Graphics
-
--   An alternative scheme for representing images is called “vector graphics”  In  vector graphics objects are represented explicitly.
-    
-
-## Vector Graphic Images
-
--   Object-oriented or vector graphics treat the image as a collection of graphic objects such as lines, curves, and figures
-    
--   Best rendered on special vector graphics machines
-    
--   Vector graphics are resolution independent and highly scalable
-    
--   Vector graphics are more easily edited and often more compact in storage
-    
--   Vector graphic images must often be converted to bitmapped images for display on bitmapped systems such as a PC
-    
-
-## Vector Graphics
-
-  -   the image is composed of graphic objects (lines, curves, figures, etc.)
-    
--   each object is defined by its graphic properties
-    
--   these properties may be changed and scaled easily
-    
-
-![](https://lh4.googleusercontent.com/JcxMYgmt3mWfX5C23Z95T7wuG6no3U--_HhFmw7FpKknohC8MAANbNlkZPRCR2WzwZ8xV3sencoPrug-hJmmprP6TTAC2M906MwzXFvzDIRdv00r0dAQW5F7Mmhwk9nUS3_ZMimkXiBSWrk=s2048)
-
-## Vector Graphics
-
--   each object occupies a separate layer
-    
--   layers may be moved, scaled, and arranged in different orders
-    
--   objects may be deleted and inserted easily
-    
-
-![](https://lh4.googleusercontent.com/fQKSrcrnRiyGjfYgkES_pohLgu7GdpxMlLxPrAGzKIje22Gl1GiDmRcvOfdOVFMMbVbrJReriTvCp-u2r2UYYMkRtRgCUX3i3njoU_faLNyjfNlC_AHgt4awxJD_HH8SGKx1mD-hPseeWWU=s2048)
-Magnified 
-
-![](https://lh3.googleusercontent.com/v7mFpQDuHHO6JolCPOHpEik9LD85bKQA_9wkMZ-PpeypXF5O5KLftRzQfUIrcLrzTkv6YIcV9JWpI12cZpm0jcPakGe93EWVCj9HFuFH3lt8_TUL0z_MS20dnG-cCOCA2_pU7wTDzxSvFlY=s2048)
-Vector Graphics Demo
-
-## Typical Graphic Applications
-
-### Bit-mapped graphics
-
--   Painting programs
-    
--   Image processing
-    
--   Text displays
-    
-
-### Vector graphics
-
--   Computer Aided Design
-    
--   Illustration
-    
--   3-D modeling and rendering
-    
--   Animation
-    
--   3-D Games and Simulations
-
-# Lecture 8 Legal Issues in Computing
+# Legal Issues in Computing
 
 
 ## Some of the Dominant Legal Issues in Computing
@@ -4651,6 +4678,7 @@ Read all about it…
   
 
 [https://simpleflying.com/boeing-737-max-story/](https://simpleflying.com/boeing-737-max-story/)
+
 
 
 
@@ -5502,6 +5530,1479 @@ Read the details here: [https://www.businessinsider.com/solarwinds-hack-explaine
 -   Portends future attacks aimed at critical infrastructure
     
 
+
+# Databases and Privacy
+
+Storing, Organizing and Retrieving Data
+
+## What is a Computer Database?    
+
+Answer:
+An Organized Collection of Data files that may be added to, deleted, modified and reported on   
+  
+## Attributes of all files
+
+-   Location
+    
+-   Size
+    
+-   Type
+    
+-   Files have information embedded with the data that defines how the data is organized
+    
+
+## Files, Records, and Fields
+![atabase](https://lh4.googleusercontent.com/q0hv8UWWpYJLl_3L5jpLbf3xS-JaimGnk32lfM0B1rzEgbLFW1-Om_kXgzBnP40nl7SZDQt9GH_BRMttqZzYds0A35tt5OkToCjabCHRCZNJfWdmMNtj9YXlBQK2ZZQCwaNyCwknLRFiS50=s2048)  
+
+The Two Major DBMS Models
+
+-   Flat File Model
+    
+-   Separate files are linked via physical links (link fields)
+    
+-   Favored where efficiency and performance are highest priorities
+    
+-   Relational Model
+    
+-   Separate files are linked via logical links in the data model
+    
+-   Favored where flexibility and support for ad hoc queries are highest priority   
+
+## Database Management System  
+
+Data Structure
+
+-   Flat file systems use only one file to model and store data
+    
+-   Many database problems will require multiple (but related) files for data modeling
+    
+-   Database structure must always be defined upfront
+    
+-   records and fields must be defined
+    
+-   field data types must be specified
+    
+## Using Multiple Files 
+
+-   Relationships must be specified when database structure is defined
+    
+-   Logical links are made explicit by linking appropriate fields in different tables
+    
+![](https://lh6.googleusercontent.com/9vBkSWMseggW3r_wDQKQhN_T3yjN479Z_wKEqteyu2iPaeAAHr5pFn-01BrnEO7va_JdbFwhFhgi4QxAF70a2Lt5oi7Bw3Bt2muKXXaZMbaPryR7KWTmqPl0VmgFntPjNRcJYYY2F-aENCU=s2048)  
+
+## Database Management System  
+
+## Accessing the Data
+-   Forms are often used for entering/viewing data
+    
+-   Queries are constructed to retrieve data satisfying specific criteria
+    
+-   Data can be sorted in multiple nested levels
+    
+-   Reports are constructed (often based on queries)
+    
+## A Form for Entering Fields
+![](https://lh6.googleusercontent.com/oT7pSzovWCUUIDKoxyKCO2KMM3hqjybJsSc_wdhY8vkgqAuHfqz1uYD_4L9XVwTfUmhRuw-NQv9b2-sCfJA9pIPm8eHJnJmpxWX5p-VYOyCNwphwRhQH6jZxTmR6V8fVVEkmN5br4qtpBAI=s2048)  
+
+## Example Report in Access
+![](https://lh6.googleusercontent.com/iYLu0PA-po9Q3mTarDG64avCe8L3mxyQYoeba7CygwcvaHhbY_UD08_krFeDqEZMbmOW5Mf4p7SNNEZnr6ZGpW9oW8na_JGShWXH9AnhMjWEwZvag8qO3GN55XYXytXA0zG1_7u2aFi4OHc=s2048)  
+
+## Query Languages
+
+-   Query languages, like programming languages, have specific syntax
+    
+-   These are more user-friendly than most programming languages
+    
+-   SQL (Structured Query Language -- often pronounced “sequel”) is a de facto standard
+    
+## Query Construction
+
+-   Queries are structured to retrieve data from specified fields in indicated tables (files) in a database
+    
+-   Retrieved data must satisfy particular search constraints
+    
+-   Boolean operators -- especially logical and and logical or -- allow the construction of multiple search constraint queries
+    
+## Example Queries -- SQL
+
+-   SELECT Name FROM Sales WHERE Amount > 5000 AND Region = “West”
+    
+-   SELECT Name FROM Sales WHERE (Amount > 5000 AND Region = “West”) OR (Amount > 2000 AND Region = “Midwest”)
+    
+## Summary
+
+-   Databases are Software that manages the storage and retrieval of data dates from the early days of computing
+    
+-   There are two primary database models today: the flat file model and the relational model
+    
+-   The network model provides excellent performance; the relational model provides excellent flexibility
+    
+-   The first step toward creating any database is the definition of the structure of the data to be modeled
+    
+## Summary (cont’d)
+
+-   All database management systems provide the ability to define data entry forms and reports for output
+    
+-   Query languages provide user-friendly access to database data
+    
+-   Queries are defined to retrieve data that matches (or satisfies) specified search constraints
+    
+-   SQL has become the de facto standard for query languages
+    
+## Database Products in Widespread Use
+
+-   Oracle
+    
+-   Informix
+    
+-   Microsoft Access
+    
+-   Microsoft SQL
+    
+-   MySQL
+    
+-   PostgreSQL
+    
+## Databases and Individual Privacy
+
+## Data to fight crime and terrorism  
+
+Lessons learned as a result of 9-11
+
+-   Too much data can be a liability 
+    
+-   Data on the same topic kept in different systems
+    
+
+-   Is not effective unless it is linked together
+    
+-   Sometimes requires filtering to remove “irrelevance”
+    
+The highly controversial Patriot Act has expanded the 
+
+Scope of data that the Govt. can collect and use on you
+
+## Social Significance
+
+-   Every one of us is profiled in several databases around the country many of which are linked to each other:
+    
+-   Financial, insurance and credit systems
+    
+-   Medical systems
+    
+-   Court, Justice and Crime systems
+    
+-   Retailer systems
+    
+-   Websites
+    
+-   Govt. systems (Municipal, State and Federal)
+    
+## On Line Privacy
+
+-   On-Line Privacy is an Oxymoron.  If you are connected to a network, chances are that someone, somewhere has the capability to keep track of you.
+    
+## How private is my credit report?
+
+-   Credit reports are a gold mine of information about consumers. They contain Social Security number, date of birth, current and previous addresses, telephone number (including unlisted numbers), credit payment status, employment, even legal information about court proceedings
+    
+## Who has access to my report?
+
+-   Those considering granting you credit. 
+    
+-   Landlords. 
+    
+-   Insurance companies. 
+    
+-   Employers and potential employers (but only with your consent). 
+    
+-   Companies with which you have a credit account for account monitoring purposes. 
+    
+-   Those considering your application for a government license or benefit if the agency is required to consider your financial status. 
+    
+-   A state or local child support enforcement agency. 
+    
+-   Any government agency
+    
+## Who are the people that store and provide information about you?
+
+-   Equifax
+    
+-   Experian
+    
+-   Transunion
+    
+-   Link to Equifax:
+    
+-   [Equifax Personal Solutions Credit Reports, Credit Scores, Protection Against Identity Theft and more](http://www.equifax.com/)
+    
+## Financial Services Modernization Act  
+
+also known as Gramm-Leach-Bliley Act or GLB  
+  
+-   Allows banks, insurance companies, and brokerage firms to operate as one. The combined companies have been aptly dubbed "financial supermarkets." 
+    
+-   They may promise you such benefits as consolidated account statements and lower fees. But at the same time, the ability of these companies to merge customer data from several sources and even sell it to third parties represents a real risk to your privacy   
+
+## What are your rights under GLB?
+
+-   Privacy Policy: Your financial institution must tell you the kinds of information it collects about you and how it uses that information. 
+    
+-   Right to Opt-Out: Your financial institution must explain your ability to prevent the sale of your customer data to third parties. 
+    
+-   Safeguards: Financial institutions are required to develop policies to prevent fraudulent access to confidential financial information. These policies must be disclosed to you
+    
+## Opt-Out / Opt-In
+
+-   "Opt-out" is contrary to the "opt-in" approach preferred by most consumer and privacy advocates. 
+    
+-   Opt-in prohibits a financial institution from sharing or selling your data if you do not give your affirmative consent. 
+    
+-   With opt-out, you give your implied consent by failing to return the privacy notice sent to you by your financial company. So, if you say nothing, it means "yes, you can share my data."
+    
+## So What?
+
+-   If you Opt In, then you can prevent sharing of your details.  It may be harder to obtain credit at a competitive price however.
+    
+-   If you Opt Out, then your info is in the financial supermarket and your creditworthiness is easily   determined and you get approval 
+    (or disapproval) very quickly for a given amount of credit
+
+## GDPR
+
+-   The General Data Protection Regulation 2016/679 is a regulation in EU law on data protection and privacy for all individual citizens of the European Union and the European Economic Area. It also addresses the transfer of personal data outside the EU and EEA areas.
+    
+-   Imposes large fines on firms that lose or share customer data without specific permissions by the owner.  
+    
+-   Google and Facebook being sued as we speak.
+    
+## A Typical Personal Database Search Service
+[http://www.intelius.com/](http://www.intelius.com/)
+
+## Mobile Spyware
+
+-   Enables someone to monitor everything that you do on your cellphone, and track all of your movements
+    
+-  [Mspy.com](http://mspy.com/)
+    
+## The  Social  Significance of Databases
+
+  -   Where is this heading?
+    
+-   Watch this ordering Pizza video!
+    
+-   [https://www.aclu.org/ordering-pizza](https://www.aclu.org/ordering-pizza)
+    
+## How much data is being generated and accumulated?
+
+-   https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#7729e77860ba
+    
+![](https://lh3.googleusercontent.com/d-CUof1ZJH0TEOK5IiMW0T3ZyPAWGsRVSWtNVTe5P2MkH8kDFVqxJUgWFQgCatFBJjdC-rRr79KsP1431ByJxXgqZY68mm2rNIkQLSTZdVnvTJtcgJWfr0IAjOLSS4mUEc3QRLi3d7U5uLE=s2048)  
+
+## Can Google access my data?  
+  
+It collects data on what videos you watch, the ads you click, your location, device information, and IP address and cookie data. ... Finally, Google promises that it doesn't sell your data, but rather uses your information to “make ads relevant” while you're browsing the web.
+
+## Does Google read your Email?
+
+-   Make no mistake, Google can and does read your email. And this should cause concerns about security and privacy. 
+    
+-   Because Googles servers have access to all of your organization's emails, an attacker that's able to penetrate these servers can also get all of your data.
+    
+## Does Instagram sell your date?
+
+-   The study found that Instagram collects 79 per cent of its users' personal data and shares it with third parties, including search history, location, contacts and financial info. “Any information you agree to be gathered by an app when signing up can be analysed for their benefit and even shared
+    
+## What are Digital Cookies?
+
+-   And, what do they do?
+    
+-   [https://www.youtube.com/watch?v=0LKVad2xj5M](https://www.youtube.com/watch?v=0LKVad2xj5M)
+    
+## Who owns your data?
+
+-   This largely depends on what you agreed to when you signed up for various services and applications!
+    
+# Data Science, What is it?
+
+-   Data science encompasses preparing data for analysis, including cleansing, aggregating, and manipulating the data to perform advanced data analysis. Analytic applications and data scientists can then review the results to uncover patterns and enable business leaders to draw informed insights.
+    
+-   In other word, figuring out how to use your behavior and data for maximum gain and competitiveness
+    
+
+# What is Computer Science?
+
+-   Not using a computer
+    
+-   Not just programming
+    
+-   A field at the intersection of Math, Engineering, etc
+    
+![sunlab](https://lh5.googleusercontent.com/nml-rAmvE76zbwJWrvpfc-Hwfb7uCRW4Y5MITuusFUMz_PtiJ0z5D9b4WGenpVR45b532Hkw1NmSETpZBkZ3--12wiWZlEPkQVEwZTiEFfIsww5LBuVaYv1Hi5UpjtX2t803M1MUzlzumB0=s2048)  
+
+## The Algorithm
+
+-   Fundamental inventions in formal thinking:
+    
+
+-   Formal Logic (Athens, ~4 C. AD)
+    
+-   Mathematical Proof (Greece, ~585 AD)
+    
+-   Secular Observation of Nature  
+    (~600 AD)
+    
+-   Arabic Numerals, including Zero  
+    (India, ~8 C. AD)
+    
+-   Algebra (al-Khwarizmi, ~810 AD)
+    
+-   Probability (late 1500's)
+    
+-   Scientific Method (early 1600s)
+    
+-   Now: The Algorithm
+    
+![al-Khwarizmi](https://lh5.googleusercontent.com/PU4SDpG5ZccGQSGEqFIgLoCLUfXzhMkA-ntrm_3axpBA2ij14Cheh0zOeG5wSPcaKNJjrygQNGbWwrAf38PLavexFEhNorzEonyc1HzxkDL_d16s6X2vpSQchx8QX8P9gMPTXylGXE2H3Qk=s2048)  
+
+## Computer Scientists
+![nerd](https://lh6.googleusercontent.com/D2QNYHUb6mBwVAFmeHVYMTydBGdqek1t72VoWWBp_qKfE9p7LQN6dnsBKuaDq496yo3d7u4wD3Xds1yMLwm06R7rxCf8uWs1XtFN9utELj8qaXZGD0delXJBYr5S2vUSYrsgSOupgCTVWRQ=s2048)  
+
+-   Who are Computer Scientists?
+    
+-   Computer Scientists study lots of things
+    
+-   e.g., "What are Algorithms Theoretically Capable of?“
+    
+-   Can Machines Think?
+    
+-   Today we're going to look at the applied version: Programming
+    
+## Computer Programmers
+ “Their rumpled clothes, their unwashed and unshaven faces, and their uncombed hair all testify that they are oblivious to their bodies and to the world in which they move. These are computer bums, compulsive programmers.”
+## Computer Science as the New Literacy
+
+-   The modes of thought that come from CS are influencing a huge number of fields
+    
+-   Modeling & Simulation
+    
+
+-   We can create all sorts of worlds inside the computer to work with
+    
+![simulation](https://lh3.googleusercontent.com/3-mPoui5v4Qg2x5xmqNIZAng1zt7bsLCioDT7QLKzYpz7cv2wvfXGFzInwNYxJL_ZPYUN5eP54GoUj_tZL7BAA1hFAEKclXfC5UV8eHVf62aaLYzTD1f0NjZnhwzkFWaiQvahSYsJkfzLZQ=s2048)  
+
+## What does a computer do?
+
+-   Computers internally just keep doing the same thing over and over:
+    
+-   Get the next instruction
+    
+-   Do whatever it says
+    
+-   Go back to step #1  
+      
+    
+-   But its internal instructions are in binary -- too hard for people to understand easily
+    
+![merrygoround](https://lh4.googleusercontent.com/jt40q1xjCObnPIKHGl5sGIAi43u6FRvPBO6p98GuSFAEZkdO3BeofuCkeGBI6cF84x6pPkWJ7LtUfZ5-BZYFy7m5XPbDWDOafb9q9nhstspq59P5SJlk9k0hK3uBwwQ3BkQbBBnWzkIWzd0=s2048)  
+
+## Formal Languages
+
+-   A program usually just a document -- a written list of instructions
+    
+-   You saw some of this with HTML -- A markup language is sort-of a programming language
+    
+![tuxedo](https://lh6.googleusercontent.com/TwrB6O77DvvWtUy-lpHw6ykNd-YczHcduRuWyXTp3CsqXeNhHgyUMym8OwvpEjdZUBwitzsiaS7fxmZUvvVC1B-IslJRitac5HmMAetzMn3VxVV9Sh5vEHf3T2CObFQU3oJbm9LQiyv0pGE=s2048)  
+
+Poetry: Ambiguity and metaphor are important
+Prose: Literalness and structure important
+
+## Program: Formal, precise structure
+
+![robot](https://lh3.googleusercontent.com/POmUh5VFcXeq6rw8nf1aJ5b3IjPrzc_qVkG8GgMelMjLGUXKUHKM3Rltv8uzN3A0fAOBVbHpcqKTdX04FAM9qa-ApbwWgmhaiJAysi9efrYg35IQ9SExqKnePIbl5Y4xhzIhdgt29c29_bc=s2048)  
+
+PB&J
+Robot…
+
+## Programming Languages
+![progpang](https://lh4.googleusercontent.com/6zjFP2ZDHOYjY2MP1U9oGz8Bbpfw4mUnSLfFwvxWcs3NK2gzE13dyNNKC2rPHOpG7W8WTeh4nPXE2cBai4ILG6xpQ7-v1infqMUTBL9WMBhwdqB4egMLy7vqCv2ygWNTLL62mEqedn1zMGc=s2048)  
+
+-   Some simple ones are built in to programs you use every day
+    
+-   Excel is a programming language (and contains another)
+    
+-   Word Macro Language
+    
+-   There are also General Purpose Programming Languages
+    
+## Pseudocode
+
+-   There are lots of details to programming languages
+    
+-   We’ll also use something called “pseudocode”
+    
+-   Most of the way to a programming language
+    
+-   Excludes some details
+    
+-   With some plain English mixed in
+    
+## Some Core Concepts
+
+-   (A quick taste of what you'll be learning in Python)
+    
+-   State
+    
+-   Expressions
+    
+-   Variables
+    
+-   Control
+    
+![python](https://lh3.googleusercontent.com/_B8CEwXBWpGEOiN_sylDGmMxPiEqnzXDG-fmntazupCGIGDjev-tFzq7irg6Y6zR-s64l233IlkN06w4A20lfx1c4OaKak_TggSAMXxwQyfzAMvf1E4aLGsGvgAAERats8WCYf2IsN0B8Jk=s2048)  
+
+## State
+![chessboard](https://lh6.googleusercontent.com/hgEFp-TGT32OVCjyMEMTgVGQ-cMjfTdNgZfyXljUyS782HmFv9bRf6bTgdSWmvgOoT5t0RaY-m3Ym2q-zzWXdNrZpTeeKM-0H5PcbdJrU1y3OjGNd7kapcE0_d-DMZ_idyTED31FlRUKD8I=s2048)  
+![faces](https://lh4.googleusercontent.com/w9MelqLCcaMyaYJzC4b-GQkeM9JMqlJBNskzhLNG0WW4gfh1jD9a9y9dK3ewUuPyJhdJ3F3qFKBQ_g7nHlmAox5wNTKxKQewh5AtHEBmjN61hVJZkyQE4HroM4wJu0O-rgb36Y7zB-e0nOk=s2048)  
+
+## Expressions
+
+> print “Hello”
+
+  Hello
+
+> print (5+3)  
+8
+
+>print (5*5-2)  
+23
+
+## Variables
+
+-   Not exactly like Algebra
+    
+-   In Algebra x=5 (or 5=x) expresses a truth
+    
+-   In a program, x=5 updates something in the computer’s memory
+    
+-   (and 5=x wouldn’t work: it’s not a valid statement)
+    
+## Control Structures
+
+-   Lets you make decisions
+    
+-   for, while, …
+    
+if(x>5):
+
+   print (“x is big”)
+
+Else:
+
+   print (“x is small”)
+
+## Programs
+
+ “The computer programmer is a creator of universes for which he alone is responsible. Universes of virtually unlimited complexity can be created in the form of computer programs.”
+
+![escher](https://lh5.googleusercontent.com/dvUuJNEvhNdipLWW1b-Wz1DAuYCCfUv7S3bJiB0MnOpmH4WVcNzjaa_P4_q0vXpBLejiTpoV9kjZxj-3s7SJBULn-pRmowfP0dzgrm83W-Y5eb9QToJy6sXB_a9KAekk3Eidu3J0Cni4wXU=s2048)  
+
+## Complexity
+
+Controlling complexity is the essence of computer programming
+
+-Brian Kernigan   
+  
+## The Process
+
+![nterpreter](https://lh5.googleusercontent.com/uzi4GLrSnCOzVkduLexwqyZeVeAGncs8is6w0ikMrJ-VOCUaKgFbp8OwmajGBxPaAaleRXQA0ZjPo5PigfVmIhF4DLLOSjyK5jmW5cfGU6WoA0RxuORHpq56vO-Ql4fOzRHUv2IC8GvXCq4=s2048)  
+
+## But what do you DO?
+
+-   Design
+    
+-   Requirements
+    
+-   Use cases
+    
+-   Pseudocode
+    
+-   Formal Code
+    
+-   Test
+    
+-   Debug
+    
+![working](https://lh5.googleusercontent.com/pr4wNqcPcjxv1DoH6T7e0zr2bfzRf9mr_42a9MBexGLUueJnsjPHRGRn_P-zaUbbkj_5QuH0aSeKrtIl1XHVf4kgIuj1qTfOylviRwyesee-ZgzoEi2TgGsvk57eVzVDKdIIKbugYxpIW8s=s2048)  
+
+## Design
+
+-   Most programming is not done sitting in front of a computer
+    
+-   You need to really understand what the program will do
+    
+-   How it interacts with the user
+    
+-   And how it is structured internally
+    
+![thinker](https://lh4.googleusercontent.com/D76SXAy9opE7DGhf-U-RghP9joy4z4hlloN1432KCSQq1g7-ceo6ieHe6QbdMPaV7wdAx-bmTlMJp8FEFUz-KJ4yDJ40MNl6k4calps1Le3_993m74t5iK-w67qmekptn9bNbqdj9k4adKo=s2048)  
+
+Mostly, when you see programmers, they aren't doing anything. One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them. Very often they're sitting there seemingly drinking coffee and gossiping, or just staring into space. What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his or her head.  
+  
+Charles M Strauss   
+
+## Test
+
+-   Testing a complicated program is difficult
+    
+-   Some people write the tests before the programs
+    
+
+ “Programming is like sex, one mistake and you have to support it for the rest of your life.”
+
+## Debug
+
+-   At the beginning, much of your time
+    
+-   In many ways more challenging than coding
+    
+-   When you have eliminated the impossible, whatever remains, however improbable, must be the truth. – Sherlock Holmes
+    
+![sherlock](https://lh5.googleusercontent.com/ONX54ZPwh0H02CE3YrAf6JWtxocP8qJ0ke4z0oibHYgWXdIm-0eKifhwLEzLDu8QApjd9lVei-9g0BGmziNUeCsLLzue1qazh4AOXhqPJtMFajOr65YhkZexV1lFGrX73jJELyfc65cXQI4=s2048)  
+
+## What is Python?
+
+-   A REAL Programming Language!
+    
+-   Developed in 1990 by Guido Van Rossum in the Netherlands
+    
+-   Named after Monte Python’s Flying Circus!
+    
+-   Openly available at no charge!
+    
+-   Freely distributed on the Web
+    
+-   Lot’s of Libraries of Python Routines available
+    
+-   Increasingly popular for writing scripts for the Web
+    
+## How does Python work?
+
+-   It is an INTERPRETED Language, (Like HTML and Java) so that it is easy to write and execute programs in an interactive mode
+    
+-   It has a very clear and easy Syntax
+    
+-   It is portable so it  runs on many different Operating Systems and Machines (Windows, MacOS, Linux, Unix, etc)
+    
+## What are we going to do with Python in CS2?
+
+-   Learn some basic commands and capabilities of the language
+    
+-   Printing data, evaluating expressions, inputting data, variables, loops, decisions, functions, boolean expressions
+    
+-   Learn how to use the programming environment
+    
+-   Learn how to write simple but useful programs
+    
+## What tools will you require?
+
+-   You will need the Python  Interpreter and programming environment
+    
+-   Already installed on the computers in the LAB
+    
+-   Can be downloaded and installed  on your personal machine from:
+    
+-   [www.python.org](http://www.python.org/)
+    
+-   Hint…to be safe install the 32 bit version for your OS
+    
+-   You will need the Python Tutorial
+    
+## General Conventions
+
+-   Python is Case Sensitive!…Be Careful!
+    
+-   Anything you name (variables, etc) must be referred to exactly as initially typed
+    
+-   Python Commands are always in lowercase!
+    
+-   Comments can be inserted anywhere by using a “#” before the comment text
+    
+-   Some commands require indentation to work properly
+    
+## Variables
+  
+-   You can think of variables as labeled jars that store different types of data. While there are several kinds of variables, today we're only going to look at two:
+    
+
+## String Variables
+
+-   Strings are literal collections of text characters
+    
+-   Strings must be enclosed in either single or double quotes
+    
+-   Strings may be manipulated by a variety of operators (repetition, concatenation, etc)
+    
+-   Concatenation example
+    
+-   word = “abc”
+    
+-   word = word + “def”
+    
+-   print (word) you will get:     abcdef
+    
+## More String Operations
+
+-   String Repetition
+    
+-   word = “Yo! ”
+    
+-   print (word* 5)
+    
+-   Results in   Yo!Yo!Yo!Yo!Yo!
+    
+## String Variables
+
+-   String - A string variable is a string of alphanumeric characters and allowed symbols that are contained within quotation marks. For example, "Hello world, I'm 102 years old today!" is an example of a string. 
+    
+-   Strings are basically used for storing text
+    
+-   Example:  greeting = “Good Morning Sunshine!”
+    
+## Number Variables
+
+-   Number - A number variable couldn't be more straightforward because all number variables store are numbers. You don't store them within quotes like strings. Instead, numbers can just be written as they are. If you want to store the number 9 in a variable, you just write 9
+    
+-   Example:  my_bank_balance = 9
+    
+or….    pi=3.14
+
+## Our First Program
+
+-   A program that prints a greeting!
+    
+-   print (“Hello, World!”)
+    
+-   When this program runs, it outputs…          Hello, World!
+    
+-   The text inside of the quotes in the program is referred to as a String, or String Variable
+    
+
+## Another way to achieve the same  
+
+result
+-   greeting = “Hello, World!”
+    
+-    print (greeting)
+    
+-   The output is     Hello, World!
+    
+-   Note that we assigned the variable name greeting with the value of the literal string inside of the quotes.
+    
+## Expressions 
+
+-   Another more complicated program:
+    
+-   print (“2 plus 2 is”, 2+2)
+    
+-   print (“3 times 3 is”, 3*3)
+    
+-   print (“35 divided by 5 is”, 35/5)
+    
+-   The output will be: 2 plus 2 is 4 3 times 3 is 9 35 divided by 5 is 7
+    
+## Operations on Numbers
+
+-   Operation Symbol Example
+    
+-   Exponentiation      5  2 == 25
+    
+-   Multiplication       * 2 * 3 == 6
+    
+-   Division                 / 14 / 3 == 4                                                14 / 3.0 == 4.6666
+    
+-   Remainder       %     14 % 3 == 2
+    
+-   Addition                 +      1 + 2 == 3
+    
+-   Subtraction          -     4 - 3 == 1
+    
+## More Variable Assignment Examples
+
+-   value = 4*8
+    
+-   net_price =4.56
+    
+-   repeat_word = “word” * 5 
+    
+-   Variables are created and recognized dynamically, that is when they appear in your program with a value assigned to them
+    
+-   Variables must be assigned before you refer to them otherwise an error will occur
+    
+-   The values that are assigned to variables in Python are called Objects, each object having a reserved place in memory with a pointer connecting it to the assigned variable
+    
+## Variable manipulation
+
+-   Variables can be used in conjunction with themselves to affect certain operations;
+    
+-   Example:
+    
+-   speed=3
+    
+-   speed=speed+4
+    
+-   speed=speed*3
+    
+-   print (speed)      
+    
+-   WHAT is the output of this program?   
+
+## Printing variables
+
+-   Variables may be printed by themselves or in succession
+    
+-   Example
+    
+number = 9
+
+bignumber = 55
+
+print (number)
+
+print (bignumber)
+
+print (number ,  bignumber)
+
+(puts them on the same line)
+
+## Inputting Data into your program
+
+-   We will focus on user input which is the simplest type and suitable for our purposes
+    
+-   Input command syntax is:
+    
+speed = input (“enter speed “)                 
+
+Ok, so let’s write a simple program with the stuff that we have covered so far
+
+-   # A simple program to check our travel progress
+    
+-   name = input ("enter your name: ")
+    
+-   speed = int(input("enter your average speed: "))
+    
+-   time =  int(input("enter your exact travel time in hours: "))
+    
+-   print (name + " your distance travelled is exactly ",speed*time, " miles")
+    
+-   print ("the end")
+    
+ “That's what's cool about working with computers. They don't argue, they remember everything and they don't drink all your beer.”  
+  
+# Artificial Intelligence  
+Can Computers Think?
+
+## What is AI?
+
+-   It is the science and engineering of making intelligent machines, especially intelligent computer programs.
+    
+-   Artificial Intelligence is the study of the computations that make it possible to perceive, reason and act.
+    
+## Artificial Intelligence
+
+-   Artificial intelligence is concerned with understanding the nature of intelligence through the creation of computer programs which control machines.
+    
+-   It is normally divided up into various sub-disciplines such as vision, learning, language, planning, motion, etc.
+    
+## Artificial Intelligence
+
+-   Artificial Intelligence becomes a formal branch of Computer Science around 1956
+    
+-   AI has its own computer programming languages LISP, which developed in 1957, is STILL in use today, along with others
+    
+-   Every major computer technology company has a considerable investment in AI research
+    
+## The Mind-Body Problem
+
+-   The major philosophical issue related to AI in computer science is the mind-body problem -- how the mind relates to the body as espoused by Rene Descartes
+    
+## Mental Life
+
+-   People (and presumably some animals) have a mental life.
+    
+-   Consider the question “what would it be like to be a bat?”
+    
+-   Mental life is made up of sensations (color, pain, smells, touch,etc.), emotions and  thoughts etc.
+    
+## The Mind Body Paradox
+
+1 - Bodies are physical.
+2 - Minds are not physical.
+3 - Minds and bodies interact. 
+4 - The physical and non-physical can't interact. 
+
+Any three of this propositions are compatible but all four together are not….  
+
+## Cartesian Dualism
+
+-   Cartesian dualism as espoused by Rene Descartes claims that mental activity is governed by different laws, and is made up of different stuff than purely physical activity.
+    
+-   The major problem with this theory for science is that nobody has every seen such stuff, or observed such laws.
+    
+## Physicalism
+
+-   Physicalism  contends that mental activity and physical brain activity are the same thing.
+    
+
+Here is Where Computers Enter the Picture.
+
+-   Computers today to some degree make physicalism seem less plausible. 
+    
+-   “What is it like to be an Apple iBook?”
+    
+-   Presumably our answer would be “not much”.
+    
+-   Would our answer change if the computer were talking to us and having a conversation?   
+
+
+## So, Can Computers Think?
+
+Not yet…but who knows what the future holds in store?
+
+-   Either way there are important philosophical ramifications.
+    
+## The “Chinese Room” Problem
+
+-   Imagine a person sitting in a room, and who does not understand Chinese. 
+    
+-   This person is given a manual on how to respond to all possible sequences of Chinese symbols.
+    
+-   To the outside world, the person in the room seems to understand Chinese, but does not.
+    
+-    The same should be said about computers.
+    
+## Just Wait for Our Intuitions to Change!
+
+Many things that we currently take for granted at one time seemed very implausible.
+-   Computation and logic can be carried out in the absence of consciousness.   
+
+## The Promise of AI
+
+-   Some Machines that “Think”, or at least give the appearance that they do….
+    
+-   Robots
+    
+-   Expert Systems
+    
+-   Automation
+    
+-   Natural Language Processors
+    
+## Results To Date
+
+-   Software that analyzes other systems and software
+    
+-   Software that “learns” and never forgets
+    
+-   Very reliable robotic systems at decreasing cost
+    
+-   Problem Solvers
+    
+-   Computer Chess and other Games
+    
+![Demand of AI in various Industries](https://lh4.googleusercontent.com/rtdcBHWaNnRdH3nuoDNQt5gLrlYzvvzP-Ts4Xbu2Y3fuDEeJIQbovKoZqQ1CmS1wzJ2_H3KxPUz1Dcn7HYm9umDKa-tc8pelXm5YIcZaQenAwt4ht43rkITq8wb0Ssqyzc6pGoNtKIfUz5A=s2048)  
+![](https://lh5.googleusercontent.com/A_81T97txQPIInALKlSodG-D6kpREi5LUA8xVF1oPeh4cX6yQFy_JG5Uo1MH2Cauwf3_8LGxK-fg6hOgjUGZc5Ut29Yj2gj0eZS1ig6VE8Gzft4UyVOKcJkzTYxAGbBvJUL0FiWGjOej40Y=s2048)  
+
+## Some Areas and Applications of AI Research
+
+-   Game Theory
+    
+-   Speech and Language Recognition
+    
+-   Machine Vision
+    
+-   Expert Systems (Learning)
+    
+-   Robotics
+    
+-   Heuristic Classification (what should I do?)
+    
+## Machine (Computer) Vision
+
+-   Computer vision is concerned with reconstructing the objects and their placement in a scene from one or more  arrays of light intensities generated by these objects.
+    
+-   It is a very complicated problem.
+    
+-   That we and other animals do it so effortlessly speaks highly of evolution.
+    
+## Line Detection
+
+-   Early vision (things that are done early in the vision process) is generally concerned with line detection.
+    
+-   Lines are places where there is a sharp change in light intensities.
+    
+-   Noise often complicates things, so it is necessary to smooth the observed light intensities.
+    
+Three Causes of Lines
+
+Line caused by reflectance change.
+
+Line caused by object orientation change.
+
+Line caused by object boundary.
+
+## Early Vision and It’s Uses
+
+-   So far we have been talking about early vision:  line detection, stereo, texture.
+    
+-   Some tasks require not much more than this, e.g. driving a car on a highway.
+    
+## Object Recognition
+
+-   More advanced machine vision is concerned with object recognition.
+    
+-   Problem involve how to represent object shapes and sizes, how to map such representations when an object is seen at different angles
+    
+## Some Applications for Object Recognition
+
+-   Manufacturing Quality Control
+    
+-   Medical Research
+    
+-   Navigation over terrain (Guidance systems)
+    
+-   Facial Analysis (Security Systems)
+    
+-   Robots
+    
+## Object recognition in    manufacturing
+
+-   [https://www.tesla.com/videos/tesla-factory-highlights](https://www.tesla.com/videos/tesla-factory-highlights)
+    
+## Machine Learning
+
+-   Machine learning is the creation of new hypotheses by computers (or at least hypotheses new to the computer).
+    
+-   Today most machine learning programs use statistical techniques, and there is, in general, a great cross fertilization between Statistics and Artificial Intelligence.
+    
+## Planning
+
+-   Planning is deciding what action to take next.
+    
+-   Within AI planning problems are generally thought of as coming in two varieties:  planning with and without complete information.
+    
+## Game Playing
+
+-   One standard planning problem is game playing.
+    
+-   Games like chess are examples of planning with complete information since one knows the exact state of the game board, and nothing else affects the play of the game
+    
+Game Trees with known rules
+
+My possible first moves.
+
+Initial state of the board
+
+State after move 1
+
+State after move 2
+
+My opponents possible moves.
+
+State after move 2 followed by  my opponents move 1
+
+## Using the Game Tree
+
+-   In principle one can decide on a move by considering all possible responses to responses …
+    
+-   In practice one cannot carry this out to the end of the game..
+    
+-   So one carries it out as far as one can….
+    
+## Chess Playing
+
+-   Many of the worlds best chess players are computers.
+    
+-   A computer (IBM’s Deep Blue) beat the Gary Kasparov, the world champion in 1997 in a one on one tournament using the tree technique..
+    
+## Number of possible moves in a chess game
+
+-   There are over 288 billion different possible positions after four moves each. The number of distinct 40-move games is far greater than the number of electrons in the observable universe…..
+    
+## Pretending the Information is Perfect
+
+-   In many cases one needs to plan without perfect information, scheduling a factory floor, airport terminal gates, transportation of supplies.
+    
+-   If things break down, or don’t arrive, analyze the result and re-plan
+    
+## Planning Under Uncertainty
+
+-   Some of the time, however, the future is very uncertain.
+    
+-   Should one send an airplane to pick up people if you are not sure where the people are, if the airplane will make it, or if they really want to be picked up?
+    
+## Utility Theory
+
+-   A standard tool for reasoning in such situations is utility theory.
+    
+-   Actions have costs, and possible outcomes with certain probabilities.  Do the action for which the sum of P(outcome)*Utility of outcome - cost is the greatest.
+    
+## Speech Recognition and Natural Language Programs
+  
+  -   Very difficult problem
+    
+-   Recognizing words and simple phrases vs. complex thoughts and syntax
+    
+-   Cultural nuance and Context
+    
+-   Pattern recognition on different speech patterns and accents
+    
+-   Used by the “Turing test” as the ultimate test of computer intelligence
+    
+## The Loebner Prize ($100K)
+
+-   Awarded each year to the computer program that best responds to a team of human questioners and best mimics another human being in what is called the “Turing Test”
+    
+-   Turing asked the question, “ If a computer could be made to think, how would we tell?”…have a conversation with it…..?
+    
+## Chat bots
+
+A Chat bot is a program that attempts to simulate typed conversation, with the aim of at least temporarily fooling a human into thinking they were talking to another person. 
+
+Chat bots are lightweight Natural Language Programs.    
+
+## Chat bot Speech Demo 
+
+Two Bots talking to each other!
+[https://www.youtube.com/watch?v=X_tvm6Eoa3g](https://www.youtube.com/watch?v=X_tvm6Eoa3g)
+
+## Heuristics
+
+-   For a given set of circumstances, what should be done?
+    
+-   What information can be used as input into the decision process?
+    
+-   What weight should be given to different pieces of data?
+    
+example: approving a credit card purchase   
+  
+## Robotics
+
+-   The ultimate exercise in planning and action is in the area of robotics.
+    
+-   The current state of robotics is still fairly primitive.  Our sensors typically do not tell us much about the environment with much certainty, and our effectors do not work all that well either.
+    
+
+## Robotic Sensors
+
+-   Infared
+    
+-   Lasers
+    
+-   Temperature
+    
+-   Humidity
+    
+-   Liquid
+    
+-   Micro Switches  
+
+A practical robotic example
+
+-   Self driving cars!
+    
+-   [https://www.youtube.com/watch?v=TsaES--OTzM](https://www.youtube.com/watch?v=TsaES--OTzM)
+    
+## IBM’s Artificial Brain
+
+-   IBM has recently unveiled its Blue Gene Artificial Brain.
+    
+-   Has the computing power of a cat’s brain but is only 1/83rd as fast as a human brain
+    
+-   Consists of 147,000 interconncted processors and consumes 1,000,000 watts of power and has 150,000 Gigabytes of memory!
+    
+## IBM Blue Gene
+![Blue Gene/L supercomputer](https://lh3.googleusercontent.com/33E0MQa3Y_1X5RuI0JjgOo-482uVhJeCOpnABIDU2mfO_FIn9G4nJ8qY0EHUsV1i2r9f_FrsxNFDWwAXPJrVXasqXV18TLVFsjVCge2Ky8KxG0zB_EDXb-k1AG1dX5pdLN_BlCaKDnloWT0=s2048)  
+
+## IBM Watson
+[https://www.youtube.com/watch?v=P18EdAKuC1U](https://www.youtube.com/watch?v=P18EdAKuC1U)
+
+## Self Awareness
+
+-   Can machines be made Self-Aware?
+    
+-   Implies that at some point they might not need further programming….they do it themselves….just like a new born infant does from the time it is born!
+    
+-   The machines could then decide whether or not they like us…and if they should keep us around!
+    
+
+## Self Awareness in Popular Culture
+
+-   Science Fiction from Asimov, Phillip Dick, Arthur Clarke, Brian Aldiss and others…
+    
+-   Robots
+    
+-   Malevolent Computers
+    
+-   Artificial Worlds
+    
+-   Androids and Replicants
+    
+-   Self Aware Machines the enslave mankind
+    
+
+## Asimov’s Robotics Laws
+
+Over-riding Law: A robot may not injure humanity, or, through inaction, allow humanity to come to harm.  
+
+Law One: A robot may not injure a human being, or, through inaction, allow a human being to come to harm, unless this would violate a higher order law.  
+  
+Law Two: A robot must obey orders given it by human beings, except where such orders would conflict with a higher order law.  
+  
+Law Three: A robot must protect its own existence as long as such protection does not conflict with a higher order law.  
+
+[Isaac Asimov](http://inventors.about.com/gi/dynamic/offsite.htm?site=http://www.cis.ohio-state.edu/hypertext/faq/usenet/books/isaac-asimov-faq/part3/faq.html)
+
+Given the uncanny accuracy that science fiction has for predicting the future…who knows?…
+
+## Some examples of AI in popular culture
+
+![discovery](https://lh3.googleusercontent.com/EZCyabQT7ZhA1q7K_Y7nKTuOLaLqueuibvyX2Z7SO0FwAjIervgiEVk_ZcHKo4a9eZqcgg5K4MmCwo_kGlSSmvoLzM2mcGxColfQ6HXro1x7zjbuszmMp9VBeZ1vYkpucXJET7CxopXhOyU=s2048)  
+
+## 2001 Space Odyssey…controlled by HAL
+
+(Heuristic Algorithm)
+![willIdream](https://lh5.googleusercontent.com/ZreO36doysRyv442nY5lKSeIYpFFkr0Tw5ZMIpsnT9E1HhVqcJl0QBFw2dNY7UU8XQBeRUZpQNk4T6xC1NVmuhKThj544PMnJftOw7OYRHcN2LanFgCFm9VqI8vjg5OYq3CMrbNebwLPwPA=s2048)  
+
+Walking Inside Hal’s Brain…to pull the plug!!
+
+## Hal 2001 Space Odyssey Dialogue and Video
+
+[https://www.youtube.com/watch?v=HwBmPiOmEGQ](https://www.youtube.com/watch?v=HwBmPiOmEGQ)
+![blade18](https://lh4.googleusercontent.com/uqJE40lkPC8vCpDPkKtHmars6ZYrO71hdfCIKeqSmwYD6BdGkrm-aW-fnmybNDp1Mp74bLO7FyxZL26_Lxx9zjxD4Br9eBirm8tXw5d4hPA5mtwWejaLT4WxeJ6ZxNWvq24UK70Z8MAtqBE=s2048)![blade01](https://lh4.googleusercontent.com/zI1Zw2o1Zax7wNCuqnOpmD_oSs1yxXWQivSuBzeWVVYDxTj4ZqQr8LQnkoVgq4PsCZ_Z0mMxZgQ-h2h53dCw347aFpHcoeWZCvoJW4MyDNAwuFO-LEaAtozlLn1LV4zPTH8DUYD0o6v3oS4=s2048)![blade12](https://lh3.googleusercontent.com/296F3Hh_IdN5zf3K3rhfn2sMsR7M7nMe_Y8MgEOo-e7aE2uY-Ken37XYT0rv1-n8iL1IHKJtPgrkcdtCSZUklRqELTmDeWEZWdzjlHlP5KuzFMcR_JM4q6jSfVBKkjEH5hSYq0nITkpr4jI=s2048)![blade11](https://lh5.googleusercontent.com/eO_bvaG6S9cb41-3HS8xoKAj8An7LeZHi2snnDt42QIkPJ97Tm-_ZC3oWDhRchdTPhKXTJgy5J2S4qglr8uJjdSnuNnSYYqrMPRYslOTssO8XIBZZBmmZxAfmwqaN5Cy8TXSr9eLJrsiUwk=s2048)![blade14](https://lh3.googleusercontent.com/bf0rfrYaS-iN6EDHVmmXcFps7A0dhcOKM-EKhwnWx8jZio_FfdF5BMBTaXxKfBhpUaCIS92IiytyA3RlhkdHbTmfPRfv8yOEMVID1FzRf9u0DMSbW5RnwpKJkPhF68dFGNUhS4V70sfqqOA=s2048)  
+
+## Blade runner and Replicants  
+![T1 poster](https://lh5.googleusercontent.com/B1-mEhEfhpGzbwnG8F29giqB71F_jsXBqjgZFhPpVmuEQiGmQZ-CFj-oSZvLiSJcXbhy4yX7OaJMPHSXEH4br5qROhXluBmMnVPcUj0hGfp5SEscoiLCKD-i4N6K5dcJGh74tASUZgvuHmI=s2048)  
+![t-pic5](https://lh5.googleusercontent.com/EhXypQKneM1xl9x1S1iSLM0hnvousziMlK_C13ZC60UoiUN_aGakLDfJ57-2L_B9wJ52cr8Z361sPHgx5bmAtcRFphBl36Sc_pc1TcT0tCAXjaTW6vSzaFxemc0nkaSO1C65wvMzV_dh_xk=s2048)  
+
+## A Machine that no longer appreciates its maker!!!
+![teddy](https://lh5.googleusercontent.com/ccDI81ElDeR952L0fV5R4jffiayGxmvSq-tpxYg-X0t8Eid_W91dkqUX6T-yZsolyNzOSvsTMRA9M29F92eGpuhFFx8kYruev2-O4kzdH2jR1OIgb_NZ5cGhjU5qDN5szAB8i49cazwwxdA=s2048)  
+Artificial Child with Smart Toy in                     “AI”
+
+(Can a machine experience “Love”?)
+![The Matrix](https://lh6.googleusercontent.com/cxk5enBx04hcvP-oyXGqWCsUxAEwOrhPjTg7FZzl8cnVHPLcRuyBjlIdBpAny1PLOqVvMcudqc4vA51D_7ZCdouHMr0u4egGBXzTFHa1p0o8f1HgMAGfkdNxLhNmlvAHG9Wb4a3NQYL32do=s2048)  
+
+## Machine breeding humans for use as “battery” power in “The Matrix”
+
+So, as you can see…self aware machines rerpresent some interesting chalenges!
+
+"I have no hesitation in thinking  
+that a machine can be just as intelligent and just as real as a person, in principle."  
+Professor Rodney Brooks, Director, MIT Artificial Intelligence Lab   
+
+
+
+
+
+
+
+# Binary Notation and Intro to Computer Graphics
+
+## Dealing with Binary
+
+-   Binary numbers in their native notation are not very user friendly
+-   Hex notation (short hand for Hexadecimal) is an easier and more intuitive way to express binary values
+-   Many programs and programming languages allow the use of Hex to denote binary values
+
+Hex Notation using 4 bit Nibbles
+Binary    Hex    
+
+0000       0       
+
+0001     1     
+
+0010       2       
+
+0011       3       
+
+0100       4        
+
+0101       5        
+
+0110       6        
+
+0111     7        
+
+Binary      Hex      
+
+   1000 8  
+
+   1001 9    
+
+   1010 A    
+
+   1011 B    
+
+   1100 C    
+
+   1101 D    
+
+   1110 E    
+
+   1111 F
+
+Hex Example….
+
+-   So the one byte Binary numbers:
+    
+
+-        0010 0001 = 21 Hex =Decimal 33
+    
+
+            2     1
+
+        Or 128 + 64 +32+16 +8+4+2+1
+
+  
+
+-         1010 0100 = A4  Hex =Decimal 164
+    
+
+        Or  128+64+32+16+8+4+2+1
+emember……
+
+-   DIGITAL - Digital means discrete.  
+    
+-   Digital representation is comprised of a limited number of data points to encode information. 
+    
+-   Our electronic devices use Digital techniques to work with data and information
+    
+-   Since we have a limited number of data points to work with, it means that all digital representations are approximations of the real thing
+    
+Representing Digital Samples
+-   The values associated with Digital Samples are  stored in Binary form, which is a very easy and inexpensive way for electrical machines to store and manipulate values by using simple building block electronic circuits built out of transistors
+    
+-   So, you should think of a computer or any digital device as a machine that can store, manipulate and move large amounts of binary information at very high rates of speed
+    
+
+## Graphics Buzzwords
+
+-    Pixel- 
+    
+-   a spatial sample of a digital image. A pixel element is the basic component of a digitized image, which contains a set of numbers representing the features (color, intensity) of that spatial sample (a pixel may only have ONE color and intensity, therefore it is the lowest element of an image)
+    
+-   Bitmap-
+    
+-   a method of representing and storing digital images and graphics whereby the image is composed of a collection of individual pixels
+    
+
+## More Buzz
+
+-   Resolution- 
+    
+-   The capacity for detail contained in a message or signal. Representations with high resolution capture more detail than those with low resolution 
+    
+-   In the case of digital images, resolution is primarily determined by :
+    
+-   Number of pixels
+    
+-   Size of Pixels
+    
+-   Density of Pixels
+    
+
+## Digital Images and Pictures  
+
+
+A picture (as on your computer monitor) consists of many “pixels” 
+
+(= “picture element”).  A pixel is a very small area of uniform color and intensity.  Think of your laptop monitor as consisting of over 1,000,000 discrete small squares, or pixels.
+
+## Bitmap Graphics
+
+  
+
+-      To display things on the computer monitor, a modern-day computer has built in hardware (memory) for storing a “bitmap” that represents the “picture” that should be displayed on the monitor.  
+    
+-   The Bitmap is stored in MEMORY…..the more bits stored, the more memory required….
+    
+
+Graphic images
+-   (for display) graphic images are composed of pixels
+    
+-   this type of graphic is called bit-mapped or raster graphics
+    
+-   the image is stored as a sequence of bits (a) representing the pixel properties (b)
+    
+Resolution
+This is a very low resolution (3 pixels by 4 pixels) picture of the letter “Y”.
+A magnified bit map
+
+![raster_vs_vector_1](https://lh4.googleusercontent.com/pSZtASSEljzA9SyQ6uHVuPFgBGUeJzykcOt3rFGYD37vtIP0yvwVYtZm10zUteELvZAbNmFfwo_gV4z4umqQ7MPxeXtfrexuDp2lRCl1I0HXLHZ331CJ53JJkDZemR7r0KRzI0T6SVgN0R0=s2048)
+Red, Green, Blue   RGB
+
+  
+
+-   RGB color values are supported in all browsers.
+    
+-   An RGB color value is specified with: rgb( RED , GREEN , BLUE ).
+    
+-   Each parameter defines the intensity of the color as an integer between 0 and 255.
+    
+-   For example, rgb(0,0,255) is rendered as blue, because the blue parameter is set to its highest value (255) and the others are set to 0
+    
+Color Levels of Intensity
+
+  
+
+-   For a black and white (Grayscale) picture we might use, say, 8 bits (one byte) to represent 256 levels of intensity, from 0 (black) to 255 (white)
+    
+
+  
+
+-   For a color picture for each pixel we would have 3 bytes, one each for the intensity of red, green, and blue respectively
+    
+
+  
+
+-   (0,0,0) would still be black, while (255,0,0) would be red, (255,255,255) is white, etc.  
+    
+
+  
+
+-   This is commonly called RGB (Red, Green, Blue)
+    
+
+  
+
+-   RGB typically uses 3 bytes (24 bits)  for each pixel so that equates to 16,777,216 different possible colors
+    
+Image Resolution
+
+  
+
+-   Resolution (Accuracy) is determined by two primary factors, pixel size and number of pixels
+    
+
+  
+
+-   Higher Resolution renders an image with greater accuracy for any given size
+    
+
+  
+
+-   Resolution is directly proportional to number of bits used for storage (memory)
+    
+
+  
+
+-   Color accuracy is also proportional to memory as is brightness and  contrast since their values must also be stored for each pixel
+    
+
+  
+
+-   There is a delicate balance between image size and apparent resolution
+    
+Advantages of Bitmap Graphics
+
+  
+
+-   It is easier to create hardware to go from a bitmap representation to the actual display on the monitor (which is why monitors use bitmaps)
+    
+
+  
+
+-   It is easier to draw pictures of things with imprecise boundaries, (or that consist of so many parts it would not be feasible to draw them all)
+    
+
+  
+
+-   Your PC utilizes Bitmap Graphics to display everything that appears on your screen
+    
+
+  
+
+-   Ability to create multiple layers which can be overlayed to create composites
+    
+
+Original Image
+![key1](https://lh5.googleusercontent.com/wEwqzRcwKV6OoXQtZUAtNhJ7Bqe3WfM-HsYQa-TdX5Jpbopbxgn2JNFeTXPvZhoFbzIlv4Est-sDq5SSc6YGHqqJnFl5U2oj1CS20QAUWWVGRUlXR_U45JJ_qbsOoXI-smKfwxM4-LxocPI=s2048)
+
+Magnified 
+![key400nosmart](https://lh5.googleusercontent.com/trLFHwSPlYM8K5RaercnW05AAD0a480yHz_E092nVg1kxLjdIdMZHy1yppbg01yz75h4-BXXS1g7Rntzmd8tLBdDGtUxaqsAAfAzeFwXjhhF_FD6kMbveN3kU_hbIadAZYkgsPv58dj1TwU=s2048)
+
+Bit Map Demo
+Paint  Brush
+
+
+## Vector Graphics
+
+-   An alternative scheme for representing images is called “vector graphics”  In  vector graphics objects are represented explicitly.
+    
+
+## Vector Graphic Images
+
+-   Object-oriented or vector graphics treat the image as a collection of graphic objects such as lines, curves, and figures
+    
+-   Best rendered on special vector graphics machines
+    
+-   Vector graphics are resolution independent and highly scalable
+    
+-   Vector graphics are more easily edited and often more compact in storage
+    
+-   Vector graphic images must often be converted to bitmapped images for display on bitmapped systems such as a PC
+    
+
+## Vector Graphics
+
+  -   the image is composed of graphic objects (lines, curves, figures, etc.)
+    
+-   each object is defined by its graphic properties
+    
+-   these properties may be changed and scaled easily
+    
+
+![](https://lh4.googleusercontent.com/JcxMYgmt3mWfX5C23Z95T7wuG6no3U--_HhFmw7FpKknohC8MAANbNlkZPRCR2WzwZ8xV3sencoPrug-hJmmprP6TTAC2M906MwzXFvzDIRdv00r0dAQW5F7Mmhwk9nUS3_ZMimkXiBSWrk=s2048)
+
+## Vector Graphics
+
+-   each object occupies a separate layer
+    
+-   layers may be moved, scaled, and arranged in different orders
+    
+-   objects may be deleted and inserted easily
+    
+
+![](https://lh4.googleusercontent.com/fQKSrcrnRiyGjfYgkES_pohLgu7GdpxMlLxPrAGzKIje22Gl1GiDmRcvOfdOVFMMbVbrJReriTvCp-u2r2UYYMkRtRgCUX3i3njoU_faLNyjfNlC_AHgt4awxJD_HH8SGKx1mD-hPseeWWU=s2048)
+Magnified 
+
+![](https://lh3.googleusercontent.com/v7mFpQDuHHO6JolCPOHpEik9LD85bKQA_9wkMZ-PpeypXF5O5KLftRzQfUIrcLrzTkv6YIcV9JWpI12cZpm0jcPakGe93EWVCj9HFuFH3lt8_TUL0z_MS20dnG-cCOCA2_pU7wTDzxSvFlY=s2048)
+Vector Graphics Demo
+
+## Typical Graphic Applications
+
+### Bit-mapped graphics
+
+-   Painting programs
+    
+-   Image processing
+    
+-   Text displays
+    
+
+### Vector graphics
+
+-   Computer Aided Design
+    
+-   Illustration
+    
+-   3-D modeling and rendering
+    
+-   Animation
+    
+-   3-D Games and Simulations
+
+
+
 # Digital Audio
 
 Digital Audio  
@@ -5895,7 +7396,7 @@ Illustrating the Difficulties
 ## Tutorial and Demo on Digital Audio
 -   [https://www.joelstrait.com/digital_audio_primer/](https://www.joelstrait.com/digital_audio_primer/)
     
-# Digital Imaging and Processing:  Is seeing, believing?
+# Digital Imaging and Processing
 ## Digital Imaging   
 
 
@@ -6850,1492 +8351,6 @@ Store Files
 Step 4:
 Deliver a Great Video to Any Device
 
-# Databases and Privacy
-
-Storing, Organizing and Retrieving Data
-
-## What is a Computer Database?    
-
-Answer:
-An Organized Collection of Data files that may be added to, deleted, modified and reported on   
-  
-## Attributes of all files
-
--   Location
-    
--   Size
-    
--   Type
-    
--   Files have information embedded with the data that defines how the data is organized
-    
-
-## Files, Records, and Fields
-![atabase](https://lh4.googleusercontent.com/q0hv8UWWpYJLl_3L5jpLbf3xS-JaimGnk32lfM0B1rzEgbLFW1-Om_kXgzBnP40nl7SZDQt9GH_BRMttqZzYds0A35tt5OkToCjabCHRCZNJfWdmMNtj9YXlBQK2ZZQCwaNyCwknLRFiS50=s2048)  
-
-The Two Major DBMS Models
-
--   Flat File Model
-    
--   Separate files are linked via physical links (link fields)
-    
--   Favored where efficiency and performance are highest priorities
-    
--   Relational Model
-    
--   Separate files are linked via logical links in the data model
-    
--   Favored where flexibility and support for ad hoc queries are highest priority   
-
-## Database Management System  
-
-Data Structure
-
--   Flat file systems use only one file to model and store data
-    
--   Many database problems will require multiple (but related) files for data modeling
-    
--   Database structure must always be defined upfront
-    
--   records and fields must be defined
-    
--   field data types must be specified
-    
-## Using Multiple Files 
-
--   Relationships must be specified when database structure is defined
-    
--   Logical links are made explicit by linking appropriate fields in different tables
-    
-![](https://lh6.googleusercontent.com/9vBkSWMseggW3r_wDQKQhN_T3yjN479Z_wKEqteyu2iPaeAAHr5pFn-01BrnEO7va_JdbFwhFhgi4QxAF70a2Lt5oi7Bw3Bt2muKXXaZMbaPryR7KWTmqPl0VmgFntPjNRcJYYY2F-aENCU=s2048)  
-
-## Database Management System  
-
-## Accessing the Data
--   Forms are often used for entering/viewing data
-    
--   Queries are constructed to retrieve data satisfying specific criteria
-    
--   Data can be sorted in multiple nested levels
-    
--   Reports are constructed (often based on queries)
-    
-## A Form for Entering Fields
-![](https://lh6.googleusercontent.com/oT7pSzovWCUUIDKoxyKCO2KMM3hqjybJsSc_wdhY8vkgqAuHfqz1uYD_4L9XVwTfUmhRuw-NQv9b2-sCfJA9pIPm8eHJnJmpxWX5p-VYOyCNwphwRhQH6jZxTmR6V8fVVEkmN5br4qtpBAI=s2048)  
-
-## Example Report in Access
-![](https://lh6.googleusercontent.com/iYLu0PA-po9Q3mTarDG64avCe8L3mxyQYoeba7CygwcvaHhbY_UD08_krFeDqEZMbmOW5Mf4p7SNNEZnr6ZGpW9oW8na_JGShWXH9AnhMjWEwZvag8qO3GN55XYXytXA0zG1_7u2aFi4OHc=s2048)  
-
-## Query Languages
-
--   Query languages, like programming languages, have specific syntax
-    
--   These are more user-friendly than most programming languages
-    
--   SQL (Structured Query Language -- often pronounced “sequel”) is a de facto standard
-    
-## Query Construction
-
--   Queries are structured to retrieve data from specified fields in indicated tables (files) in a database
-    
--   Retrieved data must satisfy particular search constraints
-    
--   Boolean operators -- especially logical and and logical or -- allow the construction of multiple search constraint queries
-    
-## Example Queries -- SQL
-
--   SELECT Name FROM Sales WHERE Amount > 5000 AND Region = “West”
-    
--   SELECT Name FROM Sales WHERE (Amount > 5000 AND Region = “West”) OR (Amount > 2000 AND Region = “Midwest”)
-    
-## Summary
-
--   Databases are Software that manages the storage and retrieval of data dates from the early days of computing
-    
--   There are two primary database models today: the flat file model and the relational model
-    
--   The network model provides excellent performance; the relational model provides excellent flexibility
-    
--   The first step toward creating any database is the definition of the structure of the data to be modeled
-    
-## Summary (cont’d)
-
--   All database management systems provide the ability to define data entry forms and reports for output
-    
--   Query languages provide user-friendly access to database data
-    
--   Queries are defined to retrieve data that matches (or satisfies) specified search constraints
-    
--   SQL has become the de facto standard for query languages
-    
-## Database Products in Widespread Use
-
--   Oracle
-    
--   Informix
-    
--   Microsoft Access
-    
--   Microsoft SQL
-    
--   MySQL
-    
--   PostgreSQL
-    
-## Databases and Individual Privacy
-
-## Data to fight crime and terrorism  
-
-Lessons learned as a result of 9-11
-
--   Too much data can be a liability 
-    
--   Data on the same topic kept in different systems
-    
-
--   Is not effective unless it is linked together
-    
--   Sometimes requires filtering to remove “irrelevance”
-    
-The highly controversial Patriot Act has expanded the 
-
-Scope of data that the Govt. can collect and use on you
-
-## Social Significance
-
--   Every one of us is profiled in several databases around the country many of which are linked to each other:
-    
--   Financial, insurance and credit systems
-    
--   Medical systems
-    
--   Court, Justice and Crime systems
-    
--   Retailer systems
-    
--   Websites
-    
--   Govt. systems (Municipal, State and Federal)
-    
-## On Line Privacy
-
--   On-Line Privacy is an Oxymoron.  If you are connected to a network, chances are that someone, somewhere has the capability to keep track of you.
-    
-## How private is my credit report?
-
--   Credit reports are a gold mine of information about consumers. They contain Social Security number, date of birth, current and previous addresses, telephone number (including unlisted numbers), credit payment status, employment, even legal information about court proceedings
-    
-## Who has access to my report?
-
--   Those considering granting you credit. 
-    
--   Landlords. 
-    
--   Insurance companies. 
-    
--   Employers and potential employers (but only with your consent). 
-    
--   Companies with which you have a credit account for account monitoring purposes. 
-    
--   Those considering your application for a government license or benefit if the agency is required to consider your financial status. 
-    
--   A state or local child support enforcement agency. 
-    
--   Any government agency
-    
-## Who are the people that store and provide information about you?
-
--   Equifax
-    
--   Experian
-    
--   Transunion
-    
--   Link to Equifax:
-    
--   [Equifax Personal Solutions Credit Reports, Credit Scores, Protection Against Identity Theft and more](http://www.equifax.com/)
-    
-## Financial Services Modernization Act  
-
-also known as Gramm-Leach-Bliley Act or GLB  
-  
--   Allows banks, insurance companies, and brokerage firms to operate as one. The combined companies have been aptly dubbed "financial supermarkets." 
-    
--   They may promise you such benefits as consolidated account statements and lower fees. But at the same time, the ability of these companies to merge customer data from several sources and even sell it to third parties represents a real risk to your privacy   
-
-## What are your rights under GLB?
-
--   Privacy Policy: Your financial institution must tell you the kinds of information it collects about you and how it uses that information. 
-    
--   Right to Opt-Out: Your financial institution must explain your ability to prevent the sale of your customer data to third parties. 
-    
--   Safeguards: Financial institutions are required to develop policies to prevent fraudulent access to confidential financial information. These policies must be disclosed to you
-    
-## Opt-Out / Opt-In
-
--   "Opt-out" is contrary to the "opt-in" approach preferred by most consumer and privacy advocates. 
-    
--   Opt-in prohibits a financial institution from sharing or selling your data if you do not give your affirmative consent. 
-    
--   With opt-out, you give your implied consent by failing to return the privacy notice sent to you by your financial company. So, if you say nothing, it means "yes, you can share my data."
-    
-## So What?
-
--   If you Opt In, then you can prevent sharing of your details.  It may be harder to obtain credit at a competitive price however.
-    
--   If you Opt Out, then your info is in the financial supermarket and your creditworthiness is easily   determined and you get approval 
-    (or disapproval) very quickly for a given amount of credit
-
-## GDPR
-
--   The General Data Protection Regulation 2016/679 is a regulation in EU law on data protection and privacy for all individual citizens of the European Union and the European Economic Area. It also addresses the transfer of personal data outside the EU and EEA areas.
-    
--   Imposes large fines on firms that lose or share customer data without specific permissions by the owner.  
-    
--   Google and Facebook being sued as we speak.
-    
-## A Typical Personal Database Search Service
-[http://www.intelius.com/](http://www.intelius.com/)
-
-## Mobile Spyware
-
--   Enables someone to monitor everything that you do on your cellphone, and track all of your movements
-    
--  [Mspy.com](http://mspy.com/)
-    
-## The  Social  Significance of Databases
-
-  -   Where is this heading?
-    
--   Watch this ordering Pizza video!
-    
--   [https://www.aclu.org/ordering-pizza](https://www.aclu.org/ordering-pizza)
-    
-## How much data is being generated and accumulated?
-
--   https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#7729e77860ba
-    
-![](https://lh3.googleusercontent.com/d-CUof1ZJH0TEOK5IiMW0T3ZyPAWGsRVSWtNVTe5P2MkH8kDFVqxJUgWFQgCatFBJjdC-rRr79KsP1431ByJxXgqZY68mm2rNIkQLSTZdVnvTJtcgJWfr0IAjOLSS4mUEc3QRLi3d7U5uLE=s2048)  
-
-## Can Google access my data?  
-  
-It collects data on what videos you watch, the ads you click, your location, device information, and IP address and cookie data. ... Finally, Google promises that it doesn't sell your data, but rather uses your information to “make ads relevant” while you're browsing the web.
-
-## Does Google read your Email?
-
--   Make no mistake, Google can and does read your email. And this should cause concerns about security and privacy. 
-    
--   Because Googles servers have access to all of your organization's emails, an attacker that's able to penetrate these servers can also get all of your data.
-    
-## Does Instagram sell your date?
-
--   The study found that Instagram collects 79 per cent of its users' personal data and shares it with third parties, including search history, location, contacts and financial info. “Any information you agree to be gathered by an app when signing up can be analysed for their benefit and even shared
-    
-## What are Digital Cookies?
-
--   And, what do they do?
-    
--   [https://www.youtube.com/watch?v=0LKVad2xj5M](https://www.youtube.com/watch?v=0LKVad2xj5M)
-    
-## Who owns your data?
-
--   This largely depends on what you agreed to when you signed up for various services and applications!
-    
-# Data Science, What is it?
-
--   Data science encompasses preparing data for analysis, including cleansing, aggregating, and manipulating the data to perform advanced data analysis. Analytic applications and data scientists can then review the results to uncover patterns and enable business leaders to draw informed insights.
-    
--   In other word, figuring out how to use your behavior and data for maximum gain and competitiveness
-    
-# What is Computer Science?
-
--   Not using a computer
-    
--   Not just programming
-    
--   A field at the intersection of Math, Engineering, etc
-    
-![sunlab](https://lh5.googleusercontent.com/nml-rAmvE76zbwJWrvpfc-Hwfb7uCRW4Y5MITuusFUMz_PtiJ0z5D9b4WGenpVR45b532Hkw1NmSETpZBkZ3--12wiWZlEPkQVEwZTiEFfIsww5LBuVaYv1Hi5UpjtX2t803M1MUzlzumB0=s2048)  
-
-## The Algorithm
-
--   Fundamental inventions in formal thinking:
-    
-
--   Formal Logic (Athens, ~4 C. AD)
-    
--   Mathematical Proof (Greece, ~585 AD)
-    
--   Secular Observation of Nature  
-    (~600 AD)
-    
--   Arabic Numerals, including Zero  
-    (India, ~8 C. AD)
-    
--   Algebra (al-Khwarizmi, ~810 AD)
-    
--   Probability (late 1500's)
-    
--   Scientific Method (early 1600s)
-    
--   Now: The Algorithm
-    
-![al-Khwarizmi](https://lh5.googleusercontent.com/PU4SDpG5ZccGQSGEqFIgLoCLUfXzhMkA-ntrm_3axpBA2ij14Cheh0zOeG5wSPcaKNJjrygQNGbWwrAf38PLavexFEhNorzEonyc1HzxkDL_d16s6X2vpSQchx8QX8P9gMPTXylGXE2H3Qk=s2048)  
-
-## Computer Scientists
-![nerd](https://lh6.googleusercontent.com/D2QNYHUb6mBwVAFmeHVYMTydBGdqek1t72VoWWBp_qKfE9p7LQN6dnsBKuaDq496yo3d7u4wD3Xds1yMLwm06R7rxCf8uWs1XtFN9utELj8qaXZGD0delXJBYr5S2vUSYrsgSOupgCTVWRQ=s2048)  
-
--   Who are Computer Scientists?
-    
--   Computer Scientists study lots of things
-    
--   e.g., "What are Algorithms Theoretically Capable of?“
-    
--   Can Machines Think?
-    
--   Today we're going to look at the applied version: Programming
-    
-## Computer Programmers
- “Their rumpled clothes, their unwashed and unshaven faces, and their uncombed hair all testify that they are oblivious to their bodies and to the world in which they move. These are computer bums, compulsive programmers.”
-## Computer Science as the New Literacy
-
--   The modes of thought that come from CS are influencing a huge number of fields
-    
--   Modeling & Simulation
-    
-
--   We can create all sorts of worlds inside the computer to work with
-    
-![simulation](https://lh3.googleusercontent.com/3-mPoui5v4Qg2x5xmqNIZAng1zt7bsLCioDT7QLKzYpz7cv2wvfXGFzInwNYxJL_ZPYUN5eP54GoUj_tZL7BAA1hFAEKclXfC5UV8eHVf62aaLYzTD1f0NjZnhwzkFWaiQvahSYsJkfzLZQ=s2048)  
-
-## What does a computer do?
-
--   Computers internally just keep doing the same thing over and over:
-    
--   Get the next instruction
-    
--   Do whatever it says
-    
--   Go back to step #1  
-      
-    
--   But its internal instructions are in binary -- too hard for people to understand easily
-    
-![merrygoround](https://lh4.googleusercontent.com/jt40q1xjCObnPIKHGl5sGIAi43u6FRvPBO6p98GuSFAEZkdO3BeofuCkeGBI6cF84x6pPkWJ7LtUfZ5-BZYFy7m5XPbDWDOafb9q9nhstspq59P5SJlk9k0hK3uBwwQ3BkQbBBnWzkIWzd0=s2048)  
-
-## Formal Languages
-
--   A program usually just a document -- a written list of instructions
-    
--   You saw some of this with HTML -- A markup language is sort-of a programming language
-    
-![tuxedo](https://lh6.googleusercontent.com/TwrB6O77DvvWtUy-lpHw6ykNd-YczHcduRuWyXTp3CsqXeNhHgyUMym8OwvpEjdZUBwitzsiaS7fxmZUvvVC1B-IslJRitac5HmMAetzMn3VxVV9Sh5vEHf3T2CObFQU3oJbm9LQiyv0pGE=s2048)  
-
-Poetry: Ambiguity and metaphor are important
-Prose: Literalness and structure important
-
-## Program: Formal, precise structure
-
-![robot](https://lh3.googleusercontent.com/POmUh5VFcXeq6rw8nf1aJ5b3IjPrzc_qVkG8GgMelMjLGUXKUHKM3Rltv8uzN3A0fAOBVbHpcqKTdX04FAM9qa-ApbwWgmhaiJAysi9efrYg35IQ9SExqKnePIbl5Y4xhzIhdgt29c29_bc=s2048)  
-
-PB&J
-Robot…
-
-## Programming Languages
-![progpang](https://lh4.googleusercontent.com/6zjFP2ZDHOYjY2MP1U9oGz8Bbpfw4mUnSLfFwvxWcs3NK2gzE13dyNNKC2rPHOpG7W8WTeh4nPXE2cBai4ILG6xpQ7-v1infqMUTBL9WMBhwdqB4egMLy7vqCv2ygWNTLL62mEqedn1zMGc=s2048)  
-
--   Some simple ones are built in to programs you use every day
-    
--   Excel is a programming language (and contains another)
-    
--   Word Macro Language
-    
--   There are also General Purpose Programming Languages
-    
-## Pseudocode
-
--   There are lots of details to programming languages
-    
--   We’ll also use something called “pseudocode”
-    
--   Most of the way to a programming language
-    
--   Excludes some details
-    
--   With some plain English mixed in
-    
-## Some Core Concepts
-
--   (A quick taste of what you'll be learning in Python)
-    
--   State
-    
--   Expressions
-    
--   Variables
-    
--   Control
-    
-![python](https://lh3.googleusercontent.com/_B8CEwXBWpGEOiN_sylDGmMxPiEqnzXDG-fmntazupCGIGDjev-tFzq7irg6Y6zR-s64l233IlkN06w4A20lfx1c4OaKak_TggSAMXxwQyfzAMvf1E4aLGsGvgAAERats8WCYf2IsN0B8Jk=s2048)  
-
-## State
-![chessboard](https://lh6.googleusercontent.com/hgEFp-TGT32OVCjyMEMTgVGQ-cMjfTdNgZfyXljUyS782HmFv9bRf6bTgdSWmvgOoT5t0RaY-m3Ym2q-zzWXdNrZpTeeKM-0H5PcbdJrU1y3OjGNd7kapcE0_d-DMZ_idyTED31FlRUKD8I=s2048)  
-![faces](https://lh4.googleusercontent.com/w9MelqLCcaMyaYJzC4b-GQkeM9JMqlJBNskzhLNG0WW4gfh1jD9a9y9dK3ewUuPyJhdJ3F3qFKBQ_g7nHlmAox5wNTKxKQewh5AtHEBmjN61hVJZkyQE4HroM4wJu0O-rgb36Y7zB-e0nOk=s2048)  
-
-## Expressions
-
-> print “Hello”
-
-  Hello
-
-> print (5+3)  
-8
-
->print (5*5-2)  
-23
-
-## Variables
-
--   Not exactly like Algebra
-    
--   In Algebra x=5 (or 5=x) expresses a truth
-    
--   In a program, x=5 updates something in the computer’s memory
-    
--   (and 5=x wouldn’t work: it’s not a valid statement)
-    
-## Control Structures
-
--   Lets you make decisions
-    
--   for, while, …
-    
-if(x>5):
-
-   print (“x is big”)
-
-Else:
-
-   print (“x is small”)
-
-## Programs
-
- “The computer programmer is a creator of universes for which he alone is responsible. Universes of virtually unlimited complexity can be created in the form of computer programs.”
-
-![escher](https://lh5.googleusercontent.com/dvUuJNEvhNdipLWW1b-Wz1DAuYCCfUv7S3bJiB0MnOpmH4WVcNzjaa_P4_q0vXpBLejiTpoV9kjZxj-3s7SJBULn-pRmowfP0dzgrm83W-Y5eb9QToJy6sXB_a9KAekk3Eidu3J0Cni4wXU=s2048)  
-
-## Complexity
-
-Controlling complexity is the essence of computer programming
-
--Brian Kernigan   
-  
-## The Process
-
-![nterpreter](https://lh5.googleusercontent.com/uzi4GLrSnCOzVkduLexwqyZeVeAGncs8is6w0ikMrJ-VOCUaKgFbp8OwmajGBxPaAaleRXQA0ZjPo5PigfVmIhF4DLLOSjyK5jmW5cfGU6WoA0RxuORHpq56vO-Ql4fOzRHUv2IC8GvXCq4=s2048)  
-
-## But what do you DO?
-
--   Design
-    
--   Requirements
-    
--   Use cases
-    
--   Pseudocode
-    
--   Formal Code
-    
--   Test
-    
--   Debug
-    
-![working](https://lh5.googleusercontent.com/pr4wNqcPcjxv1DoH6T7e0zr2bfzRf9mr_42a9MBexGLUueJnsjPHRGRn_P-zaUbbkj_5QuH0aSeKrtIl1XHVf4kgIuj1qTfOylviRwyesee-ZgzoEi2TgGsvk57eVzVDKdIIKbugYxpIW8s=s2048)  
-
-## Design
-
--   Most programming is not done sitting in front of a computer
-    
--   You need to really understand what the program will do
-    
--   How it interacts with the user
-    
--   And how it is structured internally
-    
-![thinker](https://lh4.googleusercontent.com/D76SXAy9opE7DGhf-U-RghP9joy4z4hlloN1432KCSQq1g7-ceo6ieHe6QbdMPaV7wdAx-bmTlMJp8FEFUz-KJ4yDJ40MNl6k4calps1Le3_993m74t5iK-w67qmekptn9bNbqdj9k4adKo=s2048)  
-
-Mostly, when you see programmers, they aren't doing anything. One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them. Very often they're sitting there seemingly drinking coffee and gossiping, or just staring into space. What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his or her head.  
-  
-Charles M Strauss   
-
-## Test
-
--   Testing a complicated program is difficult
-    
--   Some people write the tests before the programs
-    
-
- “Programming is like sex, one mistake and you have to support it for the rest of your life.”
-
-## Debug
-
--   At the beginning, much of your time
-    
--   In many ways more challenging than coding
-    
--   When you have eliminated the impossible, whatever remains, however improbable, must be the truth. – Sherlock Holmes
-    
-![sherlock](https://lh5.googleusercontent.com/ONX54ZPwh0H02CE3YrAf6JWtxocP8qJ0ke4z0oibHYgWXdIm-0eKifhwLEzLDu8QApjd9lVei-9g0BGmziNUeCsLLzue1qazh4AOXhqPJtMFajOr65YhkZexV1lFGrX73jJELyfc65cXQI4=s2048)  
-
-## What is Python?
-
--   A REAL Programming Language!
-    
--   Developed in 1990 by Guido Van Rossum in the Netherlands
-    
--   Named after Monte Python’s Flying Circus!
-    
--   Openly available at no charge!
-    
--   Freely distributed on the Web
-    
--   Lot’s of Libraries of Python Routines available
-    
--   Increasingly popular for writing scripts for the Web
-    
-## How does Python work?
-
--   It is an INTERPRETED Language, (Like HTML and Java) so that it is easy to write and execute programs in an interactive mode
-    
--   It has a very clear and easy Syntax
-    
--   It is portable so it  runs on many different Operating Systems and Machines (Windows, MacOS, Linux, Unix, etc)
-    
-## What are we going to do with Python in CS2?
-
--   Learn some basic commands and capabilities of the language
-    
--   Printing data, evaluating expressions, inputting data, variables, loops, decisions, functions, boolean expressions
-    
--   Learn how to use the programming environment
-    
--   Learn how to write simple but useful programs
-    
-## What tools will you require?
-
--   You will need the Python  Interpreter and programming environment
-    
--   Already installed on the computers in the LAB
-    
--   Can be downloaded and installed  on your personal machine from:
-    
--   [www.python.org](http://www.python.org/)
-    
--   Hint…to be safe install the 32 bit version for your OS
-    
--   You will need the Python Tutorial
-    
-## General Conventions
-
--   Python is Case Sensitive!…Be Careful!
-    
--   Anything you name (variables, etc) must be referred to exactly as initially typed
-    
--   Python Commands are always in lowercase!
-    
--   Comments can be inserted anywhere by using a “#” before the comment text
-    
--   Some commands require indentation to work properly
-    
-## Variables
-  
--   You can think of variables as labeled jars that store different types of data. While there are several kinds of variables, today we're only going to look at two:
-    
-
-## String Variables
-
--   Strings are literal collections of text characters
-    
--   Strings must be enclosed in either single or double quotes
-    
--   Strings may be manipulated by a variety of operators (repetition, concatenation, etc)
-    
--   Concatenation example
-    
--   word = “abc”
-    
--   word = word + “def”
-    
--   print (word) you will get:     abcdef
-    
-## More String Operations
-
--   String Repetition
-    
--   word = “Yo! ”
-    
--   print (word* 5)
-    
--   Results in   Yo!Yo!Yo!Yo!Yo!
-    
-## String Variables
-
--   String - A string variable is a string of alphanumeric characters and allowed symbols that are contained within quotation marks. For example, "Hello world, I'm 102 years old today!" is an example of a string. 
-    
--   Strings are basically used for storing text
-    
--   Example:  greeting = “Good Morning Sunshine!”
-    
-## Number Variables
-
--   Number - A number variable couldn't be more straightforward because all number variables store are numbers. You don't store them within quotes like strings. Instead, numbers can just be written as they are. If you want to store the number 9 in a variable, you just write 9
-    
--   Example:  my_bank_balance = 9
-    
-or….    pi=3.14
-
-## Our First Program
-
--   A program that prints a greeting!
-    
--   print (“Hello, World!”)
-    
--   When this program runs, it outputs…          Hello, World!
-    
--   The text inside of the quotes in the program is referred to as a String, or String Variable
-    
-
-## Another way to achieve the same  
-
-result
--   greeting = “Hello, World!”
-    
--    print (greeting)
-    
--   The output is     Hello, World!
-    
--   Note that we assigned the variable name greeting with the value of the literal string inside of the quotes.
-    
-## Expressions 
-
--   Another more complicated program:
-    
--   print (“2 plus 2 is”, 2+2)
-    
--   print (“3 times 3 is”, 3*3)
-    
--   print (“35 divided by 5 is”, 35/5)
-    
--   The output will be: 2 plus 2 is 4 3 times 3 is 9 35 divided by 5 is 7
-    
-## Operations on Numbers
-
--   Operation Symbol Example
-    
--   Exponentiation      5  2 == 25
-    
--   Multiplication       * 2 * 3 == 6
-    
--   Division                 / 14 / 3 == 4                                                14 / 3.0 == 4.6666
-    
--   Remainder       %     14 % 3 == 2
-    
--   Addition                 +      1 + 2 == 3
-    
--   Subtraction          -     4 - 3 == 1
-    
-## More Variable Assignment Examples
-
--   value = 4*8
-    
--   net_price =4.56
-    
--   repeat_word = “word” * 5 
-    
--   Variables are created and recognized dynamically, that is when they appear in your program with a value assigned to them
-    
--   Variables must be assigned before you refer to them otherwise an error will occur
-    
--   The values that are assigned to variables in Python are called Objects, each object having a reserved place in memory with a pointer connecting it to the assigned variable
-    
-## Variable manipulation
-
--   Variables can be used in conjunction with themselves to affect certain operations;
-    
--   Example:
-    
--   speed=3
-    
--   speed=speed+4
-    
--   speed=speed*3
-    
--   print (speed)      
-    
--   WHAT is the output of this program?   
-
-## Printing variables
-
--   Variables may be printed by themselves or in succession
-    
--   Example
-    
-number = 9
-
-bignumber = 55
-
-print (number)
-
-print (bignumber)
-
-print (number ,  bignumber)
-
-(puts them on the same line)
-
-## Inputting Data into your program
-
--   We will focus on user input which is the simplest type and suitable for our purposes
-    
--   Input command syntax is:
-    
-speed = input (“enter speed “)                 
-
-Ok, so let’s write a simple program with the stuff that we have covered so far
-
--   # A simple program to check our travel progress
-    
--   name = input ("enter your name: ")
-    
--   speed = int(input("enter your average speed: "))
-    
--   time =  int(input("enter your exact travel time in hours: "))
-    
--   print (name + " your distance travelled is exactly ",speed*time, " miles")
-    
--   print ("the end")
-    
- “That's what's cool about working with computers. They don't argue, they remember everything and they don't drink all your beer.”  
-  
-# Artificial Intelligence  
-Can Computers Think?
-
-## What is AI?
-
--   It is the science and engineering of making intelligent machines, especially intelligent computer programs.
-    
--   Artificial Intelligence is the study of the computations that make it possible to perceive, reason and act.
-    
-## Artificial Intelligence
-
--   Artificial intelligence is concerned with understanding the nature of intelligence through the creation of computer programs which control machines.
-    
--   It is normally divided up into various sub-disciplines such as vision, learning, language, planning, motion, etc.
-    
-## Artificial Intelligence
-
--   Artificial Intelligence becomes a formal branch of Computer Science around 1956
-    
--   AI has its own computer programming languages LISP, which developed in 1957, is STILL in use today, along with others
-    
--   Every major computer technology company has a considerable investment in AI research
-    
-## The Mind-Body Problem
-
--   The major philosophical issue related to AI in computer science is the mind-body problem -- how the mind relates to the body as espoused by Rene Descartes
-    
-## Mental Life
-
--   People (and presumably some animals) have a mental life.
-    
--   Consider the question “what would it be like to be a bat?”
-    
--   Mental life is made up of sensations (color, pain, smells, touch,etc.), emotions and  thoughts etc.
-    
-## The Mind Body Paradox
-
-1 - Bodies are physical.
-2 - Minds are not physical.
-3 - Minds and bodies interact. 
-4 - The physical and non-physical can't interact. 
-
-Any three of this propositions are compatible but all four together are not….  
-
-## Cartesian Dualism
-
--   Cartesian dualism as espoused by Rene Descartes claims that mental activity is governed by different laws, and is made up of different stuff than purely physical activity.
-    
--   The major problem with this theory for science is that nobody has every seen such stuff, or observed such laws.
-    
-## Physicalism
-
--   Physicalism  contends that mental activity and physical brain activity are the same thing.
-    
-
-Here is Where Computers Enter the Picture.
-
--   Computers today to some degree make physicalism seem less plausible. 
-    
--   “What is it like to be an Apple iBook?”
-    
--   Presumably our answer would be “not much”.
-    
--   Would our answer change if the computer were talking to us and having a conversation?   
-
-
-## So, Can Computers Think?
-
-Not yet…but who knows what the future holds in store?
-
--   Either way there are important philosophical ramifications.
-    
-## The “Chinese Room” Problem
-
--   Imagine a person sitting in a room, and who does not understand Chinese. 
-    
--   This person is given a manual on how to respond to all possible sequences of Chinese symbols.
-    
--   To the outside world, the person in the room seems to understand Chinese, but does not.
-    
--    The same should be said about computers.
-    
-## Just Wait for Our Intuitions to Change!
-
-Many things that we currently take for granted at one time seemed very implausible.
--   Computation and logic can be carried out in the absence of consciousness.   
-
-## The Promise of AI
-
--   Some Machines that “Think”, or at least give the appearance that they do….
-    
--   Robots
-    
--   Expert Systems
-    
--   Automation
-    
--   Natural Language Processors
-    
-## Results To Date
-
--   Software that analyzes other systems and software
-    
--   Software that “learns” and never forgets
-    
--   Very reliable robotic systems at decreasing cost
-    
--   Problem Solvers
-    
--   Computer Chess and other Games
-    
-![Demand of AI in various Industries](https://lh4.googleusercontent.com/rtdcBHWaNnRdH3nuoDNQt5gLrlYzvvzP-Ts4Xbu2Y3fuDEeJIQbovKoZqQ1CmS1wzJ2_H3KxPUz1Dcn7HYm9umDKa-tc8pelXm5YIcZaQenAwt4ht43rkITq8wb0Ssqyzc6pGoNtKIfUz5A=s2048)  
-![](https://lh5.googleusercontent.com/A_81T97txQPIInALKlSodG-D6kpREi5LUA8xVF1oPeh4cX6yQFy_JG5Uo1MH2Cauwf3_8LGxK-fg6hOgjUGZc5Ut29Yj2gj0eZS1ig6VE8Gzft4UyVOKcJkzTYxAGbBvJUL0FiWGjOej40Y=s2048)  
-
-## Some Areas and Applications of AI Research
-
--   Game Theory
-    
--   Speech and Language Recognition
-    
--   Machine Vision
-    
--   Expert Systems (Learning)
-    
--   Robotics
-    
--   Heuristic Classification (what should I do?)
-    
-## Machine (Computer) Vision
-
--   Computer vision is concerned with reconstructing the objects and their placement in a scene from one or more  arrays of light intensities generated by these objects.
-    
--   It is a very complicated problem.
-    
--   That we and other animals do it so effortlessly speaks highly of evolution.
-    
-## Line Detection
-
--   Early vision (things that are done early in the vision process) is generally concerned with line detection.
-    
--   Lines are places where there is a sharp change in light intensities.
-    
--   Noise often complicates things, so it is necessary to smooth the observed light intensities.
-    
-Three Causes of Lines
-
-Line caused by reflectance change.
-
-Line caused by object orientation change.
-
-Line caused by object boundary.
-
-## Early Vision and It’s Uses
-
--   So far we have been talking about early vision:  line detection, stereo, texture.
-    
--   Some tasks require not much more than this, e.g. driving a car on a highway.
-    
-## Object Recognition
-
--   More advanced machine vision is concerned with object recognition.
-    
--   Problem involve how to represent object shapes and sizes, how to map such representations when an object is seen at different angles
-    
-## Some Applications for Object Recognition
-
--   Manufacturing Quality Control
-    
--   Medical Research
-    
--   Navigation over terrain (Guidance systems)
-    
--   Facial Analysis (Security Systems)
-    
--   Robots
-    
-## Object recognition in    manufacturing
-
--   [https://www.tesla.com/videos/tesla-factory-highlights](https://www.tesla.com/videos/tesla-factory-highlights)
-    
-## Machine Learning
-
--   Machine learning is the creation of new hypotheses by computers (or at least hypotheses new to the computer).
-    
--   Today most machine learning programs use statistical techniques, and there is, in general, a great cross fertilization between Statistics and Artificial Intelligence.
-    
-## Planning
-
--   Planning is deciding what action to take next.
-    
--   Within AI planning problems are generally thought of as coming in two varieties:  planning with and without complete information.
-    
-## Game Playing
-
--   One standard planning problem is game playing.
-    
--   Games like chess are examples of planning with complete information since one knows the exact state of the game board, and nothing else affects the play of the game
-    
-Game Trees with known rules
-
-My possible first moves.
-
-Initial state of the board
-
-State after move 1
-
-State after move 2
-
-My opponents possible moves.
-
-State after move 2 followed by  my opponents move 1
-
-## Using the Game Tree
-
--   In principle one can decide on a move by considering all possible responses to responses …
-    
--   In practice one cannot carry this out to the end of the game..
-    
--   So one carries it out as far as one can….
-    
-## Chess Playing
-
--   Many of the worlds best chess players are computers.
-    
--   A computer (IBM’s Deep Blue) beat the Gary Kasparov, the world champion in 1997 in a one on one tournament using the tree technique..
-    
-## Number of possible moves in a chess game
-
--   There are over 288 billion different possible positions after four moves each. The number of distinct 40-move games is far greater than the number of electrons in the observable universe…..
-    
-## Pretending the Information is Perfect
-
--   In many cases one needs to plan without perfect information, scheduling a factory floor, airport terminal gates, transportation of supplies.
-    
--   If things break down, or don’t arrive, analyze the result and re-plan
-    
-## Planning Under Uncertainty
-
--   Some of the time, however, the future is very uncertain.
-    
--   Should one send an airplane to pick up people if you are not sure where the people are, if the airplane will make it, or if they really want to be picked up?
-    
-## Utility Theory
-
--   A standard tool for reasoning in such situations is utility theory.
-    
--   Actions have costs, and possible outcomes with certain probabilities.  Do the action for which the sum of P(outcome)*Utility of outcome - cost is the greatest.
-    
-## Speech Recognition and Natural Language Programs
-  
-  -   Very difficult problem
-    
--   Recognizing words and simple phrases vs. complex thoughts and syntax
-    
--   Cultural nuance and Context
-    
--   Pattern recognition on different speech patterns and accents
-    
--   Used by the “Turing test” as the ultimate test of computer intelligence
-    
-## The Loebner Prize ($100K)
-
--   Awarded each year to the computer program that best responds to a team of human questioners and best mimics another human being in what is called the “Turing Test”
-    
--   Turing asked the question, “ If a computer could be made to think, how would we tell?”…have a conversation with it…..?
-    
-## Chat bots
-
-A Chat bot is a program that attempts to simulate typed conversation, with the aim of at least temporarily fooling a human into thinking they were talking to another person. 
-
-Chat bots are lightweight Natural Language Programs.    
-
-## Chat bot Speech Demo 
-
-Two Bots talking to each other!
-[https://www.youtube.com/watch?v=X_tvm6Eoa3g](https://www.youtube.com/watch?v=X_tvm6Eoa3g)
-
-## Heuristics
-
--   For a given set of circumstances, what should be done?
-    
--   What information can be used as input into the decision process?
-    
--   What weight should be given to different pieces of data?
-    
-example: approving a credit card purchase   
-  
-## Robotics
-
--   The ultimate exercise in planning and action is in the area of robotics.
-    
--   The current state of robotics is still fairly primitive.  Our sensors typically do not tell us much about the environment with much certainty, and our effectors do not work all that well either.
-    
-
-## Robotic Sensors
-
--   Infared
-    
--   Lasers
-    
--   Temperature
-    
--   Humidity
-    
--   Liquid
-    
--   Micro Switches  
-
-A practical robotic example
-
--   Self driving cars!
-    
--   [https://www.youtube.com/watch?v=TsaES--OTzM](https://www.youtube.com/watch?v=TsaES--OTzM)
-    
-## IBM’s Artificial Brain
-
--   IBM has recently unveiled its Blue Gene Artificial Brain.
-    
--   Has the computing power of a cat’s brain but is only 1/83rd as fast as a human brain
-    
--   Consists of 147,000 interconncted processors and consumes 1,000,000 watts of power and has 150,000 Gigabytes of memory!
-    
-## IBM Blue Gene
-![Blue Gene/L supercomputer](https://lh3.googleusercontent.com/33E0MQa3Y_1X5RuI0JjgOo-482uVhJeCOpnABIDU2mfO_FIn9G4nJ8qY0EHUsV1i2r9f_FrsxNFDWwAXPJrVXasqXV18TLVFsjVCge2Ky8KxG0zB_EDXb-k1AG1dX5pdLN_BlCaKDnloWT0=s2048)  
-
-## IBM Watson
-[https://www.youtube.com/watch?v=P18EdAKuC1U](https://www.youtube.com/watch?v=P18EdAKuC1U)
-
-## Self Awareness
-
--   Can machines be made Self-Aware?
-    
--   Implies that at some point they might not need further programming….they do it themselves….just like a new born infant does from the time it is born!
-    
--   The machines could then decide whether or not they like us…and if they should keep us around!
-    
-
-## Self Awareness in Popular Culture
-
--   Science Fiction from Asimov, Phillip Dick, Arthur Clarke, Brian Aldiss and others…
-    
--   Robots
-    
--   Malevolent Computers
-    
--   Artificial Worlds
-    
--   Androids and Replicants
-    
--   Self Aware Machines the enslave mankind
-    
-
-## Asimov’s Robotics Laws
-
-Over-riding Law: A robot may not injure humanity, or, through inaction, allow humanity to come to harm.  
-
-Law One: A robot may not injure a human being, or, through inaction, allow a human being to come to harm, unless this would violate a higher order law.  
-  
-Law Two: A robot must obey orders given it by human beings, except where such orders would conflict with a higher order law.  
-  
-Law Three: A robot must protect its own existence as long as such protection does not conflict with a higher order law.  
-
-[Isaac Asimov](http://inventors.about.com/gi/dynamic/offsite.htm?site=http://www.cis.ohio-state.edu/hypertext/faq/usenet/books/isaac-asimov-faq/part3/faq.html)
-
-Given the uncanny accuracy that science fiction has for predicting the future…who knows?…
-
-## Some examples of AI in popular culture
-
-![discovery](https://lh3.googleusercontent.com/EZCyabQT7ZhA1q7K_Y7nKTuOLaLqueuibvyX2Z7SO0FwAjIervgiEVk_ZcHKo4a9eZqcgg5K4MmCwo_kGlSSmvoLzM2mcGxColfQ6HXro1x7zjbuszmMp9VBeZ1vYkpucXJET7CxopXhOyU=s2048)  
-
-## 2001 Space Odyssey…controlled by HAL
-
-(Heuristic Algorithm)
-![willIdream](https://lh5.googleusercontent.com/ZreO36doysRyv442nY5lKSeIYpFFkr0Tw5ZMIpsnT9E1HhVqcJl0QBFw2dNY7UU8XQBeRUZpQNk4T6xC1NVmuhKThj544PMnJftOw7OYRHcN2LanFgCFm9VqI8vjg5OYq3CMrbNebwLPwPA=s2048)  
-
-Walking Inside Hal’s Brain…to pull the plug!!
-
-## Hal 2001 Space Odyssey Dialogue and Video
-
-[https://www.youtube.com/watch?v=HwBmPiOmEGQ](https://www.youtube.com/watch?v=HwBmPiOmEGQ)
-![blade18](https://lh4.googleusercontent.com/uqJE40lkPC8vCpDPkKtHmars6ZYrO71hdfCIKeqSmwYD6BdGkrm-aW-fnmybNDp1Mp74bLO7FyxZL26_Lxx9zjxD4Br9eBirm8tXw5d4hPA5mtwWejaLT4WxeJ6ZxNWvq24UK70Z8MAtqBE=s2048)![blade01](https://lh4.googleusercontent.com/zI1Zw2o1Zax7wNCuqnOpmD_oSs1yxXWQivSuBzeWVVYDxTj4ZqQr8LQnkoVgq4PsCZ_Z0mMxZgQ-h2h53dCw347aFpHcoeWZCvoJW4MyDNAwuFO-LEaAtozlLn1LV4zPTH8DUYD0o6v3oS4=s2048)![blade12](https://lh3.googleusercontent.com/296F3Hh_IdN5zf3K3rhfn2sMsR7M7nMe_Y8MgEOo-e7aE2uY-Ken37XYT0rv1-n8iL1IHKJtPgrkcdtCSZUklRqELTmDeWEZWdzjlHlP5KuzFMcR_JM4q6jSfVBKkjEH5hSYq0nITkpr4jI=s2048)![blade11](https://lh5.googleusercontent.com/eO_bvaG6S9cb41-3HS8xoKAj8An7LeZHi2snnDt42QIkPJ97Tm-_ZC3oWDhRchdTPhKXTJgy5J2S4qglr8uJjdSnuNnSYYqrMPRYslOTssO8XIBZZBmmZxAfmwqaN5Cy8TXSr9eLJrsiUwk=s2048)![blade14](https://lh3.googleusercontent.com/bf0rfrYaS-iN6EDHVmmXcFps7A0dhcOKM-EKhwnWx8jZio_FfdF5BMBTaXxKfBhpUaCIS92IiytyA3RlhkdHbTmfPRfv8yOEMVID1FzRf9u0DMSbW5RnwpKJkPhF68dFGNUhS4V70sfqqOA=s2048)  
-
-## Blade runner and Replicants  
-![T1 poster](https://lh5.googleusercontent.com/B1-mEhEfhpGzbwnG8F29giqB71F_jsXBqjgZFhPpVmuEQiGmQZ-CFj-oSZvLiSJcXbhy4yX7OaJMPHSXEH4br5qROhXluBmMnVPcUj0hGfp5SEscoiLCKD-i4N6K5dcJGh74tASUZgvuHmI=s2048)  
-![t-pic5](https://lh5.googleusercontent.com/EhXypQKneM1xl9x1S1iSLM0hnvousziMlK_C13ZC60UoiUN_aGakLDfJ57-2L_B9wJ52cr8Z361sPHgx5bmAtcRFphBl36Sc_pc1TcT0tCAXjaTW6vSzaFxemc0nkaSO1C65wvMzV_dh_xk=s2048)  
-
-## A Machine that no longer appreciates its maker!!!
-![teddy](https://lh5.googleusercontent.com/ccDI81ElDeR952L0fV5R4jffiayGxmvSq-tpxYg-X0t8Eid_W91dkqUX6T-yZsolyNzOSvsTMRA9M29F92eGpuhFFx8kYruev2-O4kzdH2jR1OIgb_NZ5cGhjU5qDN5szAB8i49cazwwxdA=s2048)  
-Artificial Child with Smart Toy in                     “AI”
-
-(Can a machine experience “Love”?)
-![The Matrix](https://lh6.googleusercontent.com/cxk5enBx04hcvP-oyXGqWCsUxAEwOrhPjTg7FZzl8cnVHPLcRuyBjlIdBpAny1PLOqVvMcudqc4vA51D_7ZCdouHMr0u4egGBXzTFHa1p0o8f1HgMAGfkdNxLhNmlvAHG9Wb4a3NQYL32do=s2048)  
-
-## Machine breeding humans for use as “battery” power in “The Matrix”
-
-So, as you can see…self aware machines rerpresent some interesting chalenges!
-
-"I have no hesitation in thinking  
-that a machine can be just as intelligent and just as real as a person, in principle."  
-Professor Rodney Brooks, Director, MIT Artificial Intelligence Lab   
-
-# The Family of Computers  
-  
-  (Mainframes to Quantum)
-
-## The family….
-
--   Mainframes
-    
--   SuperComputers
-    
--   MiniComputers
-    
--   Servers
-    
--   Personal Computers (PCs)
-    
--   MicroControllers
-    
--   Quantum Computers
-    
--   NanoComputers
-    
-## Mainframes
-
--   Nomenclature generally used for very large multi-processor systems capable of supporting hundreds of simultaneous users and programs via dumb terminals
-    
--   Operates typically in “batch mode”
-    
--   Timesharing paradigm
-    
--   Highly centralized data and processing
-    
--   Hardware optimized for general purpose computing
-    
--   Capable of running several Operating Systems simultaneously
-    
-![slide07](https://lh6.googleusercontent.com/rMBu3Py__FaUu4OcwFCaakVQ0CWXlC9bJl7JMYyKJp_oxX6ZRraip1Vjq5DOUJcUsmN1ueIL84OYoguFtFI0m39YiG9sNQ099OBz0E20A7kMfrg2ul__1rg0VTNqRDLZ4Ep0ZMGgu4SmBL4=s2048)  
-
-## Mainframe Console
-![mage result for vintage mainframe computer pics](https://lh6.googleusercontent.com/IKB6eBRCSpw0PSYd0koAUAMVk2Mvfp8cZu7I_WpnXmTefhNtycPaQC0yiFyiNWDTmydshn3_Jb2zsjMfsiP6wKgT0RZW5e9ZnyGuSkzj7_RtL961WuarMZKMm75Y3zS4GRJdBG5pqU3TGwE=s2048)  
-
-## IBM 360 circa 1968 with  
-![360 photo](https://lh3.googleusercontent.com/tzXPk1ufTtFu41iZKA6QCRAJcgyERPbWUq_d7RB8DSsuQJq4kkK4iQFXz9KZXg8raj3hOff1sUEgELygOCi7WqoxbDZ8UUbg8lxSSxivVJTutIVZJgTy_-Tl2e0f-dRvMN5M2QPMSrRgZEU=s2048)  
-50 Megabytes of Storage on each disc!
-
-## Mainframes used lots of Tapes!
-![mage result for vintage mainframe computer pics](https://lh3.googleusercontent.com/A6vTsX8f4lSXCfPgS-bkDqnzlDP_jg0BpyMXxP6sxzhzwIan0efJA4AqwC_aVQh3d_hI1rqxp6qcUrqNRFmUVrHXBqnCVLyT0NExy9NwDQiaJ_mmveiBgfCs30x4rhP6Dew1KUFnFxc62Z4=s2048)  
-
-## Easy to use control panel!
-![onsole of an IBM 360/195 computer from 1971 - not really for music](https://lh6.googleusercontent.com/Tf6Y3cEwIeF2m-uCXt1c0R9-Rewe5yh1Wy3uRqDLoM8n3MqAmkc0RKz1ObKeyZrVsQ5iTDTS76gcXWWY4ZftGEiKVK6JXqujXumrezSquK9yuLUOfNFUWawb5LvxT6fsBRWhyVwH0hDYceo=s2048)  
-
-## Some Historical Mainframe Applications
-
--   Accounting functions
-    
--   Ticketing and Reservations
-    
--   Manufacturing and Inventory Management
-    
--   Payroll
-    
--   Database Storage and Retrieval
-    
-## Mainframes…like the Brontosaurus, became an endangered species 
-
--   IBM, Univac, Control Data, Honeywell, RCA, GE were all early producers of mainframe systems
-    
--   Given the need for flexibility and scalability, mainframes are few and far between today
-    
--   Mainframe functionality is better achieved with a network of smaller computers that distribute the processing
-    
-## Supercomputers
-
--   Machines optimized for certains types of programs, usually involving intense numerical operation as opposed to general purpose computing.  These machines were sometimes of the “mainframe” variety and employ many hundreds of parallel processors
-    
--   Cray Research
-    
--   IBM
-    
--   NEC
-    
--   Fujitsu
-    
-
-## Supercomputing
- 
-The high-end supercomputer market is where the world's most challenging  computing problems are addresse Problems of major economic and scientific importance were often handled by high-end supercomputers years before becoming "tractable" on less-capable systems.   
-
-## Supercomputer Performance
-
--   A typical performance benchmark is the FLOP (Floating Point Operations per Second, which is multiplication of two large binary numbers)
-    
--   MegaFlops (Million)
-    
--   GigaFlops   (Billion)
-    
--   TeraFlops   (Trillion)
-    
-![g152](https://lh3.googleusercontent.com/XSoP9VMmfz1NlDrJdLbJwdvFobD50Pb8Sujgm4VQuX_UBld1qtzmMrjnHEYo1utBTnC2gUpG4IWyMnJLOQ9W5vMlMFceb8wu7nlzSkqDu_HXpr4paoXyXcYFNYJPjF0cOsMy_dOOyEOCJIU=s2048)  
-
-## Examples of SuperComputing Applications
-
--   Weather analysis/Climate Change
-    
--   Rocket Science
-    
--   Encryption/Decryption (code breaking)
-    
--   Virtual Reality
-    
--   Nuclear Research
-    
--   Aerodynamics Simulation
-    
--   Genetics
-    
-## Supercomputers, Cray 1 circa 1980
-![Cray-1](https://lh3.googleusercontent.com/ZsvyGxRafW3tkPS5bUn1QuJ7xB8UmaznH54i-24wIZ0KKPoS_vg5vfwcAaUPF6B5m1t21NkW7fKUYOObiHMf5e1uDnbg2wTi5qvuXtI1MRdx-o1Or1IY81f1i9wu5bo72Ga1wt1ghzl5ico=s2048)  
-
-## Cray T3 Today, 230 GFLOPs!
-![T3E](https://lh4.googleusercontent.com/u1fR96KhfjRIALNh5PbD7GARKPgsgyZF3c1BpOpLe-VbVQQBQkNCzjW02pkkVI6FgblWzExJ_uCHgtASjpUsD88OHrF2WOZV6CXaC4FEo936a1H1tWOF-_GBq7GWqdEgNk60tcaJwlI-1do=s2048)  
-
-## IBM Cluster 1600
-![IBM_cluster_front_3_550](https://lh6.googleusercontent.com/omA5OJCPf10Ye7faGRTdpYJkWWyQwSk3prSV1lGkhF_uXKiLkzXvOvNe4oKW6yUKO5qbYPIU-tCduf5bByz5SPIrVgLJNAY4y3DVSMox3M03F15OeCTBc_SvuvvlwECbkVqPYAbUfSxv34s=s2048)  
-
-## Earth Simulator by NEC
-![Earth Simulator](https://lh3.googleusercontent.com/sv-5BrpGyAfdERTFB2uGrWFrsqHix4C2s1E5rnFj5AI7lvTbxW1tKdwuScsTyM3HoISoujo_9G8j6_S7JBTXn52R14a9wdPsIVHa1WWEvCon2TIGU19hQYNmmBUXQ6owRUjTc1v14yPHlSU=s2048)  
-
-## Parallel Processing
-
--   Many Machines, especially Supercomputers, use a technique known as parallel processing
-    
--   It involves breaking a computational problem into parts that can be executed in parallel and processing the parts on a network of machines that can share intermediate results
-    
--   The NEC Earth Simulator has 640 processing nodes and can achieve 30 Trillion Floating Point operations per second!
-    
-## MiniComputers
-
--   MidSized system that fills the space between Workstations (PCs) and Mainframes.
-    
--   First introduced in the late 60s by DEC and Data General to bring down the cost of computing from Mainframe prices
-    
-## Minicomputers
-
--   Wide range of size and price points
-    
--   Scalable compatibility
-    
--   Became the dominant part of the computer market during the 70s and 80s
-    
--   Slowly evolved into the machines that today we call “Servers”
-    
-PDP-11 and Vax Minicomputers from Digital Equipment Corp
-![10kl](https://lh6.googleusercontent.com/QNCm8xBgKdoIVv25-7OWErvrCluUty96PwYEm6_B2reyJR8zM6xbOzvhb3oEAtTs3cyHLd8t1XjEy8OPjYITT35jLfV-fUDBVQkmXIRW9QzKR0KGCtJRkmqZb3iaMppdJlZNKHmiZqyI2yA=s2048)
-![1144](https://lh3.googleusercontent.com/G_QLX0V5jN4UJKmiSRMX-Zgq-GZAclp9LY1C5ILVUWIlU9-eVOtYVo8o7pL9z8ZjdmtiNJcJxWlsMZkcElomA1SoD7uEuiFMrQqujG6zn1NafR5OaBcKwsP6O8svJCl8jyNX85KNB6XVe8c=s2048)
-![vax750](https://lh5.googleusercontent.com/BN7I0LjPGsDeZVaSofUCfHmuZ2jCl5DZoFyAy9OaMlZ2QsvurbPtleX1_UF60IiMlxBTtjoJex4_ZNZY-bybn3A-bFW3OHAidnsa-Ch6DOALI9s5JrY1YDkjGHnmvtpmRYCPeoUBBABCpmk=s2048)  
-
-## Servers, the new Minis
-
--   Server class computers are the new nomenclature for Minis, whether they are used as servers, or not.
-    
--   Serving up web pages on the internet has created huge demand for mid-sized, scalable systems
-    
--   Moore’s law has enabled servers to become very powerful and cost effective tools for configuring scalable computing systems
-    
-## Rack mounted servers
-![mage result for computer server pics](https://lh5.googleusercontent.com/2Q1rrCep8L8vTDjz21OIR0044XFK-uOfZgzbixsI5lB81afP8QtO7ni3CUv9UgA78BbH3L8Mo5qaZ1MMVeiBf26GYC4D9Nk2fHTbYFbpPVQZ0IBORbqN3ZUSrMdfmEDlFXdCZEPK4HXR-hQ=s2048)  
-
-## Server Blades
-![mage result for pics of computer servers](https://lh3.googleusercontent.com/nL4pWTGQ18gvKqvPNtZLlaeS9sTXeV-MiALOJ2F9bDvZiShUiAAQYZoj2vkjhT7ReJ0K73caHWRkm4l3p1Cpd2FxTveia-IO4egYF2yTKuLFv4zW7F-9qzK20zZbpatHNoT5NFiwQLCx2RE=s2048)  
-
-## Lots of Servers configured  
-together
-
-## PC’s (Personal Computers)
-
--   Desktops
-    
--   Laptops
-    
--   Typically used as clients or standalone machines
-    
--   Larger PC’s can also be used as servers
-    
--   The lines become more blurred over time
-    
-## Radio Shack TRS-80, 1978
-
--   The first plug and play personal computer available at retail
-    
--   Programmed in BASIC
-    
--   Very successful
-    
--   Very affordable
-    
--   Limited commercial software
-    
--   Created a cottage software industry of moonlighting programmers
-    
-![mod1bw](https://lh6.googleusercontent.com/iRUaPanZtu-WNr4eN8W9ooNXzl-WyeUNlsSMyPHSmUqRx65dW41aQqIeQW5mOyF-7sC2WIruDki2z8KcB7A8WNwcqqWPc4UZZEhoSe1t4KN33JTJBnTgUe0KN--0na21m01MZZQ_sSW235Y=s2048)  
-
-## The Apple II  - 1980
-
--   The first commercially available Apple
-    
--   Initially sold to Wall St. bankers who wanted the Spread-sheet program called Visicalc which ran on the Apple II
-    
--   Put Apple on the Map
-    
--   Several million produced through 1992
-    
-## Other types of “PCs”
-
--   iPads etc.
-    
--   PDAs (Personal Digital Assistants)
-    
--   Game Consoles (Playstation, X-Box)
-    
--   Programmable Calculators
-    
--   Smart Phones
-    
-![g305](https://lh6.googleusercontent.com/8rQ5UXaFu6_xI1GUcQfmstLtUYE3l6AOybQEvIslOOubVtEz_Br8CCz1jn8mZ-0IlvUpP4PRc71wCLjKS17JGtZD0JuMH_U-EUIT0RTn9n49xNdRla7ouQ0KRZNKNdJ03VTQ8Wgqvf79rDk=s2048)  
-
-## Micro Controllers
-
--   Application specific computers of very small size, low cost and limited function
-    
--   Designed around their application
-    
--   Simple OS ( often LINUX)
-    
--   Very cost effective
-    
-## Typical Micro Controller Applications
-
--   Robotics
-    
--   Automotive 
-    
--   Automation Systems
-    
--   Appliances
-    
--   Communications
-    
--   Timepieces
-    
--   Computer Peripherals (Disk, Keyboard, Display, CD, etc)
-    
-![g109](https://lh5.googleusercontent.com/yYzolU9eu76O5iJEcpKplm5TXMZ0NMp3XmV3lhZZ1JVNKinnO2nQCTd__XmIrCxDksINuC6j3RyGtj3-o84yLbi8p4AVQaoVIHNo4H3tv3XL1VywibMVA59cetOUKeK0IgdjABRFSZjnArw=s2048)  
-
-## Micro Controllers
-![mb1](https://lh3.googleusercontent.com/NjvwT0KXLuilEWUN12LMXahxzroftuSQMCqNApfyFsHizvbVmMyBmbhTks9hSwV_FBH-CGq0aMktmCdGLa0cLaJOaJTgrh2HcUPbTTxCLqWbjbVtbM9QN-a-vRvlXp5sPvmV6lvf_vPsPZo=s2048)  
-![Raspberry Pi 6010602](https://lh4.googleusercontent.com/vOFoJ0beIpyAjxEbSbdyGzln2QNxNBIOm9xL6t2pMyzUKc1FN44AOvKZCiMtah8USpAf4zdFzCABEWQFkDAQix4S53KugZuRpzOJ462DdwLnnPWSaXZ9kviIe3pTEzaQJwCODeFOHl5o_7A=s2048)  
-
-4 GB of Memory
-32 GB of Flash Storage
-4 USB port
-HDMI video output
-Sound Chip
-Wifi Radio
-$39.00 on Amazon!!!
-Rasberry Pi Micro  Computer
-
-## NanoComputing
-
--   A nanometer is a billionth of a meter (10^-9) and spans approximately 10 atomic diameters
-    
--   A nanocomputer is a computer whose fundamental components measure only a few nanometers(<100nm) 
-    
--   Minimum feature size on today’s state-of-the-art commercial integrated circuits measure about 350nm 
-    
--   Over 10,000 nanocomputer components could fit in the area of a single modern microcomputer component (= more speed & density) 
-    
--   Nanotechnology and nanocomputers could introduce many new applications and possibilities
-    
-## NanoComputing Using Electronics
-![fig1](https://lh6.googleusercontent.com/rer2RKu4gJYV3CVh_sqbHNQItO-VbCJ5STm84Pd5S6cBLlerdW_dQjgWCu61xU7873pi3X-wTpxm1BMHJ40ldXYNFDzREpilLtcDhgDUo_cxU_YZxHDTNJ08sjLoEvJweiTcXryojZaPgBE=s2048)  
-
-## How small is small?
-![](https://lh6.googleusercontent.com/ByAFbIoJ9cWsuHZGdOinsnEb8ADSSHoPgZnHcVCH-EOSUQFf2xONHsU64uYrDqlWW1YNlt-wvXVrcG7FgUrfjOc4YFw79TY6p_ZxmqmO6voLpuEb-AKwcfPfU1WzvMYNm4FmR_hHCiiDGNM=s2048)  
-
-Nanocomputing using biological agents, molecules or atoms
-![fig3](https://lh3.googleusercontent.com/Zu7zBeAsLtAJoEJMAYU3XV2lsAgX3iS9BRH-V23tP9XF69NC99xuZmCJfcieB5MJb7hgCw5aUpv1FC7MqCDRsPghuKWBGGEhcbZwb71S3uPVY6gyYBOvheNtfQ3sRANO8HFmr_XwJpS4M7c=s2048)  
-![vg_possible_nanotech@100](https://lh4.googleusercontent.com/Q9yZDXiev7QgfKmVVDM3NTtJhzYM4jWIcruioUVB1ART2z1JsRNnKkYdAzfaccpPt--kh0Tu4y6FoZzFzMixqlpPapO_s_2gs2DkiNNAQVrtysqhjOSeqgtBWZZptC_H3Xv_Xu12cDJ4cQQ=s2048)  
-
-## Some Nanocomputing Applications
-
--   Micro Miniature Robots
-    
--   Computers under your skin!
-    
--   Medicine
-    
--   Artificial Brains
-    
--   Invisible Sensors
-    
--   Supercomputing at the very highest scale
-    
-## Skin computing!
-![elated image](https://lh3.googleusercontent.com/fuZIRNTvsLqWYJmxfISKQmuQblKqmFJh4Jbzo4UWqZ0xihXpwy5PhdnARDjLyZJm99xEe9ixdONTrsyWUGq9UfwrxXLQa1ehxYAyBy43eaK-ElDckz8EOugvQikx34rCpSkMZdWpSktGFyk=s2048)  
-![](https://lh6.googleusercontent.com/z3iOvh3JNzXKPaAl1GfLfXDHSp0XMbSiZpc97cu784G3__jg4hn-3FuV9CcRG4MNIWqThFTvGhBQ92TlRYaJAs2iyfzf3MjnI2PzT5jlzZMkwrsVVNg8-_k6zO1OgguzNm-GgC0IJEHzqXI=s2048)  
-![Image result for google quantum computer](https://lh5.googleusercontent.com/ICuBRYz_XwujunlVCkEN_wNPOp_e3M-S5neUKq7IyXxxzpIRnm3fW0xoBh4UHlcA3x3FA1S_b_YObTwFQCZdvzk395J7AVnlx58e46cELpTcUGCt0cXjvxFiBnkrVdUtfsOrZqBqw2DPDLU=s2048)  
-
-Recent announcement by Alphabet, Google’s parent company, about early results from their Quantum Computer development.
-
-Google has claimed "[quantum supremacy](https://www.livescience.com/65651-quantum-computers-get-scary-fast.html)" over the most powerful supercomputers in the world by solving a problem considered virtually impossible for normal machines.
-
-The quantum computer completed the complex computation in 200 seconds. That same calculation would take even the most powerful supercomputers approximately 10,000 years to finish,
-
-Q-BITs can have the value of 0 and 1 at the same time!
-
-Stay tuned as this and other Quantum experiments evolve.
-[https://www.livescience.com/google-hits-quantum-supremacy.html](https://www.livescience.com/google-hits-quantum-supremacy.html)
-
 # Computer Gaming, Entertainment and other Cool Applications
 
 ## Early Computer Games
@@ -8811,6 +8826,26 @@ All of this computer power and connectivity has given birth to another vital ind
 http://hint.fm/
 https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en
 https://www.ted.com/talks/talithia_williams_own_your_body_s_data?language=en#t-1009468
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
