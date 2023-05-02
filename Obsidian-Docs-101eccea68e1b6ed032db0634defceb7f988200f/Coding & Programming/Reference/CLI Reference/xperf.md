@@ -1,4 +1,4 @@
-
+#cli #performance
 cd "C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit"
 xperf -on base+interrupt+dpc
 xperf -d c:\temp\trace.etl

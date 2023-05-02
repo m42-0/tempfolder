@@ -1,4 +1,4 @@
-
+#cli 
 logman query providers
 
 logman create trace spotless-tracing -ets

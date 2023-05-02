@@ -1,3 +1,4 @@
+#cli
 Shortcut
 cmd.exe /c start "Program name" /High /affinity # "Program's path"
 
