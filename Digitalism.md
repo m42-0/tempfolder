@@ -1,3 +1,5 @@
+#basics
+
 # Introduction
 ## Digitalism
 -   Spreadsheets
@@ -66,8 +68,67 @@
 [Microsoft Word - Chapter 2 Sampled Data Systems F.doc (analog.com)](https://www.analog.com/media/en/training-seminars/design-handbooks/data-conversion-handbook/chapter2.pdf)
 
 # History of Computing
+## Schickard Calculator
+![](https://images.computerhistory.org/revonline/images/b1626.01p-03-06.jpg?w=600)
+William Schickard (1592–1635), mechanical calculator
 
-![[cmd]]
+[Schickard’s Calculator and The Pascaline - CHM Revolution (computerhistory.org)](https://www.computerhistory.org/revolution/calculators/1/47)
+[1.6 Shickard’s Calculating Clock | Bit by Bit (haverford.edu)](http://ds-wordpress.haverford.edu/bitbybit/bit-by-bit-contents/chapter-one/1-6-shickards-calculating-clock/)
+[Calculating Clock | calculator | Britannica](https://www.britannica.com/technology/Calculating-Clock)
+[The Inventor Of First Mechanical Calculator -Wilhelm Schickard | by Karthick Nambi | Predict | Medium](https://medium.com/predict/the-inventor-of-first-mechanical-calculator-wilhelm-schickard-2c1145733d61)
+
+## Pascaline
+![](https://www.arithmeum.uni-bonn.de/fileadmin/arithinventory/bilder/large/FDM9665/P1020780a.jpg)
+Blaise Pascal (1623–1662), addition and subtraction decimal calculator
+
+[Pascaline (uni-bonn.de)](https://www.arithmeum.uni-bonn.de/sammlungen/rechnen-einst/objekt.html?tx_arithinventory[object]=16461)
+[SKD | Online Collection](https://skd-online-collection.skd.museum/Details/Index/305712)
+[Pascaline – simulation, animation – eduMedia (edumedia-sciences.com)](https://www.edumedia-sciences.com/de/media/333-pascaline)
+
+## Leibniz Stepped Reckoner
+![](https://www.hannover.de/var/storage/images/_aliases/full/media/01-data-neu/bilder/redaktion-hannover.de/portale/leibnizjahr/rechenmaschine-pano/12515698-1-ger-DE/Rechenmaschine-Pano.jpg)
+G. W. F. Leibniz (1646–1716), “Stepped Reckoner,” full-featured calculator,  (“Leibniz wheel” for multiplication / division)
+
+[Leibniz Invents the Stepped Drum Gear Calculator : History of Information](https://www.historyofinformation.com/detail.php?id=394)
+[Leibniz's Stepped Reckoner – Hanover, Germany - Atlas Obscura](https://www.atlasobscura.com/places/leibnizs-stepped-reckoner)
+[01) The first mechanical calculator for all four arithmetic operations by Gottfried Wilhelm Leibniz (uni-bonn.de)](https://www.arithmeum.uni-bonn.de/en/collection/exhibit-of-the-month/archive/01-the-first-mechanical-calculator-for-all-four-arithmetic-operations-by-gottfried-wilhelm-leibniz.html)
+[Computer History (kent.edu)](https://www.cs.kent.edu/~rothstei/10051/HistoryPt2.htm)
+[Calculus on Demand at Dartmouth College](https://math.dartmouth.edu/~m3cod/index.htm)
+
+## Charles Babbage
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b394eb3-2a1d-41c4-a232-a4d4ea872313/dcu3n6m-d898b9c9-0132-4578-b4ed-4a7b0b2cd826.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiMzk0ZWIzLTJhMWQtNDFjNC1hMjMyLWE0ZDRlYTg3MjMxM1wvZGN1M242bS1kODk4YjljOS0wMTMyLTQ1NzgtYjRlZC00YTdiMGIyY2Q4MjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KJ2YGoI8dvL4QzOphHxlOq-oXG0PXKWjnKHoeeqw774)
+
+### Analytical Engine
+![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Babbages_Analytical_Engine%2C_1834-1871._%289660574685%29.jpg)
+
+
+### Difference Engine
+![](https://scikey-wowprod-mumbaisouth.s3.amazonaws.com/upload/photos/2021/06/hiQcQ9KWVxcTRn13jIkn_21_c19246dbb4119b5f5eaa8e2a3102b202_image.jpeg)
+
+-   automated both the computation of tables and their printing  
+-   employed the method of differences to calculate polynomials
+
+[DPMA | Charles Babbage](https://www.dpma.de/dpma/veroeffentlichungen/meilensteine/computer-pioniere/babbage/index.html)
+[Charles Babbage (1791 – 1871) - Spektrum der Wissenschaft](https://www.spektrum.de/wissen/charles-babbage-1791-1871/1129852)
+[Die Computerprogramme von Charles Babbage (fu-berlin.de)](https://www.mi.fu-berlin.de/inf/groups/ag-ki/publications/Computerprogramme-Babbage/Computer-Programme-von-Babbage.pdf)
+[Augusta Ada Byron (1815 - 1852) - Biography - MacTutor History of Mathematics (st-andrews.ac.uk)](https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/)
+
+## Ada King
+![ada_lovelace.jpg (178×249) (ithistory.org)](https://www.ithistory.org/sites/default/files/honor-roll/ada_lovelace.jpg)
+
+-   Ada King, daughter of Lord Byron wrote the “programs” for the Difference Engine,  
+-   She also adds a step-by-step description for computation of Bernoulli numbers with Babbage's machine — basically an algorithm — which, in effect, makes her the world's first computer programmer….ever
+
+[Ada Lovelace und das erste Computerprogramm der Welt | Max-Planck-Gesellschaft (mpg.de)](https://www.mpg.de/frauen-in-der-forschung/ada-lovelace)
+[Computer Pioneers - Lady Lovelace King, Augusta Ada](https://history.computer.org/pioneers/king.html)
+[Mrs. Augusta Ada King, Countess of Lovelace | IT History Society](https://www.ithistory.org/honor-roll/mrs-augusta-ada-king-countess-lovelace)
+
+## 1880-1901 The Birth of the Modern Mechanical Calculator
+
+[Mechanical Calculators - History-Computer](https://history-computer.com/mechanical-calculators/)
+[The History Of The Calculator: When was the Calculator First Invented? (edtechmagazine.com)](https://edtechmagazine.com/k12/article/2012/11/calculating-firsts-visual-history-calculators)
+[Mechanical calculator - Wikipedia](https://en.wikipedia.org/wiki/Mechanical_calculator)
+[The First Mechanical Calculator and the Computer Revolution of the 160 – mimicEducationalRobots (mimicrobots.com)](https://mimicrobots.com/pages/the-first-mechanical-calculator-and-the-computer-revolution-of-the-1600s)
 
 # Binary Computing
 ## Claude Shannon 1916-2001
@@ -2255,14 +2316,14 @@ First phones cost over $4K !!  Motorola Dynatac
 Starlink is launching 40,000 Low earth satellites to provide Internet access from everywhere on earth
 [How Routers Work | HowStuffWorks](https://computer.howstuffworks.com/router.htm)
 
-**
+
 
 Remember our CPU is at the core
 
-**
-**![](https://lh5.googleusercontent.com/5fcMC7UzFL5KvjFziiImumaFnED3uEamPvnoF6TPMU9oSf_TeiHYSssojTbJA5t80sI7Fs0tXW6S4nPUTaKzblAA8DAMr_6VnmXw5QJvZMg_2ajSLGwdk7ncySFTAYh2mLEXRwhG66coEqI=s2048)**
 
-**
+![](https://lh5.googleusercontent.com/5fcMC7UzFL5KvjFziiImumaFnED3uEamPvnoF6TPMU9oSf_TeiHYSssojTbJA5t80sI7Fs0tXW6S4nPUTaKzblAA8DAMr_6VnmXw5QJvZMg_2ajSLGwdk7ncySFTAYh2mLEXRwhG66coEqI=s2048)
+
+
 
 Fetch, 
 
@@ -2272,13 +2333,13 @@ Executes Instructions
 
 in sequence
 
-**
-**
+
+
 
 What is Software?
 
-**
-**-   Software = Programs
+
+-   Software = Programs
     
 
   
@@ -2288,10 +2349,10 @@ What is Software?
 
   
 
--   Programmer = He or She that attempts to correctly structure those instructions to achieve a desired result**
+-   Programmer = He or She that attempts to correctly structure those instructions to achieve a desired result
 
 
-**
+
 
 Computer Programmers;  
 a definition
@@ -2300,15 +2361,15 @@ a definition
 
  “Their rumpled clothes, their unwashed and unshaven faces, and their uncombed hair all testify that they are oblivious to their bodies and to the world in which they move. These are computer bums, compulsive programmers.”
 
-**
 
-**Programmers having fun at work
+
+Programmers having fun at work
 
 ![fist of the northstar](https://lh5.googleusercontent.com/ap5M1pyDRhS2iqCwspVU8mGHX4axG5_P18NVBQMkU1Q9R7qXpBW567YE6kZ_ncFZy9CEdbPKv5F0AnG45PyopiNiynAKCyJ_el_Zrzw7qbrixs9Z7-fmD01vWtDYifPXgsFxdtqXpdjLGdE=s2048)  
 
-“The trouble with programmers is that you can never tell what they are doing until it’s too late.”**
+“The trouble with programmers is that you can never tell what they are doing until it’s too late.”
 
-**
+
 
 Programming Language
 
@@ -2322,8 +2383,8 @@ Programming Language
 -    Computer languages have evolved to the point where anyone can learn the basics of using one
     
 
-**
-**
+
+
 
 Low and High Level Languages
 
@@ -2342,9 +2403,9 @@ Low and High Level Languages
 -   High level languages make it much easier to develop large complex programs.
     
 
-**
 
-**
+
+
 
 Machine Language
 
@@ -2358,8 +2419,8 @@ Machine Language
 -   A typical instruction might say, get the contents of a memory location and put it in the accumulator (perhaps in preparation for adding it to another number).
     
 
-**
-**
+
+
 
 A Machine Language Program
 
@@ -2394,8 +2455,8 @@ A Machine Language Program
 
 …..not very user friendly!  But believe it or not, computers were programmed by humans in machine language at one time.
 
-**
-**
+
+
 
 Natural Languages
 
@@ -2419,9 +2480,9 @@ Natural Languages
 -   So, we express what a computer should do in a formal language
     
 
-**
+
  
-**
+
 
 Assembly Language
 
@@ -2439,8 +2500,8 @@ Assembly Language
 -   STACC 0A     ; (store new_balance)
     
 
-**
-**
+
+
 
 High-Level Languages
 
@@ -2457,9 +2518,9 @@ current_balance = current_balance +new_check;
 store current_balance
 
   
-**
 
-**Compilers and Interpreters
+
+Compilers and Interpreters
 
   
 
@@ -2468,10 +2529,10 @@ store current_balance
 
   
 
--   An interpreter is a program that executes the high-level program directly and translates it into machine language on the fly.**
+-   An interpreter is a program that executes the high-level program directly and translates it into machine language on the fly.
 
 
-**
+
 
 Some High Level Languages in Use Today
 
@@ -2509,9 +2570,9 @@ Some High Level Languages in Use Today
 -   Javascript
     
 
-**
 
-**
+
+
 
 Interpreters vs. Compilers
 
@@ -2534,10 +2595,10 @@ Interpreters vs. Compilers
 
 But this is slowly changing…..Why?
 
-**
 
 
-**
+
+
 
 Simplifying The Translation
 
@@ -2596,9 +2657,9 @@ Machine Code
 0110101101011101000101010000101010101100  
 0100001010101010111110101010101011111111
 
-**
 
-**
+
+
 
 Software Creation Process
 
@@ -2614,9 +2675,9 @@ Software Creation Process
 -   Testing and debugging
     
 
-**
 
-**
+
+
 
 Writing Software, the right way
 
@@ -2638,14 +2699,14 @@ Writing Software, the right way
 -   Release
     
 
-**
-**![Page-1](https://lh4.googleusercontent.com/iU_Mgtlb0f-YSkw00D7VLKOTpJX8MiExk5-CTaCBAeAvvI6KRtmNlS9FXfKwj0zU6EPNrFBFlttVMM91DGGvUn0wCkVCkP8a3hkPL8H07I5Ko_PaOgRgh12Mn_E5BNo-Wg5cRalvOOo2qQU=s2048)  
+
+![Page-1](https://lh4.googleusercontent.com/iU_Mgtlb0f-YSkw00D7VLKOTpJX8MiExk5-CTaCBAeAvvI6KRtmNlS9FXfKwj0zU6EPNrFBFlttVMM91DGGvUn0wCkVCkP8a3hkPL8H07I5Ko_PaOgRgh12Mn_E5BNo-Wg5cRalvOOo2qQU=s2048)  
 
 Flowcharting a design
 
-**
 
-**
+
+
 
 Pseudo Code(ing)
 
@@ -2672,8 +2733,8 @@ Pseudo Code(ing)
 
 
 
-**
-**
+
+
 
 Python!
 
@@ -2704,8 +2765,8 @@ Python!
 -   We will use Python later in the course
     
 
-**
-**
+
+
 
 Real world problem
 
@@ -2720,8 +2781,8 @@ A  real-world example is assigning gates at airports.  Some constraints are:
 -   Find an assignment of gates that minimizes passenger time (and perhaps distance).
     
 
-**
-**
+
+
 
 The Price of Failure
 
@@ -2740,9 +2801,9 @@ The Price of Failure
 -   The delay in opening cost over $1Million per day!
     
 
-**
 
-**Quoted from the morning news
+
+Quoted from the morning news
 
   
 
@@ -2750,16 +2811,16 @@ The morning news reported that the opening of Denver's new international airport
 
   
 
- While the video showed the machinery shredding open suitcases and throwing clothing all over the floor, the voice over of the airport director stated, "We think it's mostly a software problem."**
+ While the video showed the machinery shredding open suitcases and throwing clothing all over the floor, the voice over of the airport director stated, "We think it's mostly a software problem."
 
-**
+
 
 Even 120 Computers couldn’t figure this out!  
 A small portion of the Denver Conveyer System
 
-![](https://lh5.googleusercontent.com/jVyGmlbcpC13NAi1gV3PH1HDPW-x2Dtu0VWaYOeDJwLznu7r0Ddpph8v9WFNg8uZfKOj5HI8lOZwbH4EyJtflHqk6xoVTJMp2HNgOfm9bYnyEZtBhcCK2CkYLUusxE-17nCCuakt68Pyv3A=s2048)**
+![](https://lh5.googleusercontent.com/jVyGmlbcpC13NAi1gV3PH1HDPW-x2Dtu0VWaYOeDJwLznu7r0Ddpph8v9WFNg8uZfKOj5HI8lOZwbH4EyJtflHqk6xoVTJMp2HNgOfm9bYnyEZtBhcCK2CkYLUusxE-17nCCuakt68Pyv3A=s2048)
 
- **
+ 
 
 Complexity
 
@@ -2778,9 +2839,9 @@ Complexity
 -   The problem is getting worse, not better as reflected in industry software issues worldwide
     
 
-**
+
  
-**
+
 
 Cases in Complexity
 
@@ -2804,10 +2865,10 @@ When on to found the CS Dept. at the Univ. of North Carolina
 
   
   
-![225px-Fred_Brooks](https://lh3.googleusercontent.com/KhglVjzaOVNVOHdxFz3XNmi4VFKsNgpsTbhoomSl3FUxRnuV7NXf5iCs0CpchhsWHiHi1Ve6C8Uu6L_hCd0miP754hAATEiBihHm60BVHySYHtQyBvl15ZGB3-HXveAoeuNYFN_2L62qiis=s2048)**
+![225px-Fred_Brooks](https://lh3.googleusercontent.com/KhglVjzaOVNVOHdxFz3XNmi4VFKsNgpsTbhoomSl3FUxRnuV7NXf5iCs0CpchhsWHiHi1Ve6C8Uu6L_hCd0miP754hAATEiBihHm60BVHySYHtQyBvl15ZGB3-HXveAoeuNYFN_2L62qiis=s2048)
 
 
-**
+
 
 Some case studies in software disasters
 
@@ -2820,10 +2881,10 @@ Some case studies in software disasters
   
   
   
-**
 
 
-**
+
+
 
 Operating System
 
@@ -2838,9 +2899,9 @@ The  OS is a collection of resident programs that
 -   provide useful services
     
 
-**
 
-**
+
+
 
 OS Components
 
@@ -2867,8 +2928,8 @@ An operating system is a collection of programs that perform the following tasks
 -   Multitasking
     
 
-**
-**
+
+
 
 System Calls
 
@@ -2887,9 +2948,9 @@ System Calls
 -   For instance, saving a file to a directory location.
     
 
-**
 
-**
+
+
 
 User Interface
 
@@ -2900,8 +2961,8 @@ User Interface
 -   Some operating systems (e.g., Unix or Dos) typically use text-based interfaces. E.g.,
     
 
-**
-**
+
+
 
 The User Interface
 
@@ -2927,8 +2988,8 @@ The User Interface
 
 
 
-**
-**
+
+
 
 The User Interface sets the Tone
 
@@ -2945,17 +3006,17 @@ The User Interface sets the Tone
 -   Microsoft introduces Windows in ‘84
     
 
-**
-**
+
+
 
 A Typical Command Line Interface
 
-![](https://lh3.googleusercontent.com/HqCZ38i-lmOhCtvPBHXv7WjOT2yoK8Tmzt2DwQ2BDnjTtHYe8mAZVFczHHhotJv0rr3nTpLpkupKkzhk9mFghO1X3D0vxuTtRuejsNvrAsAm9yIRERTwSkUZ4VhUkOcGXu9Ezv_T4aaRkz0=s2048)**
-**![](https://lh4.googleusercontent.com/HLFI6wNpbAlKPyRVyYJkoXfPvgIcb-1p4OZ4D_ro3ky3rSLFRKjrqiuauFRn68VU49he70Ae8NXzIMQPl4fRTJsD6BC6spduHV2CNcIVdPPt0zkaHa3-nbO7XiaWMnk9mgG9EcelNaHCMrA=s2048)**
+![](https://lh3.googleusercontent.com/HqCZ38i-lmOhCtvPBHXv7WjOT2yoK8Tmzt2DwQ2BDnjTtHYe8mAZVFczHHhotJv0rr3nTpLpkupKkzhk9mFghO1X3D0vxuTtRuejsNvrAsAm9yIRERTwSkUZ4VhUkOcGXu9Ezv_T4aaRkz0=s2048)
+![](https://lh4.googleusercontent.com/HLFI6wNpbAlKPyRVyYJkoXfPvgIcb-1p4OZ4D_ro3ky3rSLFRKjrqiuauFRn68VU49he70Ae8NXzIMQPl4fRTJsD6BC6spduHV2CNcIVdPPt0zkaHa3-nbO7XiaWMnk9mgG9EcelNaHCMrA=s2048)
 
-**![](https://lh4.googleusercontent.com/lEg5imIXG5Iy-MmhmmG6jAMv2-bYLr_-T45T9yNYoPbSzHyuKUztx1Eqm31YDsQa5RHOxQW9nG2301HYWoCgA3ELAiMh5hNmyQHoKpioK3Vm3hFuzfEVQfk9mGay89K0EJeQouzRWsubrGE=s2048)**
+![](https://lh4.googleusercontent.com/lEg5imIXG5Iy-MmhmmG6jAMv2-bYLr_-T45T9yNYoPbSzHyuKUztx1Eqm31YDsQa5RHOxQW9nG2301HYWoCgA3ELAiMh5hNmyQHoKpioK3Vm3hFuzfEVQfk9mGay89K0EJeQouzRWsubrGE=s2048)
 
-**
+
 
 File Management
 
@@ -2974,9 +3035,9 @@ File Management
 -   Every file has a name and attributes that specify its size, its location and its type
     
 
-**
 
-**
+
+
 
 File Manager
 
@@ -2991,17 +3052,17 @@ File Manager
 -   The actual address of a file is a pathname, which is made up of the folders in which the file is located (sometimes called directories) and the file name.
     
 
-**
 
-**
+
+
 
 The File Manager maintains the hierarchy between the physical and logical  
   
 
-![](https://lh6.googleusercontent.com/CJn3Bffr_XuF6negrQ8afdoFZxwLr7LbHKfWUscOwXzy4lTTSz0G0Adme1oRdS9ds0x5D939Nlc9KC26X9Hu79lpOzhAwe0xiZtXaPtdhsxZQOXJdEkwq0gAPTBs1wJA5I2eTJoI5q_9VoA=s2048)**
+![](https://lh6.googleusercontent.com/CJn3Bffr_XuF6negrQ8afdoFZxwLr7LbHKfWUscOwXzy4lTTSz0G0Adme1oRdS9ds0x5D939Nlc9KC26X9Hu79lpOzhAwe0xiZtXaPtdhsxZQOXJdEkwq0gAPTBs1wJA5I2eTJoI5q_9VoA=s2048)
 
 
-**
+
 
 The File Manager Keeps Track of File Types
 
@@ -3020,8 +3081,8 @@ The File Manager Keeps Track of File Types
 -   The file manager keeps track of the different types of data and its location
     
 
-**
-**
+
+
 
 The File Manager Keeps Track of File Types
 
@@ -3040,9 +3101,9 @@ The File Manager Keeps Track of File Types
 -   The file manager keeps track of the different types of data and its location
     
 
-**
 
-**
+
+
 
 Input/Output (I/O) Drivers
 
@@ -3056,8 +3117,8 @@ Input/Output (I/O) Drivers
 -   To read or write a file to a disk the file manager determines the name and location of the file, and control is passed to the disk’s I/O driver, which will send commands to the disk arm, read head, etc.
     
 
-**
-**
+
+
 
 The Memory Manager
 
@@ -3071,8 +3132,8 @@ The Memory Manager
 -   Allocating segments of RAM to each program is the responsibility of the memory manager.
     
 
-**
-**
+
+
 
 Execution Monitor
 
@@ -3086,8 +3147,8 @@ Execution Monitor
 -   The execution monitor is responsible for ensuring that an error caused by a program does not cause the entire system to crash.
     
 
-**
-**
+
+
 
 Multitasking
 
@@ -3106,8 +3167,8 @@ Multitasking
 -   This is most apparent if several users are sharing the same computer, but it is also useful for single user computers that are running multiple programs
     
 
-**
-**
+
+
 
 Components of Multitasking
 
@@ -3126,10 +3187,10 @@ Components of Multitasking
 -   Virtual memory-- needed when there are multiple programs running, it allows the machine to behave as if all the programs were in RAM at the same time.  It accomplishes this by using the disk to act like temporary RAM…this is called a RAMDISK
     
 
-**
 
 
-**
+
+
 
 CPU Task Scheduling
 
@@ -3146,8 +3207,8 @@ ROUND
 
 ROBIN method
 
-**
-**
+
+
 
 Security
 
@@ -3181,17 +3242,17 @@ Security
 -   Generally insufficient, which requires additional security software to be added to the system
     
 
-**
-**
+
+
 
 Secondary Memory, Storage, Peripherals and Input /Output  
   
   
 Lecture 6
 
-**
 
-**
+
+
 
 Von Neumann Architecture
 
@@ -3219,9 +3280,9 @@ Von Neumann Architecture
 
 Just about everything outside of the CPU/Main Memory falls under the general classification of an “I/O or Peripheral Device”
 
-**
 
-**
+
+
 
 I/O Subsystem
 
@@ -3247,9 +3308,9 @@ Storage (Non Volatile)
 -   auxiliary storage for data and instructions
     
 
-**
 
-**
+
+
 
 Storage Systems
 
@@ -3268,15 +3329,15 @@ Storage Systems
 -   storage devices (and media) are distinguished by their capacities, speed, and cost
     
 
-**
 
-**
+
+
 
 Memory Storage Systems
 
-![](https://lh6.googleusercontent.com/parumyY3B4g3pv5jPGFMdGV0eLlf5opfFN332GiUur8gnErHTZjH_8oOhpykvCtlgPNPJLvEEoHPr8zcAGWOX73WPj1L92QunO5Ybnlk3FoJCG7xk-oIuHAOtDhPfg6rmivMa6Eu5xWmEsc=s2048)**
+![](https://lh6.googleusercontent.com/parumyY3B4g3pv5jPGFMdGV0eLlf5opfFN332GiUur8gnErHTZjH_8oOhpykvCtlgPNPJLvEEoHPr8zcAGWOX73WPj1L92QunO5Ybnlk3FoJCG7xk-oIuHAOtDhPfg6rmivMa6Eu5xWmEsc=s2048)
 
-**
+
 
 Types of Access
 
@@ -3308,9 +3369,9 @@ Types of Access
 
 
 
-**
 
-**
+
+
 
 Magnetic Tape-Sequential Access
 
@@ -3321,22 +3382,22 @@ Magnetic Tape-Sequential Access
 -   magnetized clusters or domains are aligned to represent binary codes
     
 
-![](https://lh4.googleusercontent.com/4Z78LO9jrhGtsz1qZ_keyRoVKHAtAkJvb4cZTbLmslgnL5xwYJe7vPkH_U0WCc4n4AZdNgV8ZhVZK_ZCYBQ0MJzzMSSGbG-i_vzpEz2OZ2fEpmxXRKRJIM0Dp6JcwVG5rudQwxRlt8ccDhI=s2048)**
+![](https://lh4.googleusercontent.com/4Z78LO9jrhGtsz1qZ_keyRoVKHAtAkJvb4cZTbLmslgnL5xwYJe7vPkH_U0WCc4n4AZdNgV8ZhVZK_ZCYBQ0MJzzMSSGbG-i_vzpEz2OZ2fEpmxXRKRJIM0Dp6JcwVG5rudQwxRlt8ccDhI=s2048)
 
 
-**
+
 
 Tape Drives in action…1950’s-70’s
 
-**
+
  
-**
+
 
 Disk Drives circa 1980   
 66Mb     400 lbs!   $40,000 each
 
-**
-**
+
+
 
 Micro Drive
 
@@ -3352,9 +3413,9 @@ Micro Drive
 
 Spinning at up to 7200 RPM!
 
-**
 
-**
+
+
 
 Direct Access
 
@@ -3367,10 +3428,10 @@ Direct Access
 -   READ/WRITE — disk head scans the sector for read or write
     
 
-![](https://lh3.googleusercontent.com/SHJTRo09GRmUdmWj6Y2Ut_9LtPDwgjTMr3yUQWfglJsDTTwbymIX7IGCUcE-2XdNTgXTkjoqWK1IqeoX0Oy8O98l0AMRRN0bFnCUzcEbX7ysI7fuE6jhs7NI34TmSTh-KsED_3CuC-z56JM=s2048)**
+![](https://lh3.googleusercontent.com/SHJTRo09GRmUdmWj6Y2Ut_9LtPDwgjTMr3yUQWfglJsDTTwbymIX7IGCUcE-2XdNTgXTkjoqWK1IqeoX0Oy8O98l0AMRRN0bFnCUzcEbX7ysI7fuE6jhs7NI34TmSTh-KsED_3CuC-z56JM=s2048)
 
 
-**
+
 
 Disk vs. File Organization
 
@@ -3393,14 +3454,14 @@ Disk vs. File Organization
 
 Files may become fragmented over time, which causes data  transfers to slow down
 
-**
-
-**Optical Disk 
-
-![](https://lh3.googleusercontent.com/ttj27_MikwGVzaZwqnWIpoNFKP6dh7RpPPLDB1o85cIKYuSsPe0huS54yKTG1B01b6TvwSMBaMzJvVnLZzgegmv0A6sPnewuTh5REU6yqLGMU_mIkvKUvkhdWHlMgJeO-aCGb-7MLEeUit4=s2048)**
 
 
-**
+Optical Disk 
+
+![](https://lh3.googleusercontent.com/ttj27_MikwGVzaZwqnWIpoNFKP6dh7RpPPLDB1o85cIKYuSsPe0huS54yKTG1B01b6TvwSMBaMzJvVnLZzgegmv0A6sPnewuTh5REU6yqLGMU_mIkvKUvkhdWHlMgJeO-aCGb-7MLEeUit4=s2048)
+
+
+
 
 Optical Discs
 
@@ -3438,10 +3499,10 @@ Optical Discs
 
  BLUE RAY (3-10 times the capacity of today’s DVDs)
 
-**
 
 
-**
+
+
 
 Optical Drive Reading and Writing
 
@@ -3458,9 +3519,9 @@ Optical Drive Reading and Writing
     
 
   
-![](https://lh6.googleusercontent.com/sNOwuGzbPMIR7ZSadDX2Xsn0pdCGVUfl5EeEYmkeLQyjdn1XOehMC_Gh7cYoyJy-e3-JTEbZ2-0b-x4uEf7D6MQsM1gIIEao7VCc2xhdhLx7foPtJmuhtjdi8a3krkQnsbPEi4AETP_cGo4=s2048)**
+![](https://lh6.googleusercontent.com/sNOwuGzbPMIR7ZSadDX2Xsn0pdCGVUfl5EeEYmkeLQyjdn1XOehMC_Gh7cYoyJy-e3-JTEbZ2-0b-x4uEf7D6MQsM1gIIEao7VCc2xhdhLx7foPtJmuhtjdi8a3krkQnsbPEi4AETP_cGo4=s2048)
 
-**
+
 
 Flash Memory 
 
@@ -3479,15 +3540,15 @@ Flash Memory 
 -   Prices dropping every day, capacity increasing!
     
 
-**
- **Flash Card
+
+ Flash Card
 
 ![sm_card_pict](https://lh3.googleusercontent.com/9Ev9j7JBqBNoCkHP5CeddxaR5iUxN3DwLt4No0qsUlNXri9RzBfMRQw3ijJLYwn_pFa8Ljls5wPLpEc2Gniug7lehnVWwEsoHfKRIb37Vnu7MOXkjeoPrsDF_pB8f5Mgc-oqdDNHZNIM7W8=s2048)![sm](https://lh4.googleusercontent.com/kTYmVyx6eZPtclvi7pbvOa5cqnnqSzxqxyUjUsCWVhHqtYq6zX3kz7lh8Df8P5fR9KOksLwFjEctKGLmfCNREVbwdH0_TWQuh48NMN27v_rJEDoOdhgJ9VcyHOukQNxJpw9QhDBBRpQ0zyQ=s2048)  
 
-64 Gigabytes on a chip...and growing!**
+64 Gigabytes on a chip...and growing!
 
 
-**
+
 
 USB Drive
 
@@ -3497,9 +3558,9 @@ USB Drive
 
 for $40!
 
-**
 
-**
+
+
 
 The future disk technology
 
@@ -3507,9 +3568,9 @@ The future disk technology
 
 Looks like a hard drive storage unit — but there are no moving parts inside.  More and more systems are replacing discs with SSD
 
-![070109_CES_SanDisk%20SSD_hmed](https://lh5.googleusercontent.com/9nr20A0pirQpc_RjUCaDHlUDhO-IRQEMuePYyHBUCUQ6WMss-tuuOuAwSIVfHpSS7EnJPUjST_41jukjQ4OhIl1wLX8flpZrOBow5fqrgOgWa0gqCiJqpYmB8gybW4rjLA9M9F6x3-9ohSo=s2048)**
+![070109_CES_SanDisk%20SSD_hmed](https://lh5.googleusercontent.com/9nr20A0pirQpc_RjUCaDHlUDhO-IRQEMuePYyHBUCUQ6WMss-tuuOuAwSIVfHpSS7EnJPUjST_41jukjQ4OhIl1wLX8flpZrOBow5fqrgOgWa0gqCiJqpYmB8gybW4rjLA9M9F6x3-9ohSo=s2048)
 
-**
+
 
 Data Input Peripherals
 
@@ -3536,8 +3597,8 @@ Data Input Peripherals
 -   Network Connections (Modems)
     
 
-**
-**
+
+
 
 Output Peripherals
 
@@ -3566,9 +3627,9 @@ Output Peripherals
 -   Network Connections
     
 
-**
 
-**
+
+
 
 Connecting all this stuff
 
@@ -3604,23 +3665,23 @@ Connecting all this stuff
 
 
 
-**
 
-**
+
+
 
 Serial vs. Parallel Data Transfer
 
-![](https://lh6.googleusercontent.com/O8n3cMn6ObdeMo1AMwnLFmCZtMpT8ov1l7zg4Lny6BOw6fkteSXQ2E69mkMv9YlhKI_UfelWUS47iK09epAmA8IJdB_rpqPFwy4lUkuP_012KIhPehJ93d2a-tGAh6mhoaFbbMtcB735IbQ=s2048)**
+![](https://lh6.googleusercontent.com/O8n3cMn6ObdeMo1AMwnLFmCZtMpT8ov1l7zg4Lny6BOw6fkteSXQ2E69mkMv9YlhKI_UfelWUS47iK09epAmA8IJdB_rpqPFwy4lUkuP_012KIhPehJ93d2a-tGAh6mhoaFbbMtcB735IbQ=s2048)
 
-**
+
 
 Serial vs. Parallel Connections
 
-![](https://lh3.googleusercontent.com/_SpIwZPKHc8FWx4twIZdCC2-77jEElAnHU9QoOTuPBVms5zfNV5f4vwO5Pm37wHVhYSlJOU7sQpz-pfP7MN9Iib_o2-VH3VuKu-xd93rjjtMHbhInZBnHHfKWfm5pF9KUHVnW_HcIkcnumg=s2048)**
+![](https://lh3.googleusercontent.com/_SpIwZPKHc8FWx4twIZdCC2-77jEElAnHU9QoOTuPBVms5zfNV5f4vwO5Pm37wHVhYSlJOU7sQpz-pfP7MN9Iib_o2-VH3VuKu-xd93rjjtMHbhInZBnHHfKWfm5pF9KUHVnW_HcIkcnumg=s2048)
 
 
 
-**
+
 
 Parallel / Serial Bus
 
@@ -3634,8 +3695,8 @@ Cable
 
 Serial Computer Cable
 
-**
-**
+
+
 
 Where are parallel busses used?
 
@@ -3652,10 +3713,10 @@ Where are parallel busses used?
 -   Most of these busses are either 16, 32 or 64 bits wide
     
 
-**
 
 
-**
+
+
 
 Where are serial busses used?
 
@@ -3674,8 +3735,8 @@ Where are serial busses used?
 -   The current serial standard for peripherals is called USB 2.0 and USB 3.0
     
 
-**
-**
+
+
 
 USB 2.0
 
@@ -3699,8 +3760,8 @@ USB 2.0
 -   USB has become the ubiquitous serial connection standard for practically every external PC peripheral
     
 
-**
-**
+
+
 
 USB 3.0!
 
@@ -3719,8 +3780,8 @@ USB 3.0!
 -   10 times faster than USB 2.0
     
 
-**
-**
+
+
 
 USB 4.0
 
@@ -3734,10 +3795,10 @@ USB 4.0
 
         Up to 40GBps!
 
-**
 
 
-**
+
+
 
 Apple’s Thunderbolt
 
@@ -3755,9 +3816,9 @@ Apple’s Thunderbolt
 -   40 times faster that USB 2 and 4 time faster than USB 3.   Compatible with USB 4.0
     
 
-![](https://lh6.googleusercontent.com/xZFinjK_Y4aA3IbtKrnVOc1F93Itf1GRxoiOJsbUUDvHlpC7egyhlw3YMXSFSUchCK-BbJ_x9FsJGwN7nrsQyrewqxFaCkV5m7wrUmDUD7zpmL75SMll_es-exoofQn27UwZI-ipxhPDrHs=s2048)**
+![](https://lh6.googleusercontent.com/xZFinjK_Y4aA3IbtKrnVOc1F93Itf1GRxoiOJsbUUDvHlpC7egyhlw3YMXSFSUchCK-BbJ_x9FsJGwN7nrsQyrewqxFaCkV5m7wrUmDUD7zpmL75SMll_es-exoofQn27UwZI-ipxhPDrHs=s2048)
 
-**
+
 
 Clocking Data on the Bus
 
@@ -3771,22 +3832,22 @@ Clocking Data on the Bus
 -   Without the clock, data transfers would be less reliable given the variation in cable length and other environmental factors
     
 
-**
 
-**
+
+
 
 Clocking Data
 
-![](https://lh3.googleusercontent.com/9TudisTUADP1lXBrD3dVvsCLG9Zns90x3ZsmsKxiOKfxPr3xgCRhpX7y3UUdQvwdc-JWcla9mkhZgqsgFgX-Cw26SndQzPjwHJznjn21yVzDvmVd4btMXmMslP5oXv791XvqQ_KTlSy_7ec=s2048)**
+![](https://lh3.googleusercontent.com/9TudisTUADP1lXBrD3dVvsCLG9Zns90x3ZsmsKxiOKfxPr3xgCRhpX7y3UUdQvwdc-JWcla9mkhZgqsgFgX-Cw26SndQzPjwHJznjn21yVzDvmVd4btMXmMslP5oXv791XvqQ_KTlSy_7ec=s2048)
 
-**
+
 
 Wireless Connections
 
-![](https://lh5.googleusercontent.com/z8DJrfYYeCkPUi9NyrvB7BNZR7ssnGrJoWHMvruJFXx4xo9uU-tQvFHdCa5RihJShDTqKyfWjDej3HTkX9MtsCHIeRHlDjSfm3PhXEcp9TJcwaflEachABPESw4IoCtoZXYZhCUUblIMkUw=s2048)**
+![](https://lh5.googleusercontent.com/z8DJrfYYeCkPUi9NyrvB7BNZR7ssnGrJoWHMvruJFXx4xo9uU-tQvFHdCa5RihJShDTqKyfWjDej3HTkX9MtsCHIeRHlDjSfm3PhXEcp9TJcwaflEachABPESw4IoCtoZXYZhCUUblIMkUw=s2048)
 
 
-**
+
 
 Wireless I/O
 
@@ -3801,8 +3862,8 @@ Wireless I/O
     
 
   
-**
-**I/O Example using a car  
+
+I/O Example using a car  
 climate control system
 
 ![](https://lh3.googleusercontent.com/NlMunCYHMLQq6Ubq6ZuYHJr-uS-ecLcJ24Wg79atUSbKz5OhYWK1Pmd5RsoS5xuwOzE54TSfDWDfpNfRrAYRBSqQDs8_EjGDl1snP2iTZS51NCdh3mOXLeJhTvRFH9GgouWn_BBzJMvppHQ=s2048)  
@@ -3823,38 +3884,18 @@ Flash Memory
 
   
 
-On/Off Switches, Temperature, Humidity Sensors**
+On/Off Switches, Temperature, Humidity Sensors
 
 # Binary Notation and Intro to Computer Graphics
 
-**
-
-Dealing with Binary
-
-  
+## Dealing with Binary
 
 -   Binary numbers in their native notation are not very user friendly
-    
-
-  
-
 -   Hex notation (short hand for Hexadecimal) is an easier and more intuitive way to express binary values
-    
-
-  
-
 -   Many programs and programming languages allow the use of Hex to denote binary values
-    
 
-  
-  
-**
-
-**Hex Notation using 4 bit Nibbles
-
-  
-
-Binary   Hex    
+Hex Notation using 4 bit Nibbles
+Binary    Hex    
 
 0000       0       
 
@@ -3872,8 +3913,6 @@ Binary   Hex    
 
 0111     7        
 
-  
-
 Binary      Hex      
 
    1000 8  
@@ -3890,15 +3929,9 @@ Binary      Hex      
 
    1110 E    
 
-   1111 F**
-
-
-
-**
+   1111 F
 
 Hex Example….
-
-  
 
 -   So the one byte Binary numbers:
     
@@ -3915,100 +3948,42 @@ Hex Example….
 -         1010 0100 = A4  Hex =Decimal 164
     
 
-  
-
         Or  128+64+32+16+8+4+2+1
-
-**
-
-
-**
-
-Remember……
-
-  
+emember……
 
 -   DIGITAL - Digital means discrete.  
     
-
-  
-
 -   Digital representation is comprised of a limited number of data points to encode information. 
     
-
-  
-
 -   Our electronic devices use Digital techniques to work with data and information
     
-
-  
-
 -   Since we have a limited number of data points to work with, it means that all digital representations are approximations of the real thing
     
-
-**
-**
-
 Representing Digital Samples
-
-  
-
 -   The values associated with Digital Samples are  stored in Binary form, which is a very easy and inexpensive way for electrical machines to store and manipulate values by using simple building block electronic circuits built out of transistors
     
-
-  
-
 -   So, you should think of a computer or any digital device as a machine that can store, manipulate and move large amounts of binary information at very high rates of speed
     
 
-  
-**
-
-**
-
-Graphics Buzzwords
-
-  
+## Graphics Buzzwords
 
 -    Pixel- 
     
-
-  
-
 -   a spatial sample of a digital image. A pixel element is the basic component of a digitized image, which contains a set of numbers representing the features (color, intensity) of that spatial sample (a pixel may only have ONE color and intensity, therefore it is the lowest element of an image)
     
-
-  
-
 -   Bitmap-
     
 -   a method of representing and storing digital images and graphics whereby the image is composed of a collection of individual pixels
     
 
-  
-**
-
-**
-
-More Buzz
-
-  
+## More Buzz
 
 -   Resolution- 
     
-
-  
-
 -   The capacity for detail contained in a message or signal. Representations with high resolution capture more detail than those with low resolution 
     
-
-  
-
 -   In the case of digital images, resolution is primarily determined by :
     
-
-  
-
 -   Number of pixels
     
 -   Size of Pixels
@@ -4016,67 +3991,34 @@ More Buzz
 -   Density of Pixels
     
 
-**
+## Digital Images and Pictures  
 
- **Digital Images and Pictures  
-  
-
-  
 
 A picture (as on your computer monitor) consists of many “pixels” 
 
-(= “picture element”).  A pixel is a very small area of uniform color and intensity.  Think of your laptop monitor as consisting of over 1,000,000 discrete small squares, or pixels.**
+(= “picture element”).  A pixel is a very small area of uniform color and intensity.  Think of your laptop monitor as consisting of over 1,000,000 discrete small squares, or pixels.
 
-**
-
-Bitmap Graphics
+## Bitmap Graphics
 
   
 
 -      To display things on the computer monitor, a modern-day computer has built in hardware (memory) for storing a “bitmap” that represents the “picture” that should be displayed on the monitor.  
     
-
-  
-
 -   The Bitmap is stored in MEMORY…..the more bits stored, the more memory required….
     
 
-**
-
-
-**
-
 Graphic images
-
-  
-
 -   (for display) graphic images are composed of pixels
     
 -   this type of graphic is called bit-mapped or raster graphics
     
 -   the image is stored as a sequence of bits (a) representing the pixel properties (b)
     
-
-**
-
-**
-
 Resolution
-
-  
-
 This is a very low resolution (3 pixels by 4 pixels) picture of the letter “Y”.
-
-**
-
-**
-
 A magnified bit map
 
-![raster_vs_vector_1](https://lh4.googleusercontent.com/pSZtASSEljzA9SyQ6uHVuPFgBGUeJzykcOt3rFGYD37vtIP0yvwVYtZm10zUteELvZAbNmFfwo_gV4z4umqQ7MPxeXtfrexuDp2lRCl1I0HXLHZ331CJ53JJkDZemR7r0KRzI0T6SVgN0R0=s2048)**
-
-**
-
+![raster_vs_vector_1](https://lh4.googleusercontent.com/pSZtASSEljzA9SyQ6uHVuPFgBGUeJzykcOt3rFGYD37vtIP0yvwVYtZm10zUteELvZAbNmFfwo_gV4z4umqQ7MPxeXtfrexuDp2lRCl1I0HXLHZ331CJ53JJkDZemR7r0KRzI0T6SVgN0R0=s2048)
 Red, Green, Blue   RGB
 
   
@@ -4089,11 +4031,6 @@ Red, Green, Blue   RGB
     
 -   For example, rgb(0,0,255) is rendered as blue, because the blue parameter is set to its highest value (255) and the others are set to 0
     
-
-  
-**
-**
-
 Color Levels of Intensity
 
   
@@ -4120,11 +4057,6 @@ Color Levels of Intensity
 
 -   RGB typically uses 3 bytes (24 bits)  for each pixel so that equates to 16,777,216 different possible colors
     
-
-**
-
-**
-
 Image Resolution
 
   
@@ -4151,11 +4083,6 @@ Image Resolution
 
 -   There is a delicate balance between image size and apparent resolution
     
-
-**
-
-**
-
 Advantages of Bitmap Graphics
 
   
@@ -4178,136 +4105,63 @@ Advantages of Bitmap Graphics
 -   Ability to create multiple layers which can be overlayed to create composites
     
 
-**
-
-**
-
 Original Image
+![key1](https://lh5.googleusercontent.com/wEwqzRcwKV6OoXQtZUAtNhJ7Bqe3WfM-HsYQa-TdX5Jpbopbxgn2JNFeTXPvZhoFbzIlv4Est-sDq5SSc6YGHqqJnFl5U2oj1CS20QAUWWVGRUlXR_U45JJ_qbsOoXI-smKfwxM4-LxocPI=s2048)
 
-![key1](https://lh5.googleusercontent.com/wEwqzRcwKV6OoXQtZUAtNhJ7Bqe3WfM-HsYQa-TdX5Jpbopbxgn2JNFeTXPvZhoFbzIlv4Est-sDq5SSc6YGHqqJnFl5U2oj1CS20QAUWWVGRUlXR_U45JJ_qbsOoXI-smKfwxM4-LxocPI=s2048)**
+Magnified 
+![key400nosmart](https://lh5.googleusercontent.com/trLFHwSPlYM8K5RaercnW05AAD0a480yHz_E092nVg1kxLjdIdMZHy1yppbg01yz75h4-BXXS1g7Rntzmd8tLBdDGtUxaqsAAfAzeFwXjhhF_FD6kMbveN3kU_hbIadAZYkgsPv58dj1TwU=s2048)
 
-
-**Magnified 
-
-![key400nosmart](https://lh5.googleusercontent.com/trLFHwSPlYM8K5RaercnW05AAD0a480yHz_E092nVg1kxLjdIdMZHy1yppbg01yz75h4-BXXS1g7Rntzmd8tLBdDGtUxaqsAAfAzeFwXjhhF_FD6kMbveN3kU_hbIadAZYkgsPv58dj1TwU=s2048)**
-
-**Bit Map Demo
-
-  
-
- Paint  Brush**
+Bit Map Demo
+Paint  Brush
 
 
-**
-
-Vector Graphics
-
-  
+## Vector Graphics
 
 -   An alternative scheme for representing images is called “vector graphics”  In  vector graphics objects are represented explicitly.
     
 
-**
-
-**
-
-Vector Graphic Images
-
-  
+## Vector Graphic Images
 
 -   Object-oriented or vector graphics treat the image as a collection of graphic objects such as lines, curves, and figures
     
-
-  
-
 -   Best rendered on special vector graphics machines
     
-
-  
-
 -   Vector graphics are resolution independent and highly scalable
     
-
-  
-
 -   Vector graphics are more easily edited and often more compact in storage
     
-
-  
-
 -   Vector graphic images must often be converted to bitmapped images for display on bitmapped systems such as a PC
     
 
-**
+## Vector Graphics
 
-**
-
-Vector Graphics
-
-  
-
--   the image is composed of graphic objects (lines, curves, figures, etc.)
+  -   the image is composed of graphic objects (lines, curves, figures, etc.)
     
-
-  
-
 -   each object is defined by its graphic properties
     
-
-  
-
 -   these properties may be changed and scaled easily
     
 
-![](https://lh4.googleusercontent.com/JcxMYgmt3mWfX5C23Z95T7wuG6no3U--_HhFmw7FpKknohC8MAANbNlkZPRCR2WzwZ8xV3sencoPrug-hJmmprP6TTAC2M906MwzXFvzDIRdv00r0dAQW5F7Mmhwk9nUS3_ZMimkXiBSWrk=s2048)**
+![](https://lh4.googleusercontent.com/JcxMYgmt3mWfX5C23Z95T7wuG6no3U--_HhFmw7FpKknohC8MAANbNlkZPRCR2WzwZ8xV3sencoPrug-hJmmprP6TTAC2M906MwzXFvzDIRdv00r0dAQW5F7Mmhwk9nUS3_ZMimkXiBSWrk=s2048)
 
-**
-
-Vector Graphics
-
-  
+## Vector Graphics
 
 -   each object occupies a separate layer
     
-
-  
-
 -   layers may be moved, scaled, and arranged in different orders
     
-
-  
-
 -   objects may be deleted and inserted easily
     
 
-![](https://lh4.googleusercontent.com/fQKSrcrnRiyGjfYgkES_pohLgu7GdpxMlLxPrAGzKIje22Gl1GiDmRcvOfdOVFMMbVbrJReriTvCp-u2r2UYYMkRtRgCUX3i3njoU_faLNyjfNlC_AHgt4awxJD_HH8SGKx1mD-hPseeWWU=s2048)**
+![](https://lh4.googleusercontent.com/fQKSrcrnRiyGjfYgkES_pohLgu7GdpxMlLxPrAGzKIje22Gl1GiDmRcvOfdOVFMMbVbrJReriTvCp-u2r2UYYMkRtRgCUX3i3njoU_faLNyjfNlC_AHgt4awxJD_HH8SGKx1mD-hPseeWWU=s2048)
+Magnified 
 
-
-
-
-**Magnified 
-
-![](https://lh3.googleusercontent.com/v7mFpQDuHHO6JolCPOHpEik9LD85bKQA_9wkMZ-PpeypXF5O5KLftRzQfUIrcLrzTkv6YIcV9JWpI12cZpm0jcPakGe93EWVCj9HFuFH3lt8_TUL0z_MS20dnG-cCOCA2_pU7wTDzxSvFlY=s2048)**
-
-**
-
+![](https://lh3.googleusercontent.com/v7mFpQDuHHO6JolCPOHpEik9LD85bKQA_9wkMZ-PpeypXF5O5KLftRzQfUIrcLrzTkv6YIcV9JWpI12cZpm0jcPakGe93EWVCj9HFuFH3lt8_TUL0z_MS20dnG-cCOCA2_pU7wTDzxSvFlY=s2048)
 Vector Graphics Demo
 
-**
+## Typical Graphic Applications
 
-**
-
-Typical Graphic Applications
-
-  
-
-Bit-mapped graphics
-
-  
-
-Vector graphics
-
-  
+### Bit-mapped graphics
 
 -   Painting programs
     
@@ -4316,7 +4170,7 @@ Vector graphics
 -   Text displays
     
 
-  
+### Vector graphics
 
 -   Computer Aided Design
     
@@ -4327,19 +4181,13 @@ Vector graphics
 -   Animation
     
 -   3-D Games and Simulations
-    
-
-**
 
 # Lecture 8 Legal Issues in Computing
 
-**
 
-Some of the Dominant Legal Issues in Computing
+## Some of the Dominant Legal Issues in Computing
 
-  
-
--   Ownership
+  -   Ownership
     
 -   Intellectual Property Protection (IP)
     
@@ -4355,57 +4203,30 @@ Some of the Dominant Legal Issues in Computing
     
 
   
-  
-**
-**
-
-Ownership
-
-  
+### Ownership
 
 -   When you write a piece of software or design a unique webpage, who owns it?
     
 -   Answer:  You Do!!
     
-
-  
-
 -   Who gets to decide who can use it and for what purpose?
     
 -   Answer:  You Do!!
     
 
-**
-**
-
-What are some of your options?
-
-  
+#### What are some of your options?
 
 -   You can give unrestricted free usage of it, otherwise known as Freeware or Shareware
     
-
-  
-
 -   You can license it, for a fee, with restrictions on its use
     
-
-  
-
 -   You can sell it, lock stock and barrel and transfer ownership altogether
     
 
-**
-
-**
-
 Most common ownership model is licensing model
-
-  
 
 -   Typical restrictions may include:
     
-
 -   Copy restrictions
     
 -   Limited to certain number of  computers
@@ -4419,14 +4240,7 @@ Most common ownership model is licensing model
 -   Limited Functionality
     
 
-
-
-**
-**
-
 How do you protect your IP?
-
-  
 
 -   Copyright registration
     
@@ -4443,27 +4257,15 @@ How do you protect your IP?
 -   Audits
     
 
-**
-**
 
-Copyrights
-
-  
+### Copyrights
 
 -   Protects the arrangement of your design including the text, the graphics, the industrial design
     
-
-  
-
 -   Sometimes hard to prove infringement in a lawsuit and often left up to “interpretation” and common sense
     
 
-**
-**
-
-TradeMark
-
-  
+### TradeMark
 
 -   A form of copyright which protects your public brand image and associated design of things like Logos and advertising material 
     
@@ -4473,92 +4275,45 @@ TradeMark
 -   McDonald’s Golden Arches is a classic example of this….
     
 
-**
-**
+### Patents
 
-Patents
-
-  
-
--   Reserved for protecting unique innovations and inventions that represent a “new” approach to solving a problem or creating a product or process
+ -   Reserved for protecting unique innovations and inventions that represent a “new” approach to solving a problem or creating a product or process
     
-
-  
-
 -   Takes a formal process of searches, filings and disclosures
     
-
-  
-
 -   Approximately 18 month process minimum and $5-10K in cost
     
-
-  
-
 -   Patents expire after 17 years in most cases
     
 
-  
-**
-**
+### The Famous Apple vs. Microsoft lawsuit over Windows
 
-The Famous Apple vs. Microsoft lawsuit over Windows
-
-  
-
--   Apple introduces the first commercial computer using a GUI,  in 1983, based on pioneering work done by Xerox
+  -   Apple introduces the first commercial computer using a GUI,  in 1983, based on pioneering work done by Xerox
     
 -   Microsoft was set to introduce Windows 1.0 in 1985 and entered into an agreement with Apple to license and sub-license certain aspects of the GUI interface
     
 -   In return, Apple was granted use of certain Microsoft products for its computers
     
-
-  
-**
-**![img040](https://lh5.googleusercontent.com/n_vLdLxsvxQ5cWDRu8cWyV3rYZFUpSHCgqx0qYuNoPlf7Ufe1dLGUbkpQzo7WRlkmy1PNYtzArW90tVzP17B1bbzPdSFw0bg6xntNrK21sEmVkaDAr9lMQlsYD8Kdy25NLI9mBMBpuj-at4=s2048)**
-
-**![img048](https://lh6.googleusercontent.com/HQNW0HkIAeHnUE9wBJUtoos2eBdx45yD2U8SS5TZr6DPwCPnXGjtiyzHOGqkpwkG3OBra5F9WeNF6K5R-CTPmpMCnSe-dJqR8Xt_V63jokUgSeZV4JRFBri8Z4Vci0uOwbzCsRX45QUTT0U=s2048)**
-
-
-**
-
+*![img040](https://lh5.googleusercontent.com/n_vLdLxsvxQ5cWDRu8cWyV3rYZFUpSHCgqx0qYuNoPlf7Ufe1dLGUbkpQzo7WRlkmy1PNYtzArW90tVzP17B1bbzPdSFw0bg6xntNrK21sEmVkaDAr9lMQlsYD8Kdy25NLI9mBMBpuj-at4=s2048)
+![img048](https://lh6.googleusercontent.com/HQNW0HkIAeHnUE9wBJUtoos2eBdx45yD2U8SS5TZr6DPwCPnXGjtiyzHOGqkpwkG3OBra5F9WeNF6K5R-CTPmpMCnSe-dJqR8Xt_V63jokUgSeZV4JRFBri8Z4Vci0uOwbzCsRX45QUTT0U=s2048)
 Windows 1.0 GUI
 
-![Desktop with applications in Windows 1.01](https://lh6.googleusercontent.com/fd-bBr_9x1XELU7zA_itmkbzvbBg16XsCY_VzXsZDV8aUNgp2NFcrTWXlvYX9tWGOFGo2Ahu0g1Qra9ZKg-2rgsNZsSJnwZ1s_mGdGjIZpH5EyB-20dZIAB3EvYNqdjGE3k3LMKL1WXHjVA=s2048)**
-
-
-**
-
+![Desktop with applications in Windows 1.01](https://lh6.googleusercontent.com/fd-bBr_9x1XELU7zA_itmkbzvbBg16XsCY_VzXsZDV8aUNgp2NFcrTWXlvYX9tWGOFGo2Ahu0g1Qra9ZKg-2rgsNZsSJnwZ1s_mGdGjIZpH5EyB-20dZIAB3EvYNqdjGE3k3LMKL1WXHjVA=s2048)
 Windows 3.0
 
 ![win301](https://lh4.googleusercontent.com/cy6j6Uwey6_-dMqQda6L0FeaFOaXbJ5kGtQJTRXg9qAewOPjNXTKispZZk0ypE710hvMbpCUaBSrxryaZ2OelPQ7zbXXjE8fgMk5MHGtvoTWwvjKntd1X9YfdWh1zCl--tenywlQCBH72n4=s2048)
 
-**
 
-Apple vs. Microsoft
-
-  
+### Apple vs. Microsoft
 
 -   In 1988 Apple files a $5.5Billion lawsuit claiming patent infringement and breach of contract
     
-
-  
-
 -   At issue was Apple’s contention that Microsoft exceeded the terms of the license and used parts of the design that were not included in the license
     
-
-  
-
 -   And, Xerox then sues Apple claiming that its IP was infringed by Apple!
     
 
-**
-
-**
-
-Apple vs. Microsoft
-
-  
+### Apple vs. Microsoft
 
 -   On September 19, 1994, the U.S. Court of Appeals upheld by a 3-0 vote a Federal District Court’s 1992 ruling that Microsoft’s Windows and displays (or graphical user interfaces) did not violate Apple’s copyrights in its Macintosh screen display
     
@@ -4569,126 +4324,53 @@ Apple vs. Microsoft
 -   A major flaw in Apple’s case was that Xerox was the inspiration for both Apple and Microsoft’s efforts
     
 
-  
-  
-  
-  
-**
-**
-
-The GUIs are the problem!
-
-  
+### The GUIs are the problem!
 
 -   Copyright law essentially protects the original expression of ideas in tangible form, such as books, artwork, music and computer software, from unauthorized copying, distribution or modification. It does not apply to ideas. 
     
-
-  
-
 -   While it is well-settled that copyright protections extend to computer software, the extent to which copyright law protects screen displays has been the subject of much litigation, with many courts reaching varied results
     
 
-  
-**
-
-**
-
-Anti-Trust
-
-**
-**
+### Anti-Trust
 
 Sherman Anti-Trust Act of 1890
 
-  
-
 -   Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce among the several States, or with foreign nations, is declared to be illegal.
     
-
-  
-
 -   Every person who shall monopolize, or attempt to monopolize, or combine or conspire with any other person or persons, to monopolize any part of the trade or commerce among the several States, or with foreign nations, shall be deemed guilty of a felony
     
 
-  
-  
-**
-
-**
-
-Standard Oil
-
-  
+### Standard Oil
 
 -   The Sherman Act was legislated in response to John D. Rockefeller’s attempts to monopolize the emerging oil industry through his company, Standard Oil
     
-
-  
-
 -   His son, John D. Rockefeller Jr., was a Brown alumnus and major benefactor to the University
     
 
-**
-**
+### U.S. versus IBM
 
-U.S. versus IBM
-
-  
-
--   By the 1960’s IBM dominated the computer industry with a >60% market share
+  -   By the 1960’s IBM dominated the computer industry with a >60% market share
     
-
-  
-
 -   In January 1969, the government began a sweeping antitrust investigation into IBM's dominance and attempted to break it into smaller companies that would compete against one another
     
 
-  
-**
-**
-
-U.S versus IBM
-
-  
+### U.S versus IBM
 
 -   During the six most critical years of the trial, from 1975 to 1980, the parties called 974 witnesses and read 104,400 pages of transcripts
     
-
-  
-
 -   The 13-year investigation, which required IBM to retain 200 attorneys at one point, fizzled in the early '80s as the computing landscape shifted from mainframes to personal computers. The government abandoned the tainted effort entirely in 1982, as clones of the IBM PC eroded Big Blue's dominance
     
 
-  
-  
-**
-**
+### U.S. versus IBM
 
-U.S. versus IBM
-
-  
-  
-
--   With IBM, the Justice Department was trying to hit a moving target, but the target had moved so much there was no point in shooting anymore--so they dropped the case
+  -   With IBM, the Justice Department was trying to hit a moving target, but the target had moved so much there was no point in shooting anymore--so they dropped the case
     
-
-  
-
 -   People who worked for IBM in the '80s and early '90s said the company routinely fell victim to "pricing death strategy"--a reluctance to lower prices below cost, even on products that weren't selling--to avoid what the government would call predatory pricing
     
-
-  
-
 -   Viewed today, the Government’s case against IBM appears ludicrous to many in retrospect
     
 
-  
-**
-**
-
-U.S versus Microsoft
-
-  
+### U.S versus Microsoft
 
 -   In 1998 the  Federal govt. filed a massive lawsuit against Microsoft which charged that it was in violation of anti-trust laws by having engaged in
     
@@ -4704,104 +4386,48 @@ As relates to the deployment of Microsoft Internet
 
 Explorer at the expense of Netscape, a competing product
 
-**
-**
-
-U.S. vs. Microsoft
-
-  
+### U.S. vs. Microsoft
 
 -   Predatory Conduct
     
-
 -   The lawsuit claims that Microsoft, by giving away Internet Explorer for free, is exercising unfair advantage against Netscape, which sells its browser. By doing so, Microsoft is drying the revenue of Netscape, driving the company out of business
     
 
-  
-**
-**
-
-U.S. vs. Microsoft
-
-  
+### U.S. vs. Microsoft
 
 -   Bundling
     
-
-  
-
 -   Microsoft not only gave Internet explorer for free; it also started closely linking Windows to Internet explorer. The lawsuit claims that, by closely bundling Internet Explorer with Windows operating system, Microsoft has significant advantage over its rivals
     
 
-  
-**
-
-**
-
-U.S. vs. Microsoft
-
-  
+### U.S. vs. Microsoft
 
 -   Exclusionary Contracts
     
-
-  
-
 -   The lawsuit claims that, by forcing Internet service providers (ISPs) to distribute Internet Explorers with their products, instead of other browser, and in turn providing a link in Windows to these ISPs, Microsoft has used its monopoly to take unfair advantage against the competition. 
     
-
-  
-
 -   By providing discounts and incentives to manufacturers and Internet service providers Microsoft takes advantage and uses that advantage to gain monopoly in the browser market
     
 
-  
-**
-**
-
-Blood in the Water!
-
-  
+### Blood in the Water!
 
 -   Sensing blood in the water, many additional lawsuits were filed by Microsoft’s competitors, by State attorney generals and several foreign governments, including the EEU.
     
-
-  
-
 -   At this time (2003), Microsoft has avoided a breakup of the Company but has had to make considerable concessions as part of settling some of the suits.
     
-
-  
-
 -   If Microsoft was a French company, there would be a statue of Bill Gates on the Champs Elysee!
     
 
-  
-**
-
-**
-
-Politics and Anti-Trust
-
-  
+### Politics and Anti-Trust
 
 -   The use of Anti-Trust suits by the Government is very related to the politics of the administration in power at the time. 
     
-
-  
-
 -   The Microsoft suit was brought during the Clinton administration
     
-
-  
-
 -   Microsoft has dodged a lot of very serious bullets and remedies  since the Bush administration has been in office
     
 
-**  
-**
-
-Anti-Trust against Apple
+### Anti-Trust against Apple
 
   
 
@@ -4810,123 +4436,74 @@ Anti-Trust against Apple
 -   Additionally there were cases pending against Apple and AT&T for restrictions on the purchase and operation of the iPhone
     
 
-**  
-**
 
-File Sharing
 
-  
-  
+### File Sharing
 
 -   The legal debate centers on the issue of whether you have the right to share copyrighted material with other parties as opposed to making copies for your own personal use.
     
 
   
-**  
-**File Sharing Lawsuits
+## File Sharing Lawsuits
 
-  
-
--   The Recording Industry Association of America has filed many lawsuits against people trading unauthorized music online, including lawsuits against 69 people who allegedly used university networks to download music
+  -   The Recording Industry Association of America has filed many lawsuits against people trading unauthorized music online, including lawsuits against 69 people who allegedly used university networks to download music
     
--   Recent cases levied a fine of over $100K against a woman that shared files over Kazaa.**    
-**Brown U. Response
+-   Recent cases levied a fine of over $100K against a woman that shared files over Kazaa.    
+Brown U. Response
 
-  
+  -   Brown University issued a statement reacting to the lawsuits: "Brown University has not yet received notice of the lawsuits announced today by the RIAA. If the University is served with a subpoena that meets the requirements of the law, Brown will comply as fully as possible. Until the University is served, however, it does not know the extent of the RIAA action. Any Brown student found in violation of the law will also be subject to University disciplinary action."   
 
--   Brown University issued a statement reacting to the lawsuits: "Brown University has not yet received notice of the lawsuits announced today by the RIAA. If the University is served with a subpoena that meets the requirements of the law, Brown will comply as fully as possible. Until the University is served, however, it does not know the extent of the RIAA action. Any Brown student found in violation of the law will also be subject to University disciplinary action."**   
-**Debate rages on over swapping of music and videos 
+### Debate rages on over swapping of music and videos 
 
-  
-  
+-   Despite the growth of legitimate, paid music-downloading services online, the legal, moral and economic debate over free music and video swapping shows no sign of being resolved soon.   
 
--   Despite the growth of legitimate, paid music-downloading services online, the legal, moral and economic debate over free music and video swapping shows no sign of being resolved soon.**   
-**
 
-IP Litigation involving Apple Inc.
-
-  
+## IP Litigation involving Apple Inc.
 
 -   A Very, Very long list in which Apple is both plaintiff  and defendants at various times
     
-
-  
-
 -   It is fair to say that Apple has spent 100s of millions of dollars on litigation around its products, intellectual property and trade practices
     
 -   [http://en.wikipedia.org/wiki/Apple_Inc._litigation](http://en.wikipedia.org/wiki/Apple_Inc._litigation)
     
 
-**  
-**
-
-Apple and Trademarks
-
-  
+### Apple and Trademarks
 
 -   Between just 2008 and 2010 Apple filed over 350 complaints over the improper use of its trademarks,
     
 
-  
+### iPod, iPad, iTouch, iPhone, Apple and Safari
 
-iPod, iPad, iTouch, iPhone, Apple and Safari
-
-  
-**  
-**
-
-Apple vs. Samsung
-
-  
+### Apple vs. Samsung
 
 In 2011 Apple alleged that Samsung  used some of its IP in its Galaxy III cell phone
 
-  
-
 -   Apple was simultaneously suing Motorola for similar patent infringement
     
-
-  
-
 -   Known as the Mobile Patent Wars aimed at the incredible success of Android in the market, owned by Google
     
-
-  
-  
-**  
-**Apple vs. Samsung
-
-  
+### Apple vs. Samsung
 
 -   Apple’s actions against Samsung eventually spread to 50 different lawsuits across more than a dozen countries
     
 -   Samsung and Google countersued Apple in almost all cases
     
--   In August 2012 a U.S. Court held for Apple and assessed $1B in damages against Samsung**   
-**
+-   In August 2012 a U.S. Court held for Apple and assessed $1B in damages against Samsung   
 
-Apple vs. Samsung
 
-  
+### Apple vs. Samsung
 
 -   Apple requested that Samsung be forced to stop selling its Galaxy Android based phones in the U.S. while the appeals are pending.
     
-
-  
-
 -   Largest single damages award in recent history.
     
 
-  
-**  
-**So who is winning?
+### So who is winning?
 
-  
+-   Apple has been largely successful against Samsung, with the bulk of rulings and court decisions going in Apple’s favor. Apple has also struck a blow against companies (like Motorola) using predatory licensing on standards-essential patents to seek bans on competing products, and can perhaps claim a moral victory with Samsung outright admitting some of its products copied Apple technology.  
 
--   Apple has been largely successful against Samsung, with the bulk of rulings and court decisions going in Apple’s favor. Apple has also struck a blow against companies (like Motorola) using predatory licensing on standards-essential patents to seek bans on competing products, and can perhaps claim a moral victory with Samsung outright admitting some of its products copied Apple technology.**   
-**
 
-What have they actually won?
+### What have they actually won?
 
   
 
@@ -4943,10 +4520,8 @@ What have they actually won?
 -   “And if I had to characterize it, it didn’t really accomplish anything,” said Brian J. Love, a Santa Clara University law professor who tracked the case. “Close to a decade of litigation, hundreds of millions of dollars spent on lawyers, and at the end of the day, NO products were removed from the market”
     
 
-**  
-**
 
-The Cost of Litigation
+### The Cost of Litigation
 
   
   
@@ -4960,35 +4535,21 @@ The Cost of Litigation
 -   Ans:   We Do!  It’s built into the price of selling the product.
     
 
-  
-**  
-**
-
 Read more here…..
 
   
 
 -   [https://www.nytimes.com/2018/06/27/technology/apple-samsung-smartphone-patent.html](https://www.nytimes.com/2018/06/27/technology/apple-samsung-smartphone-patent.html)
     
+### Fraud
 
-**  
-**
-
-Fraud
-
-![/var/folders/1x/fmlnj7993lqc08r6z5dcfyw00000gn/T/com.microsoft.Word/Content.MSO/851A09A1.tmp](https://lh3.googleusercontent.com/btU8EIoIPpnO8C8RbnrSDC13VhJlvd294YkXFwLrjd01pd_r2DZkONzg1XDsp3fSSHtPK8-Ypw19Z_CURv9lpraqkMIVBGWjz8u_qf_QQoVbI6w1ju4M47PoOGfLcnxwg6qT3JgdyNQC8pY=s2048)**  
-**
+![/var/folders/1x/fmlnj7993lqc08r6z5dcfyw00000gn/T/com.microsoft.Word/Content.MSO/851A09A1.tmp](https://lh3.googleusercontent.com/btU8EIoIPpnO8C8RbnrSDC13VhJlvd294YkXFwLrjd01pd_r2DZkONzg1XDsp3fSSHtPK8-Ypw19Z_CURv9lpraqkMIVBGWjz8u_qf_QQoVbI6w1ju4M47PoOGfLcnxwg6qT3JgdyNQC8pY=s2048) 
 
 Volkswagon DieselGate !!
 
-![/var/folders/1x/fmlnj7993lqc08r6z5dcfyw00000gn/T/com.microsoft.Word/Content.MSO/40F2C7DB.tmp](https://lh5.googleusercontent.com/hSZBWTWwMJ6NO7IFdi72PZoLbQc_51bFZLPxTDXf_dF5O-V5QY1L17ve1qiSvBxPWF36sR9KMJtiJR1binVyACwIaihRDeUQNNhU7N1hxE3G8zIx-niP7Lvc-EdMrCsjHmdDUtPtkLitUek=s2048)**  
-**![/var/folders/1x/fmlnj7993lqc08r6z5dcfyw00000gn/T/com.microsoft.Word/Content.MSO/851A09A1.tmp](https://lh6.googleusercontent.com/ioXyw99Czyiqg8MIryLZrXbrEcITel-ks0zTcERxBNleHk0_UH7jPb0WDT4xp1QaiN0ZA21aT0idAMy9b-UyRuMJVGjc2z-9qsFpHE4NVYud-NDVsq3IadfGsmkKWY0H91YsJHoQgcK-Jzw=s2048)  
+![/var/folders/1x/fmlnj7993lqc08r6z5dcfyw00000gn/T/com.microsoft.Word/Content.MSO/40F2C7DB.tmp](https://lh5.googleusercontent.com/hSZBWTWwMJ6NO7IFdi72PZoLbQc_51bFZLPxTDXf_dF5O-V5QY1L17ve1qiSvBxPWF36sR9KMJtiJR1binVyACwIaihRDeUQNNhU7N1hxE3G8zIx-niP7Lvc-EdMrCsjHmdDUtPtkLitUek=s2048)![/var/folders/1x/fmlnj7993lqc08r6z5dcfyw00000gn/T/com.microsoft.Word/Content.MSO/851A09A1.tmp](https://lh6.googleusercontent.com/ioXyw99Czyiqg8MIryLZrXbrEcITel-ks0zTcERxBNleHk0_UH7jPb0WDT4xp1QaiN0ZA21aT0idAMy9b-UyRuMJVGjc2z-9qsFpHE4NVYud-NDVsq3IadfGsmkKWY0H91YsJHoQgcK-Jzw=s2048)  
 
 Volkswagen admits 11 million diesel cars      have sneaky software installed !!!!
-
-  
-**  
-**
 
 Possibly the most expensive Computer enabled fraud ever…so far
 
@@ -5003,14 +4564,13 @@ Possibly the most expensive Computer enabled fraud ever…so far
 -   The fraud was initially discovered by student scientists at West Virginia U.  who were comparing the performance of various turbo diesel cars as part of a research project.
     
 
-**  
-**
+  
 
-Anatomy of the VW Fraud
+
+#### Anatomy of the VW Fraud
 
 ![A close up of a map
-Description automatically generated](https://lh5.googleusercontent.com/29u24-IDNBb_4xiYGh89AkEIwejihvVo8yKfdCEHQHYaxdQv52FO4eSlCsNeHNFMk53uE4XdFBFz_vEhUxkA0m_eGbUpJNtrWWZtVUPticjTwXWWLl0bAs1C2UAnfnWmEGASQdbQhVKVgjY=s2048)**  
-**
+Description automatically generated](https://lh5.googleusercontent.com/29u24-IDNBb_4xiYGh89AkEIwejihvVo8yKfdCEHQHYaxdQv52FO4eSlCsNeHNFMk53uE4XdFBFz_vEhUxkA0m_eGbUpJNtrWWZtVUPticjTwXWWLl0bAs1C2UAnfnWmEGASQdbQhVKVgjY=s2048)
 
 Consequences of “Dieselgate”
 
@@ -5030,8 +4590,7 @@ Consequences of “Dieselgate”
     
 
   
-**  
-**![Image result for volkswagen dieselgate cartoons](https://lh6.googleusercontent.com/GWR8wYsWhb_fOg1UkQKZ5JiB-7W6ZEiwE9ayyJHyoB2NdgdhVz9nqoWCxouGNV1oGkuvPoqZDbZNaOneuNr9VZnkZxi4q515IlXd21vwBPXqYbF2BJploPJmnm2DZfo3Z2DPJeey9nbSb38=s2048)  
+![Image result for volkswagen dieselgate cartoons](https://lh6.googleusercontent.com/GWR8wYsWhb_fOg1UkQKZ5JiB-7W6ZEiwE9ayyJHyoB2NdgdhVz9nqoWCxouGNV1oGkuvPoqZDbZNaOneuNr9VZnkZxi4q515IlXd21vwBPXqYbF2BJploPJmnm2DZfo3Z2DPJeey9nbSb38=s2048)  
   
 
 -   You can read the whole
@@ -5044,14 +4603,11 @@ Consequences of “Dieselgate”
 -   [https://www.caranddriver.com/news/a15339250/everything-you-need-to-know-about-the-vw-diesel-emissions-scandal/](https://www.caranddriver.com/news/a15339250/everything-you-need-to-know-about-the-vw-diesel-emissions-scandal/)
     
 
-**  
-**
 
-Negligence
 
-**  
-  
-**
+## Negligence
+
+
 
 Boeing 737 Max Airliner
 
@@ -5064,14 +4620,11 @@ Boeing 737 Max Airliner
 -   When they tested the new design they discovered that under some circumstances the nose of the aircraft would elevate, thereby increasing the possibility of a stall condition
     
 
-**  
-**
+
 
 Changing the engine position changes the flight characteristics of the plane
 
-**  
-  
-**
+
 
 The solution - MCAS
 
@@ -5091,8 +4644,7 @@ The solution - MCAS
 -   The Federal Aviation Administration was also found to be complicit in Boeing’s behavior as they let Boeing self certify the 737 MAX
     
 
-**  
-**
+
 
 Read all about it…
 
@@ -5100,16 +4652,13 @@ Read all about it…
 
 [https://simpleflying.com/boeing-737-max-story/](https://simpleflying.com/boeing-737-max-story/)
 
-**
-**
 
-Attacker’s profile
 
-  
+# Security
 
--   Type of attackers
-    
-
+## Attacker’s profile
+### Type of attackers
+   
 -   Hacker, cracker, infowarrior, vandals
     
 -   Insiders (majority of attacks)
@@ -5119,8 +4668,7 @@ Attacker’s profile
 -   State Sponsored Cyber Terrorists
     
 
--   Attacker’s motivations
-    
+### Attacker’s motivations
 
 -   Publicity / challenge
     
@@ -5135,18 +4683,10 @@ Attacker’s profile
 -   Politics
     
 
-
-
-**  
-**
-
-How does it happen ?
-
+### How does it happen ?
   
-
 -   Menu of threats… examples
     
-
 -   Phising
     
 -   Unauthorized access
@@ -5168,15 +4708,9 @@ How does it happen ?
 -   RansomWare
     
 
-  
-**  
-**
+### What is at stake ?
 
-What is at stake ?
-
-  
-
--   We live by transacting with other economic agents… all our transactions can be seen, modified, fraudulently created
+  -   We live by transacting with other economic agents… all our transactions can be seen, modified, fraudulently created
     
 -   Other important data, including user’s data, programs, logs, archive, keys, business and technical electronic documents
     
@@ -5191,13 +4725,7 @@ What is at stake ?
 -   Brand, reputation and credibility
     
 
-  
-**  
-**
-
-Cost of Cybercrime to Industry
-
-  
+### Cost of Cybercrime to Industry
 
 -   Loss through theft or fraud
     
@@ -5207,9 +4735,6 @@ Cost of Cybercrime to Industry
     
 -   Loss of Market Share
     
-
-  
-
 -   Cost of Prevention
     
 -   Cost of Detection
@@ -5219,95 +4744,60 @@ Cost of Cybercrime to Industry
 -   Cost of Monitoring
     
 
-  
-**  
-**
+### Cybercrime Demographics
 
-Cybercrime Demographics
+![complaints-by-demographic](https://lh4.googleusercontent.com/O9FxJg0GjrhuZ1tEtMUE0b3B5GzT7MdUCRIG3QmN1Nv3TO8Mz8p6ZjBPJdaBf56HAOvHZd3q9ueyQZ2TBReyQB34ayy98w1JI1IMX2xuq33cHtUEQ0MaKzm8eWyUzkguI-cmeSN1eLu_cdo=s2048)  
 
-![complaints-by-demographic](https://lh4.googleusercontent.com/O9FxJg0GjrhuZ1tEtMUE0b3B5GzT7MdUCRIG3QmN1Nv3TO8Mz8p6ZjBPJdaBf56HAOvHZd3q9ueyQZ2TBReyQB34ayy98w1JI1IMX2xuq33cHtUEQ0MaKzm8eWyUzkguI-cmeSN1eLu_cdo=s2048)**  
-**Global Cost
-
-  
-
+Global Cost
 Norton Study Calculates Cost of Global Cybercrime: $114 Billion Annually
 
 One of World’s Largest Cybercrime Studies Reveals More Than One Million Victims a Day 
-
+According to the Norton Cybercrime Report  more than two thirds of online adults (69 percent) have been a victim of cybercrime in their lifetime. Every second 14 adults become a victim of cybercrime, resulting in more than one million cybercrime victims every day4. For the first time, the Norton Cybercrime Report reveals that 10 percent of adults online have experienced cybercrime on their mobile phone.   
   
-
-According to the Norton Cybercrime Report  more than two thirds of online adults (69 percent) have been a victim of cybercrime in their lifetime. Every second 14 adults become a victim of cybercrime, resulting in more than one million cybercrime victims every day4. For the first time, the Norton Cybercrime Report reveals that 10 percent of adults online have experienced cybercrime on their mobile phone.**   
-  
-**The Current Situation…and increasingly so….
-
-  
+The Current Situation…and increasingly so….
 
 -   Decreasing privacy
     
 
 -   Social Networks – Data Vacuum Cleaers
     
+	 
+Our personal information is the “blood” in the system
 
-     Our personal information is the “blood” in the system
+We live in an Age of Auto Surveillance
 
-      We live in an Age of Auto Surveillance
+There is no statute of limitations on our digital lives
 
-  
+Globalized Cybercrime
 
-      There is no statute of limitations on our digital lives
+Emergence of a Cyberspace Arms Race        
 
-       Globalized Cybercrime
 
-  
-
-       Emergence of a Cyberspace Arms Race**         
-**
-
-Mobile under increasing attack
-
-  
+### Mobile under increasing attack
 
 -   And the people most at risk are men ages 18 to 34 who use mobile devices to connect to the internet. In other words, PCs pose a broadly dangerous entry point for cybercriminals, but smartphones are worse. The information is especially troubling because people use smartphones with increasing frequency as the primary tools for their online work and play.  
       
     The number of new malicious programs targeting the Android platform has almost trebled in the second quarter of the year, according to figures from Kaspersky Lab’s Q2 report on IT threat evolution. Over the three months in question, over 14,900 new malicious programs targeting this platform were added to Kaspersky Lab’s database.
     
 
-  
-**  
-**
-
-Let’s just face it…
-
-  
+### Let’s just face it…
 
 -   The security perimeter is gone
     
-
 -   Too many inter-connected networks & devices
     
 -   Too many doors & windows from one environment to another to secure the network in the old-fashioned way
     
 -   Today, difficult to say with certainty where one network/system ends and another 
     
-
 -   Due to complex series of interconnections, new/untested technology, people interactions, insecurity always remains
     
+	=> 100% security doesn’t exist
 
-  
-
-=> 100% security doesn’t exist
-
-**  
-  
-**
-
-Security as a Discipline
-
-  
+### Security as a Discipline
 
 -   There are several important aspects, or tenets of security
     
-
 -   Identification/Authentication
     
 -   Authorization 
@@ -5320,10 +4810,8 @@ Security as a Discipline
     
 -   System Availability
     
-
 -   Security Enablers
     
-
 -   Encryption
     
 -   Digital Signatures
@@ -5336,21 +4824,12 @@ Security as a Discipline
     
 -   Virus and Malware Detection
     
-
-
-
-**  
-**
-
-What is Authentication ?
-
-  
+## What is Authentication ?
 
 -   Answers the question  “Who am I?”
     
 -   Can be implemented with weak or strong methods but usually involves something you know, something you have, and/or something you are
     
-
 -   User ID
     
 -   Passwords
@@ -5361,44 +4840,32 @@ What is Authentication ?
     
 -   Biometrics
     
-
 -   It is the most common area of attack on IT systems because it opens so many other doors
     
 -   Consumers are very vulnerable to attacks in this area because they are not very good at keeping secrets
     
 -   Vulnerable to “Social Engineering”
     
-
-**  
-**
-
-Authentication
-
-  
+## Authentication
 
 -   Process to positively identify a party participating in electronic interaction
     
 -   Attempting to answer the question: 
     
-
 -   who are you (identify)
     
 -   are you who you say you are (confirm)
     
-
 -   Methods based on:
     
-
 -   Who you are (…fingerprint, retina, DNA) 
     
 -   What you know (…password, PIN)
     
 -   What you have (…cards, digital certificates)
     
-
 -   Examples:
     
-
 -   UserID/Passwords
     
 -   Cards (mag-stripe and chip)
@@ -5409,20 +4876,12 @@ Authentication
     
 -   Digital Certificates
     
-
-  
-![mage result for computer security cartoons](https://lh3.googleusercontent.com/zw2uHq8zSW_v9FaIoPt-wVUrHHqrs6j4plhCe1MX4-E6Z0X7AGHMN5Jry9DcVWUp18qbuDF1_FClm3QSu1ft7V86nnZniZO4XKd_cpdr3DxT9enzSebLmqUJXxprflRZsfRgaPpEBVPNjU4=s2048)**  
-**Sample Digital Token
+![mage result for computer security cartoons](https://lh3.googleusercontent.com/zw2uHq8zSW_v9FaIoPt-wVUrHHqrs6j4plhCe1MX4-E6Z0X7AGHMN5Jry9DcVWUp18qbuDF1_FClm3QSu1ft7V86nnZniZO4XKd_cpdr3DxT9enzSebLmqUJXxprflRZsfRgaPpEBVPNjU4=s2048)
 
 ![keychain_token](https://lh5.googleusercontent.com/iJEybFXs4fKeTdnxLGyCIQu78BXLgZJwY9kdAx52n9m_fsXX-bLKxrxPjSadPCgO2QJgayqsuhdGb0zwZ75xF2kSGFOIwd09HIY-SKIDmua6FIwWsHIPauBmQ5uhaxpcQKfH-Slj3tN2Ckk=s2048)  
-
-                     Token-Based Digital Identity**   
+Token-Based Digital Identity   
   
-**
-
-Currently used biometric technologies
-
-  
+### Currently used biometric technologies
 
 -   Fingerprint verification
     
@@ -5440,70 +4899,36 @@ Currently used biometric technologies
     
 -   Keyboard Dynamics
     
-
-**  
-**
-
-Digital Certificates
-
-  
+## Digital Certificates
 
 -   Digital Certificates are digital files that are issued to you and are unique to you as an individual
     
-
-  
-
 -   In order to receive one, you must prove who you are to the Certificate Authority that issues the certificate to you
     
-
-  
-
 -   Certificates are issued in different “flavors” or strengths depending upon what they authorize you to do
     
-
-  
-
 -   The certificate may be used to digitally “sign” an electronic document and has the same legal status as your written signature
     
+## Weak vs. Strong Authentication
 
-**  
-**
-
-Weak vs. Strong Authentication
-
-  
-
--   An example of “weak” authentication is:
+  -   An example of “weak” authentication is:
     
-
 -   Username and 4 character pin
     
-
-  
-
 -   Stronger authentication would be:
     
-
 -   Username and 8 character alphanumeric password with                                           no repeating characters
-    
+      
 
-  
+**Even Stronger authentication would be:
 
-Even Stronger authentication would be:
+**Username 
++
+16 character alphanumeric pw with no repeating characters 
++
+Biometric signature and/or a Digital Certificate**
 
-Username +
-
-16 character alphanumeric pw with no repeating characters +
-
-Biometric signature and/or a Digital Certificate
-
-**  
-  
-**
-
-Authorization
-
-  
+## Authorization
 
 -   Ensure that the right person has the access to the right resource
     
@@ -5513,19 +4938,9 @@ Authorization
     
 -   Social Engineering commonly used to “fake” authorization
     
-
-  
-
 -   Boston College computer frauds are classic cases
     
-
-  
-**  
-**
-
-Privacy
-
-  
+## Privacy
 
 -   Keep data undecipherable to unauthorized persons
     
@@ -5535,18 +4950,9 @@ Privacy
     
 -   Mostly about people (only people know the derived meaning of data)
     
-
-  
-
 -   And mostly about intentional misuse of personal data
     
-
-**  
-**
-
-Cryptography helps maintain privacy
-
-  
+## Cryptography helps maintain privacy
 
 -   To most people, cryptography is concerned with keeping communications private
     
@@ -5558,13 +4964,7 @@ Cryptography helps maintain privacy
     
 -   Encryption and decryption generally require the use of some secret information, referred to as a key
     
-
-**  
-**
-
-Integrity
-
-  
+## Integrity
 
 -   Keep data free from tampering 
     
@@ -5572,35 +4972,19 @@ Integrity
     
 -   Don’t need to know what was changed… just that it was changed
     
-
-  
-  
-**  
-**
-
-Non-repudiation
-
-  
+## Non-repudiation
 
 -   Provide legally binding proof that a certain transaction took place between certain actors
     
 -   Three issues:
     
-
 -   Data non-repudiation (what happened)
     
 -   Party non-repudiation (who did it)
     
 -   Trusted 3rd party certification (similar to an escrow service)
     
-
-  
-**  
-**
-
-Availability of Service Issues
-
-  
+## Availability of Service Issues
 
 -   The popularity of the Internet has made Denial of Service a favorite pastime of certain hackers
     
@@ -5610,24 +4994,9 @@ Availability of Service Issues
     
 -   File tampering and destruction
     
-
-  
-
 -   Denial of service attacks have become a form of blackmail and Ransomware
     
-
-  
-  
-  
-  
-  
-  
-**  
-**
-
-Identity Theft….a growing menace
-
-  
+## Identity Theft….a growing menace
 
 -   Has become the number one complaint from consumers to Law enforcement dealing with cyberspace crimes
     
@@ -5637,17 +5006,12 @@ Identity Theft….a growing menace
     
 -   Involves building a profile of the target from many possible sources and scams
     
-
-  
-**  
-**![](https://lh6.googleusercontent.com/KGUwRgBW9yzJiq2l8CQLpUPUm5pILwyQmC_gP8VDJACIn2uHTNQzdr_0YtsgGd5C1N30_MLIEGJGnhc-WqN9zJlqSEuwY7i39mTPw-t_5lTRZqzhje0S4B0OX52LHu-hkl0bic75ZDn7YMM=s2048)**  
-**Identity Theft
+![](https://lh6.googleusercontent.com/KGUwRgBW9yzJiq2l8CQLpUPUm5pILwyQmC_gP8VDJACIn2uHTNQzdr_0YtsgGd5C1N30_MLIEGJGnhc-WqN9zJlqSEuwY7i39mTPw-t_5lTRZqzhje0S4B0OX52LHu-hkl0bic75ZDn7YMM=s2048)Identity Theft
 
 ![rivate Financial Info](https://lh6.googleusercontent.com/HMzKuCPa162GK4zpfnvtIWupjSOblWxIPJvotnJHcvq-9nrzTh2VzWLvxA2PT6LjyQuW8izJWS_TVDi1XmNfXcGJ0rWV5xNxXcHMhg3ZZzhUvK0W97t4W4L3qQp7WtWCQksIuC2Tvt8mTAU=s2048)  
 
--   “What do they want?”
+## What do they want?
     
-
 -   Your name 
     
 -   Date of Birth 
@@ -5664,22 +5028,12 @@ Identity Theft….a growing menace
     
 -   Social Security Number
     
+Or any combination of the above!
 
-  
-
-Or any combination of the above!**   
-  
-**
-
-Identity Theft
-
-  
+## Identity Theft
 
 -   How do they get it?
     
-
-  
-
 -   Emails  - “The Nigerian Letter”
     
 -   Phishing and Vishing
@@ -5694,19 +5048,10 @@ Identity Theft
     
 -   Trojan Horses which capture your keystrokes on your PC and send them to the hacker!
     
-
-**  
-**
-
-Threats to the Internet Itself
-
-  
+## Threats to the Internet Itself
 
 -   What would happen to the global economy if someone successfully attacked the domain name servers that assign all of the internet addresses and URL’s
     
-
-  
-
 -   Worldwide Chaos
     
 -   Huge business failures
@@ -5721,19 +5066,9 @@ Threats to the Internet Itself
     
 -   No more free downloads!
     
-
-  
-  
-**  
-**
-
-Security Utopia  
-
-  
-
+## Security Utopia  
 -   An illusion is often propagated that the computer system is secure when there are:
     
-
 -   Security guards + video system
     
 -   A set of security  policies and procedures
@@ -5744,45 +5079,23 @@ Security Utopia  
     
 -   Everything is placed in a locked vault…underground
     
-
-  
-
 -   When in fact this is just a first line of defense….. it is never enough….
     
 
-**  
-**
 
-A Quote for the Day….
-
-  
-
+### A Quote for the Day….
 -   Secure web and email servers are the equivalent of heavy armored cars. The problem is, they are being used to transfer rolls of coins and checks written in crayon by people on park benches to merchants doing business in cardboard boxes from beneath highway bridges. Further, the roads are subject to random detours, anyone with a screwdriver can control the traffic lights, and there are no police.
     
 
-**  
-**![](https://lh4.googleusercontent.com/eGQyzH2wodAd55xsFwgs4mo_Y1VOyT9fIbL29q0Qhqs4zdQQgUYinzho6Be3N8OzkIbCRVbzfI9_adzi5xIiEllkW7-mWbs6Ewp8dkkjwYQgE_9Y01ndF_uK27wZQ2I6wlrPK-oxS-_9eCw=s2048)**  
-**take a look!
-
-  
-
+![](https://lh4.googleusercontent.com/eGQyzH2wodAd55xsFwgs4mo_Y1VOyT9fIbL29q0Qhqs4zdQQgUYinzho6Be3N8OzkIbCRVbzfI9_adzi5xIiEllkW7-mWbs6Ewp8dkkjwYQgE_9Y01ndF_uK27wZQ2I6wlrPK-oxS-_9eCw=s2048)take a look!
 [hackmageddon.com](http://hackmageddon.com)
-
-  
-
 [http://www.justice.gov/criminal/cybercrime/cc.html](http://www.justice.gov/criminal/cybercrime/cc.html) 
-
+[http://www.computerworld.com/s/topic/82/Cybercrime+and+Hacking](http://www.computerworld.com/s/topic/82/Cybercrime+and+Hacking)   
   
+![](https://lh3.googleusercontent.com/f99ioX1nFdUiEGrlMhHOSArwUHjjbDaJrU77fFpMTTRer19nVyMS_4AktKVughRx2EcAlwEe96ggCGT8ardqGDHz6U3I53Ed72OdgivjBkiTHQMYhqXD9vKPij-QftnX2jhJ0GpKYRivBas=s2048)
 
-[http://www.computerworld.com/s/topic/82/Cybercrime+and+Hacking](http://www.computerworld.com/s/topic/82/Cybercrime+and+Hacking)**   
-  
-**![](https://lh3.googleusercontent.com/f99ioX1nFdUiEGrlMhHOSArwUHjjbDaJrU77fFpMTTRer19nVyMS_4AktKVughRx2EcAlwEe96ggCGT8ardqGDHz6U3I53Ed72OdgivjBkiTHQMYhqXD9vKPij-QftnX2jhJ0GpKYRivBas=s2048)**  
-**
 
-The Security Pillars
-
-  
-
+### The Security Pillars
 -   Authentication
     
 -   Authorization
@@ -5795,28 +5108,15 @@ The Security Pillars
     
 -    Availability
     
+## Viruses!!
 
-  
-**  
-**
-
-Viruses!!
-
-**  
-  
-  **Viruses, Worms, Trojan Horses and Spybots  
-  
-aka, Malware
+Viruses, Worms, Trojan Horses and Spybots aka, Malware
 
   
 
-Primarily attack on Authentication,Data Integrity, System Availability and Privacy**  
-  
-**
+Primarily attack on Authentication,Data Integrity, System Availability and Privacy
 
-Computer Viruses
-
-  
+## Computer Viruses
 
 -   In the early 1980s, Fred Cohen did extensive theoretical research at USC, as well as setting up and performing numerous practical experiments, regarding viral type programs. 
     
@@ -5826,18 +5126,9 @@ Computer Viruses
     
 -   Cohen created “research viruses”  as part of his thesis
     
-
-  
-
 -   Today we are concerned with viruses “in the wild”
     
-
-**  
-**
-
-Viruses
-
-  
+### Viruses
 
 -   Malicious software code that is usually embedded in executable programs or documents
     
@@ -5851,34 +5142,18 @@ Viruses
     
 -   The worst viruses destroy the file directory or the data on your Disk!
     
-
-**  
-**
-
-How do they propagate?
-
-  
+### How do they propagate?
 
 -   Early viruses spread when people exchanged floppy disks that contained programs or data with other users and inserted them into their machines  (relatively slow propagation)
     
-
-  
-
 -   Today, with the speed and global reach of the internet, viruses can spread many times faster attached to emails, and file downloads such as mp3s, images and video files
     
 -   (very fast propagation and attack at a distance)
     
-
-**  
-**
-
-Types of Viruses
-
-  
+### Types of Viruses
 
 -   File Infector Viruses
     
-
 -   Some of the oldest types
     
 -   Looks like an executable file (.exe, .com, .bin, .sys)
@@ -5889,26 +5164,16 @@ Types of Viruses
     
 -   Some Infector viruses make a copy of the real application and hide themselves inside the copy.  When the user clicks on the file name, the copy runs, not the original.
     
-
 -   Macro Viruses
     
-
 -   Hide in the popular macro commands that are popular in windows applications
     
 -   These viruses infect any documents that the application opens (Word, Excel, Access, etc.)
     
-
-  
-**  
-**
-
-Types of Viruses
-
-  
+### Types of Viruses
 
 -   Boot Sector Viruses
     
-
 -   These viruses infect the boot track of the disk drive when the machine is booted up
     
 -   By altering the  boot drive, the virus can render the machine inoperable
@@ -5917,15 +5182,7 @@ Types of Viruses
     
 -   On March 6, 1992 there was almost hysteria about the effect that this virus would have on all the PCs installed worldwide
     
-
-
-
-**  
-**
-
-Worms
-
-  
+### Worms
 
 -   Responsible for today’s most widespread attacks and sometimes confused with Viruses
     
@@ -5937,17 +5194,11 @@ Worms
     
 -   The Anna-Kournikova.jpg.vbs worm did over $80 million worth of damage because people couldn’t resist the temptation of seeing a revealing photo of her
     
+### The Trojan Horse        
 
-  
-**  
-**The Trojan Horse        
+![](https://lh4.googleusercontent.com/vmpFKDOzkApRnsWKRBp8qFJkHcZcGRkQvd-JMY4jYOwvJ_3IfmhmS8u05QXzzQC79bRchQdn4YhD5ZXEbIA-5SVOA1ozkPTrqG3aCTdCPBByGHTrqCg-vwpSYIy1454PAAy-StaIYVwvfH8=s2048)
 
-![](https://lh4.googleusercontent.com/vmpFKDOzkApRnsWKRBp8qFJkHcZcGRkQvd-JMY4jYOwvJ_3IfmhmS8u05QXzzQC79bRchQdn4YhD5ZXEbIA-5SVOA1ozkPTrqG3aCTdCPBByGHTrqCg-vwpSYIy1454PAAy-StaIYVwvfH8=s2048)**          
-**
-
-Trojans
-
-  
+### Trojans
 
 -   Modeled after the ancient technique of hiding a threat inside of a seemingly benign package
     
@@ -5959,13 +5210,7 @@ Trojans
     
 -   Trojans can also allow someone to effectively hijack your computer and use it control everything that your machine does without you knowing it (Zombies!)
     
-
-**  
-**
-
-In Summary
-
-  
+## In Summary
 
 -   A wide variety of threats
     
@@ -5973,15 +5218,7 @@ In Summary
     
 -   The attacks continue and get more sophisticated all the time.
     
-
-  
-  
-**  
-**
-
-How to attempt to protect yourself from  Malware
-
-  
+### How to attempt to protect yourself from  Malware
 
 -   Install Viruses protection software
     
@@ -5989,10 +5226,8 @@ How to attempt to protect yourself from  Malware
     
 -   Perform a complete Virus scan of your machine at least once a week
     
-
 -   Automatically while you are asleep!
     
-
 -   Do not put flash memory cards from unknown parties into your machine
     
 -   Only accept software downloads from reputable companies (almost 10% of all the files on popular file sharing sites are in fact Malware)
@@ -6001,73 +5236,33 @@ How to attempt to protect yourself from  Malware
     
 -   Don’t open any emails promising racy photos or videos of Anna Kournikova, Pamela Anderson, Paris Hilton or Ben Affleck, George Clooney or Brad Pitt! Or anyone else for that matter….
     
-
-**  
-**
-
-RansomWare!
-
-  
+### RansomWare!
 
 Ransomware is a type of malware which restricts access to the computer system that it infects, and demands a ransom paid to the creator(s) of the malware in order for the restriction to be removed.
 
-  
-**  
-**![](https://lh5.googleusercontent.com/D1SwHFbzB5V2IKksPwF60zchs5eUXj4ODbBD0ByK_NWHpLJyQD4AdeZoRSvhB7bLqLs_fZ07lWy3zdBDIfyqfkTn79NC2vkRcM67C_fMibyP35TxX7TyB9qfshtmC6OOZnnen1kKS9vBugk=s2048)**  
-**
+![](https://lh5.googleusercontent.com/D1SwHFbzB5V2IKksPwF60zchs5eUXj4ODbBD0ByK_NWHpLJyQD4AdeZoRSvhB7bLqLs_fZ07lWy3zdBDIfyqfkTn79NC2vkRcM67C_fMibyP35TxX7TyB9qfshtmC6OOZnnen1kKS9vBugk=s2048)
 
 Beware of Bogus Virus Protection! (RansomWare)
 
-  
-
 -   The user gets a very visible warning about infections on their PC from what appears to be a legitimate source (Microsoft, etc)
     
-
-  
-
 -   They are instructed to click on a button and download software to protect themselves.
     
-
-  
-
 -   By doing so they download and install a program that incessantly pops up on their screen instructing them to pay for a viral antidote which disrupts everything else they are trying to do
     
-
-  
-
 -   They then have to go to a website and pay to remove the annoying software that they mistakenly downloaded in the first place!
     
-
-  
-
 -   VERRRRY ANNOYING!!!!  and costly
     
-
-**  
-**
-
-CryptoWall   and CryptoLocker
-
-  
+### CryptoWall   and CryptoLocker
 
 A file-encrypting ransomware program called CryptoWall infected over 600,000 computer systems  and held 5 billion files hostage, earning its creators more than $1 million, researchers found.
 
-  
-
 CryptoLocker, another ransomware program that infected over half a million systems over 6 months, earned its perpetrators an estimated $3 Million!
-
-  
 
 Payment is always required using Bitcoin or another untraceable cyber currency
 
-**  
-  
-**
-
-More Threats and Scams
-
-  
-  
+## More Threats and Scams
 
 -   Nigerian Letters
     
@@ -6075,74 +5270,37 @@ More Threats and Scams
     
 -   Pharming
     
-
-  
-**  
-**Nigerian Letters
-
-  
+### Nigerian Letters
 
 -   Also known as “Advance Fee Fraud”
     
-
-  
-
 -   Been successfully run since the 1980’s over mail and over the Internet
     
-
-  
-
 -   Convinces the target that they will get a huge commission for helping free up money held in an offshore bank account.
     
-
-  
-
 -   Target is solicitied for small “fees” and their personal info to expedite the process
     
-
-  
-
 -   Of course, no money is forthcoming
     
+-   Read all about them here  [http://home.rmci.net/alphae/419coal/](http://home.rmci.net/alphae/419coal/)
 
-  
-
--   Read all about them here  [http://home.rmci.net/alphae/419coal/](http://home.rmci.net/alphae/419coal/)**   
-**
-
-Nigerian Letter Example
-
-  
-  
-  
+### Nigerian Letter Example
 
 Attention.Friend  Its my pleasure to inform you that i have verify from the bank director regarding the transfer of your fund and it was good news because the requested fee was less expessive for you to afford.  your consignment containing your fund($800.000.00) i have deposited it with the CAPITAL CITY BANK PLC so that your fund will be wired to your account immediately you contact the bank director with your banking details.  However i went to CAPITAL CITY BANK PLC to discuss this with the bank director as its has not been delivered to you However he told me that your fund can be transfered to you via a direct wire transfer(KTT) into your account.He told me to instruct you to contact the bank to apply for a direct wire transfer into your account to avoid loosing your fund due to delay.  Therefore you can contact the bank with below information, send to them your banking information.  CAPITAL CITY BANK PLC OF BENIN REPUBLIC  20/22 HOSPITAL ROUTE COTONOU BENIN REPUBLIC
 
-**  
-  
-**
+### Phising and Pharming
 
-Phising and Pharming
+![](https://lh5.googleusercontent.com/daxFPRT_SwNUnKtFMEdZZO5Xhpwgki3w6MMwMACTl39d0Uv94Vh6Eyib0Vjf7USGXhuX95IxhnTmNuiZK47lhDUlbKhEv41EdLmpCqko8psGo9WJDVmUVoLq18NiXbD_1mryDoK-3KEoynQ=s2048)![](https://lh4.googleusercontent.com/k9WoEfMHcmsL0ybNpuBm0-Flm_Yka86oR9oZQvxOgVNMeGt7IcFLPoTE87ViyjejIgmEO36zi97YesBnNsVnwi9JHTMiZdhiS8ScWy7xD86cmeaklA8kl7idpuZ0aluywmmdGJaPa2E2aRk=s2048)![](https://lh6.googleusercontent.com/jmKVt2IRVrrflNx4zU9ZNOebSHEOr3wfqRvlJuRbTzhBJimcavFM8VASNErd-HCf-eGKpAxSBYOsqWo7Biv-AytFr3R8ahul7hreg4Vfpb9mRT0fFAWUElJnctxjzztJBcUTccZi9jL9W3s=s2048)
 
-![](https://lh5.googleusercontent.com/daxFPRT_SwNUnKtFMEdZZO5Xhpwgki3w6MMwMACTl39d0Uv94Vh6Eyib0Vjf7USGXhuX95IxhnTmNuiZK47lhDUlbKhEv41EdLmpCqko8psGo9WJDVmUVoLq18NiXbD_1mryDoK-3KEoynQ=s2048)![](https://lh4.googleusercontent.com/k9WoEfMHcmsL0ybNpuBm0-Flm_Yka86oR9oZQvxOgVNMeGt7IcFLPoTE87ViyjejIgmEO36zi97YesBnNsVnwi9JHTMiZdhiS8ScWy7xD86cmeaklA8kl7idpuZ0aluywmmdGJaPa2E2aRk=s2048)![](https://lh6.googleusercontent.com/jmKVt2IRVrrflNx4zU9ZNOebSHEOr3wfqRvlJuRbTzhBJimcavFM8VASNErd-HCf-eGKpAxSBYOsqWo7Biv-AytFr3R8ahul7hreg4Vfpb9mRT0fFAWUElJnctxjzztJBcUTccZi9jL9W3s=s2048)**  
-**Phishing
-
-  
+### Phishing
 
 -   Phishing is the criminally fraudulent process of attempting to acquire sensitive information such as usernames, passwords and credit card details by masquerading as a trustworthy entity in an electronic transaction. 
     
-
-  
-
 -   Phishing is an example of social engineering techniques used to fool users and exploits the poor usability of current web security technologies. 
     
--   Phishing alludes to baits used to "catch" financial information and passwords.**    
-**
+-   Phishing alludes to baits used to "catch" financial information and passwords.
 
-Pharming
-
-  
-  
+### Pharming
 
 Pharming is a hacker’s  attack aiming to redirect a website’s traffic to another, bogus website 
 
@@ -6152,49 +5310,29 @@ Pharming can be conducted either by changing the host’s file on a victim’s c
 
 Pharming is also known as Page Hijacking
 
-**  
+### Phishing Video
+[http://www.youtube.com/watch?v=Y4mnIwtIWB4&feature=fvwrel](http://www.youtube.com/watch?v=Y4mnIwtIWB4&feature=fvwrel)  
   
-         **Phishing Video
-
-  
-
-[http://www.youtube.com/watch?v=Y4mnIwtIWB4&feature=fvwrel](http://www.youtube.com/watch?v=Y4mnIwtIWB4&feature=fvwrel)**  
-  
-**
-
 These days, Phishing, Pharming and Spoofing are often all combined in the same attempt to compromise someone’s personal information
 
-**  
-  
-      **Looking for Privacy  
-  
+### Looking for Privacy  
 Encryption and Decryption
-
-  
 
 “Kryptos logos”
 
-(Hidden Word)**  
-  
-**
+(Hidden Word)
 
 Encryption and Data Security   (Privacy)
 
-  
-
--   Cryptography is the art and science of keeping message secret
+  -   Cryptography is the art and science of keeping message secret
     
 -   Encryption techniques convert data into a secret code for transmission
     
 -   The process of retrieving the original message at the receiver is called decryption
     
+![](https://lh5.googleusercontent.com/S8DzXUuPmGIAkZa2JJYQHBzgasPAyeB40VOhbbsVBVVvjs6VVy8jrIx_dzz0TXr_K4-wbT4rYNhbSjxwk3xKCJUWW7wHuyxl5F0jgplsBt3vwxkK_Ntheopgur5GmOBpFIdC-ctqeHH1qEk=s2048)
 
-![](https://lh5.googleusercontent.com/S8DzXUuPmGIAkZa2JJYQHBzgasPAyeB40VOhbbsVBVVvjs6VVy8jrIx_dzz0TXr_K4-wbT4rYNhbSjxwk3xKCJUWW7wHuyxl5F0jgplsBt3vwxkK_Ntheopgur5GmOBpFIdC-ctqeHH1qEk=s2048)**  
-**
-
-Encryption Keys
-
-  
+### Encryption Keys
 
 -   Keys are essential information -- usually a large numerical parameter(s) -- needed for encryption and/or decryption algorithms
     
@@ -6204,33 +5342,15 @@ Encryption Keys
     
 -   Decryption keys were sometimes discovered by brute force methods employing computers to search large potential key combinations
     
-
-**  
-**
-
 Two Types of Encryption using keys
-
-  
 
 -   Symmetric keys  also know as Secret Key Encryption
     
-
-  
-
 -   Asymmetric keys also known as Public Key Encryption
     
-
-  
-
 -   Public Key Encryption aka PKI is now the dominant form of Encryption in use in all digital transactions
     
-
-**  
-**
-
-Public Key is the Dominant Technique in use today
-
-  
+### Public Key is the Dominant Technique in use today
 
 -   This involves the use of TWO different keys, each over 1000 bits in size
     
@@ -6248,12 +5368,7 @@ Public Key is the Dominant Technique in use today
     
 -   The Receiver uses the public key to decrypt the Sender’s message
     
-
-  
-**  
-**Who are the Certificate Authorities?
-
-  
+### Who are the Certificate Authorities?
 
 -   CAs  are Bonded, Trusted, Third Party Companies that have been authorized to set up Public Key Infrastructures (PKI) on the Web for the purpose of issuing and managing Public and Private keys for their subscribers
     
@@ -6261,14 +5376,11 @@ Public Key is the Dominant Technique in use today
     
 -   Subscribers have to pay to belong and must authenticate themselves to the to the CA periodically to prove who they are.  There are different levels of authentication depending upon the nature of your transactions
     
--   You can see a list of Certificate Authorities in your Browser!**   
-**
+-   You can see a list of Certificate Authorities in your Browser!
 
-Public Key Encryption
+## Public Key Encryption
 
-  
-
--   The first practical public key algorithm was published by Rivest, Shamir, and Adleman in 1976 and is know as RSA (for their last names)
+  -   The first practical public key algorithm was published by Rivest, Shamir, and Adleman in 1976 and is know as RSA (for their last names)
     
 -   RSA is still a widely used algorithm which is a testament to its strength and viability
     
@@ -6280,18 +5392,11 @@ Public Key Encryption
     
 -   This also works in reverse.
     
-
-**  
-**
-
 Asymmetric or Public Key Ciphers Illustrated
 
-![](https://lh4.googleusercontent.com/GLfym4YvG7lUEBZpMcKM0SOQ3D1bRLcdpVMynVkZozbYsn1QeoY2UWpl3-hn5TaS-fg77URtl2V4hr51107e46ksnQPSyL91jb4t52F74kDC8nYxIHGgRF0GLQi-ShWR-VUjrhAvt6PCVYI=s2048)**  
-**
+![](https://lh4.googleusercontent.com/GLfym4YvG7lUEBZpMcKM0SOQ3D1bRLcdpVMynVkZozbYsn1QeoY2UWpl3-hn5TaS-fg77URtl2V4hr51107e46ksnQPSyL91jb4t52F74kDC8nYxIHGgRF0GLQi-ShWR-VUjrhAvt6PCVYI=s2048)
 
 Authentication using PKI 
-
-  
 
 -   The process used to verify the identity of a respondent is called authentication
     
@@ -6301,71 +5406,39 @@ Authentication using PKI 
     
 -   To authenticate that a person is who they say they are:
     
-
 -   send that person a nonsense message and ask them to encode it with their private key and return it to you
     
 -   when the message is returned, if the person is who they claim to be, you should be able to recover your nonsense message using their public key  which is published
     
-
-
-
-**  
-**
-
-Secure Socket Layer
-
-  
-  
+## Secure Socket Layer
 
 -   The use of Public Key Infrastructures to secure information exchanges over the web is called the Secure Socket Layer (SSL)
     
-
-  
-
 -   SSL is the predominate method used to apply RSA and other algorithms for securing email and sensitive electronic transactions 
     
-
-  
-
 -   Recently, security vulnerabilities were discovered in SSL which potentially could allow unauthorized parties to compromise the method.
     
 -   [http://www.howtogeek.com/182425/5-serious-problems-with-https-and-ssl-security-on-the-web/](http://www.howtogeek.com/182425/5-serious-problems-with-https-and-ssl-security-on-the-web/)
     
-
-**  
-**
-
 SSL uses several exchanges to setup the secure link
 
-![](https://lh3.googleusercontent.com/1Ew8XGGFimPFmJaWQrhjGhxKh-tj4opVJ2N02lylxL9XsCsql_GxiVQnWuW3bi7DonsU-0Iwn1AdjkguYCGOS72XQ-ORhCqCMRnrytS7aBiAx0IRMNNbEOf2xlE6KnOyyco42jvBD4_b57g=s2048)**  
-**
+![](https://lh3.googleusercontent.com/1Ew8XGGFimPFmJaWQrhjGhxKh-tj4opVJ2N02lylxL9XsCsql_GxiVQnWuW3bi7DonsU-0Iwn1AdjkguYCGOS72XQ-ORhCqCMRnrytS7aBiAx0IRMNNbEOf2xlE6KnOyyco42jvBD4_b57g=s2048)
 
-SSL Demo
-
-  
-
+### SSL Demo
 [www.bofa.com](http://www.bofa.com/)
 
-**  
-  
-**
-
-Non-Repudiation using PKI
-
-  
+### Non-Repudiation using PKI
 
 -   If a party is registered with a CA and sends a document or a transaction  encrypted with their secret key to another party they effectively create what is known as a DIGITAL SIGNATURE 
     
 -   Digital Signatures are legally binding in the same way your hand written signature is binding  (U.S. Congress and EEC laws)
     
-
 -   It is very difficult to REPUDIATE that transaction since only the sending party knew the secret key in order to create the encrypted message
     
 -   The message is read and processed by the receiving party using the Sender’s Public key, which is the ONLY key that will work.  If the Receiver can successfully decode the message then it has proof that the message was generated by the specific sender
     
 -   Very important principle when applied to legally binding documents and transactions such as;
     
-
 -   Contracts
     
 -   Offers
@@ -6374,47 +5447,23 @@ Non-Repudiation using PKI
     
 -   Confidential Information
     
-
-
-
-
-
-**  
-**
-
-Stuxnet  --- Who done it ?????
-
-  
-  
+## Stuxnet  --- Who done it ?????
 
 -   Stuxnet is a virus that is widely believed to have been developed by the U.S. and Israeil intelligence communities.  It’s purpose was to infiltrate programmable control systems used in the process control industries.  In particular, this worm was targeted at the controllers that operate the centrifuges used in Iran to process uranium, a key component in the quest for nuclear weapons, or reactors.
     
-
-  
-
 -   Stuxnet Video:
     
 -   [http://vimeo.com/25118844](http://vimeo.com/25118844)
     
+    
 
-**  
-**
-
-And now, Wiki Leaks and Russian Hacks!!
-
-  
-  
+### And now, Wiki Leaks and Russian Hacks!!
 
 -   2016 hacks on the DNC mail servers have been blamed by U.S. security experts on state supported Russian hackers who were trying to influence the U.S. Presidential election!   
     
 -   And so it goes…...
     
-
-  
-**  
-**NotPetya Denial of Service attack    2017
-
-  
+### NotPetya Denial of Service attack    2017
 
 -   Originally targeted at Ukraine by Russian government hackers, the NotPetya virus also found its way into Western European corporate computers that were located in Kiev.
     
@@ -6426,68 +5475,40 @@ And now, Wiki Leaks and Russian Hacks!!
     
 -   Several other global firms were affected including Merck Pharma.
     
--   Cost to Maersk:  Over $400M….Cost to Merck: Over $800M**   
-**
+-   Cost to Maersk:  Over $400M….Cost to Merck: Over $800M   
 
 Maersk container ship with over 1000 containers on board
-
-  
-
 Read all about it here:
-
-  
-
 [https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)
 
-**  
-  
-**
-
-SolarWinds Attack -- 2020
-
-  
+## SolarWinds Attack -- 2020
 
 -   Russian hackers compromised software updates that were sent by SolarWinds, a leading supplier of network management software, to its customers around the globe.
     
-
 SolarWinds stated that its customers included 425 of the US Fortune 500, the top ten US telecommunications companies, the top five US accounting firms, all branches of the US Military, the Pentagon, the State Department, as well as hundreds of universities and colleges worldwide.
 
 This attack is considered to be one of the most sophisticated Ransomware exploits to date and has affected companies around the world.  
 
 Read the details here: [https://www.businessinsider.com/solarwinds-hack-explained-government-agencies-cyber-security-2020-12](https://www.businessinsider.com/solarwinds-hack-explained-government-agencies-cyber-security-2020-12)
 
-**  
-  
-**
-
-Colonial Pipeline Attack
-
-  
+## Colonial Pipeline Attack
 
 -   Cyberattack Forces a Shutdown of a Top U.S. Pipeline
     
 -   The operator, Colonial Pipeline, said it had halted systems for its 5,500 miles of pipeline after being hit by a ransomware attack.
     
-
-  
-
 -   The attackers demanded $5M in Bitcoin Digital Currency  
-      
-    
+       
 -   Portends future attacks aimed at critical infrastructure
     
 
-**  
- **Digital Audio  
-  
+# Digital Audio
+
+Digital Audio  
 Turning sound into bits,  
-and bits back into sound**  
-  
-**
+and bits back into sound  
 
-Introduction to Sound
-
-  
+## Introduction to Sound
 
 -   Sounds are vibrations that travel though the air or some other medium
     
@@ -6497,367 +5518,178 @@ Introduction to Sound
     
 -   The frequency of a sound is measured in Hertz (Hz).  1000 Hertz=Kilohertz (kHz)
     
-
-  
-**  
-**
-
-Properties of Sound
+### Properties of Sound
 
 ![loudspeaker](https://lh4.googleusercontent.com/hXRiu81AiWOqXWCA8NGTqr-KEN3hNjQJHpqZ7hfCxhQpdxw-WkDGdqcR4LKTkt7eKTTit6hgUmbFku2WOkeEQIdxBDMzyuo_ICjh3HzfpAV88HjrYBx4geP3kWamIz6fGtze_jG-meXKPu4=s2048)  
-
 Sound is caused by the disturbance of air molecules by an object that sets those molecules in motion.  Those molecules travel in waves.
 
-**  
-  
-**
-
-The Range of Human Hearing
-
-  
+### The Range of Human Hearing
 
 -   20 Hz to 20 000 Hz (20 kHz
     
 -   Normal Conversation – 
-    
-
-     1 kHz to 4 kHz
-
+         1 kHz to 4 kHz
 -   Dogs can hear up to 35 kHz (ultrasound)
     
+![http://www.vanderbilt.edu/exploration/resources/shapematters_range_800.jpg](https://lh6.googleusercontent.com/VVy0yZcV3zM4Pzj1gcK1ojdW_Tss2QrxD1AfAIwS2hKsGMnhDOnm4f3TUS7GMQPlTzUQmMRe2mDYXf6wJzb3-RwV6ySyelEScL16Dk8As7uxQ61Gjzg3C51SPsPwRXJBUce8s5TVeEzJoec=s2048)  
 
-![http://www.vanderbilt.edu/exploration/resources/shapematters_range_800.jpg](https://lh6.googleusercontent.com/VVy0yZcV3zM4Pzj1gcK1ojdW_Tss2QrxD1AfAIwS2hKsGMnhDOnm4f3TUS7GMQPlTzUQmMRe2mDYXf6wJzb3-RwV6ySyelEScL16Dk8As7uxQ61Gjzg3C51SPsPwRXJBUce8s5TVeEzJoec=s2048)**  
-**
-
-SOUND WAVE PROPERTIES
-
-  
+### SOUND WAVE PROPERTIES
 
 -   Amplitude
     
-
-  
-
 -   Frequency
     
-
-  
-
 -   Timbre (Harmonics or complexity)
     
 
-**  
-**
-
 Amplitude (Intensity of Sound)
 
-  
-
 Threshold of hearing
-
-  
-
 0 dB
 
-  
-
 Leaves rustling in the breeze
-
-  
-
 20 dB
 
-  
-
 A quiet restaurant
-
-  
-
 50 dB
 
-  
-
 Busy Traffic
-
-  
-
 70 dB
 
-  
-
 Vacuum cleaner
-
-  
-
 80 dB
 
-  
-
 Threshold of pain
-
-  
-
 120 dB
 
-  
-
 Jet at takeoff
-
-  
-
 140 dB
 
-**  
-  
-**
-
-Frequency (Pitch)
-
-  
+## Frequency (Pitch)
 
 Frequency is the most fundamental quantitative unit of sound. When we talk about the radiation of sound, we are talking about an energy transfer in the molecules of air resulting in a moving high pressure (compression) zone traveling at 1130 feet/second. For this sound to have a major significance, it must be composed of multiple high and low pressure zones following each other. The time between the intervals of high pressure zones defines a cycle, and frequency is defined as the number of cycles per second expressed in 
 
-  
-
 Hertz  (Hz) and KiloHertz (Hz)
-
-  
-
 For example a Concert A played on a piano is 440 Hz
-
-**  
-  
-**
 
 Representation of a “pure” tone
 
 ![sinewave](https://lh4.googleusercontent.com/WxIhGHhWLdlvzCod11B-BMQhufosEq6RGLpZ75VKU-kVB_nJ5eH3LthXJ0Gz5gYFI_a3wQdGE7pyQOHKH-m-AiC0cwX3JGGjWjCnFrv92YsjgBvBKP0KTNOjhAh0Ua52YkUHeZ76FbsBbGU=s2048)  
-
 Variations of air pressure over time for a Sine Wave
 
-**  
-  
-**
-
-Timber/Pitch
-
-  
-  
+## Timber/Pitch
 
 -   Sounds have another perceptual attribute: that of timbre or tone quality. We may describe sounds as being tinny, full, brassy, trumpet-like, etc.
     
-
-  
-
 -   Timbre is defined as that attribute of a sound that allows us to differentiate between two sounds of the same pitch, intensity and duration
     
-
-  
-**  
-**
-
-AMPLITUDE
+## AMPLITUDE
 
 ![http://www.widexconnect.ca/hip/images/amplitude-sine-wav-lg.gif](https://lh4.googleusercontent.com/ZuSkZ-derKnKTXX9CEg9STttZOgYSJA0m-3fXPgVGGG0hK9PstorevwNq7bK5MTTkdxH1RpdbaZ0W1U-5fQg266Ah1MeJnYZN0s4FsHO0bCuPQ3Hl-GQvsMdK0ZA5uguFtl8SuDtvcCPfSI=s2048)  
 
-FREQUENCY
+## FREQUENCY
 
   
 
-PITCH
+## PITCH
 
-![http://docstore.mik.ua/orelly/web2/audio/figs/aud.0206.gif](https://lh4.googleusercontent.com/RLalr8fXq5pP3EkRDiUARPQ-eJ_q--RbulvibY6Q5AkZgwPqtuLnJQmFukLKvXCzrlZV64rQhSVs_grA5JLpzl8c0tydAW0HF35ZIKAi-MpOSq4Jj5BaGei3VAed0JCylgDxsEXGZUbSAuw=s2048)![http://www.physicsclassroom.com/Class/sound/u11l2a2.gif](https://lh3.googleusercontent.com/9VqIXH6hchVc1mrXzE94-ZT-a0aqUbh_t8C2tkzYOKhTI1BauYa-i4oX4TmuDhBD4VO3qzkyFp0yV-hvpP7mrAI455A5kitKLAngQohRmzjbRFUI4gS6h3PuBPMCZ6FrsbSvN4nnQVcdrfY=s2048)**  
-**
-
+![http://docstore.mik.ua/orelly/web2/audio/figs/aud.0206.gif](https://lh4.googleusercontent.com/RLalr8fXq5pP3EkRDiUARPQ-eJ_q--RbulvibY6Q5AkZgwPqtuLnJQmFukLKvXCzrlZV64rQhSVs_grA5JLpzl8c0tydAW0HF35ZIKAi-MpOSq4Jj5BaGei3VAed0JCylgDxsEXGZUbSAuw=s2048)![http://www.physicsclassroom.com/Class/sound/u11l2a2.gif](https://lh3.googleusercontent.com/9VqIXH6hchVc1mrXzE94-ZT-a0aqUbh_t8C2tkzYOKhTI1BauYa-i4oX4TmuDhBD4VO3qzkyFp0yV-hvpP7mrAI455A5kitKLAngQohRmzjbRFUI4gS6h3PuBPMCZ6FrsbSvN4nnQVcdrfY=s2048)  
 Complex tones as the result of multiple sounds occurring at the same time
 
-![da_05](https://lh3.googleusercontent.com/phH-9pK4s3ZMVuzXVTW48GtYn5eV-x2md13I4_mRuw3XplK6GdyQlUu2biF4hLi50O2PUgU6x7lU6zDoDlbAZda-fumEpZbKZcKI4ujID1Ae-GF8jp29LzIR92eiTd-tisYa5lzC9eKUSfs=s2048)**  
-**
+![da_05](https://lh3.googleusercontent.com/phH-9pK4s3ZMVuzXVTW48GtYn5eV-x2md13I4_mRuw3XplK6GdyQlUu2biF4hLi50O2PUgU6x7lU6zDoDlbAZda-fumEpZbKZcKI4ujID1Ae-GF8jp29LzIR92eiTd-tisYa5lzC9eKUSfs=s2048)  
 
-Capturing Sound Waves
+## Capturing Sound Waves
 
-![image004](https://lh4.googleusercontent.com/FZGs7FNrIQYUpue1dDzkYuWf9JLzWagLNA7_ilyeAealOTtml4sXgWbwoZenxqhKQ4IJA93hJw7G9sAR3FEDUhsFEkN5FUXZG1zFXwxN5CutL-kQ8z548IEe1xgQLI41Fz2JqPnwW337VgM=s2048)**  
-**
+![image004](https://lh4.googleusercontent.com/FZGs7FNrIQYUpue1dDzkYuWf9JLzWagLNA7_ilyeAealOTtml4sXgWbwoZenxqhKQ4IJA93hJw7G9sAR3FEDUhsFEkN5FUXZG1zFXwxN5CutL-kQ8z548IEe1xgQLI41Fz2JqPnwW337VgM=s2048)  
 
-Converting Analog Sound to Digital Sound
-
-  
+## Converting Analog Sound to Digital Sound
 
 -     Analog sound is a continuous phenomena, such as speaking or an electrical pulse from an instrument.
     
 -     Computers can only deal with discrete information, so analog sound must be converted to digital, which is called sampling.
     
-
-  
-  
-
 -   Sampling converts electrical energy to binary code (1’s and 0’s) that is readable by computers.
     
+![](https://lh3.googleusercontent.com/yjSFn1ai4itTvB9zaMaUeqUuanwpV0ctGAfLR3TOqANoJQM4H1lRlvT6fHimOm45W7T2Exc6wumiSiG0F4TiQ_V2HPT75ExwwAYVy8lN3jDcf3_RzGtoFQnqrZkz7p5tkKuHZbatxgytSlg=s2048)  
 
-![](https://lh3.googleusercontent.com/yjSFn1ai4itTvB9zaMaUeqUuanwpV0ctGAfLR3TOqANoJQM4H1lRlvT6fHimOm45W7T2Exc6wumiSiG0F4TiQ_V2HPT75ExwwAYVy8lN3jDcf3_RzGtoFQnqrZkz7p5tkKuHZbatxgytSlg=s2048)**  
-**
-
-Digital Audio - What is it?
-
-  
+## Digital Audio - What is it?
 
 -   Really a method to capture and transform audio signals for the purpose of  storage, transmission, manipulation, and playback
     
-
-  
-
 -   Digital Approximation of the real event and sound waves
     
-
-  
-
 -   Requires A/D and D/A Converters
     
-
 -   Devices used to change analog to digital and back again.
     
 -   These are generally found on computer sound cards
     
-
-  
-
 -   A/D converters perform sampling of waveforms
     
 -   D/A converters convert digital data back into a waveform
     
-
-  
-
 -   Employ various forms of encoding and decoding the bit stream using CODECS  (Compressor/De-compressors)
     
+## Sampling 
 
-**  
-**
-
-Sampling 
-
-  
-
--   Sample Rate: The rate or frequency at which a sound is sampled to digitize it. Measurements of a sound wave over time measured in Hz (cycles/sec).
+  -   Sample Rate: The rate or frequency at which a sound is sampled to digitize it. Measurements of a sound wave over time measured in Hz (cycles/sec).
     
-
 -   48 kHz: standard for digital audio 
     
 -   CD audio is sampled at 44.1 kHz
     
-
 -   Bit Rate (Depth): ﻿﻿the number of computer bits that are conveyed or processed per unit of time. 
     
-
 -   Normally expressed in kilobits per second (kbps). 
     
 -   A higher bit means generally means better quality (resolution). 
     
-
 -   16 bit: 65,536
     
 -   24 bit:  16,777,216
     
+![](https://lh5.googleusercontent.com/nQmuiXWUuePwPx6K3_DMXFD3cbAYzoLiUiwoDLBGqnu5wjTuVRnfqp1A12tBsoBKwrXMeOibImBc0bBVqrsUXvMF7JHLsihDFQU1otAu7t8zzLPMGtkH2j6fDi1vuhOK7bP-HE1Yg-WgtgQ=s2048)  
 
-![](https://lh5.googleusercontent.com/nQmuiXWUuePwPx6K3_DMXFD3cbAYzoLiUiwoDLBGqnu5wjTuVRnfqp1A12tBsoBKwrXMeOibImBc0bBVqrsUXvMF7JHLsihDFQU1otAu7t8zzLPMGtkH2j6fDi1vuhOK7bP-HE1Yg-WgtgQ=s2048)**  
-**
-
-Analog/Digital Conversion
-
-  
+## Analog/Digital Conversion
 
 1.  Microphone converts sound into an electrical signal . 
     
-
-  
-
 2.  ADC periodically measures (samples) the amplitude of the analog signal, sending a stream of numbers to CPU. 
     
-
-  
-
 3.  DAC converts a stream of numbers into a stepped analog signal. 
     
 4.  Smoothing filter removes staircase shape from signal.
     
-
 ![ADA Diagram](https://lh6.googleusercontent.com/8PcgTJUEddmBT23UXNrXBJQrj3UINWnjTKhaIEkHJaNiXykHOp_uOSc4rbBqRcSIaWbSiGzMYUPZL3qe26Z4e3Ty4wjpCjf8FUX4aJkpeq_XIMHUCymEvZEEf6BHujttAbo3k3dBBX1xh70=s2048)  
-
 Acoustical to Electrical to Digital (numerical) and back
 
-**  
-  
-**
+## Sampling and Converting a Wave to Digital
 
-Sampling and Converting a Wave to Digital
+![image012](https://lh4.googleusercontent.com/pRRLW3CY_f-j0JqnXZKo6OEUlqIr3kPUf5MKeidZZ6TNgE-1lGdfWQr3eb_tP1E_C8jSGIqEB6ZnHk4kNSw5sOsTyuLcDOMsgeWpabq2b9jsSqLqdFJpfWhnPthcNUm5d-KrhzSQsddOQxM=s2048)  
+![](https://lh5.googleusercontent.com/TyzSBHpfLaehM9CnBHbIciyzYxE1hRLzGNiESEJc29IlbWiIqvfMNgtwxNWNicq-WRYON8624iZlRA5Vi-L1ucL__f_SxIAu1g41-LnDtAe7LjhHn7dOfYXZreA9jnhFM_jKM3L8UNg5tds=s2048)  
 
-![image012](https://lh4.googleusercontent.com/pRRLW3CY_f-j0JqnXZKo6OEUlqIr3kPUf5MKeidZZ6TNgE-1lGdfWQr3eb_tP1E_C8jSGIqEB6ZnHk4kNSw5sOsTyuLcDOMsgeWpabq2b9jsSqLqdFJpfWhnPthcNUm5d-KrhzSQsddOQxM=s2048)**  
-**![](https://lh5.googleusercontent.com/TyzSBHpfLaehM9CnBHbIciyzYxE1hRLzGNiESEJc29IlbWiIqvfMNgtwxNWNicq-WRYON8624iZlRA5Vi-L1ucL__f_SxIAu1g41-LnDtAe7LjhHn7dOfYXZreA9jnhFM_jKM3L8UNg5tds=s2048)**  
-   
-   
-   
-   
-**![cd-sample3](https://lh4.googleusercontent.com/hjZbMKlbr-b_rYZApuumn37JgWZqJdxkRqCKGir5IQLyttY7EADdKAscuxjUT13hxWBCsV4l2HWk4wPtdlbethit8_tks6d3xjINqmjEH4ZAnwQbMNRLHt_R2OH2oMNci97RNrlLMM7vV70=s2048)**  
-   
-**
+![cd-sample3](https://lh4.googleusercontent.com/hjZbMKlbr-b_rYZApuumn37JgWZqJdxkRqCKGir5IQLyttY7EADdKAscuxjUT13hxWBCsV4l2HWk4wPtdlbethit8_tks6d3xjINqmjEH4ZAnwQbMNRLHt_R2OH2oMNci97RNrlLMM7vV70=s2048)  
 
-Buzzword:  Sampling Rate
-
-  
-  
-  
-  
-  
-
+## Buzzword:  Sampling Rate
 -   The number of times each second the computer stores information about the sound wave. Compact discs store audio that is sampled at 44.1 kilohertz (kHz). The new DVD format is capable of a maximum of 96 kHz sampling and most computer sound cards can sample at a maximum of 48 kHz. The higher the sampling rate the better the sound quality that will be heard on playback (up to a point)
     
-
-  
-**  
-**
-
-Buzzword:   Bit Rate
-
-  
-  
-  
-
+## Buzzword:   Bit Rate
 -   Bit Rate: Computers use a binary numbering system of “ones and zeros”. These numbers can be combined into longer strings of numbers in sets, described as “bits”. Compact discs are recorded with a bit length of 16. Again, the higher the bit length, the better the sound quality due to the higher resolution available
     
+## Buzz Word:   Compression
+-   Computers can use different schemes to eliminate repetitive information when storing data. In the case of recorded sound, these compression schemes can take on many forms that will be dealt with later in this document. Audio on a compact disc is not compressed and gives the user the highest sound quality; when working with the Internet, sound must be compressed to make a smaller file for downloading.   
 
-  
-**  
-**Buzz Word:   Compression
-
-  
-
--   Computers can use different schemes to eliminate repetitive information when storing data. In the case of recorded sound, these compression schemes can take on many forms that will be dealt with later in this document. Audio on a compact disc is not compressed and gives the user the highest sound quality; when working with the Internet, sound must be compressed to make a smaller file for downloading.**   
-**
-
-The Nyquist Theorem
-
-  
+## The Nyquist Theorem
 
 -   This theorem holds that in order to preserve a reasonable representation of a waveform it must be sampled at least twice at  its highest frequency
     
-
-  
-
 -   Since the limits of human hearing are around 22khz (22,000 cycles per second), the sampling for CDs was established at 44.1 khz….
-    
-
-**  
-**
-
-How much data on a CD?
-
-  
+      
+## How much data on a CD?
 
 One thing about the CD's sampling rate and precision is that it produces a lot of data. On a CD, the digital numbers produced by the ADC are stored as [bytes](http://aes.harmony-central.com/111AES/Content/Webber/PR/WAVEcomp.html), and it takes 2 bytes to represent 65,536 gradations. There are two soundstreams being recorded (one for each of the speakers on a stereo system).  
 
 A CD can store up to 74 minutes of music, so the total amount of digital data that  can be stored on a CD is
-
-  
 
 44,100 samples/(channel*second) * 2 bytes/sample * 2 channels * 
 
@@ -6865,42 +5697,22 @@ A CD can store up to 74 minutes of music, so the total amount of digital data th
 
 or  176400 bytes or 1,411,200 bits per second!
 
-**  
-  
-**
+## CD’s and your Computer
 
-CD’s and your Computer
-
-  
-
--   CD standard is 16 bits at 44.1 KHz .  
+  -   CD standard is 16 bits at 44.1 KHz .  
       
     
 -   Using CD Ripper software, you can take digital data from the CD which is in .cda format and convert it to .wav or MP3 format all in the digital domain
     
-
-  
-
 -   Not dependent upon the sound card capabilities
     
-
-  
-
 -   The sound file contains all the music but the vast number of samples makes such files big
     
-
-  
-
 -   Approx: 10 Mbytes per stereo minute
     
 
-**  
-**
-
 One Minute of Digital Audio Comparison 
 
-  
- 
 
 “CD” Quality
 
@@ -6944,20 +5756,7 @@ One Minute of Digital Audio Comparison 
 
 1.29 MB
 
-
-
-
-
-
-
-
-
-**  
-**
-
-Digital Compression Concepts
-
-  
+## Digital Compression Concepts
 
 -   Compression techniques are used to replace a file with another that is smaller
     
@@ -6965,34 +5764,19 @@ Digital Compression Concepts
     
 -   A pair of compression/decompression techniques that work together is called a codec for short
     
+![](https://lh6.googleusercontent.com/RCFbhZp3rNtzsI652vgy9Y-dU45NwHu4x46hc48s2psKqH23RTzax-G1MC_maQT5nLTy4xVXJwZg0XObp42Suc1sMvG69ONwlPxgwgQGrj-K96wHezwbljHiPDst4m8sRGHVMXiZH6sYwJo=s2048)  
 
-**  
-**![](https://lh6.googleusercontent.com/RCFbhZp3rNtzsI652vgy9Y-dU45NwHu4x46hc48s2psKqH23RTzax-G1MC_maQT5nLTy4xVXJwZg0XObp42Suc1sMvG69ONwlPxgwgQGrj-K96wHezwbljHiPDst4m8sRGHVMXiZH6sYwJo=s2048)**  
-**
-
-What is MP3?  
+### What is MP3?  
 (Motion Pictures Experts Group Layer 3)
-
-  
 
 -   MP3 is a compression system developed specifically for music.  It had its birth as a result of the desire to send music over the internet 
     
-
-  
-
 -   It reduces the amount of data on a CD without “hurting” the sound of the music too much
     
-
-  
-
 -   It actually achieves a data reduction of about 90%!
     
-
-  
-
 -   It achieves this dramatic reduction by eliminating things that our ears don’t hear very well
     
-
 -   soft sounds that are masked by louder sounds
     
 -   frequencies that are outside of our hearing range
@@ -7001,103 +5785,43 @@ What is MP3?
     
 -   advanced compression techniques
     
-
-
-
-**  
-**MP3 Takes Advantage of the theory that
-
-  
+### MP3 Takes Advantage of the theory that
 
 -   There are certain sounds that the human ear cannot hear. 
     
-
-  
-
 -   There are certain sounds that the human ear hears much better than others. 
     
-
-  
-
--   If there are two sounds playing simultaneously, we hear the louder one but often cannot hear the softer one**   
-**
+-   If there are two sounds playing simultaneously, we hear the louder one but often cannot hear the softer one   
 
 MP3 is a Lossy Compression System
-
-![mp3-waves](https://lh6.googleusercontent.com/1JmxwtHZtpX0U-b7HPw1s8MRXjypycNEOK-HRcAwmAloHEND5R_FU6CPIUVt-m0bnV4NmrwnF1BlwrsqSjCmYkvEbbEJEadl2nx-ybkIIyTusfi8TdFGHuzyOMr33UQqPjsIEk8Y-uummzo=s2048)**  
-**
-
-MP3 Files continued
-
-  
+![mp3-waves](https://lh6.googleusercontent.com/1JmxwtHZtpX0U-b7HPw1s8MRXjypycNEOK-HRcAwmAloHEND5R_FU6CPIUVt-m0bnV4NmrwnF1BlwrsqSjCmYkvEbbEJEadl2nx-ybkIIyTusfi8TdFGHuzyOMr33UQqPjsIEk8Y-uummzo=s2048)  
 
 -   MP3 files are an average of 3-5 megabytes vs. CD 
-    
-
-     files of 30 megabytes for the same song
-
-  
-
+    files of 30 megabytes for the same song
 -   Easy to transmit over the internet
     
-
-  
-
 -   Easy to store on portable devices
     
-
-  
-
 -   They are an approximation of the original CD which in turn is a reasonable approximation of the real sound
     
-
-  
-  
-**  
-**
-
-Digital Format Comparison
-
-  
+### Digital Format Comparison
 
 -   CD Standard = 16 Bits at 44.1Khz
     
-
-  
-
 -   Professional Digital Recording Standards
     
 
 -   16 or 24 Bits at 44.1Khz, 48Khz, 96Khz
     
-
-  
-
 -   Wav – Probably the most common format and used by windows programs to capture CD music to a hard drive. Real representation or “Pits to Bits” but files are large
     
-
-  
-
 -   MP3 – About 1/10 the size, 1meg/stereo minute compared to 10meg for the original and called near CD quality
     
-
-  
-
 -   WMA – New windows format that boasts higher quality than MP3 with similar sample rates or same quality with lower sample rate and smaller file sizes
     
-
-  
-
 -   MP4 – A new standard that allows for synchronized video and audio and can compete with WMA. It is non-proprietary
     
-
-  
-**  
-**
-
-Editing Digitized Sound
-
-  
+## Editing Digitized Sound
 
 -   Digital sound editing is part of a larger field called digital signal processing
     
@@ -7105,7 +5829,6 @@ Editing Digitized Sound
     
 -   Numerical transformations on this data can be used to:
     
-
 -   change the sound’s pitch
     
 -   change the sound’s amplitude
@@ -7116,75 +5839,31 @@ Editing Digitized Sound
     
 -   Overlay multiple instruments and voices
     
-
-
-
-**  
-**
-
-Audio Speech Synthesis
-
-  
+## Audio Speech Synthesis
 
 -   Speech synthesis involves creating speech from written text
     
-
-  
-
 -   Analysis of written text focuses on breaking the text into phonemes
     
-
-  
-
 -   English employs approximately 50 basic phonemes
     
-
-  
-
 -   Rules allow a speech synthesis program to evaluate alternate pronunciations appropriate for the context
     
-
-  
-
 -   Such rule-based phoneme analysis produces excellent speech synthesis results
     
-
-**  
-**
-
-Audio Speech Synthesis
-
-  
+## Audio Speech Synthesis
 
 -   Speech synthesis involves creating speech from written text
     
-
-  
-
 -   Analysis of written text focuses on breaking the text into phonemes
     
-
-  
-
 -   English employs approximately 50 basic phonemes
     
-
-  
-
 -   Rules allow a speech synthesis program to evaluate alternate pronunciations appropriate for the context
     
-
-  
-
 -   Such rule-based phoneme analysis produces excellent speech synthesis results
     
-
-**  
-**
-
-Speech Recognition
-
-  
+## Speech Recognition
 
 -   Speech recognition attempts to interpret digitized speech for meaning
     
@@ -7196,19 +5875,12 @@ Speech Recognition
     
 -   Speech recognition remains a very challenging problem
     
-
-**  
-**
-
-Speech Recognition  
+## Speech Recognition  
 Illustrating the Difficulties
 
-![](https://lh6.googleusercontent.com/JOLyLou7X_pFupRRvjMLXGvIJpfOESA3Ng0pqjNnIifBqSgXrHWWML-neQVvycBiM2AazhK2EBOnldcek4815862z-f1mrou6gc2K_YE8-l5m8srEs7GOPE5WrDxdW33qRFhFOYmuEu3xkc=s2048)![](https://lh6.googleusercontent.com/-jmYzGJMe-o4Y7nPNapKyLloGPGxY5XPnhVD7aE1tjgnpBbo0gMgHjPswnDAmlSYqsW51FfJO0157Uu91cfwB5UYDL2Yd5m6-bE3HttLumjbHb5OTEJ67MmvuGELQ-upjHBYjD73VTvLVcM=s2048)**  
-**
+![](https://lh6.googleusercontent.com/JOLyLou7X_pFupRRvjMLXGvIJpfOESA3Ng0pqjNnIifBqSgXrHWWML-neQVvycBiM2AazhK2EBOnldcek4815862z-f1mrou6gc2K_YE8-l5m8srEs7GOPE5WrDxdW33qRFhFOYmuEu3xkc=s2048)![](https://lh6.googleusercontent.com/-jmYzGJMe-o4Y7nPNapKyLloGPGxY5XPnhVD7aE1tjgnpBbo0gMgHjPswnDAmlSYqsW51FfJO0157Uu91cfwB5UYDL2Yd5m6-bE3HttLumjbHb5OTEJ67MmvuGELQ-upjHBYjD73VTvLVcM=s2048)  
 
-Summary
-
-  
+## Summary
 
 -   Digital sound is produced by sampling sound waves over time
     
@@ -7220,30 +5892,14 @@ Summary
     
 -   Fidelity will be largely determined by the sample rate and resolution
     
-
-**  
-**
-
-Tutorial and Demo on Digital Audio
-
-  
-  
-  
-
+## Tutorial and Demo on Digital Audio
 -   [https://www.joelstrait.com/digital_audio_primer/](https://www.joelstrait.com/digital_audio_primer/)
     
+# Digital Imaging and Processing:  Is seeing, believing?
+## Digital Imaging   
 
-**  
-**Digital Imaging and Processing:  Is seeing, believing?
 
-  
-
-Digital Imaging**   
-**
-
-The Nature of Visible Light
-
-  
+## The Nature of Visible Light
 
 -   A very small part of the total spectrum of electromagnetic waves
     
@@ -7253,75 +5909,41 @@ The Nature of Visible Light
     
 -   They vary in frequency and amplitude
     
+## Electromagnetic Spectrum
 
-**  
-**
+![u12l2a1](https://lh3.googleusercontent.com/AJgqc6ee3RlmLKAvaKj6FRkye6awD_GRk-jF0zg4mwN3kLTeE1Vo2DCwmeXfs2XCkTRyvd-GJqz5Wc3enSe3yh8RcbV0dCPs5lrEkff2W-T3XT64v5FiLVgU46JPp4_l1CMcF8mm2l8pIEA=s2048)  
 
-Electromagnetic Spectrum
-
-![u12l2a1](https://lh3.googleusercontent.com/AJgqc6ee3RlmLKAvaKj6FRkye6awD_GRk-jF0zg4mwN3kLTeE1Vo2DCwmeXfs2XCkTRyvd-GJqz5Wc3enSe3yh8RcbV0dCPs5lrEkff2W-T3XT64v5FiLVgU46JPp4_l1CMcF8mm2l8pIEA=s2048)**  
-**What is light?
-
-  
-
--   Normally when we use the term "light," we are referring to a type of electromagnetic wave which stimulates the retina of our eyes. In this sense, we are referring to visible light, a small spectrum of the enormous range of frequencies of electromagnetic radiation.**   
-**What is light?
-
-  
+## What is light?
+-   Normally when we use the term "light," we are referring to a type of electromagnetic wave which stimulates the retina of our eyes. In this sense, we are referring to visible light, a small spectrum of the enormous range of frequencies of electromagnetic radiation.   
 
 -   This visible light region consists of a spectrum of wavelengths, which range from approximately 700 nanometers (abbreviated nm) to approximately 400 nm; 
     
--   that would be 7 x 10-7 meter to 4 x 10-7 meter. This narrow band of visible light is affectionately known as ROYGBIV**   
-**Fundamental Colors
+-   that would be 7 x 10-7 meter to 4 x 10-7 meter. This narrow band of visible light is affectionately known as ROYGBIV   
 
-  
+## Fundamental Colors
 
--   Dispersion of visible light (through) a prism for instance) produces the colors red (R), orange (O), yellow (Y), green (G), blue (B), indigo (I), and violet (V). It is because of this that visible light is sometimes referred to as ROYGBIV**   
-**
+-   Dispersion of visible light (through) a prism for instance) produces the colors red (R), orange (O), yellow (Y), green (G), blue (B), indigo (I), and violet (V). It is because of this that visible light is sometimes referred to as ROYGBIV   
 
-The visible light spectrum
+## The visible light spectrum
 
-![u12l2b1](https://lh4.googleusercontent.com/0oR0egM7ZkFhWcgoPiNqNGpyfq9E2zDlEN6V_c16vCMP7DR2-V2fJrQrMeiX6bjcZbHEBACwb4YHVXJbDk62veffYtwrT2eOv3uQoLAeIUdcq7WKx1BLQXwKAwJFptkEdOd6VBjtf8ZVtU4=s2048)**  
-**
+![u12l2b1](https://lh4.googleusercontent.com/0oR0egM7ZkFhWcgoPiNqNGpyfq9E2zDlEN6V_c16vCMP7DR2-V2fJrQrMeiX6bjcZbHEBACwb4YHVXJbDk62veffYtwrT2eOv3uQoLAeIUdcq7WKx1BLQXwKAwJFptkEdOd6VBjtf8ZVtU4=s2048)  
 
 White and Black
 
-  
-
 -   When all of the colors strike our eye at the same time, we perceive that as WHITE
     
-
-  
-
 -   Black is defined as the absence of light.  It is actually not a real color
     
-
-**  
-**
-
-Our eyes
-
-  
+## Our eyes
 
 -   The retinas of our eyes contain cells called Rods and Cones.  Rods are sensitive to intensity while cones are sensitive to wavelength (color)
     
-
-  
-
 -   As it turns out our cones are sensitive to Red, Green and Blue above all else
     
-
-**  
-**
-
 Relative Sensitivity of our eyes
+![u12l2b2](https://lh3.googleusercontent.com/-rrgZR91GLFizJDS0RPz5isXpxoT8y1_imLDo3wu0uhQoV9wYxAHU91_oBLSwwmfDLnQr1zv4pXUe9NiDxfF8NUPwtBvERaSXHIUDJ3htc2rQEyCDxAyxmX1SYniZoXclKb-9YQoe0TwQi4=s2048)  
 
-![u12l2b2](https://lh3.googleusercontent.com/-rrgZR91GLFizJDS0RPz5isXpxoT8y1_imLDo3wu0uhQoV9wYxAHU91_oBLSwwmfDLnQr1zv4pXUe9NiDxfF8NUPwtBvERaSXHIUDJ3htc2rQEyCDxAyxmX1SYniZoXclKb-9YQoe0TwQi4=s2048)**  
-**
-
-Photography Timeline
-
-  
+## Photography Timeline
 
 -   1822 – [Nicéphore Niépce](http://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce)1822 – Nicéphore Niépce takes the first fixed, permanent [photograph](http://en.wikipedia.org/wiki/Photograph), of an engraving of Pope Pius VII 
     
@@ -7335,14 +5957,6 @@ Photography Timeline
     
 -   1888 – [Kodak](http://en.wikipedia.org/wiki/Kodak) n°1 box camera is mass marketed; first easy-to-use camera.
     
-
-**  
-**
-
-Timeline cont.
-
-  
-
 -   1891 – [William Kennedy Laurie Dickson](http://en.wikipedia.org/wiki/William_Kennedy_Laurie_Dickson)1891 – William Kennedy Laurie Dickson develops the "[kinetoscopic camera](http://en.wikipedia.org/wiki/Kinetoscope)1891 – William Kennedy Laurie Dickson develops the "kinetoscopic camera" (motion pictures) while working for [Thomas Edison](http://en.wikipedia.org/wiki/Thomas_Edison)  
     
 -   1902 – [Arthur Korn](http://en.wikipedia.org/wiki/Arthur_Korn)1902 – Arthur Korn devises practical [phototelegraphy](http://en.wikipedia.org/w/index.php?title=Phototelegraphy&action=edit&redlink=1) technology (enabling  the electronic transmission of pictures)
@@ -7353,14 +5967,6 @@ Timeline cont.
     
 -   1972 – Polaroid introduces the SX-70 system
     
-
-**  
-**
-
-Timeline cont.
-
-  
-
 -   1973 – [Fairchild Semiconductor](http://en.wikipedia.org/wiki/Fairchild_Semiconductor)1973 – Fairchild Semiconductor releases the first large image forming [CCD](http://en.wikipedia.org/wiki/Charge-coupled_device)1973 – Fairchild Semiconductor releases the first large image forming CCD [chip](http://en.wikipedia.org/wiki/Microprocessor); 100 rows and 100 columns 
     
 -   1986 – Kodak scientists invent the world's first megapixel sensor 
@@ -7371,83 +5977,44 @@ Timeline cont.
     
 -   2009 - [Kodak](http://en.wikipedia.org/wiki/Kodak) announces the discontinuance of Kodachrome film as their dominance in photography dies
     
+## Kodak “Brownie Camera”
 
-**  
-**
+![mage result for kodak box camera](https://lh6.googleusercontent.com/VkK1zBvNaAyDgsh83EijiVM7LKDoovm_ACrQbEOGNGGjomcodKUtLTSJBJgQw9yywG-Jy885SHclmd4AXOSAxKTHYYnDMUG_6tCOoJjXj9NlLBLbyyM6RdGO6EB8S13OMH7Mh_Aw2xvrTs0=s2048)  
 
-Kodak “Brownie Camera”
+## Kodak Instamatic – 1960-75  
+50 Million Produced
+![mage result for kodak cameras 1980s](https://lh6.googleusercontent.com/GkPF11vt65w4DyZ7ni54iA8IW13LayvxPfy89BHlrKPRo5_lC3qWjYdw7VItJblHoDmlwXxZ4yVVKFiLeIWawvtSg5x66XwOHP86C9Vq8sSZCSVZs1RVnCzN-JsDXqUwKmNdS94QdV5xIPw=s2048)  
 
-![mage result for kodak box camera](https://lh6.googleusercontent.com/VkK1zBvNaAyDgsh83EijiVM7LKDoovm_ACrQbEOGNGGjomcodKUtLTSJBJgQw9yywG-Jy885SHclmd4AXOSAxKTHYYnDMUG_6tCOoJjXj9NlLBLbyyM6RdGO6EB8S13OMH7Mh_Aw2xvrTs0=s2048)**  
-**
+## Kodak film cannister
+[mage result for kodachrome film](https://lh6.googleusercontent.com/e91ouSltFh_dU5Lw1tVKL0TvunPcvVVkO7hf1agCledLSD5e0POFvwnZ76DEaYnu3W8RbZcbEi8SjQBRHE0mvpgATaCm_CR8q1bAH6s-mv6wSV4uaxgmRF_3XZGMWwugeqa1dOvb_EMSk0U=s2048)  
 
-Kodak Instamatic – 1960-75  
-  50 Million Produced
 
-![mage result for kodak cameras 1980s](https://lh6.googleusercontent.com/GkPF11vt65w4DyZ7ni54iA8IW13LayvxPfy89BHlrKPRo5_lC3qWjYdw7VItJblHoDmlwXxZ4yVVKFiLeIWawvtSg5x66XwOHP86C9Vq8sSZCSVZs1RVnCzN-JsDXqUwKmNdS94QdV5xIPw=s2048)**  
-**
+## Polaroid SX-70 Instant Camera            1972
 
-Kodak film cannister
-
-![mage result for kodachrome film](https://lh6.googleusercontent.com/e91ouSltFh_dU5Lw1tVKL0TvunPcvVVkO7hf1agCledLSD5e0POFvwnZ76DEaYnu3W8RbZcbEi8SjQBRHE0mvpgATaCm_CR8q1bAH6s-mv6wSV4uaxgmRF_3XZGMWwugeqa1dOvb_EMSk0U=s2048)**  
-**
-
-Polaroid SX-70 Instant Camera            1972
-
-![](https://lh4.googleusercontent.com/DfHzfTK0ebOqr3JP7jMaViLnrFLHR0fj4XwMTGHpk-z9h-8eCK9qdEUfFDnBXGmPgI3zHhWFomakrwUXYDxj-4-L0uLKtzz_TgvM_CnU16mKHlVe83W1XeM47bZ9nJmOvYWz3VeY1JKv2b0=s2048)**  
-**
+![](https://lh4.googleusercontent.com/DfHzfTK0ebOqr3JP7jMaViLnrFLHR0fj4XwMTGHpk-z9h-8eCK9qdEUfFDnBXGmPgI3zHhWFomakrwUXYDxj-4-L0uLKtzz_TgvM_CnU16mKHlVe83W1XeM47bZ9nJmOvYWz3VeY1JKv2b0=s2048)  
 
 SX-70 as photo art
 
-  
-
 -   During the “developing” period of 60-180 seconds, it was possible to modify the image on the film using a stylus or other implements to create special effects before the emulsions hardened.
     
-
-  
-
 -   [https://www.flickr.com/groups/sx-70/pool/tobysx70/page2](https://www.flickr.com/groups/sx-70/pool/tobysx70/page2)
     
-
-**  
-**
-
 Kodak Digital Camera – 1975 – First One Ever!!
-
 ![](https://lh3.googleusercontent.com/rkQ3bvpznhMuP8UOyr0GJ4W-RaOVs8O0LuA-dkHtJCMuiE6GsZ4nfFdcy6ES2lmh9u_NxWD4Tq4oU4ecTV6CbCeVl7YiAHvJSJHDfdAevCQ5j8zXlYDMIz9Us_ZElRfZxqEfFKW6MYYLhA4=s2048)![](https://lh5.googleusercontent.com/2o3Upk36G_D5yl36FLcBGLhV9FKkaYTF0YSD6MUp1k1_3pfRuyAkff5qfRneMKAmxLk6uQrRu9GAQcJ2c8o3tygz84jTl93ULBdkVFIoqBSsH4feIxJG-9tv_I9It4DyCo4PIy7V0v1By3Q=s2048)  
 
 CCD Imager  
 Black+white  
 23 sec record
 
-**  
-  
-**
-
 Business Question:
-
-  
-
 -   Since Kodak and Polaroid had access to the same digital technologies as everyone else, 
     
 -   why did they fail to shift their business models and become leaders in digital instant photography?
     
-
-**  
-**
-
-Digital Camera Basics
-
-  
-
+## Digital Camera Basics
 -   A digital camera takes light and focuses it via the lens onto a sensor made out of silicon. It is made up of a grid of tiny photosites that are sensitive to light. Each photosite is usually called a pixel, a contraction of "picture element". There are millions of these individual pixels in the sensor of a DSLR camera
     
-
-**  
-**
-
-Digital Imaging Basics
-
-  
+## Digital Imaging Basics
 
 -   Image Acquisition
     
@@ -7457,13 +6024,7 @@ Digital Imaging Basics
     
 -   Image Processing
     
-
-**  
-**
-
-Charged Coupled Devices
-
-  
+## Charged Coupled Devices
 
 -   Invented over 40 years ago
     
@@ -7473,14 +6034,7 @@ Charged Coupled Devices
     
 -   The values for each pixel are then converted to binary numbers and stored in memory in the camera/computer
     
-
-  
-**  
-**
-
-CCDs Continued
-
-  
+## CCDs Continued
 
 -   Originally used in spy satellites and astronomy applications due to high sensitivity
     
@@ -7492,121 +6046,43 @@ CCDs Continued
     
 -   Higher equipment cost, lower operational cost
     
-
-**  
-**
-
-A Charged Coupled Device (CCD)
-
+## A Charged Coupled Device (CCD)
 ![ccd](https://lh5.googleusercontent.com/r4MAwStr4ZJCDvkjvck5Lq0xmKB9399U78y1Id4SQwAPJkp8-Iif37v-mPxZS_T8yyH0B6cHj_YYEZrNnbJoj7ZtXl50T57lqwGhwTXjKY32hhN16uwmEK-wFep8hLt2u2QflNcGGj7GAjg=s2048)  
 
 Outputs an analog electrical signal that must be sampled and converted to digital
 
-**  
-  
-**
-
-CMOS Sensor
-
+## CMOS Sensor
 ![](https://lh6.googleusercontent.com/5RaWyf2Hn7pp7C4Lw_M-TplLGrywKsdgEZNu_2r6ikGKBAuz5daQ5fLM-5V13BPLk993OYvKCSl8GElWSVeWiYu-rcwbn-vidPao9ClBydJTuLYIjTmLMwWAf5bUIi8P7ql3H2p5NvvO0_E=s2048)  
-
 Outputs a digital binary signal for every pixel
 
-**  
-  
-**
-
-Digital Camera Diagram
-
-![](https://lh3.googleusercontent.com/W1FPL52pbktmrT3GOKHLioN5QBrNta3Dm-2wtLC8s9rnukEKW3qX4mLldgYFVkYsY8fNsrqAdKq4OzFPL3tetI2pPP-3CmGNMZKAciTDNP7Zysm8mhXPYVobKPKbPflHtwKScV3fot7T9as=s2048)**  
-**
+## Digital Camera Diagram
+![](https://lh3.googleusercontent.com/W1FPL52pbktmrT3GOKHLioN5QBrNta3Dm-2wtLC8s9rnukEKW3qX4mLldgYFVkYsY8fNsrqAdKq4OzFPL3tetI2pPP-3CmGNMZKAciTDNP7Zysm8mhXPYVobKPKbPflHtwKScV3fot7T9as=s2048)  
 
 A Digital Camera has predefined Pixels
-
 ![](https://lh4.googleusercontent.com/9FAeKhFklbWXarRlDc1yYXSFUvugq57EnGgiQ9cJMOCXen2jHRn3Xe-hp5kxKxL-wndiTAeh2De6dxCQ2KRddjKui_Np24qBOzXTRKUIMaJCayU8PR21jujxwNjkMl15CmA4dGQzaZ6S8ZQ=s2048)  
 
-Each pixel is then assigned a
-
-numeric value in binary
-
-which corresponds to color and 
-
-luminence
-
-  
-
-Image is projected onto Camera’s 
-
-sensor
-
-by camera lens
-
-  
-
-Sensor consists of an array of
-
-Millions of light sensitive transistors 
-
-and capacitors
-
-**  
-  
-**
-
-Image Acquisition Delivery
-
-  
-
+Each pixel is then assigned a numeric value in binary which corresponds to color and  luminence Image is projected onto Camera’s  sensor by camera lens Sensor consists of an array of Millions of light sensitive transistors  and capacitors ## Image Acquisition Delivery
 PC 
-
 running 
-
 Photoshop
-
 Or similar 
-
 program
-
-  
-
 I/O Interface
-
 (USB/ Firewire)
 
-  
+## CAMERA
 
-CAMERA
-
-  
-
-Disk
-
-**  
-  
-**
-
-Analog Images
-
-  
+## Analog Images
 
 Analog Images are represented by waves of photons traveling through space
-
 ![](https://lh4.googleusercontent.com/nVisXuFMcrCncfI5h3aMrW42fbSEHx4bscP7-Z3MCRfJM9q2C0i757ebhtziCsoA82Ain9bV-yToDTEoJhBtCKaphrXRInlp39AMBx1jdEESthxk08YfhJNHNqXysKvjAfducZHTzts1I6U=s2048)  
 
--   a natural image is typically represented by a continuous or analog signal (such as a photograph, video frame, etc.)
+a natural image is typically represented by a continuous or analog signal (such as a photograph, video frame, etc.)
     
+## Analog into Digital
+![adconvert](https://lh6.googleusercontent.com/mi20uhYSFipSZDQ6Gel-rWnArANz7ZLvyQqHWNayuBvx7UHwU58-03_mjATBO3N1IhjmvLnr7mJfQ4Uijonx7o7YapCd-j7LCWmoY3NSVeh2g4J1XUkvIw0n7FVgkUx9D-P5ofqIXVAq40U=s2048)  
 
-**  
-**
-
-Analog into Digital
-
-![adconvert](https://lh6.googleusercontent.com/mi20uhYSFipSZDQ6Gel-rWnArANz7ZLvyQqHWNayuBvx7UHwU58-03_mjATBO3N1IhjmvLnr7mJfQ4Uijonx7o7YapCd-j7LCWmoY3NSVeh2g4J1XUkvIw0n7FVgkUx9D-P5ofqIXVAq40U=s2048)**  
-**
-
-Image Acquisition
-
-  
+## Image Acquisition
 
 -   Acquisition determines ultimate resolution
     
@@ -7616,140 +6092,66 @@ Image Acquisition
     
 -   The higher the resolution, the more data acquired, hence more storage required
     
-
-  
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 Digital images are composed of PIXELS (or picture elements)
-
 ![](https://lh4.googleusercontent.com/hgEk_guMEk6GgLg6FXdP_XNwossPC3qSjEXQdUjbz3iGGIfSFYh6fOUDc_KK5gOQhUN0izv5MmS-aCHmWVkGM1G6OeQUGwb9MVCJ5Rzf74I2eHipsufupVBYq-DzKbTq0d-RXC6UM0JhViI=s2048)  
 
 -   digitizing samples the natural image into discrete components
     
-
-**  
-**
-
-Representing Digital Images
-
-  
-
+## Representing Digital Images
 Digital images are composed of PIXELS (or picture elements)
 
 ![](https://lh3.googleusercontent.com/hncnwhYlozdTdHZfeGRcX3V0r1j99n0GIWBtTEsoRhpLfC9HoyoWpJxGlIRk7xFh0RH8VfKDkwUzUxvwOYO3ahOXbLmZ27-r3VgGHk_bTqH2z0gUF8mqM7tuWXTmtcWDn5S2KyceiV-5SBY=s2048)  
-
 -   each discrete sample is averaged to represent a uniform value for that area in the image
     
-
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 Digital images are composed of PIXELS (or picture elements)
-
 ![](https://lh3.googleusercontent.com/ZKgc-HU8TUTO6a91jGQWpiW9ZA4DlLKPsRZGSn8WYVSiLpxZrSItpD7erBOLGkV0Am8uQL1d36FbkWAU-TiSkxIDbjCDDb4PAxyZHFzJNHQiAuntux2r3C0ILupf74GNyNW6nNuV_h2yJks=s2048)  
 
--   PICTURE RESOLUTION is the number of pixels or samples used to represent the image
+PICTURE RESOLUTION is the number of pixels or samples used to represent the image
     
-
-**  
-**
-
-Representing Digital Images
-
-  
-
+## Representing Digital Images
 Digital images are composed of PIXELS (or picture elements)
-
-  
 
 -   ASPECT RATIO expresses this resolution as the product of the no. of horizontal pixels by the no. of vertical pixels
     
-
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 Digital images are composed of PIXELS (or picture elements)
-
-  
-
 -   this image is square, 50 X 50
     
 -   typical ratios are 320 X 200 or 1.6:1, 640 X 480, 800 X 600, and 1024 X 768--all of which are 1.33:1
     
-
-**  
-**
-
-Pixels and Resolution
-
-  
-
+## Pixels and Resolution
 -   Images are represented (ultimately) as arrays of  pixels (picture elements).
     
 -   Image resolution is the number of pixels in the image (e.g., 600x1000)
     
 -   Display resolution is the number of pixels in the display device (often expressed in dots per square inch, or dpi).
     
-
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 Picture resolution determines both the amount of detail as well as its storage requirements
-
 ![](https://lh3.googleusercontent.com/1lP3PMtwH5FrbtGRonEw-0HbgGf7KYZESRqsd-pMIwHCDZz7gHWzAjtP6cCZ-sEoR3ueZfPn22mQBG4MCLO1slfVKcYha-n7pjhk3PyVJ0fbL2yJgGGbipM31O1BtwtUVnqIHfdbQkaaKr8=s2048)  
 
--   here is a (edited) digitized image with a resolution of 272 X 416
+here is a (edited) digitized image with a resolution of 272 X 416
     
-
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 Picture resolution determines both the amount of detail as well as its storage requirements
-
 ![](https://lh6.googleusercontent.com/AO6dj3Se_P5K6AlB7-KfBM24IuO7A-2iSUGs1TfUMqToqid7YQNzQLZRlgXceqoVY8YWiwWeVYqeq_Pybe-Xb_XyDT2ae7ugFY56VYRu9JURIx3dLDvSQQca9lsw5nL89x7elB0s0u1SOgs=s2048)  
 
--   notice the changes when the resolution is reduced (136 X 208)
-    
-
-**  
-**
-
-Representing Digital Images
-
+notice the changes when the resolution is reduced (136 X 208)
   
+## Representing Digital Images
 
 Picture resolution determines both the amount of detail as well as its storage requirements
-
 ![](https://lh5.googleusercontent.com/-oKXq4cZ3zR3ZHtrw5jTOQmgP4-KrHAFnxJaV_-sFJ1ZJ4FoPY0pesN4C8MXdJGHp9G8Su3GQ3yuDcwCuqdFfFiDEh5atOKdjzMfwfWiL9Y9SK8d9yA3l68jk_Imlos8wwgHM4ctGRRsI6Q=s2048)  
-
 -   notice more changes when the resolution is reduced (68 X 104)
     
-
-**  
-**
-
-Representing Digital Images
+## Representing Digital Images
 
   
 
@@ -7759,41 +6161,19 @@ QUANTIZING a sampled image refers to representing each discrete sample by a set 
 
 -   imagine a simple image with a bright object in the foreground surrounded by a dark background
     
-
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 QUANTIZING a sampled image refers to representing each discrete sample by a set of numbers chosen from a given scale
-
 ![](https://lh3.googleusercontent.com/hS7Quk87vHPTZ3L0nX8PZTrqmztExt8TBHPDvOXU_0yOBua-zhpUZ7CPxURkCAa1idh7yKdL-zzF0mrDi3dF2jIdirckA0Hj7RzLnWbSJy-R4JBpIk26hb9S_IP1J9zmw5lpyLDQJohJebc=s2048)  
-
 -   suppose that we sampled the signal horizontally across the middle of the image
     
-
-**  
-**
-
-Representing Digital Images
-
+## Representing Digital Images
 ![](https://lh5.googleusercontent.com/VBLpRZGAiwmntchwqfgW3WEhLJ48IkZuBhA-77d3umC--PbpEJXwLRLcEC5k8ept7x6nMA9Q8lr4c5mYacfx2f248sq22h8ivwiwR7zhybJ6M8kD6An9OnUDj8ZsWE7Vm6oAWfeuihv8N0g=s2048)  
 
 QUANTIZING a sampled image refers to representing each discrete sample by a set of numbers chosen from a given scale
-
-  
-
 -   if we assigned a numeric scale for the signal it might look like this
     
-
-**  
-**
-
-Representing Color
-
-  
+## Representing Color
 
 -   The RGB (red, green, blue) color system represents color by specifying the intensity of red, green, and blue light.
     
@@ -7801,13 +6181,7 @@ Representing Color
     
 -   In this scheme we specify 8 numbers in base 16 (hexadecimal) = rrggbb.
     
-
-**  
-**
-
-Representing Grayscale
-
-  
+## Representing Grayscale
 
 -   For black and white images we need to represent the shade.  
     
@@ -7815,100 +6189,49 @@ Representing Grayscale
     
 -   Four bits per pixel would allow “16 shades of gray”
     
-
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 DYNAMIC RANGE refers to the number of values for the measuring scale used in quantizing
-
 ![](https://lh4.googleusercontent.com/FpVFJ_eiGzrIg6Qgp8y7k11q4iRT77veE8NqyCnR9EeYh2mv2xYjIte7_DpVxzdB1bF-T9UddAWSRAXLEzLRKiiWHm7AgbBvyjIWkM2Atd1RDqGzBfhKJ0fWkZUEXzJLXUHjKDOLB4XUjL8=s2048)  
 
 -   Here is an intensity or graylevel image with 256 levels (i.e., 0 to 255 scale)
-    
 
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 DYNAMIC RANGE refers to the number of values for the measuring scale used in quantizing
-
 ![](https://lh6.googleusercontent.com/Jfw0PC9eZsGCWFfdgDJxh9LTMq4l0VvWxD74bqdLmC-bQg7ana2BQ536RqdStIQ_napQByCQ5PES17CUegoeij-SQpxcCvYYfX3iS3WG_s97ElVArtvP-r9G8s3-SBjTGY7X76FhwF9ostQ=s2048)  
 
--   Here is an intensity or graylevel image with 16 levels (i.e., 0 to 15 scale)
-    
+Here is an intensity or graylevel image with 16 levels (i.e., 0 to 15 scale) 
 
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 DYNAMIC RANGE refers to the number of values for the measuring scale used in quantizing
-
 ![](https://lh5.googleusercontent.com/hm8FE76aDv76QGAjHmKhm3kuYGwIA0j01j-pM9E2FCnCHfaR8pvV8HjyuOMeVGqAKVUaIWfsNxq09J43ZDrPebs3qrhd0UAlyxZsUFzXCobk0H3iDZmrquY_dnJCq0Z6l7IdOs5doQ-ALos=s2048)  
 
 -   Here is an intensity or graylevel image with 4 levels (i.e., 0 to 3 scale)
     
-
-**  
-**
-
-Representing Digital Images
-
-  
+## Representing Digital Images
 
 DYNAMIC RANGE refers to the number of values for the measuring scale used in quantizing
-
 ![](https://lh4.googleusercontent.com/P71VKCRZQ6EVNhnvxBgV_ZyAbZ26bUvLCHzOUXwCCnI64XVmyLr7pA5rNwA7UUkXkuVrGbwupShr-mV5iHX4sQgHhzA2F5fypE7E6alXOV3tYTEMWFH8qu9M47lkT8h1gOzPBFSiqtXj-sw=s2048)  
 
 -   Here is an intensity or graylevel image with 2 levels (i.e., 0 to 1 scale or a binary image)
     
-
-**  
-**
-
-Image Modification
-
-  
+## Image Modification
 
 Computer
-
 Program
-
-  
-
 Revised Image
-
-  
-
 Original Image
 
-**  
-  
-**
-
-Processing Digital Images
+## Processing Digital Images
 
 ![](https://lh4.googleusercontent.com/UIYDa2MPB863kiVIAsGOUVfplReu-8sU-ZP3oIMF2qioVfChM-k20CuzwqX9NNbUN3lCWs1P1UA-brGP7VFnS-ri_LheKbYJx8jy65P_E6tgWOKnPVlBvhr4_46UMv772IFy4piNxNgBvlM=s2048)  
-
 -   digital images are often processed using “digital filters”
     
 -   digital filters are based on mathematical functions that operate on the pixels of the image
     
-
-**  
-**
-
-Processing Digital Images
-
+## Processing Digital Images
 ![](https://lh6.googleusercontent.com/RxKppPQLjfbncZhNwb7mlH_FWEK5pL20aaExkGkFJYHTG4IjPZsvgXEL7WvSHDrXm7awwWpdoicq5eVgAbbeVqcLtSn1tDeDyvqP4f33vK1GdbIVLSO8Y2nYSjbFi0BcytteSyKT52UbbQw=s2048)  
 
 -   there are two classes of digital filters: global and local
@@ -7917,14 +6240,7 @@ Processing Digital Images
     
 -   local filters transform a pixel depending upon its relation to surrounding ones
     
-
-**  
-**
-
-Global Filters
-
-  
-
+## Global Filters
 -   Brightness and Contrast control
     
 -   Histogram thresholding
@@ -7937,14 +6253,7 @@ Global Filters
     
 -   Inversions
     
-
-  
-**  
-**
-
-Global Intensity Modification
-
-  
+## Global Intensity Modification
 
 -   Let us just consider black and white images (so each pixel is represented in, say, one byte = 256 possibilities).
     
@@ -7952,48 +6261,21 @@ Global Intensity Modification
     
 -   Why would one want to do such a thing?
     
-
-**  
-**
-
-Making a Picture Brighter
-
-  
+## Making a Picture Brighter
 
 To make an overly dark picture brighter, generally raise the light intensity numbers.
 
-  
-
 Output light intensity
-
-  
-
 Make brighter
-
-  
-
 No modification
-
-  
-
 Input light intensity
-
-**  
-  
-**
-
 Increasing Contrast
 
-**  
-  
-**
+### Contrast
 
-Contrast
+![mage result for low contrast vs. high contrast images](https://lh6.googleusercontent.com/efnHlS7S0LK0oIr0LXOQKYlNXH5lx4zxAqw-wmgVjc3kzFFYExCwQth7rJGWYvNZ7n52K0ai_wgo_3uzN5geBnSi0mu_gfPsOpd7DNMrPZ3IkfEnzzUAxcbPEJ7XY6Ab50zWIFhD_ttfjiE=s2048)  
 
-![mage result for low contrast vs. high contrast images](https://lh6.googleusercontent.com/efnHlS7S0LK0oIr0LXOQKYlNXH5lx4zxAqw-wmgVjc3kzFFYExCwQth7rJGWYvNZ7n52K0ai_wgo_3uzN5geBnSi0mu_gfPsOpd7DNMrPZ3IkfEnzzUAxcbPEJ7XY6Ab50zWIFhD_ttfjiE=s2048)**  
-**
-
-Global Filters
+### Global Filters
 
 ![](https://lh6.googleusercontent.com/q3c_xu-KbJDNoLTDVREe7EEKagrq3kQiEc-s0wSBwM0mVQou-8miLGFtzVNignpj8u8D1_SWuME2-lxhGF8tmlZP2hkDdaboHTMyUUL90mpw_wsRyU2jvjX2qWEcG6P1STfIB3XaAw2r-dk=s2048)  
 
@@ -8001,41 +6283,20 @@ Global Filters
     
 -   Equalization improves images with poor contrast
     
-
-**  
-**
-
-Global Filters
+### Global Filters
 
 ![](https://lh6.googleusercontent.com/0g3HWoitj9CWvus7gwLCHBey_daB9wyIOPEZohsT00yeZBpwvFHU4Jf9RuzHSq4KpJRx-po8Ziiqnuc2YPbwDTLW6vpuRAoL_GYAFI3eSCf8mIUJ1uzPvW_XmQmGicwXjzXKVTopWHpdSP0=s2048)  
-
 -   Hue-shifting is used to modify the color makeup of an image
     
 -   Pseudo-coloring assigns hues to intensity ranges for better rendering of details
     
-
-  
-
-Colorized image of Mississippi at Vicksburg
-
-**  
-  
-**
+### Colorized image of Mississippi at Vicksburg
 
 Hue Shifting in Astronomy
-
-![elated image](https://lh4.googleusercontent.com/5o3FyLei9gxLMc30u6vDoZetmKC-lQ9Vh89QU_I4wwtNDeWg3phYI_YID9ftQgIdS0YOCyz2wnTZIC1MQCr3orlpMfdxVzFq4grLXfqUTahkmH9v-Nh2NYB-ALYoRoYJcRNFs1pxMUa1PHk=s2048)![elated image](https://lh4.googleusercontent.com/XGOJKcQpfxGd8vF8vp4u6Eb5WCUAffqZMg0PmZmUxRUj9D8udMn_l7fbAPf0Ol6qLPp3fP_j0VlPs7O-M7QaTzrsF9JAydQTghBBU39UuXK_2yLnkyowmb-UAky7cA-8jEZJfDuvmSs3S6c=s2048)**  
-**
-
+![elated image](https://lh4.googleusercontent.com/5o3FyLei9gxLMc30u6vDoZetmKC-lQ9Vh89QU_I4wwtNDeWg3phYI_YID9ftQgIdS0YOCyz2wnTZIC1MQCr3orlpMfdxVzFq4grLXfqUTahkmH9v-Nh2NYB-ALYoRoYJcRNFs1pxMUa1PHk=s2048)![elated image](https://lh4.googleusercontent.com/XGOJKcQpfxGd8vF8vp4u6Eb5WCUAffqZMg0PmZmUxRUj9D8udMn_l7fbAPf0Ol6qLPp3fP_j0VlPs7O-M7QaTzrsF9JAydQTghBBU39UuXK_2yLnkyowmb-UAky7cA-8jEZJfDuvmSs3S6c=s2048)  
 -   Image Editing  Demo
     
-
-**  
-**
-
-Local Filters
-
-  
+## Local Filters
 
 -   Sharpening
     
@@ -8045,30 +6306,16 @@ Local Filters
     
 -   Noise filters
     
-
-**  
-**
-
-Local Filters
-
-  
+## Local Filters
 
 -   Edge and line detection filters subtract all parts of the image except edges or boundaries between two different regions
     
 -   edge detection is often used to recognized objects of interest in the image
     
-
 ![](https://lh6.googleusercontent.com/AwK0OzY1DRr8PrRMo6mLjd9d4NUVGq0xhrgScNhZy2W2k9iZXRthI8tPWXLHl_CRPA6reEy8gfrGsEIYVPS9NWBOldjDjQkX-bHrOcet_WI3exidaxFqKHJaw9TXtld1IHkCkA0AB2DT4ZQ=s2048)  
-
 edges and lines detected in an image of toy blocks
 
-**  
-  
-**
-
-Editing Images
-
-  
+## Editing Images
 
 -   editing or retouching an image involves selecting a region of the digital image for processing using some special effect
     
@@ -8076,71 +6323,37 @@ Editing Images
     
 -   painting (or rotoscoping) an image is to edit the image by hand with graphic tools that alter color and details
     
-
-**  
-**
-
-Editing Images
-
-  
+## Editing Images
 
 -   compositing images involves combining separate image layers into one image
     
 -   layers may be moved and arranged
     
+![](https://lh4.googleusercontent.com/SXKCol4Jcl8ShOKhbdprRrSB3NDgtwB4PqZ1Cc-3qvPtfnJnFPwpcV5N39ENQXnhUg2lW6u4qr1FKOzKtn_KRESlKy3bUwCMygfG9KrfHtu4yEjORR2J7Be_tRgoaeCo8Jh31iRyic-Kujw=s2048)![](https://lh6.googleusercontent.com/CLatqMgCOFulkyGuMZAoQ6p_R6s9lXb61dkArCXek7c1psPVNzNERjf6zx5hIHSxBODuLGoaOruUdIKG7z4rs7ibDKLCnp2eA02YM-nXya9OO46szR7K1ryBPRSuWyqwgxPHXAufCyOma-E=s2048)  
 
-![](https://lh4.googleusercontent.com/SXKCol4Jcl8ShOKhbdprRrSB3NDgtwB4PqZ1Cc-3qvPtfnJnFPwpcV5N39ENQXnhUg2lW6u4qr1FKOzKtn_KRESlKy3bUwCMygfG9KrfHtu4yEjORR2J7Be_tRgoaeCo8Jh31iRyic-Kujw=s2048)![](https://lh6.googleusercontent.com/CLatqMgCOFulkyGuMZAoQ6p_R6s9lXb61dkArCXek7c1psPVNzNERjf6zx5hIHSxBODuLGoaOruUdIKG7z4rs7ibDKLCnp2eA02YM-nXya9OO46szR7K1ryBPRSuWyqwgxPHXAufCyOma-E=s2048)**  
-**
-
-Computer Animation
-
-  
+## Computer Animation
 
 -   Computer animation is simply computer graphics for sequences of scenes designed to be viewed in rapid succession.
     
 -   Commercial computer animation is very labor intensive.
     
-
-**  
-**
-
-Animation and Physics
-
-  
+## Animation and Physics
 
 -   The goal of computer animation research is to model not just how the world looks, but how it changes.
     
 -   For example, how do clothes fold when the body inside moves, or how do the limbs of a person (or a dog) move when the person/dog is walking.
     
-
-**  
-**
-
-Graphics and Image Processing
-
-  
+## Graphics and Image Processing
 
 -   The distinction between computer graphics and image processing is becoming  increasingly blurry.  
     
 -   This is because many of the most advanced image processing techniques employ computer graphics ideas like modeling and rendering.
     
-
-**  
-**
-
-Noise Reduction Techniques
-
-  
+## Noise Reduction Techniques
 
 -   Noise in an image is the insertion of random, spurious pixel values because of non-image events like the decay of a photograph, or  errors in the  transmission of the image (as when a picture is transmitted from a satellite to the ground station).
     
-
-**  
-**
-
-How Can One Remove Noise?
-
-  
+## How Can One Remove Noise?
 
 -   One can simply smooth pixel values so that, say, white spots become closer in value to the surrounding pixels.  But this removes contrast generally.
     
@@ -8148,25 +6361,13 @@ How Can One Remove Noise?
     
 -   This requires building up an image model.
     
-
-**  
-**
-
-Graphics and Scene Recognition
-
-  
+## Graphics and Scene Recognition
 
 -   These techniques require (to a greater or lesser degree) scene recognition - the ability to infer from one or more images what is in the scene, and where.
     
 -   Scene recognition is normally considered to be part of AI (Artificial Intelligence - the study of how to make computers behave “intelligently”).
     
-
-**  
-**
-
-Indexed Color
-
-  
+## Indexed Color
 
 -   INDEXED COLOR images are derived from full color images
     
@@ -8176,11 +6377,9 @@ Indexed Color
     
 -   They are “browser safe”
     
+![](https://lh3.googleusercontent.com/8qgszWAxjLXcD65Bdhg22-3n8VrnNY9UFvhqU-kbagvqnliRR34szAGxokIHJ2KSgJ_TiKywyus1alWlDxiyiGEkaMzNXYjTW2h28SA9pxkeYvpKEKEE6x0UN_W0rxnzEqfRBxXQg9FQdbM=s2048)  
 
-![](https://lh3.googleusercontent.com/8qgszWAxjLXcD65Bdhg22-3n8VrnNY9UFvhqU-kbagvqnliRR34szAGxokIHJ2KSgJ_TiKywyus1alWlDxiyiGEkaMzNXYjTW2h28SA9pxkeYvpKEKEE6x0UN_W0rxnzEqfRBxXQg9FQdbM=s2048)**  
- **Digital Image Files
-
-  
+## Digital Image Files
 
 -   Digital images are converted to files for storage and transfer
     
@@ -8188,100 +6387,57 @@ Indexed Color
     
 -   File types or formats are not necessarily compatible
     
--   You must often match the file type with the application (.psd = photoshop)**  
-**
+-   You must often match the file type with the application (.psd = photoshop)  
 
-Storing Digital Images
-
-  
+## Storing Digital Images
 
 -   TIFF (Tagged Image File Format)
     
-
 -   used by most document preparation programs
     
 -   has optional lossless compression
     
 -   Windows and Macintosh formats differ
     
-
 -   GIF (Graphic Interchange Format)
     
-
 -   indexed color image (up to 256 colors)
     
 -   compressed
     
 -   used in Web applications
     
-
-
-
-**  
-**
-
-Storing Digital Images
-
-  
-
+## Storing Digital Images
 -   JPEG (Joint Photographic Experts Group)
     
-
 -   lossy compression with variable controls
     
 -   also used in Web applications
     
-
 -   WMF (Windows Metafile Format)
     
-
 -   “metafile” formats permit a variety of image types
     
-
 -   PICT
     
-
 -   the metafile format for Macintosh apps
     
-
-
-
-**  
-**
-
-With Digital Imaging
-
-  
-
+## With Digital Imaging
 You can create just about anything…..
 
-**  
-  
-**
+## 911 Accidental Tourist
+![crash](https://lh6.googleusercontent.com/fC3TAtQ0ueEfRu24z0iJUsALPlueUT-hTbILcGL3wANE_O8sQ7zaK3OVphQqgeTUTF-dOtkgG5HVKkSd_7aL411ss9_a4DwnPABTheV1zM_HU9TaTNz6dYu1gZkCzEdhURN_oOCc32BpuT8=s2048)  
 
-911 Accidental Tourist
+## Great White Taken in South Africa
+![shark](https://lh6.googleusercontent.com/T6gn-lbrO7h7HzWpLwUNt1B7OfadA1YY1p2L4mPFh7lezaA-zXHH572bJk1qvDeMrlPdoEue3UmanASdYho-QX0BT-SCXeloJQr5o3XY-Rdbe2cStgi3WDrtGj4B0WReAgbYS3MY-o8HQiA=s2048)  
 
-![crash](https://lh6.googleusercontent.com/fC3TAtQ0ueEfRu24z0iJUsALPlueUT-hTbILcGL3wANE_O8sQ7zaK3OVphQqgeTUTF-dOtkgG5HVKkSd_7aL411ss9_a4DwnPABTheV1zM_HU9TaTNz6dYu1gZkCzEdhURN_oOCc32BpuT8=s2048)**  
-**
+## Rescue Diver Drill Under the Golden Gate
+![web_021107-O-9999G-001](https://lh4.googleusercontent.com/saVtFkLLUzt_6sUnarb5WuyiKO_mnvBS5fpG7LPDvq3KC6P7p3KXhsDt0jQhtNY85CaKwqQu-WnMvEOe_PUJ4W68Tq5zD58JW7nbTqo8AaKd-KEfHHxEuqx8nS_kAkjreo3VZaNd-DFknk0=s2048)  
 
-Great White Taken in South Africa
+## Shark attacking rescue diver in San Francisco Bay!
+![shark2](https://lh6.googleusercontent.com/mdE_i1O7VTDkHd680EGabe6wJieR0h8_zqwytiuDGWuPeAe-MOCkmkl1hLqOBqKNY8w3VK7o06vbaDjYBiL9GYZk3sgmSQPErii49JjuucSBlLCkSDrf90RP75PzYYemu7hBnUEIis6v4CE=s2048)  
 
-![shark](https://lh6.googleusercontent.com/T6gn-lbrO7h7HzWpLwUNt1B7OfadA1YY1p2L4mPFh7lezaA-zXHH572bJk1qvDeMrlPdoEue3UmanASdYho-QX0BT-SCXeloJQr5o3XY-Rdbe2cStgi3WDrtGj4B0WReAgbYS3MY-o8HQiA=s2048)**  
-**
-
-Rescue Diver Drill Under the Golden Gate
-
-![web_021107-O-9999G-001](https://lh4.googleusercontent.com/saVtFkLLUzt_6sUnarb5WuyiKO_mnvBS5fpG7LPDvq3KC6P7p3KXhsDt0jQhtNY85CaKwqQu-WnMvEOe_PUJ4W68Tq5zD58JW7nbTqo8AaKd-KEfHHxEuqx8nS_kAkjreo3VZaNd-DFknk0=s2048)**  
-**
-
-Shark attacking rescue diver in San Francisco Bay!
-
-![shark2](https://lh6.googleusercontent.com/mdE_i1O7VTDkHd680EGabe6wJieR0h8_zqwytiuDGWuPeAe-MOCkmkl1hLqOBqKNY8w3VK7o06vbaDjYBiL9GYZk3sgmSQPErii49JjuucSBlLCkSDrf90RP75PzYYemu7hBnUEIis6v4CE=s2048)**  
-**
-
-Quick Review
-
-  
+## Quick Review
 
 -   We convert analog image information into digital format by sampling and analog to digital conversion (Quantizing)
     
@@ -8291,89 +6447,49 @@ Quick Review
     
 -   Once in digital form, we can easily modify the image, store it, and send it anywhere in the world!
     
-
-**  
-**
-
 -   Detailed Primer on Digital Photography
     
 -   In case you want to know more!
     
-
-  
-
 -   [http://datagenetics.com/blog/may12018/index.html](http://datagenetics.com/blog/may12018/index.html)
     
-
-**  
-            **-               The Very First Videos (Movies) made in the U.S.
+-               The Very First Videos (Movies) made in the U.S.
     
-
 -   Circa 1895
     
+-   [https://www.youtube.com/watch?v=QRgymD_CO8k](https://www.youtube.com/watch?v=QRgymD_CO8k)  
 
--   [https://www.youtube.com/watch?v=QRgymD_CO8k](https://www.youtube.com/watch?v=QRgymD_CO8k)**  
-**
+## 35mm Theatre Film…
+![elluloid](https://lh6.googleusercontent.com/zFcnxBAXB83WZfvBaHgEo0Z472HBZzz4y--y69KK37JP9oFbml4nir2TxizCxA1-aDFUvjZcm0UTuHXv5psuJQAB5iPIV5CK-oPmJhIjmFQo32gPX9xd9fX4yWiiD4h-1hFt9E0HE07iNPE=s2048)  
 
-35mm Theatre Film…
+### 35 MM Theatre Film Projector
+![mage result for 35mm film projector pic](https://lh6.googleusercontent.com/PnAAIdeHfs4gOkQNHxuGZftYitfl9jJhkKJp_fXnQO3CATo4mRdRKV9pzLM_r1pDHldn5NYNZ5gLu3bM4y7uzu4vkITRSRuf37jJm2DCjbAJZdN8zZxzFKecSRFquyaDYtdO5rO_S2mfup4=s2048)![](https://lh5.googleusercontent.com/n5wi7bQmXpVji2ZjHirKhe733dR1GB_L0vqojWmBHLewuDgZ8QB8Ia7BvyKh4lEn8X25xRYVqogQA2IYQc2LJjSeIl4BkEZHg7KTfjN9uOsaeUPBuxx3UueQgF0fKvKuU0Jr1YJCxWsblVE=s2048)  
 
-![elluloid](https://lh6.googleusercontent.com/zFcnxBAXB83WZfvBaHgEo0Z472HBZzz4y--y69KK37JP9oFbml4nir2TxizCxA1-aDFUvjZcm0UTuHXv5psuJQAB5iPIV5CK-oPmJhIjmFQo32gPX9xd9fX4yWiiD4h-1hFt9E0HE07iNPE=s2048)**  
-                **35 MM Theatre Film Projector
-
-![mage result for 35mm film projector pic](https://lh6.googleusercontent.com/PnAAIdeHfs4gOkQNHxuGZftYitfl9jJhkKJp_fXnQO3CATo4mRdRKV9pzLM_r1pDHldn5NYNZ5gLu3bM4y7uzu4vkITRSRuf37jJm2DCjbAJZdN8zZxzFKecSRFquyaDYtdO5rO_S2mfup4=s2048)![](https://lh5.googleusercontent.com/n5wi7bQmXpVji2ZjHirKhe733dR1GB_L0vqojWmBHLewuDgZ8QB8Ia7BvyKh4lEn8X25xRYVqogQA2IYQc2LJjSeIl4BkEZHg7KTfjN9uOsaeUPBuxx3UueQgF0fKvKuU0Jr1YJCxWsblVE=s2048)**  
-**
-
-Digital Video  
-TimeLine
-
-  
-
-Video Timeline
-
+# Digital Video  
+## Video Timeline
 ![](https://lh4.googleusercontent.com/f8q5G1Q2V2AgjSIdbi4RPBjH0d-hWVcTpQgGPRX9oV7mH9dMvPdTf2wUnQkbfdbK_I5aVaS4B9jVN2sI3McQ3XKfOF7oyfi4ex7FYbfmeq2Ka5BY4byTP7i5smSIgApVZasbhOy-FdvIsvw=s2048)  
-MPEG![](https://lh3.googleusercontent.com/B7OTlo57a_YE4inrM866FbXlXVVgK7I0BF79LjvryWS6n44h8NKCSKIrI975eaCKDGFpUUHQpLGvdNLOGWeTjeRm-yAn3Qa7_py0UiNjz_3fvcmjxlmcUH9weKInuT9mYCZ0W_EMZ5s9ac0=s2048)![10379356](https://lh4.googleusercontent.com/BC9SSnpNz3qR-KyO3-T8TgUoayQdRzC4tgTh-59i_lbWdQh0V6qAJOrhiDE_S9bn24UKa9uHL1h7wBIRyXfuoe9MDsdVnImsPTI_hXrzDnoHyTdA1erayDF3ZYAJZ7gQb35RMWGeBFMV6xQ=s2048)![imagePQN](https://lh4.googleusercontent.com/r2Eu2RhZ6GYekn3jTaXqgR7rH59N9mRWH9JLc0F9Qtvk3gIiW4MK0l0BahupucdOuQg4uZKJE3zpOXudp4wq9QlfnNjMqSOkKtyF2ZU6Jm4lWU26QPawxAv_OoWQ0Xfjp0LePWDEjDpC7Wo=s2048)![http://www.mvcs.org/janterm/images/Windows_media_logo.jpg](https://lh4.googleusercontent.com/mOvc2i7YqUkF5ScckHT7hxS4u0iX49vWgMAUiPPHF7p4U2hvVx7Z3xUneUCsfbkRpcEU0mhunbNcdBDiPzHaAjIquM9PPGTTBXSKnolmyvDZvW3_L4a151-GXdcFJOA2dwCjQfPQMfM-7rs=s2048)![http://www.edb.utexas.edu/missiontomars/images/quicktime.gif](https://lh5.googleusercontent.com/G-ukOFETTXJoWlzRqVQ6xA_m5RHRnLwP_z9zv6IDE_GugtLdm8VZ_IfLwWCIjQObBozNYJlXBpB8T0ynP61lUSY_IZ35BXkKsMVl_fAKt3-s3rGAK_nsDU17OrnVoNYLhHm0qbeKNRmeck8=s2048)![](https://lh5.googleusercontent.com/JVUKKUzWm7FdFq8OrAEH8cfKddxLUFkJvfipsN_8V3HRi26g464mxO7PSkFDCCsLBXudj3DikWbPyX5IoA9lD0RpKNhhMyPdLToXyCzZoCyfvlzKsIwlfzt1EPvb0TsXZokfPKyDnMaomVc=s2048)![](https://lh6.googleusercontent.com/0L83jv6ifw4WYAU1CS6EYB_sB-0AX0UihG3yHeWBEsq_9n_uB1Lh95Ore57OTV5iU697d3xpdrzqoRPJzdl6-Y-VjNO7w8ZjZYs6ScBHfPYRDpG5g-7q9VojwI97B7Rf3tbf24eQKq1Slp4=s2048)  
+
+MPEG
+
+![](https://lh3.googleusercontent.com/B7OTlo57a_YE4inrM866FbXlXVVgK7I0BF79LjvryWS6n44h8NKCSKIrI975eaCKDGFpUUHQpLGvdNLOGWeTjeRm-yAn3Qa7_py0UiNjz_3fvcmjxlmcUH9weKInuT9mYCZ0W_EMZ5s9ac0=s2048)
+![10379356](https://lh4.googleusercontent.com/BC9SSnpNz3qR-KyO3-T8TgUoayQdRzC4tgTh-59i_lbWdQh0V6qAJOrhiDE_S9bn24UKa9uHL1h7wBIRyXfuoe9MDsdVnImsPTI_hXrzDnoHyTdA1erayDF3ZYAJZ7gQb35RMWGeBFMV6xQ=s2048)
+![imagePQN](https://lh4.googleusercontent.com/r2Eu2RhZ6GYekn3jTaXqgR7rH59N9mRWH9JLc0F9Qtvk3gIiW4MK0l0BahupucdOuQg4uZKJE3zpOXudp4wq9QlfnNjMqSOkKtyF2ZU6Jm4lWU26QPawxAv_OoWQ0Xfjp0LePWDEjDpC7Wo=s2048)
+![http://www.mvcs.org/janterm/images/Windows_media_logo.jpg](https://lh4.googleusercontent.com/mOvc2i7YqUkF5ScckHT7hxS4u0iX49vWgMAUiPPHF7p4U2hvVx7Z3xUneUCsfbkRpcEU0mhunbNcdBDiPzHaAjIquM9PPGTTBXSKnolmyvDZvW3_L4a151-GXdcFJOA2dwCjQfPQMfM-7rs=s2048)
+![http://www.edb.utexas.edu/missiontomars/images/quicktime.gif](https://lh5.googleusercontent.com/G-ukOFETTXJoWlzRqVQ6xA_m5RHRnLwP_z9zv6IDE_GugtLdm8VZ_IfLwWCIjQObBozNYJlXBpB8T0ynP61lUSY_IZ35BXkKsMVl_fAKt3-s3rGAK_nsDU17OrnVoNYLhHm0qbeKNRmeck8=s2048)
+![](https://lh5.googleusercontent.com/JVUKKUzWm7FdFq8OrAEH8cfKddxLUFkJvfipsN_8V3HRi26g464mxO7PSkFDCCsLBXudj3DikWbPyX5IoA9lD0RpKNhhMyPdLToXyCzZoCyfvlzKsIwlfzt1EPvb0TsXZokfPKyDnMaomVc=s2048)
+![](https://lh6.googleusercontent.com/0L83jv6ifw4WYAU1CS6EYB_sB-0AX0UihG3yHeWBEsq_9n_uB1Lh95Ore57OTV5iU697d3xpdrzqoRPJzdl6-Y-VjNO7w8ZjZYs6ScBHfPYRDpG5g-7q9VojwI97B7Rf3tbf24eQKq1Slp4=s2048)  
 
 2009
-
-  
-
 2005
-
-  
-
 2018
-
-  
-
 ‘60’s-70’s
-
-  
-
 ’70’s-80’s
-
-  
-
 ‘90’s- 2000’
-
-  
-
 2003
 
-  
-
-Improved Accessibility
-
-  
-
-Increased Technical Complexity
-
-**  
-  
-**
-
-Film vs. Video
-
-  
+### Improved Accessibility
+### Increased Technical Complexity
+## Film vs. Video
 
 -   Film captures motion at 24 frames (Images) per second 
     
@@ -8381,59 +6497,31 @@ Film vs. Video
     
 -   Video inherits many of its characteristics from broadcast television, developed in the 1930’s – 40’s
     
-
-**  
-**
-
-Video Starts off as Analog Information
-
-  
+## Video Starts off as Analog Information
 
 -   Just as in Imaging, the original information contained in video is analog by nature
     
-
 -   Intensity
     
 -   Color
     
 -   Speed / Motion (30 Frames per Second)
     
-
-  
-
 -   Digital technology allows us to convert it to bits, store it and manipulate it much easier than its analog counterpart
     
-
-**  
-**
-
-The CMOS  Video Imager
-
+## The CMOS  Video Imager
 ![camcorder5](https://lh4.googleusercontent.com/MuWMYySg8lUpDm_lAX8C3zBt7DnFI6rLhWWMgj8eBdrfbgMfmlszBj_Brt82QBg5-WYjp_TFzIMHJH2NEdoY7nHo8XRXJGq5tVrjmWEeHKHpl1gwhimI8hiHlRSIiUG1yatqvXeexZBhjwA=s2048)  
-
 500,000 to 30,000,000 Pixels
 
-**  
-  
-**
+## RED DSMC2 $54,500.00   35,200,000 PIXELS!
+!https://www.red.com/SSP%20Applications/Red@SuiteCentric/SCA%20Kilimanjaro/img/products/710-0303_0.png?resizeid=3&resizeh=600&resizew=600](https://lh5.googleusercontent.com/MftSVCuVrO8wUqfjqZr8ejg-hah716_9Ir4mAFVGMDjP3jG1HgSBJ1F0YxfmPBfcoEU-VGehLp5_s744_9BEko0IJw-PeHP0w2Ig2qU69c_RuF8zL3t5cwGuvdRsgeOTMo7jrHdiCI5Vlsw=s2048)  
 
-RED DSMC2 $54,500.00   35,200,000 PIXELS!
-
-![https://www.red.com/SSP%20Applications/Red@SuiteCentric/SCA%20Kilimanjaro/img/products/710-0303_0.png?resizeid=3&resizeh=600&resizew=600](https://lh5.googleusercontent.com/MftSVCuVrO8wUqfjqZr8ejg-hah716_9Ir4mAFVGMDjP3jG1HgSBJ1F0YxfmPBfcoEU-VGehLp5_s744_9BEko0IJw-PeHP0w2Ig2qU69c_RuF8zL3t5cwGuvdRsgeOTMo7jrHdiCI5Vlsw=s2048)**  
-**
-
-GoPro Black   $399.00     12,000,000 Pixels
-
+## GoPro Black   $399.00     12,000,000 Pixels
 ![https://assets-aem.gopro.com/content/dam/gopro/camera-compare/CC_H7Black_2X_D.png](https://lh5.googleusercontent.com/Wtv9eFWGs9OHlVs7tPrpScq7-OkSrCt2soR0bHXqiSA9QlwTG9t0PyHh71RdYTFR4BcgE4r4HxkcWQDfmeI5c-bjdF3JBKgpYsT4cJ0TysNaxHM7zAbvb-woMeSspgBQQhvWaNaT8wiQca0=s2048)  
 
-HERO7 Black
+## HERO7 Black
 
-  
-**  
-**
-
-Producing Digital Video
-
+## Producing Digital Video
 ![](https://lh6.googleusercontent.com/raLPpnejiYEHVu7ezLSrgMhzSJXL6nJlh3IR9VK5VNjNNvBcXv2E5HawRhaD-Re5pMAmjF81hpEMXrGI0K9Xp9allqE7G9D_2UiCaUVZ0LKvvACWxP7_d78-8agRXm4jVUkTD3tCDS60byA=s2048)  
 
 -   Video capture
@@ -8442,69 +6530,41 @@ Producing Digital Video
     
 -   Playback
     
-
-**  
-**
-
-Converting the Video Frame to Bits
-
+## Converting the Video Frame to Bits
 ![](https://lh5.googleusercontent.com/vpuaDEHzyiinIi1QGUv1exDWauytifSSPBsvexH_sSzET9pJ0uhU23ejsEl5aTl89mX2TrkyfFA1li6cBvrdxJ8mhbuxlld9MWEPy8dBRcbgBxUiQ6fV11lOvhT9cnIWpRdzOn66SLtxOJ0=s2048)  
 
 -   Think of Video Frames as individual Images, stacked front to back
     
-
 ![](https://lh5.googleusercontent.com/N3j6fiYKZru4-QxqXqoVZ_F_CwnNs9clvYdL1oY6CIcPqNdtcHKFd_31yoO-NC8eQB5RONyn6akddntyF8pjbyLyPLOY1yV0zUQSityPgSx7TUqdX-eMV8yBT1zB_2dkQX-fvRkCfqiBR10=s2048)  
 
 -   110001100011111100000011100001100000011111000000000001111111111000000000
     
-
-**  
-  **DVD – Digital Versatile Disk
-
-  
+##  DVD – Digital Versatile Disk
 
 -   Up to 133 minutes of medium resolution video, with 720 dots of horizontal resolution X 480 dots of vertical resolution  (The video compression ratio is typically 40:1 using MPEG-2 compression.) 
     
 -   Soundtrack presented in up to eight languages using 5.1 channel Dolby digital [surround sound](http://entertainment.howstuffworks.com/surround-sound.htm) 
     
--   4.7Gb of storage total per disk**  
-**
+-   4.7Gb of storage total per disk  
 
-Blu-Ray High Definition DVD
-
-  
+## Blu-Ray High Definition DVD
 
 -   10 times the capacity of std DVD
     
 -   Higher resolution:
     
-
 -   Up to 1920X1080 dots of resolution
     
-
 -   Up to 50GB of storage!
     
 -   Uses a blue laser as opposed to a red one (shorter wavelength)
     
 -   The current high def standard
     
-
-**  
-**
-
-Video Aspect Ratios
-
-**  
-  
-**
-
-Advantages and Disadvantages of Digital Video
-
-  
-
+## Video Aspect Ratios
+## Advantages and Disadvantages of Digital Video
 -   Advantages
     
-
 -   Scalable to different playback systems
     
 -   Random access to frames
@@ -8515,119 +6575,60 @@ Advantages and Disadvantages of Digital Video
     
 -   Potential for interactivity
     
-
 -   Disadvantages
     
-
 -   High playback and storage requirements 
     
-
 -   ( Who Cares!!)
     
-
-
-
-
-
-**  
-**
-
-Video Resolution
-
-  
+## Video Resolution
 
 -   Standard definition video was typically delivered at 440 X 320 or 720 X 480 depending upon whether it was broadcast, stored on VHS videotape or standard DVD
     
-
-  
-
 -   High definition video is delivered at:
     
-
-         1280 × 720 pixels, 
-
-     Or 1920 × 1080 pixels,
-
-     Or 3840  x  2160 pixels  
-
-  
+1280 × 720 pixels, 
+Or
+1920 × 1080 pixels,
+Or
+3840  x  2160 pixels  
 
 3-5 fold increase in pixel resolution…lot’s more data…
-
-  
-
 How is it possible that we can afford to transmit this over cable, satellite and over the air given this drastic increase in resolution
 
-**  
-  
-**
-
-But, there is soooo much data!
-
-  
+## But, there is soooo much data!
 
 -   If we didn’t have a way to efficiently compress all of the information in the video frames, we would quickly run out of cost effective storage capacity for consumer applications.
     
-
-  
-
 -   Thus the need for 
     
-
-Compression/Decompression
-
-  
-**  
-**
-
-Digital Compression Concepts
-
-  
-
+## Compression/Decompression
+## Digital Compression Concepts
 -   Compression techniques are used to replace a file with another that is smaller
     
 -   Decompression techniques expands the compressed file to recover the original data -- either exactly or in facsimile
     
 -   A pair of compression/decompression techniques that work together is called a codec for short
     
-
-![](https://lh5.googleusercontent.com/6WVig18oJaFBYa_Qc-IyalKMzIZ4utm3TLEzcPvdjaq5XY8pTfB6-gaYKf3ap19kgXjNHfBdOJTn31ZYhsLcPjImsIEDQj2J4cACOBYC0bybSOcIkKOo5ezkr2TiQzim_OQ2SrZtZSfeb14=s2048)**  
-**
-
-Redundancy
-
-  
+![](https://lh5.googleusercontent.com/6WVig18oJaFBYa_Qc-IyalKMzIZ4utm3TLEzcPvdjaq5XY8pTfB6-gaYKf3ap19kgXjNHfBdOJTn31ZYhsLcPjImsIEDQj2J4cACOBYC0bybSOcIkKOo5ezkr2TiQzim_OQ2SrZtZSfeb14=s2048)  
+## Redundancy
 
 -   Data compression is possible because many messages (images, etc.) are redundant,  and they can theoretically be reconstructed from a smaller set of bits.
     
-
-**  
-**
-
-Types of Data Compression
-
-  
+## Types of Data Compression
 
 We can divide up data-compression techniques in many different ways:
-
 -   Lossy as opposed to lossless compression
     
 -   Syntactic as opposed to semantic compression.
     
-
-**  
-**Assumptions
-
-  
-
+## Assumptions
 -   One way to look at data compression techniques is to ask what fact about the world they assume.
     
--   Syntactic techniques make very broad assumptions, semantic techniques can depend on very specific ones.**   
-**
+-   Syntactic techniques make very broad assumptions, semantic techniques can depend on very specific ones.   
 
-Run Length Encoding (RLE)
 
-  
+## Run Length Encoding (RLE)
 
 -   Achieves modest savings with a Syntactic method
     
@@ -8637,26 +6638,13 @@ Run Length Encoding (RLE)
     
 -   ABBCCD#9EEFG#5
     
-
-**  
-**
-
-Image Compression
-
-  
+## Image Compression
 
 -   The basic assumption of image compression is that pixel intensity values do not change much between neighboring pixels.
     
 -   So record, say, the center pixel, and work out in a spiral.  For each new pixel, just record the difference between it and the previous one.
     
-
-  
-**  
-**
-
-JPEG
-
-  
+## JPEG
 
 -   JPEG is set of lossy image compression standards.
     
@@ -8664,29 +6652,14 @@ JPEG
     
 -   JPEG results in some loss of detail due to averaging as well as slight discoloration
     
-
-**  
-**
-
-Video Compression:  
+## Video Compression:  
 Coping with Large Files
-
-  
 
 -   Video Compression is an encoding process that filters the original file in several successive stages
     
-
-  
-
 -   Without powerful compression we would NOT be able to produce CDs, DVDs, or Video Downloads over the Internet
     
-
-**  
-**
-
-Types of Codecs
-
-  
+## Types of Codecs
 
 -   Codecs that upon decompression always reproduce the original file exactly are called lossless codecs
     
@@ -8696,13 +6669,7 @@ Types of Codecs
     
 -   By contrast, codecs that feature simple fast decompression but significantly slower compression are called asymmetric codecs
     
-
-**  
-**
-
-Codec Methods
-
-  
+## Codec Methods
 
 -   Syntactic encoding methods attempt to reduce the redundancy of symbolic patterns in a file without any regard to the type of information represented
     
@@ -8710,31 +6677,17 @@ Codec Methods
     
 -   Hybrid methods combine both syntactic and semantic methods
     
-
-**  
-**
-
-Compressing Video
-
-  
+## Compressing Video
 
 -   Video compression employs both spatial and temporal compression techniques
     
-
 -   spatial techniques compress individual frames
     
 -   temporal methods compress data in frames over time
     
-
 -   QuickTime and AVI (Audio Video Interleaved) are two popular (and incompatible with each other) compression formats used on PCs
     
-
-**  
-**
-
-Temporal Compression in Video
-
-  
+## Temporal Compression in Video
 
 -   Lossy strategies for eliminating redundancy of information between frames employ temporal compression -- referred to as interframe compression
     
@@ -8745,38 +6698,19 @@ Temporal Compression in Video
     
 -   difference frames
     
+![](https://lh3.googleusercontent.com/hYRwkpHr57pot7L1X38iE0sOaDzYUMmgzbmcqm217OyGpZvPvQSW_Te82gRu-KdYsXNuwjAGFHbbllqeoNYK9oV7ixtT9TupFtv7jXVOQi0p1ZlFLRR6xVaDN5SbgFvpRiuBr6A0Fn7XAGg=s2048)  
 
-  
-![](https://lh3.googleusercontent.com/hYRwkpHr57pot7L1X38iE0sOaDzYUMmgzbmcqm217OyGpZvPvQSW_Te82gRu-KdYsXNuwjAGFHbbllqeoNYK9oV7ixtT9TupFtv7jXVOQi0p1ZlFLRR6xVaDN5SbgFvpRiuBr6A0Fn7XAGg=s2048)**  
-**
-
-Other Brute Force Methods for Reducing Demands
-
-  
+## Other Brute Force Methods for Reducing Demands
 
 -   Frame rate adjustment
     
-
 -   slow it from 30 to 24 fps
     
-
-  
-  
-
 -   Lower resolution on individual frames
     
-
 -   sometimes hard to notice by average viewer
     
-
-
-
-**  
-**
-
-MPEG 2- The Mother of all Video Compression!….so far
-
-  
+## MPEG 2- The Mother of all Video Compression!….so far
 
 -   Uses : Temporal and Spatial Redundancy
     
@@ -8786,15 +6720,8 @@ MPEG 2- The Mother of all Video Compression!….so far
     
 -   40:1 Compression Ratio…..makes DVDs possible
     
-
-**  
-**
-
-The Desktop Video System  
+## The Desktop Video System  
 Basic Components
-
-  
-
 -   Analog Source
     
 -   Video Capture Card
@@ -8807,14 +6734,11 @@ Basic Components
     
 -   Edit and Playback Control
     
+![](https://lh4.googleusercontent.com/aQtNjLcZnaMD5ja7eqG69iMyn6lpaxq0Qyz4UBbDzgHKhJxjKXIweXSVftPPLfynJu8UssOyW99SCEKdfTQznbShnzdg5-DqZij6-pTZ17yDHeHE_VHViE1cZ9U4i4AwOkrwh_iHKB7OyJM=s2048)  
 
-![](https://lh4.googleusercontent.com/aQtNjLcZnaMD5ja7eqG69iMyn6lpaxq0Qyz4UBbDzgHKhJxjKXIweXSVftPPLfynJu8UssOyW99SCEKdfTQznbShnzdg5-DqZij6-pTZ17yDHeHE_VHViE1cZ9U4i4AwOkrwh_iHKB7OyJM=s2048)**  
-**![http://image.slidesharecdn.com/digital-video4481/95/slide-13-728.jpg?1271320798](https://lh5.googleusercontent.com/JdlBQtUFWfNnzMQ6krkotzLVd0nsNuMP3K8fHSw_OORvf9ddjBWxWo9uVsxfIPh-o-HXJ8RoBk669BVix-CHXqFU855a8i6KBWt_TVpBg8eNe5fvWOvuqeQxkXDEpHaL1jEvbUeVhXM_870=s2048)**  
-**
+![http://image.slidesharecdn.com/digital-video4481/95/slide-13-728.jpg?1271320798](https://lh5.googleusercontent.com/JdlBQtUFWfNnzMQ6krkotzLVd0nsNuMP3K8fHSw_OORvf9ddjBWxWo9uVsxfIPh-o-HXJ8RoBk669BVix-CHXqFU855a8i6KBWt_TVpBg8eNe5fvWOvuqeQxkXDEpHaL1jEvbUeVhXM_870=s2048)  
 
-Editing Digital Video
-
-  
+## Editing Digital Video
 
 -   Clip Logging
     
@@ -8822,55 +6746,34 @@ Editing Digital Video
     
 -   Transitions
     
-
 -   dissolves
     
 -   wipes, etc.
     
-
 -   Rotoscoping
     
-
 -   Frame Editing (Digital Effects)
     
-
 -   Compositing
     
-
 -   keying
     
 -   titling
     
+## Compositing…..First we have a Mountain
+![Finished Tutorial](https://lh4.googleusercontent.com/MjukZL9uueKMrqEUJ7DOLJ3GO8UChse5EmqhlGUvGilpyi-82NViyQglqgB1gwUqCbNQgW4r8aoeRgOydTVMlGIoffPnquhQunabhBpkAdX41hKMIf0oq0aKcLMiQk_GEwe0YBp5fezI-ts=s2048)  
 
+## Plane
+![Smallplane](https://lh3.googleusercontent.com/pDCrJaUsPl0z9ypMNDFxIth5XBndu1HnjqODtNNN8qJ_lGx-P5q8CeVpn90d0m6R7QCh3ofeG5h3MJFhiQVqmPrYqo5thwEtiRcvm7NU4F3ZSKpUUniG_xsGIlAVsq6lGXzd2lqn4XMMZhM=s2048)  
 
+## Mountain and Plane…..Together !!
+![Plane_Shadow](https://lh5.googleusercontent.com/gvRWW5CTaZwaupWwBbwgjxLMPGUhMiFsS8kcnVcoeFSHHYkeAqQlv3K1A1kjtMySQPBeFBc7ZSqW-TYcHeqMFLp-f6DfBAvDSy6Ib0bpBF3xvr1RX9vFIjHl4T_phJ4JSijlEKrYRKLa5ok=s2048)  
 
-**  
-**
-
-Compositing…..First we have a Mountain
-
-![Finished Tutorial](https://lh4.googleusercontent.com/MjukZL9uueKMrqEUJ7DOLJ3GO8UChse5EmqhlGUvGilpyi-82NViyQglqgB1gwUqCbNQgW4r8aoeRgOydTVMlGIoffPnquhQunabhBpkAdX41hKMIf0oq0aKcLMiQk_GEwe0YBp5fezI-ts=s2048)**  
-**
-
-Plane
-
-![Smallplane](https://lh3.googleusercontent.com/pDCrJaUsPl0z9ypMNDFxIth5XBndu1HnjqODtNNN8qJ_lGx-P5q8CeVpn90d0m6R7QCh3ofeG5h3MJFhiQVqmPrYqo5thwEtiRcvm7NU4F3ZSKpUUniG_xsGIlAVsq6lGXzd2lqn4XMMZhM=s2048)**  
-**
-
-Mountain and Plane…..Together !!
-
-![Plane_Shadow](https://lh5.googleusercontent.com/gvRWW5CTaZwaupWwBbwgjxLMPGUhMiFsS8kcnVcoeFSHHYkeAqQlv3K1A1kjtMySQPBeFBc7ZSqW-TYcHeqMFLp-f6DfBAvDSy6Ib0bpBF3xvr1RX9vFIjHl4T_phJ4JSijlEKrYRKLa5ok=s2048)**  
-**
-
-Digital Video  
+## Digital Video  
 The Entire Process Illustrated
+![](https://lh5.googleusercontent.com/39Ru98omc_rWN8QXw2F_AXvZ_atgpF--LmPvjY8kro0RtRRwklnq2Mrbdy3SF-zKJapgCpkDMDPZYmANS4nHq77OOEuH0lIX0mMbnVw6HCENjqCgTmvyUfqcJAhH-RJy07cSL2E1LDg0AfQ=s2048)![](https://lh3.googleusercontent.com/bHdgxTs_1aic5j8VtaFy-UX2B8hQk13bZDq9ZbkPAB4zRrXgEANx2We363B3uzJaTqbob1ys3LYc-Ksm8XIJ6CXaJUjHHNjNEBMv4dZ8WIWL0aB8bB9hbQyN8vqwCF-dgxmCPk7ph8xUCCg=s2048)![](https://lh6.googleusercontent.com/hwlTV3Tj-3JZyWQz-9mqGddNiuZX6teev-FvzNFXlUjUbbqmvd3BarksbszsU3LFytzPfmhE8OVscS6V0S-bepbliya8fpn5hkSosfNUuSRjNTFTyN060BFjH90_zVk6tBrbWPWjNZsxSgM=s2048)  
 
-![](https://lh5.googleusercontent.com/39Ru98omc_rWN8QXw2F_AXvZ_atgpF--LmPvjY8kro0RtRRwklnq2Mrbdy3SF-zKJapgCpkDMDPZYmANS4nHq77OOEuH0lIX0mMbnVw6HCENjqCgTmvyUfqcJAhH-RJy07cSL2E1LDg0AfQ=s2048)![](https://lh3.googleusercontent.com/bHdgxTs_1aic5j8VtaFy-UX2B8hQk13bZDq9ZbkPAB4zRrXgEANx2We363B3uzJaTqbob1ys3LYc-Ksm8XIJ6CXaJUjHHNjNEBMv4dZ8WIWL0aB8bB9hbQyN8vqwCF-dgxmCPk7ph8xUCCg=s2048)![](https://lh6.googleusercontent.com/hwlTV3Tj-3JZyWQz-9mqGddNiuZX6teev-FvzNFXlUjUbbqmvd3BarksbszsU3LFytzPfmhE8OVscS6V0S-bepbliya8fpn5hkSosfNUuSRjNTFTyN060BFjH90_zVk6tBrbWPWjNZsxSgM=s2048)**  
-**
-
-Digital Cinema
-
-  
+## Digital Cinema
 
 -   Has replaced traditional film in all major movie theatres
     
@@ -8880,13 +6783,9 @@ Digital Cinema
     
 -   Prevents counterfeiting
     
+![arco 3-Chip DLP Projector: Picture 1 regular](https://lh3.googleusercontent.com/TgvjYgqrQd-YbHdt4W2ArAN-gCmba-NFPrtbYVR4rX9TaYLWVCCAYfSbvX1OcR05HSebGTVVCXH0XR2cQx0KR3wxwsFOidl8qpQ4_HMQ7RywW5egfIgZCSo94GKoUFQIEhWVx6Z2nhkGQ78=s2048)  
 
-![arco 3-Chip DLP Projector: Picture 1 regular](https://lh3.googleusercontent.com/TgvjYgqrQd-YbHdt4W2ArAN-gCmba-NFPrtbYVR4rX9TaYLWVCCAYfSbvX1OcR05HSebGTVVCXH0XR2cQx0KR3wxwsFOidl8qpQ4_HMQ7RywW5egfIgZCSo94GKoUFQIEhWVx6Z2nhkGQ78=s2048)**  
-**
-
-So What does Digital Video make possible?
-
-  
+## So What does Digital Video make possible?
 
 -   Anyone can produce, direct, shoot, edit and publish a hi-def video
     
@@ -8903,43 +6802,27 @@ So What does Digital Video make possible?
     
 -   Purchasing
     
-
 And it gets cheaper every day!
 
-  
-  
-  
-**  
-**
-
-Summary
-
-  
+## Summary
 
 -   Digital video is:
     
-
 -   scalable
     
 -   allows unlimited editing
     
 -   has interactive potential
     
-
 -   Digital video can be produced with desktop systems
     
 -   Flexible editing and playback options are major advantages
     
 -   Storage requirement is biggest challenge
     
-
 -   But, Remember Moore’s Law !!
     
-
-
-
-**  
-**![](https://lh3.googleusercontent.com/Ef0NqMA-xWTULpfaBMMH937Vqi6aixQpS-ma6uglUw2EXS0j2QbbVhoZWQwd7kodcx96KTtcHBh5dC1cu21Ky87oJqCs53hn5TC7BsLLwR9btDTauik0ANiTAMdYffrRHUpq4cZtc8AEsn4=s2048)  
+![](https://lh3.googleusercontent.com/Ef0NqMA-xWTULpfaBMMH937Vqi6aixQpS-ma6uglUw2EXS0j2QbbVhoZWQwd7kodcx96KTtcHBh5dC1cu21Ky87oJqCs53hn5TC7BsLLwR9btDTauik0ANiTAMdYffrRHUpq4cZtc8AEsn4=s2048)  
 
 -   Do Not Try This Unsupervised
     
@@ -8947,68 +6830,36 @@ Summary
     
 -   Take the Plunge!
     
-
-**  
-**
-
-Digital Video 101  
+## Digital Video 101  
   
-
-  
-
-Digital Video Workflow
-
-![](https://lh5.googleusercontent.com/idOkFsDu9xW1FA9Y_gLd9xdDuV1bFasQrOKa4XKVUeT71ZVOmImg2VbF20xEWkArfq2BTT70SeSQeCBWqiuwTnHGE0RBEvePlSrLhZxOcl8_O6j6I1dSGT2y1ldw9V5vr25bJHMiYbCfExQ=s2048)![](https://lh5.googleusercontent.com/RyTVsxkIGW6Bf2_kJyEp0BIwjmZRbair2aBLDsv_pCq_nUBMEsMuZj6l5obVrnV223rOiajYA7iEajHIBKKYFK7QGXxWyPEAnLdcT3f8TshAC1HDQ41I77adeiuMe7NDNDYvsnT4ixofdu8=s2048)![C:\Users\mlh\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\PENV2WQ2\MC900435242[1].png](https://lh3.googleusercontent.com/9xO866d4L7Kik8fgPtlkO6VhKyBFNbxJfpw0XH-6cP5h54YVssqXLU1sC7MqAHR6BO2_wlaQ6ddeOXi4eDsa30B3QcXI4-7qfe5ENQg-0XH62iRrPKnWEk5BnJmehAvdzU0AepDFv7QS9xM=s2048)![](https://lh3.googleusercontent.com/s37-9sovELzlHACmpvdKRW-4w85W8IHiWUQ9oC_IMEDPh1e4XZtPF5Xyh1liduDX7c8QD8HM7ayTOprJK0AVyWs2rocq6UE3juxVCd80kTQ30lCUyOLcAULhTVXjC2y4u8-45zcJn7GMyUw=s2048)![](https://lh5.googleusercontent.com/0b595rB6vlO3kOHXwtJBHTQPuZ1IgJRDAAUqh1THHVA0HL76ZGQlUR0jG71oKo0PVlgPmdhneufGu-ftn3zB6ozK72JT9bBlzS-oXNHrEheiieWK_nRxfnofWgnnjErA2DasSr3asWmxKsY=s2048)  
-
-Step 2:
-
-Encode Files
-
-  
+## Digital Video Workflow
+![](https://lh5.googleusercontent.com/idOkFsDu9xW1FA9Y_gLd9xdDuV1bFasQrOKa4XKVUeT71ZVOmImg2VbF20xEWkArfq2BTT70SeSQeCBWqiuwTnHGE0RBEvePlSrLhZxOcl8_O6j6I1dSGT2y1ldw9V5vr25bJHMiYbCfExQ=s2048)![](https://lh5.googleusercontent.com/RyTVsxkIGW6Bf2_kJyEp0BIwjmZRbair2aBLDsv_pCq_nUBMEsMuZj6l5obVrnV223rOiajYA7iEajHIBKKYFK7QGXxWyPEAnLdcT3f8TshAC1HDQ41I77adeiuMe7NDNDYvsnT4ixofdu8=s2048)
+![C:\Users\mlh\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\PENV2WQ2\MC900435242[1].png](https://lh3.googleusercontent.com/9xO866d4L7Kik8fgPtlkO6VhKyBFNbxJfpw0XH-6cP5h54YVssqXLU1sC7MqAHR6BO2_wlaQ6ddeOXi4eDsa30B3QcXI4-7qfe5ENQg-0XH62iRrPKnWEk5BnJmehAvdzU0AepDFv7QS9xM=s2048)
+![](https://lh3.googleusercontent.com/s37-9sovELzlHACmpvdKRW-4w85W8IHiWUQ9oC_IMEDPh1e4XZtPF5Xyh1liduDX7c8QD8HM7ayTOprJK0AVyWs2rocq6UE3juxVCd80kTQ30lCUyOLcAULhTVXjC2y4u8-45zcJn7GMyUw=s2048)
+![](https://lh5.googleusercontent.com/0b595rB6vlO3kOHXwtJBHTQPuZ1IgJRDAAUqh1THHVA0HL76ZGQlUR0jG71oKo0PVlgPmdhneufGu-ftn3zB6ozK72JT9bBlzS-oXNHrEheiieWK_nRxfnofWgnnjErA2DasSr3asWmxKsY=s2048)  
 
 Step 1:
-
 Produce a Great Video
 
-  
+Step 2:
+Encode Files
 
 Step 3:
-
-Store
-
-Files
-
-  
+Store Files
 
 Step 4:
-
 Deliver a Great Video to Any Device
 
-**  
-  
-**
-
-Databases and Privacy
-
-  
+# Databases and Privacy
 
 Storing, Organizing and Retrieving Data
 
-**  
-  
-**What is a Computer Database?    
-
-  
+## What is a Computer Database?    
 
 Answer:
-
-An Organized Collection of Data files that may be added to, deleted, modified and reported on**   
+An Organized Collection of Data files that may be added to, deleted, modified and reported on   
   
-**
-
-Attributes of all files
-
-  
+## Attributes of all files
 
 -   Location
     
@@ -9016,42 +6867,29 @@ Attributes of all files
     
 -   Type
     
-
-  
-
 -   Files have information embedded with the data that defines how the data is organized
     
 
-**  
-**
+## Files, Records, and Fields
+![atabase](https://lh4.googleusercontent.com/q0hv8UWWpYJLl_3L5jpLbf3xS-JaimGnk32lfM0B1rzEgbLFW1-Om_kXgzBnP40nl7SZDQt9GH_BRMttqZzYds0A35tt5OkToCjabCHRCZNJfWdmMNtj9YXlBQK2ZZQCwaNyCwknLRFiS50=s2048)  
 
-Files, Records, and Fields
-
-![atabase](https://lh4.googleusercontent.com/q0hv8UWWpYJLl_3L5jpLbf3xS-JaimGnk32lfM0B1rzEgbLFW1-Om_kXgzBnP40nl7SZDQt9GH_BRMttqZzYds0A35tt5OkToCjabCHRCZNJfWdmMNtj9YXlBQK2ZZQCwaNyCwknLRFiS50=s2048)**  
-**The Two Major DBMS Models
-
-  
+The Two Major DBMS Models
 
 -   Flat File Model
     
-
 -   Separate files are linked via physical links (link fields)
     
 -   Favored where efficiency and performance are highest priorities
     
-
 -   Relational Model
     
-
 -   Separate files are linked via logical links in the data model
     
--   Favored where flexibility and support for ad hoc queries are highest priority**   
-**
+-   Favored where flexibility and support for ad hoc queries are highest priority   
 
-Database Management System  
+## Database Management System  
+
 Data Structure
-
-  
 
 -   Flat file systems use only one file to model and store data
     
@@ -9059,34 +6897,21 @@ Data Structure
     
 -   Database structure must always be defined upfront
     
-
 -   records and fields must be defined
     
 -   field data types must be specified
     
-
-
-
-**  
-**
-
-Using Multiple Files 
-
-  
+## Using Multiple Files 
 
 -   Relationships must be specified when database structure is defined
     
 -   Logical links are made explicit by linking appropriate fields in different tables
     
+![](https://lh6.googleusercontent.com/9vBkSWMseggW3r_wDQKQhN_T3yjN479Z_wKEqteyu2iPaeAAHr5pFn-01BrnEO7va_JdbFwhFhgi4QxAF70a2Lt5oi7Bw3Bt2muKXXaZMbaPryR7KWTmqPl0VmgFntPjNRcJYYY2F-aENCU=s2048)  
 
-![](https://lh6.googleusercontent.com/9vBkSWMseggW3r_wDQKQhN_T3yjN479Z_wKEqteyu2iPaeAAHr5pFn-01BrnEO7va_JdbFwhFhgi4QxAF70a2Lt5oi7Bw3Bt2muKXXaZMbaPryR7KWTmqPl0VmgFntPjNRcJYYY2F-aENCU=s2048)**  
-**
+## Database Management System  
 
-Database Management System  
-Accessing the Data
-
-  
-
+## Accessing the Data
 -   Forms are often used for entering/viewing data
     
 -   Queries are constructed to retrieve data satisfying specific criteria
@@ -9095,23 +6920,13 @@ Accessing the Data
     
 -   Reports are constructed (often based on queries)
     
+## A Form for Entering Fields
+![](https://lh6.googleusercontent.com/oT7pSzovWCUUIDKoxyKCO2KMM3hqjybJsSc_wdhY8vkgqAuHfqz1uYD_4L9XVwTfUmhRuw-NQv9b2-sCfJA9pIPm8eHJnJmpxWX5p-VYOyCNwphwRhQH6jZxTmR6V8fVVEkmN5br4qtpBAI=s2048)  
 
-**  
-**
+## Example Report in Access
+![](https://lh6.googleusercontent.com/iYLu0PA-po9Q3mTarDG64avCe8L3mxyQYoeba7CygwcvaHhbY_UD08_krFeDqEZMbmOW5Mf4p7SNNEZnr6ZGpW9oW8na_JGShWXH9AnhMjWEwZvag8qO3GN55XYXytXA0zG1_7u2aFi4OHc=s2048)  
 
-A Form for Entering Fields
-
-![](https://lh6.googleusercontent.com/oT7pSzovWCUUIDKoxyKCO2KMM3hqjybJsSc_wdhY8vkgqAuHfqz1uYD_4L9XVwTfUmhRuw-NQv9b2-sCfJA9pIPm8eHJnJmpxWX5p-VYOyCNwphwRhQH6jZxTmR6V8fVVEkmN5br4qtpBAI=s2048)**  
-**
-
-Example Report in Access
-
-![](https://lh6.googleusercontent.com/iYLu0PA-po9Q3mTarDG64avCe8L3mxyQYoeba7CygwcvaHhbY_UD08_krFeDqEZMbmOW5Mf4p7SNNEZnr6ZGpW9oW8na_JGShWXH9AnhMjWEwZvag8qO3GN55XYXytXA0zG1_7u2aFi4OHc=s2048)**  
-**
-
-Query Languages
-
-  
+## Query Languages
 
 -   Query languages, like programming languages, have specific syntax
     
@@ -9119,13 +6934,7 @@ Query Languages
     
 -   SQL (Structured Query Language -- often pronounced “sequel”) is a de facto standard
     
-
-**  
-**
-
-Query Construction
-
-  
+## Query Construction
 
 -   Queries are structured to retrieve data from specified fields in indicated tables (files) in a database
     
@@ -9133,25 +6942,13 @@ Query Construction
     
 -   Boolean operators -- especially logical and and logical or -- allow the construction of multiple search constraint queries
     
-
-**  
-**
-
-Example Queries -- SQL
-
-  
+## Example Queries -- SQL
 
 -   SELECT Name FROM Sales WHERE Amount > 5000 AND Region = “West”
     
 -   SELECT Name FROM Sales WHERE (Amount > 5000 AND Region = “West”) OR (Amount > 2000 AND Region = “Midwest”)
     
-
-**  
-**
-
-Summary
-
-  
+## Summary
 
 -   Databases are Software that manages the storage and retrieval of data dates from the early days of computing
     
@@ -9161,13 +6958,7 @@ Summary
     
 -   The first step toward creating any database is the definition of the structure of the data to be modeled
     
-
-**  
-**
-
-Summary (cont’d)
-
-  
+## Summary (cont’d)
 
 -   All database management systems provide the ability to define data entry forms and reports for output
     
@@ -9177,13 +6968,7 @@ Summary (cont’d)
     
 -   SQL has become the de facto standard for query languages
     
-
-**  
-**
-
-Database Products in Widespread Use
-
-  
+## Database Products in Widespread Use
 
 -   Oracle
     
@@ -9197,20 +6982,11 @@ Database Products in Widespread Use
     
 -   PostgreSQL
     
+## Databases and Individual Privacy
 
-**  
-**
+## Data to fight crime and terrorism  
 
-Databases and Individual Privacy
-
-**  
-  
-**
-
-Data to fight crime and terrorism  
 Lessons learned as a result of 9-11
-
-  
 
 -   Too much data can be a liability 
     
@@ -9221,26 +6997,14 @@ Lessons learned as a result of 9-11
     
 -   Sometimes requires filtering to remove “irrelevance”
     
-
-  
-
 The highly controversial Patriot Act has expanded the 
 
 Scope of data that the Govt. can collect and use on you
 
-  
-  
-  
-**  
-**
-
-Social Significance
-
-  
+## Social Significance
 
 -   Every one of us is profiled in several databases around the country many of which are linked to each other:
     
-
 -   Financial, insurance and credit systems
     
 -   Medical systems
@@ -9253,37 +7017,15 @@ Social Significance
     
 -   Govt. systems (Municipal, State and Federal)
     
-
-
-
-**  
-**
-
-On Line Privacy
-
-  
-  
+## On Line Privacy
 
 -   On-Line Privacy is an Oxymoron.  If you are connected to a network, chances are that someone, somewhere has the capability to keep track of you.
     
-
-**  
-**
-
-How private is my credit report?
-
-  
+## How private is my credit report?
 
 -   Credit reports are a gold mine of information about consumers. They contain Social Security number, date of birth, current and previous addresses, telephone number (including unlisted numbers), credit payment status, employment, even legal information about court proceedings
     
-
-  
-**  
-**
-
-Who has access to my report?
-
-  
+## Who has access to my report?
 
 -   Those considering granting you credit. 
     
@@ -9301,14 +7043,7 @@ Who has access to my report?
     
 -   Any government agency
     
-
-  
-**  
-**
-
-Who are the people that store and provide information about you?
-
-  
+## Who are the people that store and provide information about you?
 
 -   Equifax
     
@@ -9316,95 +7051,42 @@ Who are the people that store and provide information about you?
     
 -   Transunion
     
-
-  
-
 -   Link to Equifax:
     
-
 -   [Equifax Personal Solutions Credit Reports, Credit Scores, Protection Against Identity Theft and more](http://www.equifax.com/)
     
+## Financial Services Modernization Act  
 
-
-
-**  
-**Financial Services Modernization Act  
 also known as Gramm-Leach-Bliley Act or GLB  
   
-
-  
-
 -   Allows banks, insurance companies, and brokerage firms to operate as one. The combined companies have been aptly dubbed "financial supermarkets." 
     
+-   They may promise you such benefits as consolidated account statements and lower fees. But at the same time, the ability of these companies to merge customer data from several sources and even sell it to third parties represents a real risk to your privacy   
 
-  
-
--   They may promise you such benefits as consolidated account statements and lower fees. But at the same time, the ability of these companies to merge customer data from several sources and even sell it to third parties represents a real risk to your privacy**   
-**
-
-What are your rights under GLB?
-
-  
+## What are your rights under GLB?
 
 -   Privacy Policy: Your financial institution must tell you the kinds of information it collects about you and how it uses that information. 
     
-
-  
-
 -   Right to Opt-Out: Your financial institution must explain your ability to prevent the sale of your customer data to third parties. 
     
-
-  
-
 -   Safeguards: Financial institutions are required to develop policies to prevent fraudulent access to confidential financial information. These policies must be disclosed to you
     
-
-  
-**  
-**
-
-Opt-Out / Opt-In
-
-  
+## Opt-Out / Opt-In
 
 -   "Opt-out" is contrary to the "opt-in" approach preferred by most consumer and privacy advocates. 
     
-
-  
-
 -   Opt-in prohibits a financial institution from sharing or selling your data if you do not give your affirmative consent. 
     
-
-  
-
 -   With opt-out, you give your implied consent by failing to return the privacy notice sent to you by your financial company. So, if you say nothing, it means "yes, you can share my data."
     
-
-  
-**  
-**
-
-So What?
-
-  
+## So What?
 
 -   If you Opt In, then you can prevent sharing of your details.  It may be harder to obtain credit at a competitive price however.
     
+-   If you Opt Out, then your info is in the financial supermarket and your creditworthiness is easily   determined and you get approval 
+    (or disapproval) very quickly for a given amount of credit
 
-  
-
--   If you Opt Out, then your info is in the financial supermarket and your creditworthiness is easily determined and you get approval 
-    
-
-   (or disapproval) very quickly for a given amount of credit
-
-**  
-  
-**
-
-GDPR
-
-  
+## GDPR
 
 -   The General Data Protection Regulation 2016/679 is a regulation in EU law on data protection and privacy for all individual citizens of the European Union and the European Economic Area. It also addresses the transfer of personal data outside the EU and EEA areas.
     
@@ -9412,147 +7094,60 @@ GDPR
     
 -   Google and Facebook being sued as we speak.
     
-
-**  
-**
-
-A Typical Personal Database Search Service
-
-  
-  
-  
-
+## A Typical Personal Database Search Service
 [http://www.intelius.com/](http://www.intelius.com/)
 
-  
-**  
-**
-
-Mobile Spyware
-
-  
-  
-  
+## Mobile Spyware
 
 -   Enables someone to monitor everything that you do on your cellphone, and track all of your movements
     
--                             [Mspy.com](http://mspy.com/)
+-  [Mspy.com](http://mspy.com/)
     
+## The  Social  Significance of Databases
 
-**  
-**
-
-The  Social  Significance of Databases
-
-  
-  
-
--   Where is this heading?
+  -   Where is this heading?
     
 -   Watch this ordering Pizza video!
     
-
-  
-
 -   [https://www.aclu.org/ordering-pizza](https://www.aclu.org/ordering-pizza)
     
-
-**  
-**
-
-How much data is being generated and accumulated?
-
-  
-  
+## How much data is being generated and accumulated?
 
 -   https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/#7729e77860ba
     
+![](https://lh3.googleusercontent.com/d-CUof1ZJH0TEOK5IiMW0T3ZyPAWGsRVSWtNVTe5P2MkH8kDFVqxJUgWFQgCatFBJjdC-rRr79KsP1431ByJxXgqZY68mm2rNIkQLSTZdVnvTJtcgJWfr0IAjOLSS4mUEc3QRLi3d7U5uLE=s2048)  
 
-**  
-**![](https://lh3.googleusercontent.com/d-CUof1ZJH0TEOK5IiMW0T3ZyPAWGsRVSWtNVTe5P2MkH8kDFVqxJUgWFQgCatFBJjdC-rRr79KsP1431ByJxXgqZY68mm2rNIkQLSTZdVnvTJtcgJWfr0IAjOLSS4mUEc3QRLi3d7U5uLE=s2048)**  
-**
-
-Can Google access my data?  
+## Can Google access my data?  
   
-
-  
-  
-  
-
 It collects data on what videos you watch, the ads you click, your location, device information, and IP address and cookie data. ... Finally, Google promises that it doesn't sell your data, but rather uses your information to “make ads relevant” while you're browsing the web.
 
-  
-**  
-**
-
-Does Google read your Email?
-
-  
-  
+## Does Google read your Email?
 
 -   Make no mistake, Google can and does read your email. And this should cause concerns about security and privacy. 
     
 -   Because Googles servers have access to all of your organization's emails, an attacker that's able to penetrate these servers can also get all of your data.
     
-
-**  
-**
-
-Does Instagram sell your date?
-
-  
-  
+## Does Instagram sell your date?
 
 -   The study found that Instagram collects 79 per cent of its users' personal data and shares it with third parties, including search history, location, contacts and financial info. “Any information you agree to be gathered by an app when signing up can be analysed for their benefit and even shared
     
-
-**  
-**
-
-What are Digital Cookies?
-
-  
-  
+## What are Digital Cookies?
 
 -   And, what do they do?
     
-
-  
-
 -   [https://www.youtube.com/watch?v=0LKVad2xj5M](https://www.youtube.com/watch?v=0LKVad2xj5M)
     
-
-**  
-**
-
-Who owns your data?
-
-  
-  
-  
+## Who owns your data?
 
 -   This largely depends on what you agreed to when you signed up for various services and applications!
     
-
-**  
-**
-
-Data Science, What is it?
-
-  
-  
+# Data Science, What is it?
 
 -   Data science encompasses preparing data for analysis, including cleansing, aggregating, and manipulating the data to perform advanced data analysis. Analytic applications and data scientists can then review the results to uncover patterns and enable business leaders to draw informed insights.
     
 -   In other word, figuring out how to use your behavior and data for maximum gain and competitiveness
     
-
-**  
-**
-
-What is Computer Science?
-
-  
+# What is Computer Science?
 
 -   Not using a computer
     
@@ -9560,13 +7155,9 @@ What is Computer Science?
     
 -   A field at the intersection of Math, Engineering, etc
     
+![sunlab](https://lh5.googleusercontent.com/nml-rAmvE76zbwJWrvpfc-Hwfb7uCRW4Y5MITuusFUMz_PtiJ0z5D9b4WGenpVR45b532Hkw1NmSETpZBkZ3--12wiWZlEPkQVEwZTiEFfIsww5LBuVaYv1Hi5UpjtX2t803M1MUzlzumB0=s2048)  
 
-![sunlab](https://lh5.googleusercontent.com/nml-rAmvE76zbwJWrvpfc-Hwfb7uCRW4Y5MITuusFUMz_PtiJ0z5D9b4WGenpVR45b532Hkw1NmSETpZBkZ3--12wiWZlEPkQVEwZTiEFfIsww5LBuVaYv1Hi5UpjtX2t803M1MUzlzumB0=s2048)**  
-**
-
-The Algorithm
-
-  
+## The Algorithm
 
 -   Fundamental inventions in formal thinking:
     
@@ -9587,51 +7178,26 @@ The Algorithm
     
 -   Scientific Method (early 1600s)
     
-
-  
-
 -   Now: The Algorithm
     
+![al-Khwarizmi](https://lh5.googleusercontent.com/PU4SDpG5ZccGQSGEqFIgLoCLUfXzhMkA-ntrm_3axpBA2ij14Cheh0zOeG5wSPcaKNJjrygQNGbWwrAf38PLavexFEhNorzEonyc1HzxkDL_d16s6X2vpSQchx8QX8P9gMPTXylGXE2H3Qk=s2048)  
 
-![al-Khwarizmi](https://lh5.googleusercontent.com/PU4SDpG5ZccGQSGEqFIgLoCLUfXzhMkA-ntrm_3axpBA2ij14Cheh0zOeG5wSPcaKNJjrygQNGbWwrAf38PLavexFEhNorzEonyc1HzxkDL_d16s6X2vpSQchx8QX8P9gMPTXylGXE2H3Qk=s2048)**  
-**
-
-Computer Scientists
-
+## Computer Scientists
 ![nerd](https://lh6.googleusercontent.com/D2QNYHUb6mBwVAFmeHVYMTydBGdqek1t72VoWWBp_qKfE9p7LQN6dnsBKuaDq496yo3d7u4wD3Xds1yMLwm06R7rxCf8uWs1XtFN9utELj8qaXZGD0delXJBYr5S2vUSYrsgSOupgCTVWRQ=s2048)  
 
 -   Who are Computer Scientists?
     
 -   Computer Scientists study lots of things
     
-
 -   e.g., "What are Algorithms Theoretically Capable of?“
     
 -   Can Machines Think?
     
-
-  
-  
-
 -   Today we're going to look at the applied version: Programming
     
-
-**  
-**
-
-Computer Programmers
-
-  
-
+## Computer Programmers
  “Their rumpled clothes, their unwashed and unshaven faces, and their uncombed hair all testify that they are oblivious to their bodies and to the world in which they move. These are computer bums, compulsive programmers.”
-
-**  
-  
-**
-
-Computer Science as the New Literacy
-
-  
+## Computer Science as the New Literacy
 
 -   The modes of thought that come from CS are influencing a huge number of fields
     
@@ -9640,17 +7206,12 @@ Computer Science as the New Literacy
 
 -   We can create all sorts of worlds inside the computer to work with
     
+![simulation](https://lh3.googleusercontent.com/3-mPoui5v4Qg2x5xmqNIZAng1zt7bsLCioDT7QLKzYpz7cv2wvfXGFzInwNYxJL_ZPYUN5eP54GoUj_tZL7BAA1hFAEKclXfC5UV8eHVf62aaLYzTD1f0NjZnhwzkFWaiQvahSYsJkfzLZQ=s2048)  
 
-![simulation](https://lh3.googleusercontent.com/3-mPoui5v4Qg2x5xmqNIZAng1zt7bsLCioDT7QLKzYpz7cv2wvfXGFzInwNYxJL_ZPYUN5eP54GoUj_tZL7BAA1hFAEKclXfC5UV8eHVf62aaLYzTD1f0NjZnhwzkFWaiQvahSYsJkfzLZQ=s2048)**  
-**
-
-What does a computer do?
-
-  
+## What does a computer do?
 
 -   Computers internally just keep doing the same thing over and over:
     
-
 -   Get the next instruction
     
 -   Do whatever it says
@@ -9658,105 +7219,52 @@ What does a computer do?
 -   Go back to step #1  
       
     
-
-  
-
 -   But its internal instructions are in binary -- too hard for people to understand easily
     
+![merrygoround](https://lh4.googleusercontent.com/jt40q1xjCObnPIKHGl5sGIAi43u6FRvPBO6p98GuSFAEZkdO3BeofuCkeGBI6cF84x6pPkWJ7LtUfZ5-BZYFy7m5XPbDWDOafb9q9nhstspq59P5SJlk9k0hK3uBwwQ3BkQbBBnWzkIWzd0=s2048)  
 
-![merrygoround](https://lh4.googleusercontent.com/jt40q1xjCObnPIKHGl5sGIAi43u6FRvPBO6p98GuSFAEZkdO3BeofuCkeGBI6cF84x6pPkWJ7LtUfZ5-BZYFy7m5XPbDWDOafb9q9nhstspq59P5SJlk9k0hK3uBwwQ3BkQbBBnWzkIWzd0=s2048)**  
-**
-
-Formal Languages
-
-  
+## Formal Languages
 
 -   A program usually just a document -- a written list of instructions
     
-
-  
-  
-  
-  
-  
-
 -   You saw some of this with HTML -- A markup language is sort-of a programming language
     
-
 ![tuxedo](https://lh6.googleusercontent.com/TwrB6O77DvvWtUy-lpHw6ykNd-YczHcduRuWyXTp3CsqXeNhHgyUMym8OwvpEjdZUBwitzsiaS7fxmZUvvVC1B-IslJRitac5HmMAetzMn3VxVV9Sh5vEHf3T2CObFQU3oJbm9LQiyv0pGE=s2048)  
 
 Poetry: Ambiguity and metaphor are important
-
-  
-
 Prose: Literalness and structure important
 
-  
+## Program: Formal, precise structure
 
-Program: Formal, precise structure
-
-**  
-  
-**![robot](https://lh3.googleusercontent.com/POmUh5VFcXeq6rw8nf1aJ5b3IjPrzc_qVkG8GgMelMjLGUXKUHKM3Rltv8uzN3A0fAOBVbHpcqKTdX04FAM9qa-ApbwWgmhaiJAysi9efrYg35IQ9SExqKnePIbl5Y4xhzIhdgt29c29_bc=s2048)  
+![robot](https://lh3.googleusercontent.com/POmUh5VFcXeq6rw8nf1aJ5b3IjPrzc_qVkG8GgMelMjLGUXKUHKM3Rltv8uzN3A0fAOBVbHpcqKTdX04FAM9qa-ApbwWgmhaiJAysi9efrYg35IQ9SExqKnePIbl5Y4xhzIhdgt29c29_bc=s2048)  
 
 PB&J
-
 Robot…
 
-**  
-  
-**
-
-Programming Languages
-
+## Programming Languages
 ![progpang](https://lh4.googleusercontent.com/6zjFP2ZDHOYjY2MP1U9oGz8Bbpfw4mUnSLfFwvxWcs3NK2gzE13dyNNKC2rPHOpG7W8WTeh4nPXE2cBai4ILG6xpQ7-v1infqMUTBL9WMBhwdqB4egMLy7vqCv2ygWNTLL62mEqedn1zMGc=s2048)  
 
 -   Some simple ones are built in to programs you use every day
     
-
 -   Excel is a programming language (and contains another)
     
 -   Word Macro Language
     
-
-  
-
 -   There are also General Purpose Programming Languages
     
-
-**  
-**
-
-Pseudocode
-
-  
+## Pseudocode
 
 -   There are lots of details to programming languages
     
-
-  
-
 -   We’ll also use something called “pseudocode”
     
-
-  
-
 -   Most of the way to a programming language
     
-
 -   Excludes some details
     
 -   With some plain English mixed in
     
-
-
-
-**  
-**
-
-Some Core Concepts
-
-  
+## Some Core Concepts
 
 -   (A quick taste of what you'll be learning in Python)
     
@@ -9768,18 +7276,13 @@ Some Core Concepts
     
 -   Control
     
+![python](https://lh3.googleusercontent.com/_B8CEwXBWpGEOiN_sylDGmMxPiEqnzXDG-fmntazupCGIGDjev-tFzq7irg6Y6zR-s64l233IlkN06w4A20lfx1c4OaKak_TggSAMXxwQyfzAMvf1E4aLGsGvgAAERats8WCYf2IsN0B8Jk=s2048)  
 
-![python](https://lh3.googleusercontent.com/_B8CEwXBWpGEOiN_sylDGmMxPiEqnzXDG-fmntazupCGIGDjev-tFzq7irg6Y6zR-s64l233IlkN06w4A20lfx1c4OaKak_TggSAMXxwQyfzAMvf1E4aLGsGvgAAERats8WCYf2IsN0B8Jk=s2048)**  
-**
+## State
+![chessboard](https://lh6.googleusercontent.com/hgEFp-TGT32OVCjyMEMTgVGQ-cMjfTdNgZfyXljUyS782HmFv9bRf6bTgdSWmvgOoT5t0RaY-m3Ym2q-zzWXdNrZpTeeKM-0H5PcbdJrU1y3OjGNd7kapcE0_d-DMZ_idyTED31FlRUKD8I=s2048)  
+![faces](https://lh4.googleusercontent.com/w9MelqLCcaMyaYJzC4b-GQkeM9JMqlJBNskzhLNG0WW4gfh1jD9a9y9dK3ewUuPyJhdJ3F3qFKBQ_g7nHlmAox5wNTKxKQewh5AtHEBmjN61hVJZkyQE4HroM4wJu0O-rgb36Y7zB-e0nOk=s2048)  
 
-State
-
-![chessboard](https://lh6.googleusercontent.com/hgEFp-TGT32OVCjyMEMTgVGQ-cMjfTdNgZfyXljUyS782HmFv9bRf6bTgdSWmvgOoT5t0RaY-m3Ym2q-zzWXdNrZpTeeKM-0H5PcbdJrU1y3OjGNd7kapcE0_d-DMZ_idyTED31FlRUKD8I=s2048)**  
-**![faces](https://lh4.googleusercontent.com/w9MelqLCcaMyaYJzC4b-GQkeM9JMqlJBNskzhLNG0WW4gfh1jD9a9y9dK3ewUuPyJhdJ3F3qFKBQ_g7nHlmAox5wNTKxKQewh5AtHEBmjN61hVJZkyQE4HroM4wJu0O-rgb36Y7zB-e0nOk=s2048)  
-
-Expressions
-
-  
+## Expressions
 
 > print “Hello”
 
@@ -9791,13 +7294,7 @@ Expressions
 >print (5*5-2)  
 23
 
-**  
-  
-**
-
-Variables
-
-  
+## Variables
 
 -   Not exactly like Algebra
     
@@ -9805,33 +7302,14 @@ Variables
     
 -   In a program, x=5 updates something in the computer’s memory
     
-
 -   (and 5=x wouldn’t work: it’s not a valid statement)
     
-
-
-
-**  
-**
-
-Control Structures
-
-  
+## Control Structures
 
 -   Lets you make decisions
     
-
-  
-  
-  
-  
-  
-
 -   for, while, …
     
-
-  
-
 if(x>5):
 
    print (“x is big”)
@@ -9840,45 +7318,30 @@ Else:
 
    print (“x is small”)
 
-**  
-  
-**
+## Programs
 
-Programs
+ “The computer programmer is a creator of universes for which he alone is responsible. Universes of virtually unlimited complexity can be created in the form of computer programs.”
 
-  
+![escher](https://lh5.googleusercontent.com/dvUuJNEvhNdipLWW1b-Wz1DAuYCCfUv7S3bJiB0MnOpmH4WVcNzjaa_P4_q0vXpBLejiTpoV9kjZxj-3s7SJBULn-pRmowfP0dzgrm83W-Y5eb9QToJy6sXB_a9KAekk3Eidu3J0Cni4wXU=s2048)  
 
-  “The computer programmer is a creator of universes for which he alone is responsible. Universes of virtually unlimited complexity can be created in the form of computer programs.”
-
-![escher](https://lh5.googleusercontent.com/dvUuJNEvhNdipLWW1b-Wz1DAuYCCfUv7S3bJiB0MnOpmH4WVcNzjaa_P4_q0vXpBLejiTpoV9kjZxj-3s7SJBULn-pRmowfP0dzgrm83W-Y5eb9QToJy6sXB_a9KAekk3Eidu3J0Cni4wXU=s2048)**  
-**Complexity
-
-  
+## Complexity
 
 Controlling complexity is the essence of computer programming
 
--Brian Kernigan**   
+-Brian Kernigan   
   
-**
+## The Process
 
-The Process
+![nterpreter](https://lh5.googleusercontent.com/uzi4GLrSnCOzVkduLexwqyZeVeAGncs8is6w0ikMrJ-VOCUaKgFbp8OwmajGBxPaAaleRXQA0ZjPo5PigfVmIhF4DLLOSjyK5jmW5cfGU6WoA0RxuORHpq56vO-Ql4fOzRHUv2IC8GvXCq4=s2048)  
 
-![nterpreter](https://lh5.googleusercontent.com/uzi4GLrSnCOzVkduLexwqyZeVeAGncs8is6w0ikMrJ-VOCUaKgFbp8OwmajGBxPaAaleRXQA0ZjPo5PigfVmIhF4DLLOSjyK5jmW5cfGU6WoA0RxuORHpq56vO-Ql4fOzRHUv2IC8GvXCq4=s2048)**  
-**
-
-But what do you DO?
-
-  
+## But what do you DO?
 
 -   Design
     
-
 -   Requirements
     
-
 -   Use cases
     
-
 -   Pseudocode
     
 -   Formal Code
@@ -9887,13 +7350,9 @@ But what do you DO?
     
 -   Debug
     
+![working](https://lh5.googleusercontent.com/pr4wNqcPcjxv1DoH6T7e0zr2bfzRf9mr_42a9MBexGLUueJnsjPHRGRn_P-zaUbbkj_5QuH0aSeKrtIl1XHVf4kgIuj1qTfOylviRwyesee-ZgzoEi2TgGsvk57eVzVDKdIIKbugYxpIW8s=s2048)  
 
-![working](https://lh5.googleusercontent.com/pr4wNqcPcjxv1DoH6T7e0zr2bfzRf9mr_42a9MBexGLUueJnsjPHRGRn_P-zaUbbkj_5QuH0aSeKrtIl1XHVf4kgIuj1qTfOylviRwyesee-ZgzoEi2TgGsvk57eVzVDKdIIKbugYxpIW8s=s2048)**  
-**
-
-Design
-
-  
+## Design
 
 -   Most programming is not done sitting in front of a computer
     
@@ -9903,35 +7362,22 @@ Design
     
 -   And how it is structured internally
     
+![thinker](https://lh4.googleusercontent.com/D76SXAy9opE7DGhf-U-RghP9joy4z4hlloN1432KCSQq1g7-ceo6ieHe6QbdMPaV7wdAx-bmTlMJp8FEFUz-KJ4yDJ40MNl6k4calps1Le3_993m74t5iK-w67qmekptn9bNbqdj9k4adKo=s2048)  
 
-![thinker](https://lh4.googleusercontent.com/D76SXAy9opE7DGhf-U-RghP9joy4z4hlloN1432KCSQq1g7-ceo6ieHe6QbdMPaV7wdAx-bmTlMJp8FEFUz-KJ4yDJ40MNl6k4calps1Le3_993m74t5iK-w67qmekptn9bNbqdj9k4adKo=s2048)**  
-**Mostly, when you see programmers, they aren't doing anything. One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them. Very often they're sitting there seemingly drinking coffee and gossiping, or just staring into space. What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his or her head.  
+Mostly, when you see programmers, they aren't doing anything. One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them. Very often they're sitting there seemingly drinking coffee and gossiping, or just staring into space. What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his or her head.  
   
-Charles M Strauss**   
-  
-**
+Charles M Strauss   
 
-Test
-
-  
+## Test
 
 -   Testing a complicated program is difficult
     
 -   Some people write the tests before the programs
     
 
-  
-  
+ “Programming is like sex, one mistake and you have to support it for the rest of your life.”
 
- “Programming is like sex, one mistake and you have to support it for the rest of your life.”
-
-**  
-  
-**
-
-Debug
-
-  
+## Debug
 
 -   At the beginning, much of your time
     
@@ -9939,13 +7385,9 @@ Debug
     
 -   When you have eliminated the impossible, whatever remains, however improbable, must be the truth. – Sherlock Holmes
     
+![sherlock](https://lh5.googleusercontent.com/ONX54ZPwh0H02CE3YrAf6JWtxocP8qJ0ke4z0oibHYgWXdIm-0eKifhwLEzLDu8QApjd9lVei-9g0BGmziNUeCsLLzue1qazh4AOXhqPJtMFajOr65YhkZexV1lFGrX73jJELyfc65cXQI4=s2048)  
 
-![sherlock](https://lh5.googleusercontent.com/ONX54ZPwh0H02CE3YrAf6JWtxocP8qJ0ke4z0oibHYgWXdIm-0eKifhwLEzLDu8QApjd9lVei-9g0BGmziNUeCsLLzue1qazh4AOXhqPJtMFajOr65YhkZexV1lFGrX73jJELyfc65cXQI4=s2048)**  
-**
-
-What is Python?
-
-  
+## What is Python?
 
 -   A REAL Programming Language!
     
@@ -9961,115 +7403,56 @@ What is Python?
     
 -   Increasingly popular for writing scripts for the Web
     
-
-**  
-**
-
-How does Python work?
-
-  
+## How does Python work?
 
 -   It is an INTERPRETED Language, (Like HTML and Java) so that it is easy to write and execute programs in an interactive mode
     
-
-  
-
 -   It has a very clear and easy Syntax
     
-
-  
-
 -   It is portable so it  runs on many different Operating Systems and Machines (Windows, MacOS, Linux, Unix, etc)
     
-
-**  
-**
-
-What are we going to do with Python in CS2?
-
-  
+## What are we going to do with Python in CS2?
 
 -   Learn some basic commands and capabilities of the language
     
-
 -   Printing data, evaluating expressions, inputting data, variables, loops, decisions, functions, boolean expressions
     
-
 -   Learn how to use the programming environment
     
 -   Learn how to write simple but useful programs
     
-
-**  
-**
-
-What tools will you require?
-
-  
+## What tools will you require?
 
 -   You will need the Python  Interpreter and programming environment
     
-
-  
-
 -   Already installed on the computers in the LAB
     
 -   Can be downloaded and installed  on your personal machine from:
     
-
 -   [www.python.org](http://www.python.org/)
     
 -   Hint…to be safe install the 32 bit version for your OS
     
-
-  
-
 -   You will need the Python Tutorial
     
-
-**  
-  
-**
-General Conventions
-
-  
+## General Conventions
 
 -   Python is Case Sensitive!…Be Careful!
     
-
 -   Anything you name (variables, etc) must be referred to exactly as initially typed
     
-
 -   Python Commands are always in lowercase!
     
 -   Comments can be inserted anywhere by using a “#” before the comment text
     
 -   Some commands require indentation to work properly
     
-
-**  
-**
-
-Variables
-
+## Variables
   
-
 -   You can think of variables as labeled jars that store different types of data. While there are several kinds of variables, today we're only going to look at two:
     
 
-  
-
-String Variables
-
-Number Variables
-
-**  
-  
-**
-
-String Variables
-
-  
+## String Variables
 
 -   Strings are literal collections of text characters
     
@@ -10079,147 +7462,77 @@ String Variables
     
 -   Concatenation example
     
-
 -   word = “abc”
     
 -   word = word + “def”
     
 -   print (word) you will get:     abcdef
     
-
-
-
-**  
-**
-
-More String Operations
-
-  
+## More String Operations
 
 -   String Repetition
     
-
 -   word = “Yo! ”
     
 -   print (word* 5)
     
-
-  
-
 -   Results in   Yo!Yo!Yo!Yo!Yo!
     
-
-**  
-**
-
-String Variables
-
-  
+## String Variables
 
 -   String - A string variable is a string of alphanumeric characters and allowed symbols that are contained within quotation marks. For example, "Hello world, I'm 102 years old today!" is an example of a string. 
     
-
-  
-
 -   Strings are basically used for storing text
     
-
-  
-
 -   Example:  greeting = “Good Morning Sunshine!”
     
-
-**  
-**
-
-Number Variables
-
-  
+## Number Variables
 
 -   Number - A number variable couldn't be more straightforward because all number variables store are numbers. You don't store them within quotes like strings. Instead, numbers can just be written as they are. If you want to store the number 9 in a variable, you just write 9
     
-
-  
-
 -   Example:  my_bank_balance = 9
     
-
 or….    pi=3.14
 
-**  
-  
-**
-
-Our First Program
-
-  
+## Our First Program
 
 -   A program that prints a greeting!
     
-
-  
-
 -   print (“Hello, World!”)
     
-
-  
-
 -   When this program runs, it outputs…          Hello, World!
     
 -   The text inside of the quotes in the program is referred to as a String, or String Variable
     
 
-**  
-**
+## Another way to achieve the same  
 
-Another way to achieve the same  
 result
-
-  
-  
-
 -   greeting = “Hello, World!”
     
 -    print (greeting)
     
-
-  
-
 -   The output is     Hello, World!
     
 -   Note that we assigned the variable name greeting with the value of the literal string inside of the quotes.
     
-
-**  
-**
-
-Expressions 
-
-  
+## Expressions 
 
 -   Another more complicated program:
     
-
 -   print (“2 plus 2 is”, 2+2)
     
 -   print (“3 times 3 is”, 3*3)
     
 -   print (“35 divided by 5 is”, 35/5)
     
-
 -   The output will be: 2 plus 2 is 4 3 times 3 is 9 35 divided by 5 is 7
     
-
-**  
-**
-
-Operations on Numbers
-
-  
+## Operations on Numbers
 
 -   Operation Symbol Example
     
--   Exponentiation     ** 5 ** 2 == 25
+-   Exponentiation      5  2 == 25
     
 -   Multiplication       * 2 * 3 == 6
     
@@ -10231,13 +7544,7 @@ Operations on Numbers
     
 -   Subtraction          -     4 - 3 == 1
     
-
-**  
-**
-
-More Variable Assignment Examples
-
-  
+## More Variable Assignment Examples
 
 -   value = 4*8
     
@@ -10251,18 +7558,12 @@ More Variable Assignment Examples
     
 -   The values that are assigned to variables in Python are called Objects, each object having a reserved place in memory with a pointer connecting it to the assigned variable
     
-
-**  
-**Variable manipulation
-
-  
+## Variable manipulation
 
 -   Variables can be used in conjunction with themselves to affect certain operations;
     
-
 -   Example:
     
-
 -   speed=3
     
 -   speed=speed+4
@@ -10271,24 +7572,14 @@ More Variable Assignment Examples
     
 -   print (speed)      
     
+-   WHAT is the output of this program?   
 
--   WHAT is the output of this program?**   
-**
-
-Printing variables
-
-  
+## Printing variables
 
 -   Variables may be printed by themselves or in succession
     
-
-  
-
 -   Example
     
-
-  
-
 number = 9
 
 bignumber = 55
@@ -10301,138 +7592,58 @@ print (number ,  bignumber)
 
 (puts them on the same line)
 
-**  
-  
-**Inputting Data into your program
-
-  
+## Inputting Data into your program
 
 -   We will focus on user input which is the simplest type and suitable for our purposes
     
-
-  
-
 -   Input command syntax is:
     
-
-  
-
-         speed = input (“enter speed “)**                 
-  
-**
+speed = input (“enter speed “)                 
 
 Ok, so let’s write a simple program with the stuff that we have covered so far
 
-  
-
 -   # A simple program to check our travel progress
     
-
-  
-
 -   name = input ("enter your name: ")
     
-
-  
-
 -   speed = int(input("enter your average speed: "))
     
-
-  
-
 -   time =  int(input("enter your exact travel time in hours: "))
     
-
-  
-
 -   print (name + " your distance travelled is exactly ",speed*time, " miles")
     
-
-  
-
 -   print ("the end")
     
-
+ “That's what's cool about working with computers. They don't argue, they remember everything and they don't drink all your beer.”  
   
-**  
- **“That's what's cool about working with computers. They don't argue, they remember everything and they don't drink all your beer.”**  
-  
-**
+# Artificial Intelligence  
+Can Computers Think?
 
-Artificial Intelligence  
-  
-    Can Computers Think?
-
-**  
-  
-**
-
-What is AI?
-
-  
+## What is AI?
 
 -   It is the science and engineering of making intelligent machines, especially intelligent computer programs.
     
-
 -   Artificial Intelligence is the study of the computations that make it possible to perceive, reason and act.
     
-
-  
-  
-**  
-**
-
-Artificial Intelligence
-
-  
+## Artificial Intelligence
 
 -   Artificial intelligence is concerned with understanding the nature of intelligence through the creation of computer programs which control machines.
     
-
-  
-
 -   It is normally divided up into various sub-disciplines such as vision, learning, language, planning, motion, etc.
     
-
-  
-**  
-**
-
-Artificial Intelligence
-
-  
+## Artificial Intelligence
 
 -   Artificial Intelligence becomes a formal branch of Computer Science around 1956
     
-
-  
-
 -   AI has its own computer programming languages LISP, which developed in 1957, is STILL in use today, along with others
     
-
-  
-
 -   Every major computer technology company has a considerable investment in AI research
     
-
-  
-**  
-**
-
-The Mind-Body Problem
-
-  
+## The Mind-Body Problem
 
 -   The major philosophical issue related to AI in computer science is the mind-body problem -- how the mind relates to the body as espoused by Rene Descartes
     
-
-  
-**  
-**
-
-Mental Life
-
-  
+## Mental Life
 
 -   People (and presumably some animals) have a mental life.
     
@@ -10440,95 +7651,44 @@ Mental Life
     
 -   Mental life is made up of sensations (color, pain, smells, touch,etc.), emotions and  thoughts etc.
     
-
-**  
- **The Mind Body Paradox
-
-  
+## The Mind Body Paradox
 
 1 - Bodies are physical.
-
-  
-
 2 - Minds are not physical.
-
 3 - Minds and bodies interact. 
-
-  
-
 4 - The physical and non-physical can't interact. 
 
-  
+Any three of this propositions are compatible but all four together are not….  
 
-Any three of this propositions are compatible but all four together are not….**  
-**
-
-Cartesian Dualism
-
-  
+## Cartesian Dualism
 
 -   Cartesian dualism as espoused by Rene Descartes claims that mental activity is governed by different laws, and is made up of different stuff than purely physical activity.
     
-
-  
-
 -   The major problem with this theory for science is that nobody has every seen such stuff, or observed such laws.
     
-
-  
-**  
-**
-
-Physicalism
-
-  
-  
-  
+## Physicalism
 
 -   Physicalism  contends that mental activity and physical brain activity are the same thing.
     
 
-  
-**  
-**Here is Where Computers Enter the Picture.
-
-  
+Here is Where Computers Enter the Picture.
 
 -   Computers today to some degree make physicalism seem less plausible. 
     
-
 -   “What is it like to be an Apple iBook?”
     
-
-  
-
 -   Presumably our answer would be “not much”.
     
+-   Would our answer change if the computer were talking to us and having a conversation?   
 
-  
 
--   Would our answer change if the computer were talking to us and having a conversation?**   
-**
-
-So, Can Computers Think?
-
-  
-  
+## So, Can Computers Think?
 
 Not yet…but who knows what the future holds in store?
 
-  
-
 -   Either way there are important philosophical ramifications.
     
-
-**  
-**
-
-The “Chinese Room” Problem
-
-  
-  
+## The “Chinese Room” Problem
 
 -   Imagine a person sitting in a room, and who does not understand Chinese. 
     
@@ -10538,29 +7698,15 @@ The “Chinese Room” Problem
     
 -    The same should be said about computers.
     
-
-**  
-**Just Wait for Our Intuitions to Change!
-
-  
-  
+## Just Wait for Our Intuitions to Change!
 
 Many things that we currently take for granted at one time seemed very implausible.
+-   Computation and logic can be carried out in the absence of consciousness.   
 
-  
-
--   Computation and logic can be carried out in the absence of consciousness.**   
-**
-
-The Promise of AI
-
-  
+## The Promise of AI
 
 -   Some Machines that “Think”, or at least give the appearance that they do….
     
-
-  
-
 -   Robots
     
 -   Expert Systems
@@ -10569,46 +7715,22 @@ The Promise of AI
     
 -   Natural Language Processors
     
-
-  
-**  
-**
-
-Results To Date
-
-  
+## Results To Date
 
 -   Software that analyzes other systems and software
     
-
-  
-
 -   Software that “learns” and never forgets
     
-
-  
-
 -   Very reliable robotic systems at decreasing cost
     
-
-  
-
 -   Problem Solvers
     
-
 -   Computer Chess and other Games
     
+![Demand of AI in various Industries](https://lh4.googleusercontent.com/rtdcBHWaNnRdH3nuoDNQt5gLrlYzvvzP-Ts4Xbu2Y3fuDEeJIQbovKoZqQ1CmS1wzJ2_H3KxPUz1Dcn7HYm9umDKa-tc8pelXm5YIcZaQenAwt4ht43rkITq8wb0Ssqyzc6pGoNtKIfUz5A=s2048)  
+![](https://lh5.googleusercontent.com/A_81T97txQPIInALKlSodG-D6kpREi5LUA8xVF1oPeh4cX6yQFy_JG5Uo1MH2Cauwf3_8LGxK-fg6hOgjUGZc5Ut29Yj2gj0eZS1ig6VE8Gzft4UyVOKcJkzTYxAGbBvJUL0FiWGjOej40Y=s2048)  
 
-
-
-**  
-**![Demand of AI in various Industries](https://lh4.googleusercontent.com/rtdcBHWaNnRdH3nuoDNQt5gLrlYzvvzP-Ts4Xbu2Y3fuDEeJIQbovKoZqQ1CmS1wzJ2_H3KxPUz1Dcn7HYm9umDKa-tc8pelXm5YIcZaQenAwt4ht43rkITq8wb0Ssqyzc6pGoNtKIfUz5A=s2048)**  
-**![](https://lh5.googleusercontent.com/A_81T97txQPIInALKlSodG-D6kpREi5LUA8xVF1oPeh4cX6yQFy_JG5Uo1MH2Cauwf3_8LGxK-fg6hOgjUGZc5Ut29Yj2gj0eZS1ig6VE8Gzft4UyVOKcJkzTYxAGbBvJUL0FiWGjOej40Y=s2048)**  
-**
-
-Some Areas and Applications of AI Research
-
-  
+## Some Areas and Applications of AI Research
 
 -   Game Theory
     
@@ -10622,101 +7744,43 @@ Some Areas and Applications of AI Research
     
 -   Heuristic Classification (what should I do?)
     
-
-  
-**  
-**
-
-Machine (Computer) Vision
-
-  
+## Machine (Computer) Vision
 
 -   Computer vision is concerned with reconstructing the objects and their placement in a scene from one or more  arrays of light intensities generated by these objects.
     
-
-  
-
 -   It is a very complicated problem.
     
-
-  
-
 -   That we and other animals do it so effortlessly speaks highly of evolution.
     
-
-**  
-**
-
-Line Detection
-
-  
+## Line Detection
 
 -   Early vision (things that are done early in the vision process) is generally concerned with line detection.
     
-
-  
-
 -   Lines are places where there is a sharp change in light intensities.
     
-
-  
-
 -   Noise often complicates things, so it is necessary to smooth the observed light intensities.
     
-
-  
-**  
-**
-
 Three Causes of Lines
-
-  
 
 Line caused by reflectance change.
 
-  
-
 Line caused by object orientation change.
-
-  
 
 Line caused by object boundary.
 
-**  
-  
-**
-
-Early Vision and It’s Uses
-
-  
+## Early Vision and It’s Uses
 
 -   So far we have been talking about early vision:  line detection, stereo, texture.
     
 -   Some tasks require not much more than this, e.g. driving a car on a highway.
     
-
-**  
-**
-
-Object Recognition
-
-  
+## Object Recognition
 
 -   More advanced machine vision is concerned with object recognition.
     
-
-  
-
 -   Problem involve how to represent object shapes and sizes, how to map such representations when an object is seen at different angles
     
-
-**  
-**
-
-Some Applications for Object Recognition
-
-  
-  
+## Some Applications for Object Recognition
 
 -   Manufacturing Quality Control
     
@@ -10728,199 +7792,81 @@ Some Applications for Object Recognition
     
 -   Robots
     
-
-  
-  
-**  
-**  
-
-Object recognition in    manufacturing
-
-  
-  
-  
-  
+## Object recognition in    manufacturing
 
 -   [https://www.tesla.com/videos/tesla-factory-highlights](https://www.tesla.com/videos/tesla-factory-highlights)
     
-
-  
-**  
-**
-
-Machine Learning
-
-  
+## Machine Learning
 
 -   Machine learning is the creation of new hypotheses by computers (or at least hypotheses new to the computer).
     
-
-  
-
 -   Today most machine learning programs use statistical techniques, and there is, in general, a great cross fertilization between Statistics and Artificial Intelligence.
     
-
-**  
-**
-
-Planning
-
-  
+## Planning
 
 -   Planning is deciding what action to take next.
     
-
-  
-
 -   Within AI planning problems are generally thought of as coming in two varieties:  planning with and without complete information.
     
-
-**  
-**
-
-Game Playing
-
-  
+## Game Playing
 
 -   One standard planning problem is game playing.
     
-
-  
-
 -   Games like chess are examples of planning with complete information since one knows the exact state of the game board, and nothing else affects the play of the game
     
-
-**  
-**
-
 Game Trees with known rules
-
-  
 
 My possible first moves.
 
-  
-
 Initial state of the board
-
-  
 
 State after move 1
 
-  
-
 State after move 2
-
-  
 
 My opponents possible moves.
 
-  
-
 State after move 2 followed by  my opponents move 1
 
-**  
-  
-**
-
-Using the Game Tree
-
-  
+## Using the Game Tree
 
 -   In principle one can decide on a move by considering all possible responses to responses …
     
-
-  
-
 -   In practice one cannot carry this out to the end of the game..
     
-
-  
-
 -   So one carries it out as far as one can….
     
-
-**  
-**
-
-Chess Playing
-
-  
+## Chess Playing
 
 -   Many of the worlds best chess players are computers.
     
-
-  
-
 -   A computer (IBM’s Deep Blue) beat the Gary Kasparov, the world champion in 1997 in a one on one tournament using the tree technique..
     
-
-  
-**  
-**
-
-Number of possible moves in a chess game
-
-  
-  
+## Number of possible moves in a chess game
 
 -   There are over 288 billion different possible positions after four moves each. The number of distinct 40-move games is far greater than the number of electrons in the observable universe…..
     
-
-**  
-**
-
-Pretending the Information is Perfect
-
-  
+## Pretending the Information is Perfect
 
 -   In many cases one needs to plan without perfect information, scheduling a factory floor, airport terminal gates, transportation of supplies.
     
-
-  
-
 -   If things break down, or don’t arrive, analyze the result and re-plan
     
-
-**  
-**
-
-Planning Under Uncertainty
-
-  
+## Planning Under Uncertainty
 
 -   Some of the time, however, the future is very uncertain.
     
-
-  
-
 -   Should one send an airplane to pick up people if you are not sure where the people are, if the airplane will make it, or if they really want to be picked up?
     
-
-  
-**  
-**
-
-Utility Theory
-
-  
+## Utility Theory
 
 -   A standard tool for reasoning in such situations is utility theory.
     
-
-  
-
 -   Actions have costs, and possible outcomes with certain probabilities.  Do the action for which the sum of P(outcome)*Utility of outcome - cost is the greatest.
     
-
-**  
-**
-
-Speech Recognition and Natural Language Programs
-
+## Speech Recognition and Natural Language Programs
   
-
--   Very difficult problem
+  -   Very difficult problem
     
 -   Recognizing words and simple phrases vs. complex thoughts and syntax
     
@@ -10930,85 +7876,41 @@ Speech Recognition and Natural Language Programs
     
 -   Used by the “Turing test” as the ultimate test of computer intelligence
     
-
-  
-**  
-**
-
-The Loebner Prize ($100K)
-
-  
+## The Loebner Prize ($100K)
 
 -   Awarded each year to the computer program that best responds to a team of human questioners and best mimics another human being in what is called the “Turing Test”
     
-
-  
-
 -   Turing asked the question, “ If a computer could be made to think, how would we tell?”…have a conversation with it…..?
     
-
-**  
-**Chat bots
-
-  
-  
-  
+## Chat bots
 
 A Chat bot is a program that attempts to simulate typed conversation, with the aim of at least temporarily fooling a human into thinking they were talking to another person. 
 
-  
+Chat bots are lightweight Natural Language Programs.    
 
-Chat bots are lightweight Natural Language Programs.**    
-  
-**
-
-Chat bot Speech Demo 
-
-  
+## Chat bot Speech Demo 
 
 Two Bots talking to each other!
-
-  
-
 [https://www.youtube.com/watch?v=X_tvm6Eoa3g](https://www.youtube.com/watch?v=X_tvm6Eoa3g)
 
-**  
-  
-**Heuristics
-
-  
+## Heuristics
 
 -   For a given set of circumstances, what should be done?
     
-
-  
-
 -   What information can be used as input into the decision process?
     
-
-  
-
 -   What weight should be given to different pieces of data?
     
-
-example: approving a credit card purchase**   
+example: approving a credit card purchase   
   
-**
-
-Robotics
-
-  
+## Robotics
 
 -   The ultimate exercise in planning and action is in the area of robotics.
     
-
 -   The current state of robotics is still fairly primitive.  Our sensors typically do not tell us much about the environment with much certainty, and our effectors do not work all that well either.
     
 
-**  
- **Robotic Sensors
-
-  
+## Robotic Sensors
 
 -   Infared
     
@@ -11020,88 +7922,41 @@ Robotics
     
 -   Liquid
     
--   Micro Switches**  
-**
+-   Micro Switches  
 
 A practical robotic example
 
-  
-
 -   Self driving cars!
     
-
-  
-  
-
 -   [https://www.youtube.com/watch?v=TsaES--OTzM](https://www.youtube.com/watch?v=TsaES--OTzM)
     
-
-**  
-**
-
-IBM’s Artificial Brain
-
-  
+## IBM’s Artificial Brain
 
 -   IBM has recently unveiled its Blue Gene Artificial Brain.
     
-
-  
-
 -   Has the computing power of a cat’s brain but is only 1/83rd as fast as a human brain
     
-
-  
-
 -   Consists of 147,000 interconncted processors and consumes 1,000,000 watts of power and has 150,000 Gigabytes of memory!
     
+## IBM Blue Gene
+![Blue Gene/L supercomputer](https://lh3.googleusercontent.com/33E0MQa3Y_1X5RuI0JjgOo-482uVhJeCOpnABIDU2mfO_FIn9G4nJ8qY0EHUsV1i2r9f_FrsxNFDWwAXPJrVXasqXV18TLVFsjVCge2Ky8KxG0zB_EDXb-k1AG1dX5pdLN_BlCaKDnloWT0=s2048)  
 
-  
-**  
-**
-
-IBM Blue Gene
-
-![Blue Gene/L supercomputer](https://lh3.googleusercontent.com/33E0MQa3Y_1X5RuI0JjgOo-482uVhJeCOpnABIDU2mfO_FIn9G4nJ8qY0EHUsV1i2r9f_FrsxNFDWwAXPJrVXasqXV18TLVFsjVCge2Ky8KxG0zB_EDXb-k1AG1dX5pdLN_BlCaKDnloWT0=s2048)**  
-**
-
-IBM Watson
-
-  
-
+## IBM Watson
 [https://www.youtube.com/watch?v=P18EdAKuC1U](https://www.youtube.com/watch?v=P18EdAKuC1U)
 
-**  
-  
-**
-
-Self Awareness
-
-  
+## Self Awareness
 
 -   Can machines be made Self-Aware?
     
-
-  
-
 -   Implies that at some point they might not need further programming….they do it themselves….just like a new born infant does from the time it is born!
     
-
-  
-
 -   The machines could then decide whether or not they like us…and if they should keep us around!
     
 
-**  
-**
-
-Self Awareness in Popular Culture
-
-  
+## Self Awareness in Popular Culture
 
 -   Science Fiction from Asimov, Phillip Dick, Arthur Clarke, Brian Aldiss and others…
     
-
 -   Robots
     
 -   Malevolent Computers
@@ -11113,115 +7968,60 @@ Self Awareness in Popular Culture
 -   Self Aware Machines the enslave mankind
     
 
-
-
-**  
-**
-
-Asimov’s Robotics Laws
-
-  
+## Asimov’s Robotics Laws
 
 Over-riding Law: A robot may not injure humanity, or, through inaction, allow humanity to come to harm.  
-  
 
 Law One: A robot may not injure a human being, or, through inaction, allow a human being to come to harm, unless this would violate a higher order law.  
   
-
 Law Two: A robot must obey orders given it by human beings, except where such orders would conflict with a higher order law.  
   
-
 Law Three: A robot must protect its own existence as long as such protection does not conflict with a higher order law.  
--[Isaac Asimov](http://inventors.about.com/gi/dynamic/offsite.htm?site=http://www.cis.ohio-state.edu/hypertext/faq/usenet/books/isaac-asimov-faq/part3/faq.html)
 
-  
-**  
-**
+[Isaac Asimov](http://inventors.about.com/gi/dynamic/offsite.htm?site=http://www.cis.ohio-state.edu/hypertext/faq/usenet/books/isaac-asimov-faq/part3/faq.html)
 
 Given the uncanny accuracy that science fiction has for predicting the future…who knows?…
 
-**  
-  
-**
+## Some examples of AI in popular culture
 
-Some examples of AI in popular culture
+![discovery](https://lh3.googleusercontent.com/EZCyabQT7ZhA1q7K_Y7nKTuOLaLqueuibvyX2Z7SO0FwAjIervgiEVk_ZcHKo4a9eZqcgg5K4MmCwo_kGlSSmvoLzM2mcGxColfQ6HXro1x7zjbuszmMp9VBeZ1vYkpucXJET7CxopXhOyU=s2048)  
 
-**  
-  
-**![discovery](https://lh3.googleusercontent.com/EZCyabQT7ZhA1q7K_Y7nKTuOLaLqueuibvyX2Z7SO0FwAjIervgiEVk_ZcHKo4a9eZqcgg5K4MmCwo_kGlSSmvoLzM2mcGxColfQ6HXro1x7zjbuszmMp9VBeZ1vYkpucXJET7CxopXhOyU=s2048)  
+## 2001 Space Odyssey…controlled by HAL
 
-2001 Space Odyssey…controlled by HAL
-
-      (Heuristic Algorithm)
-
-**  
-  
-**![willIdream](https://lh5.googleusercontent.com/ZreO36doysRyv442nY5lKSeIYpFFkr0Tw5ZMIpsnT9E1HhVqcJl0QBFw2dNY7UU8XQBeRUZpQNk4T6xC1NVmuhKThj544PMnJftOw7OYRHcN2LanFgCFm9VqI8vjg5OYq3CMrbNebwLPwPA=s2048)  
+(Heuristic Algorithm)
+![willIdream](https://lh5.googleusercontent.com/ZreO36doysRyv442nY5lKSeIYpFFkr0Tw5ZMIpsnT9E1HhVqcJl0QBFw2dNY7UU8XQBeRUZpQNk4T6xC1NVmuhKThj544PMnJftOw7OYRHcN2LanFgCFm9VqI8vjg5OYq3CMrbNebwLPwPA=s2048)  
 
 Walking Inside Hal’s Brain…to pull the plug!!
 
-**  
-  
-**
-
-Hal 2001 Space Odyssey Dialogue and Video
-
-  
+## Hal 2001 Space Odyssey Dialogue and Video
 
 [https://www.youtube.com/watch?v=HwBmPiOmEGQ](https://www.youtube.com/watch?v=HwBmPiOmEGQ)
+![blade18](https://lh4.googleusercontent.com/uqJE40lkPC8vCpDPkKtHmars6ZYrO71hdfCIKeqSmwYD6BdGkrm-aW-fnmybNDp1Mp74bLO7FyxZL26_Lxx9zjxD4Br9eBirm8tXw5d4hPA5mtwWejaLT4WxeJ6ZxNWvq24UK70Z8MAtqBE=s2048)![blade01](https://lh4.googleusercontent.com/zI1Zw2o1Zax7wNCuqnOpmD_oSs1yxXWQivSuBzeWVVYDxTj4ZqQr8LQnkoVgq4PsCZ_Z0mMxZgQ-h2h53dCw347aFpHcoeWZCvoJW4MyDNAwuFO-LEaAtozlLn1LV4zPTH8DUYD0o6v3oS4=s2048)![blade12](https://lh3.googleusercontent.com/296F3Hh_IdN5zf3K3rhfn2sMsR7M7nMe_Y8MgEOo-e7aE2uY-Ken37XYT0rv1-n8iL1IHKJtPgrkcdtCSZUklRqELTmDeWEZWdzjlHlP5KuzFMcR_JM4q6jSfVBKkjEH5hSYq0nITkpr4jI=s2048)![blade11](https://lh5.googleusercontent.com/eO_bvaG6S9cb41-3HS8xoKAj8An7LeZHi2snnDt42QIkPJ97Tm-_ZC3oWDhRchdTPhKXTJgy5J2S4qglr8uJjdSnuNnSYYqrMPRYslOTssO8XIBZZBmmZxAfmwqaN5Cy8TXSr9eLJrsiUwk=s2048)![blade14](https://lh3.googleusercontent.com/bf0rfrYaS-iN6EDHVmmXcFps7A0dhcOKM-EKhwnWx8jZio_FfdF5BMBTaXxKfBhpUaCIS92IiytyA3RlhkdHbTmfPRfv8yOEMVID1FzRf9u0DMSbW5RnwpKJkPhF68dFGNUhS4V70sfqqOA=s2048)  
 
-**  
-  
-       **![blade18](https://lh4.googleusercontent.com/uqJE40lkPC8vCpDPkKtHmars6ZYrO71hdfCIKeqSmwYD6BdGkrm-aW-fnmybNDp1Mp74bLO7FyxZL26_Lxx9zjxD4Br9eBirm8tXw5d4hPA5mtwWejaLT4WxeJ6ZxNWvq24UK70Z8MAtqBE=s2048)![blade01](https://lh4.googleusercontent.com/zI1Zw2o1Zax7wNCuqnOpmD_oSs1yxXWQivSuBzeWVVYDxTj4ZqQr8LQnkoVgq4PsCZ_Z0mMxZgQ-h2h53dCw347aFpHcoeWZCvoJW4MyDNAwuFO-LEaAtozlLn1LV4zPTH8DUYD0o6v3oS4=s2048)![blade12](https://lh3.googleusercontent.com/296F3Hh_IdN5zf3K3rhfn2sMsR7M7nMe_Y8MgEOo-e7aE2uY-Ken37XYT0rv1-n8iL1IHKJtPgrkcdtCSZUklRqELTmDeWEZWdzjlHlP5KuzFMcR_JM4q6jSfVBKkjEH5hSYq0nITkpr4jI=s2048)![blade11](https://lh5.googleusercontent.com/eO_bvaG6S9cb41-3HS8xoKAj8An7LeZHi2snnDt42QIkPJ97Tm-_ZC3oWDhRchdTPhKXTJgy5J2S4qglr8uJjdSnuNnSYYqrMPRYslOTssO8XIBZZBmmZxAfmwqaN5Cy8TXSr9eLJrsiUwk=s2048)![blade14](https://lh3.googleusercontent.com/bf0rfrYaS-iN6EDHVmmXcFps7A0dhcOKM-EKhwnWx8jZio_FfdF5BMBTaXxKfBhpUaCIS92IiytyA3RlhkdHbTmfPRfv8yOEMVID1FzRf9u0DMSbW5RnwpKJkPhF68dFGNUhS4V70sfqqOA=s2048)  
+## Blade runner and Replicants  
+![T1 poster](https://lh5.googleusercontent.com/B1-mEhEfhpGzbwnG8F29giqB71F_jsXBqjgZFhPpVmuEQiGmQZ-CFj-oSZvLiSJcXbhy4yX7OaJMPHSXEH4br5qROhXluBmMnVPcUj0hGfp5SEscoiLCKD-i4N6K5dcJGh74tASUZgvuHmI=s2048)  
+![t-pic5](https://lh5.googleusercontent.com/EhXypQKneM1xl9x1S1iSLM0hnvousziMlK_C13ZC60UoiUN_aGakLDfJ57-2L_B9wJ52cr8Z361sPHgx5bmAtcRFphBl36Sc_pc1TcT0tCAXjaTW6vSzaFxemc0nkaSO1C65wvMzV_dh_xk=s2048)  
 
-       Blade runner and Replicants**  
-  
-**![T1 poster](https://lh5.googleusercontent.com/B1-mEhEfhpGzbwnG8F29giqB71F_jsXBqjgZFhPpVmuEQiGmQZ-CFj-oSZvLiSJcXbhy4yX7OaJMPHSXEH4br5qROhXluBmMnVPcUj0hGfp5SEscoiLCKD-i4N6K5dcJGh74tASUZgvuHmI=s2048)**  
-**![t-pic5](https://lh5.googleusercontent.com/EhXypQKneM1xl9x1S1iSLM0hnvousziMlK_C13ZC60UoiUN_aGakLDfJ57-2L_B9wJ52cr8Z361sPHgx5bmAtcRFphBl36Sc_pc1TcT0tCAXjaTW6vSzaFxemc0nkaSO1C65wvMzV_dh_xk=s2048)  
-
-A Machine that no longer appreciates its maker!!!
-
-**  
-  
-**![teddy](https://lh5.googleusercontent.com/ccDI81ElDeR952L0fV5R4jffiayGxmvSq-tpxYg-X0t8Eid_W91dkqUX6T-yZsolyNzOSvsTMRA9M29F92eGpuhFFx8kYruev2-O4kzdH2jR1OIgb_NZ5cGhjU5qDN5szAB8i49cazwwxdA=s2048)  
-
+## A Machine that no longer appreciates its maker!!!
+![teddy](https://lh5.googleusercontent.com/ccDI81ElDeR952L0fV5R4jffiayGxmvSq-tpxYg-X0t8Eid_W91dkqUX6T-yZsolyNzOSvsTMRA9M29F92eGpuhFFx8kYruev2-O4kzdH2jR1OIgb_NZ5cGhjU5qDN5szAB8i49cazwwxdA=s2048)  
 Artificial Child with Smart Toy in                     “AI”
 
 (Can a machine experience “Love”?)
+![The Matrix](https://lh6.googleusercontent.com/cxk5enBx04hcvP-oyXGqWCsUxAEwOrhPjTg7FZzl8cnVHPLcRuyBjlIdBpAny1PLOqVvMcudqc4vA51D_7ZCdouHMr0u4egGBXzTFHa1p0o8f1HgMAGfkdNxLhNmlvAHG9Wb4a3NQYL32do=s2048)  
 
-  
-**  
-**![The Matrix](https://lh6.googleusercontent.com/cxk5enBx04hcvP-oyXGqWCsUxAEwOrhPjTg7FZzl8cnVHPLcRuyBjlIdBpAny1PLOqVvMcudqc4vA51D_7ZCdouHMr0u4egGBXzTFHa1p0o8f1HgMAGfkdNxLhNmlvAHG9Wb4a3NQYL32do=s2048)  
-
-Machine breeding humans for use as “battery” power in “The Matrix”
-
-**  
-  
-**
+## Machine breeding humans for use as “battery” power in “The Matrix”
 
 So, as you can see…self aware machines rerpresent some interesting chalenges!
 
-**  
-  
-      **"I have no hesitation in thinking  
+"I have no hesitation in thinking  
 that a machine can be just as intelligent and just as real as a person, in principle."  
-  
+Professor Rodney Brooks, Director, MIT Artificial Intelligence Lab   
 
-Professor Rodney Brooks, Director, MIT Artificial Intelligence Lab**   
+# The Family of Computers  
   
-**
+  (Mainframes to Quantum)
 
-The Family of Computers  
-  
-(Mainframes to Quantum)
-
-**  
-  
-**
-
-The family….
-
-  
+## The family….
 
 -   Mainframes
     
@@ -11239,13 +8039,7 @@ The family….
     
 -   NanoComputers
     
-
-**  
-**
-
-Mainframes
-
-  
+## Mainframes
 
 -   Nomenclature generally used for very large multi-processor systems capable of supporting hundreds of simultaneous users and programs via dumb terminals
     
@@ -11259,35 +8053,22 @@ Mainframes
     
 -   Capable of running several Operating Systems simultaneously
     
+![slide07](https://lh6.googleusercontent.com/rMBu3Py__FaUu4OcwFCaakVQ0CWXlC9bJl7JMYyKJp_oxX6ZRraip1Vjq5DOUJcUsmN1ueIL84OYoguFtFI0m39YiG9sNQ099OBz0E20A7kMfrg2ul__1rg0VTNqRDLZ4Ep0ZMGgu4SmBL4=s2048)  
 
-**  
-**![slide07](https://lh6.googleusercontent.com/rMBu3Py__FaUu4OcwFCaakVQ0CWXlC9bJl7JMYyKJp_oxX6ZRraip1Vjq5DOUJcUsmN1ueIL84OYoguFtFI0m39YiG9sNQ099OBz0E20A7kMfrg2ul__1rg0VTNqRDLZ4Ep0ZMGgu4SmBL4=s2048)**  
-**
+## Mainframe Console
+![mage result for vintage mainframe computer pics](https://lh6.googleusercontent.com/IKB6eBRCSpw0PSYd0koAUAMVk2Mvfp8cZu7I_WpnXmTefhNtycPaQC0yiFyiNWDTmydshn3_Jb2zsjMfsiP6wKgT0RZW5e9ZnyGuSkzj7_RtL961WuarMZKMm75Y3zS4GRJdBG5pqU3TGwE=s2048)  
 
-Mainframe Console
-
-![mage result for vintage mainframe computer pics](https://lh6.googleusercontent.com/IKB6eBRCSpw0PSYd0koAUAMVk2Mvfp8cZu7I_WpnXmTefhNtycPaQC0yiFyiNWDTmydshn3_Jb2zsjMfsiP6wKgT0RZW5e9ZnyGuSkzj7_RtL961WuarMZKMm75Y3zS4GRJdBG5pqU3TGwE=s2048)**  
-**
-
-IBM 360 circa 1968 with  
+## IBM 360 circa 1968 with  
+![360 photo](https://lh3.googleusercontent.com/tzXPk1ufTtFu41iZKA6QCRAJcgyERPbWUq_d7RB8DSsuQJq4kkK4iQFXz9KZXg8raj3hOff1sUEgELygOCi7WqoxbDZ8UUbg8lxSSxivVJTutIVZJgTy_-Tl2e0f-dRvMN5M2QPMSrRgZEU=s2048)  
 50 Megabytes of Storage on each disc!
 
-![360 photo](https://lh3.googleusercontent.com/tzXPk1ufTtFu41iZKA6QCRAJcgyERPbWUq_d7RB8DSsuQJq4kkK4iQFXz9KZXg8raj3hOff1sUEgELygOCi7WqoxbDZ8UUbg8lxSSxivVJTutIVZJgTy_-Tl2e0f-dRvMN5M2QPMSrRgZEU=s2048)**  
-**
+## Mainframes used lots of Tapes!
+![mage result for vintage mainframe computer pics](https://lh3.googleusercontent.com/A6vTsX8f4lSXCfPgS-bkDqnzlDP_jg0BpyMXxP6sxzhzwIan0efJA4AqwC_aVQh3d_hI1rqxp6qcUrqNRFmUVrHXBqnCVLyT0NExy9NwDQiaJ_mmveiBgfCs30x4rhP6Dew1KUFnFxc62Z4=s2048)  
 
-Mainframes used lots of Tapes!
+## Easy to use control panel!
+![onsole of an IBM 360/195 computer from 1971 - not really for music](https://lh6.googleusercontent.com/Tf6Y3cEwIeF2m-uCXt1c0R9-Rewe5yh1Wy3uRqDLoM8n3MqAmkc0RKz1ObKeyZrVsQ5iTDTS76gcXWWY4ZftGEiKVK6JXqujXumrezSquK9yuLUOfNFUWawb5LvxT6fsBRWhyVwH0hDYceo=s2048)  
 
-![mage result for vintage mainframe computer pics](https://lh3.googleusercontent.com/A6vTsX8f4lSXCfPgS-bkDqnzlDP_jg0BpyMXxP6sxzhzwIan0efJA4AqwC_aVQh3d_hI1rqxp6qcUrqNRFmUVrHXBqnCVLyT0NExy9NwDQiaJ_mmveiBgfCs30x4rhP6Dew1KUFnFxc62Z4=s2048)**  
-**
-
-Easy to use control panel!
-
-![onsole of an IBM 360/195 computer from 1971 - not really for music](https://lh6.googleusercontent.com/Tf6Y3cEwIeF2m-uCXt1c0R9-Rewe5yh1Wy3uRqDLoM8n3MqAmkc0RKz1ObKeyZrVsQ5iTDTS76gcXWWY4ZftGEiKVK6JXqujXumrezSquK9yuLUOfNFUWawb5LvxT6fsBRWhyVwH0hDYceo=s2048)**  
-**
-
-Some Historical Mainframe Applications
-
-  
+## Some Historical Mainframe Applications
 
 -   Accounting functions
     
@@ -11299,33 +8080,15 @@ Some Historical Mainframe Applications
     
 -   Database Storage and Retrieval
     
-
-**  
-**
-
-Mainframes…like the Brontosaurus, became an endangered species 
-
-  
+## Mainframes…like the Brontosaurus, became an endangered species 
 
 -   IBM, Univac, Control Data, Honeywell, RCA, GE were all early producers of mainframe systems
     
-
-  
-
 -   Given the need for flexibility and scalability, mainframes are few and far between today
     
-
-  
-
 -   Mainframe functionality is better achieved with a network of smaller computers that distribute the processing
     
-
-**  
-**
-
-Supercomputers
-
-  
+## Supercomputers
 
 -   Machines optimized for certains types of programs, usually involving intense numerical operation as opposed to general purpose computing.  These machines were sometimes of the “mainframe” variety and employ many hundreds of parallel processors
     
@@ -11338,31 +8101,11 @@ Supercomputers
 -   Fujitsu
     
 
-**  
-**Supercomputing
+## Supercomputing
+ 
+The high-end supercomputer market is where the world's most challenging  computing problems are addresse Problems of major economic and scientific importance were often handled by high-end supercomputers years before becoming "tractable" on less-capable systems.   
 
-  
-
-The high-end supercomputer market is 
-
-where the world's most challenging 
-
-computing problems are addressed
-
-Problems of major economic and 
-
-scientific importance were often handled 
-
-by high-end supercomputers years 
-
-before becoming "tractable" on 
-
-less-capable systems.**   
-**
-
-Supercomputer Performance
-
-  
+## Supercomputer Performance
 
 -   A typical performance benchmark is the FLOP (Floating Point Operations per Second, which is multiplication of two large binary numbers)
     
@@ -11372,14 +8115,9 @@ Supercomputer Performance
     
 -   TeraFlops   (Trillion)
     
+![g152](https://lh3.googleusercontent.com/XSoP9VMmfz1NlDrJdLbJwdvFobD50Pb8Sujgm4VQuX_UBld1qtzmMrjnHEYo1utBTnC2gUpG4IWyMnJLOQ9W5vMlMFceb8wu7nlzSkqDu_HXpr4paoXyXcYFNYJPjF0cOsMy_dOOyEOCJIU=s2048)  
 
-**  
-**![g152](https://lh3.googleusercontent.com/XSoP9VMmfz1NlDrJdLbJwdvFobD50Pb8Sujgm4VQuX_UBld1qtzmMrjnHEYo1utBTnC2gUpG4IWyMnJLOQ9W5vMlMFceb8wu7nlzSkqDu_HXpr4paoXyXcYFNYJPjF0cOsMy_dOOyEOCJIU=s2048)**  
-**
-
-Examples of SuperComputing Applications
-
-  
+## Examples of SuperComputing Applications
 
 -   Weather analysis/Climate Change
     
@@ -11395,35 +8133,19 @@ Examples of SuperComputing Applications
     
 -   Genetics
     
+## Supercomputers, Cray 1 circa 1980
+![Cray-1](https://lh3.googleusercontent.com/ZsvyGxRafW3tkPS5bUn1QuJ7xB8UmaznH54i-24wIZ0KKPoS_vg5vfwcAaUPF6B5m1t21NkW7fKUYOObiHMf5e1uDnbg2wTi5qvuXtI1MRdx-o1Or1IY81f1i9wu5bo72Ga1wt1ghzl5ico=s2048)  
 
-  
-  
-**  
-**
+## Cray T3 Today, 230 GFLOPs!
+![T3E](https://lh4.googleusercontent.com/u1fR96KhfjRIALNh5PbD7GARKPgsgyZF3c1BpOpLe-VbVQQBQkNCzjW02pkkVI6FgblWzExJ_uCHgtASjpUsD88OHrF2WOZV6CXaC4FEo936a1H1tWOF-_GBq7GWqdEgNk60tcaJwlI-1do=s2048)  
 
-Supercomputers, Cray 1 circa 1980
+## IBM Cluster 1600
+![IBM_cluster_front_3_550](https://lh6.googleusercontent.com/omA5OJCPf10Ye7faGRTdpYJkWWyQwSk3prSV1lGkhF_uXKiLkzXvOvNe4oKW6yUKO5qbYPIU-tCduf5bByz5SPIrVgLJNAY4y3DVSMox3M03F15OeCTBc_SvuvvlwECbkVqPYAbUfSxv34s=s2048)  
 
-![Cray-1](https://lh3.googleusercontent.com/ZsvyGxRafW3tkPS5bUn1QuJ7xB8UmaznH54i-24wIZ0KKPoS_vg5vfwcAaUPF6B5m1t21NkW7fKUYOObiHMf5e1uDnbg2wTi5qvuXtI1MRdx-o1Or1IY81f1i9wu5bo72Ga1wt1ghzl5ico=s2048)**  
-**
+## Earth Simulator by NEC
+![Earth Simulator](https://lh3.googleusercontent.com/sv-5BrpGyAfdERTFB2uGrWFrsqHix4C2s1E5rnFj5AI7lvTbxW1tKdwuScsTyM3HoISoujo_9G8j6_S7JBTXn52R14a9wdPsIVHa1WWEvCon2TIGU19hQYNmmBUXQ6owRUjTc1v14yPHlSU=s2048)  
 
-Cray T3 Today, 230 GFLOPs!
-
-![T3E](https://lh4.googleusercontent.com/u1fR96KhfjRIALNh5PbD7GARKPgsgyZF3c1BpOpLe-VbVQQBQkNCzjW02pkkVI6FgblWzExJ_uCHgtASjpUsD88OHrF2WOZV6CXaC4FEo936a1H1tWOF-_GBq7GWqdEgNk60tcaJwlI-1do=s2048)**  
-**
-
-IBM Cluster 1600
-
-![IBM_cluster_front_3_550](https://lh6.googleusercontent.com/omA5OJCPf10Ye7faGRTdpYJkWWyQwSk3prSV1lGkhF_uXKiLkzXvOvNe4oKW6yUKO5qbYPIU-tCduf5bByz5SPIrVgLJNAY4y3DVSMox3M03F15OeCTBc_SvuvvlwECbkVqPYAbUfSxv34s=s2048)**  
-**
-
-Earth Simulator by NEC
-
-![Earth Simulator](https://lh3.googleusercontent.com/sv-5BrpGyAfdERTFB2uGrWFrsqHix4C2s1E5rnFj5AI7lvTbxW1tKdwuScsTyM3HoISoujo_9G8j6_S7JBTXn52R14a9wdPsIVHa1WWEvCon2TIGU19hQYNmmBUXQ6owRUjTc1v14yPHlSU=s2048)**  
-**
-
-Parallel Processing
-
-  
+## Parallel Processing
 
 -   Many Machines, especially Supercomputers, use a technique known as parallel processing
     
@@ -11431,25 +8153,13 @@ Parallel Processing
     
 -   The NEC Earth Simulator has 640 processing nodes and can achieve 30 Trillion Floating Point operations per second!
     
-
-**  
-**
-
-MiniComputers
-
-  
+## MiniComputers
 
 -   MidSized system that fills the space between Workstations (PCs) and Mainframes.
     
 -   First introduced in the late 60s by DEC and Data General to bring down the cost of computing from Mainframe prices
     
-
-**  
-**
-
-Minicomputers
-
-  
+## Minicomputers
 
 -   Wide range of size and price points
     
@@ -11459,16 +8169,12 @@ Minicomputers
     
 -   Slowly evolved into the machines that today we call “Servers”
     
+PDP-11 and Vax Minicomputers from Digital Equipment Corp
+![10kl](https://lh6.googleusercontent.com/QNCm8xBgKdoIVv25-7OWErvrCluUty96PwYEm6_B2reyJR8zM6xbOzvhb3oEAtTs3cyHLd8t1XjEy8OPjYITT35jLfV-fUDBVQkmXIRW9QzKR0KGCtJRkmqZb3iaMppdJlZNKHmiZqyI2yA=s2048)
+![1144](https://lh3.googleusercontent.com/G_QLX0V5jN4UJKmiSRMX-Zgq-GZAclp9LY1C5ILVUWIlU9-eVOtYVo8o7pL9z8ZjdmtiNJcJxWlsMZkcElomA1SoD7uEuiFMrQqujG6zn1NafR5OaBcKwsP6O8svJCl8jyNX85KNB6XVe8c=s2048)
+![vax750](https://lh5.googleusercontent.com/BN7I0LjPGsDeZVaSofUCfHmuZ2jCl5DZoFyAy9OaMlZ2QsvurbPtleX1_UF60IiMlxBTtjoJex4_ZNZY-bybn3A-bFW3OHAidnsa-Ch6DOALI9s5JrY1YDkjGHnmvtpmRYCPeoUBBABCpmk=s2048)  
 
-**  
- **PDP-11 and Vax Minicomputers from Digital Equipment Corp
-
-![10kl](https://lh6.googleusercontent.com/QNCm8xBgKdoIVv25-7OWErvrCluUty96PwYEm6_B2reyJR8zM6xbOzvhb3oEAtTs3cyHLd8t1XjEy8OPjYITT35jLfV-fUDBVQkmXIRW9QzKR0KGCtJRkmqZb3iaMppdJlZNKHmiZqyI2yA=s2048)![1144](https://lh3.googleusercontent.com/G_QLX0V5jN4UJKmiSRMX-Zgq-GZAclp9LY1C5ILVUWIlU9-eVOtYVo8o7pL9z8ZjdmtiNJcJxWlsMZkcElomA1SoD7uEuiFMrQqujG6zn1NafR5OaBcKwsP6O8svJCl8jyNX85KNB6XVe8c=s2048)![vax750](https://lh5.googleusercontent.com/BN7I0LjPGsDeZVaSofUCfHmuZ2jCl5DZoFyAy9OaMlZ2QsvurbPtleX1_UF60IiMlxBTtjoJex4_ZNZY-bybn3A-bFW3OHAidnsa-Ch6DOALI9s5JrY1YDkjGHnmvtpmRYCPeoUBBABCpmk=s2048)**  
-**
-
-Servers, the new Minis
-
-  
+## Servers, the new Minis
 
 -   Server class computers are the new nomenclature for Minis, whether they are used as servers, or not.
     
@@ -11476,51 +8182,28 @@ Servers, the new Minis
     
 -   Moore’s law has enabled servers to become very powerful and cost effective tools for configuring scalable computing systems
     
+## Rack mounted servers
+![mage result for computer server pics](https://lh5.googleusercontent.com/2Q1rrCep8L8vTDjz21OIR0044XFK-uOfZgzbixsI5lB81afP8QtO7ni3CUv9UgA78BbH3L8Mo5qaZ1MMVeiBf26GYC4D9Nk2fHTbYFbpPVQZ0IBORbqN3ZUSrMdfmEDlFXdCZEPK4HXR-hQ=s2048)  
 
-**  
-**
+## Server Blades
+![mage result for pics of computer servers](https://lh3.googleusercontent.com/nL4pWTGQ18gvKqvPNtZLlaeS9sTXeV-MiALOJ2F9bDvZiShUiAAQYZoj2vkjhT7ReJ0K73caHWRkm4l3p1Cpd2FxTveia-IO4egYF2yTKuLFv4zW7F-9qzK20zZbpatHNoT5NFiwQLCx2RE=s2048)  
 
-Rack mounted servers
-
-![mage result for computer server pics](https://lh5.googleusercontent.com/2Q1rrCep8L8vTDjz21OIR0044XFK-uOfZgzbixsI5lB81afP8QtO7ni3CUv9UgA78BbH3L8Mo5qaZ1MMVeiBf26GYC4D9Nk2fHTbYFbpPVQZ0IBORbqN3ZUSrMdfmEDlFXdCZEPK4HXR-hQ=s2048)**  
-**
-
-Server Blades
-
-![mage result for pics of computer servers](https://lh3.googleusercontent.com/nL4pWTGQ18gvKqvPNtZLlaeS9sTXeV-MiALOJ2F9bDvZiShUiAAQYZoj2vkjhT7ReJ0K73caHWRkm4l3p1Cpd2FxTveia-IO4egYF2yTKuLFv4zW7F-9qzK20zZbpatHNoT5NFiwQLCx2RE=s2048)**  
-**
-
-Lots of Servers configured  
+## Lots of Servers configured  
 together
 
-**  
-  
-**
-
-PC’s (Personal Computers)
-
-  
+## PC’s (Personal Computers)
 
 -   Desktops
     
 -   Laptops
     
-
-  
-
 -   Typically used as clients or standalone machines
     
 -   Larger PC’s can also be used as servers
     
 -   The lines become more blurred over time
     
-
-**  
-**
-
-Radio Shack TRS-80, 1978
-
-  
+## Radio Shack TRS-80, 1978
 
 -   The first plug and play personal computer available at retail
     
@@ -11534,36 +8217,19 @@ Radio Shack TRS-80, 1978
     
 -   Created a cottage software industry of moonlighting programmers
     
+![mod1bw](https://lh6.googleusercontent.com/iRUaPanZtu-WNr4eN8W9ooNXzl-WyeUNlsSMyPHSmUqRx65dW41aQqIeQW5mOyF-7sC2WIruDki2z8KcB7A8WNwcqqWPc4UZZEhoSe1t4KN33JTJBnTgUe0KN--0na21m01MZZQ_sSW235Y=s2048)  
 
-![mod1bw](https://lh6.googleusercontent.com/iRUaPanZtu-WNr4eN8W9ooNXzl-WyeUNlsSMyPHSmUqRx65dW41aQqIeQW5mOyF-7sC2WIruDki2z8KcB7A8WNwcqqWPc4UZZEhoSe1t4KN33JTJBnTgUe0KN--0na21m01MZZQ_sSW235Y=s2048)**  
-**
-
-The Apple II  - 1980
-
-  
+## The Apple II  - 1980
 
 -   The first commercially available Apple
     
-
-  
-
 -   Initially sold to Wall St. bankers who wanted the Spread-sheet program called Visicalc which ran on the Apple II
     
-
-  
-
 -   Put Apple on the Map
     
 -   Several million produced through 1992
     
-
-**  
-   
-**
-
-Other types of “PCs”
-
-  
+## Other types of “PCs”
 
 -   iPads etc.
     
@@ -11575,15 +8241,9 @@ Other types of “PCs”
     
 -   Smart Phones
     
+![g305](https://lh6.googleusercontent.com/8rQ5UXaFu6_xI1GUcQfmstLtUYE3l6AOybQEvIslOOubVtEz_Br8CCz1jn8mZ-0IlvUpP4PRc71wCLjKS17JGtZD0JuMH_U-EUIT0RTn9n49xNdRla7ouQ0KRZNKNdJ03VTQ8Wgqvf79rDk=s2048)  
 
-  
-**  
-**![g305](https://lh6.googleusercontent.com/8rQ5UXaFu6_xI1GUcQfmstLtUYE3l6AOybQEvIslOOubVtEz_Br8CCz1jn8mZ-0IlvUpP4PRc71wCLjKS17JGtZD0JuMH_U-EUIT0RTn9n49xNdRla7ouQ0KRZNKNdJ03VTQ8Wgqvf79rDk=s2048)**  
-**
-
-Micro Controllers
-
-  
+## Micro Controllers
 
 -   Application specific computers of very small size, low cost and limited function
     
@@ -11593,13 +8253,7 @@ Micro Controllers
     
 -   Very cost effective
     
-
-**  
-**
-
-Typical Micro Controller Applications
-
-  
+## Typical Micro Controller Applications
 
 -   Robotics
     
@@ -11615,43 +8269,22 @@ Typical Micro Controller Applications
     
 -   Computer Peripherals (Disk, Keyboard, Display, CD, etc)
     
+![g109](https://lh5.googleusercontent.com/yYzolU9eu76O5iJEcpKplm5TXMZ0NMp3XmV3lhZZ1JVNKinnO2nQCTd__XmIrCxDksINuC6j3RyGtj3-o84yLbi8p4AVQaoVIHNo4H3tv3XL1VywibMVA59cetOUKeK0IgdjABRFSZjnArw=s2048)  
 
-**  
-**![g109](https://lh5.googleusercontent.com/yYzolU9eu76O5iJEcpKplm5TXMZ0NMp3XmV3lhZZ1JVNKinnO2nQCTd__XmIrCxDksINuC6j3RyGtj3-o84yLbi8p4AVQaoVIHNo4H3tv3XL1VywibMVA59cetOUKeK0IgdjABRFSZjnArw=s2048)**  
-**
-
-Micro Controllers
-
-![mb1](https://lh3.googleusercontent.com/NjvwT0KXLuilEWUN12LMXahxzroftuSQMCqNApfyFsHizvbVmMyBmbhTks9hSwV_FBH-CGq0aMktmCdGLa0cLaJOaJTgrh2HcUPbTTxCLqWbjbVtbM9QN-a-vRvlXp5sPvmV6lvf_vPsPZo=s2048)**  
-**![Raspberry Pi 6010602](https://lh4.googleusercontent.com/vOFoJ0beIpyAjxEbSbdyGzln2QNxNBIOm9xL6t2pMyzUKc1FN44AOvKZCiMtah8USpAf4zdFzCABEWQFkDAQix4S53KugZuRpzOJ462DdwLnnPWSaXZ9kviIe3pTEzaQJwCODeFOHl5o_7A=s2048)  
+## Micro Controllers
+![mb1](https://lh3.googleusercontent.com/NjvwT0KXLuilEWUN12LMXahxzroftuSQMCqNApfyFsHizvbVmMyBmbhTks9hSwV_FBH-CGq0aMktmCdGLa0cLaJOaJTgrh2HcUPbTTxCLqWbjbVtbM9QN-a-vRvlXp5sPvmV6lvf_vPsPZo=s2048)  
+![Raspberry Pi 6010602](https://lh4.googleusercontent.com/vOFoJ0beIpyAjxEbSbdyGzln2QNxNBIOm9xL6t2pMyzUKc1FN44AOvKZCiMtah8USpAf4zdFzCABEWQFkDAQix4S53KugZuRpzOJ462DdwLnnPWSaXZ9kviIe3pTEzaQJwCODeFOHl5o_7A=s2048)  
 
 4 GB of Memory
-
 32 GB of Flash Storage
-
 4 USB port
-
 HDMI video output
-
 Sound Chip
-
 Wifi Radio
-
-  
-
 $39.00 on Amazon!!!
-
-  
-
 Rasberry Pi Micro  Computer
 
-**  
-  
-**
-
-NanoComputing
-
-  
+## NanoComputing
 
 -   A nanometer is a billionth of a meter (10^-9) and spans approximately 10 atomic diameters
     
@@ -11663,29 +8296,17 @@ NanoComputing
     
 -   Nanotechnology and nanocomputers could introduce many new applications and possibilities
     
+## NanoComputing Using Electronics
+![fig1](https://lh6.googleusercontent.com/rer2RKu4gJYV3CVh_sqbHNQItO-VbCJ5STm84Pd5S6cBLlerdW_dQjgWCu61xU7873pi3X-wTpxm1BMHJ40ldXYNFDzREpilLtcDhgDUo_cxU_YZxHDTNJ08sjLoEvJweiTcXryojZaPgBE=s2048)  
 
-**  
-**
-
-NanoComputing Using Electronics
-
-![fig1](https://lh6.googleusercontent.com/rer2RKu4gJYV3CVh_sqbHNQItO-VbCJ5STm84Pd5S6cBLlerdW_dQjgWCu61xU7873pi3X-wTpxm1BMHJ40ldXYNFDzREpilLtcDhgDUo_cxU_YZxHDTNJ08sjLoEvJweiTcXryojZaPgBE=s2048)**  
-**
-
-How small is small?
-
-![](https://lh6.googleusercontent.com/ByAFbIoJ9cWsuHZGdOinsnEb8ADSSHoPgZnHcVCH-EOSUQFf2xONHsU64uYrDqlWW1YNlt-wvXVrcG7FgUrfjOc4YFw79TY6p_ZxmqmO6voLpuEb-AKwcfPfU1WzvMYNm4FmR_hHCiiDGNM=s2048)**  
-**
+## How small is small?
+![](https://lh6.googleusercontent.com/ByAFbIoJ9cWsuHZGdOinsnEb8ADSSHoPgZnHcVCH-EOSUQFf2xONHsU64uYrDqlWW1YNlt-wvXVrcG7FgUrfjOc4YFw79TY6p_ZxmqmO6voLpuEb-AKwcfPfU1WzvMYNm4FmR_hHCiiDGNM=s2048)  
 
 Nanocomputing using biological agents, molecules or atoms
+![fig3](https://lh3.googleusercontent.com/Zu7zBeAsLtAJoEJMAYU3XV2lsAgX3iS9BRH-V23tP9XF69NC99xuZmCJfcieB5MJb7hgCw5aUpv1FC7MqCDRsPghuKWBGGEhcbZwb71S3uPVY6gyYBOvheNtfQ3sRANO8HFmr_XwJpS4M7c=s2048)  
+![vg_possible_nanotech@100](https://lh4.googleusercontent.com/Q9yZDXiev7QgfKmVVDM3NTtJhzYM4jWIcruioUVB1ART2z1JsRNnKkYdAzfaccpPt--kh0Tu4y6FoZzFzMixqlpPapO_s_2gs2DkiNNAQVrtysqhjOSeqgtBWZZptC_H3Xv_Xu12cDJ4cQQ=s2048)  
 
-![fig3](https://lh3.googleusercontent.com/Zu7zBeAsLtAJoEJMAYU3XV2lsAgX3iS9BRH-V23tP9XF69NC99xuZmCJfcieB5MJb7hgCw5aUpv1FC7MqCDRsPghuKWBGGEhcbZwb71S3uPVY6gyYBOvheNtfQ3sRANO8HFmr_XwJpS4M7c=s2048)**  
-**![vg_possible_nanotech@100](https://lh4.googleusercontent.com/Q9yZDXiev7QgfKmVVDM3NTtJhzYM4jWIcruioUVB1ART2z1JsRNnKkYdAzfaccpPt--kh0Tu4y6FoZzFzMixqlpPapO_s_2gs2DkiNNAQVrtysqhjOSeqgtBWZZptC_H3Xv_Xu12cDJ4cQQ=s2048)**  
-**
-
-Some Nanocomputing Applications
-
-  
+## Some Nanocomputing Applications
 
 -   Micro Miniature Robots
     
@@ -11699,21 +8320,12 @@ Some Nanocomputing Applications
     
 -   Supercomputing at the very highest scale
     
-
-  
-  
-**  
-**
-
-Skin computing!
-
-![elated image](https://lh3.googleusercontent.com/fuZIRNTvsLqWYJmxfISKQmuQblKqmFJh4Jbzo4UWqZ0xihXpwy5PhdnARDjLyZJm99xEe9ixdONTrsyWUGq9UfwrxXLQa1ehxYAyBy43eaK-ElDckz8EOugvQikx34rCpSkMZdWpSktGFyk=s2048)**  
-**![](https://lh6.googleusercontent.com/z3iOvh3JNzXKPaAl1GfLfXDHSp0XMbSiZpc97cu784G3__jg4hn-3FuV9CcRG4MNIWqThFTvGhBQ92TlRYaJAs2iyfzf3MjnI2PzT5jlzZMkwrsVVNg8-_k6zO1OgguzNm-GgC0IJEHzqXI=s2048)**  
-**![Image result for google quantum computer](https://lh5.googleusercontent.com/ICuBRYz_XwujunlVCkEN_wNPOp_e3M-S5neUKq7IyXxxzpIRnm3fW0xoBh4UHlcA3x3FA1S_b_YObTwFQCZdvzk395J7AVnlx58e46cELpTcUGCt0cXjvxFiBnkrVdUtfsOrZqBqw2DPDLU=s2048)  
+## Skin computing!
+![elated image](https://lh3.googleusercontent.com/fuZIRNTvsLqWYJmxfISKQmuQblKqmFJh4Jbzo4UWqZ0xihXpwy5PhdnARDjLyZJm99xEe9ixdONTrsyWUGq9UfwrxXLQa1ehxYAyBy43eaK-ElDckz8EOugvQikx34rCpSkMZdWpSktGFyk=s2048)  
+![](https://lh6.googleusercontent.com/z3iOvh3JNzXKPaAl1GfLfXDHSp0XMbSiZpc97cu784G3__jg4hn-3FuV9CcRG4MNIWqThFTvGhBQ92TlRYaJAs2iyfzf3MjnI2PzT5jlzZMkwrsVVNg8-_k6zO1OgguzNm-GgC0IJEHzqXI=s2048)  
+![Image result for google quantum computer](https://lh5.googleusercontent.com/ICuBRYz_XwujunlVCkEN_wNPOp_e3M-S5neUKq7IyXxxzpIRnm3fW0xoBh4UHlcA3x3FA1S_b_YObTwFQCZdvzk395J7AVnlx58e46cELpTcUGCt0cXjvxFiBnkrVdUtfsOrZqBqw2DPDLU=s2048)  
 
 Recent announcement by Alphabet, Google’s parent company, about early results from their Quantum Computer development.
-
-  
 
 Google has claimed "[quantum supremacy](https://www.livescience.com/65651-quantum-computers-get-scary-fast.html)" over the most powerful supercomputers in the world by solving a problem considered virtually impossible for normal machines.
 
@@ -11721,69 +8333,35 @@ The quantum computer completed the complex computation in 200 seconds. That same
 
 Q-BITs can have the value of 0 and 1 at the same time!
 
-  
-
 Stay tuned as this and other Quantum experiments evolve.
-
 [https://www.livescience.com/google-hits-quantum-supremacy.html](https://www.livescience.com/google-hits-quantum-supremacy.html)
 
-  
-**  
-**
+# Computer Gaming, Entertainment and other Cool Applications
 
-Computer Gaming, Entertainment and other Cool Applications
-
-**  
-  
-**
-
-Early Computer Games
-
-  
+## Early Computer Games
 
 -   Early Popular games were of the “Adventure” format that were played on the computer console of Mainframe Computers
     
-
 -   Designed by Programmers for Programmers
     
 -   “Adventure” by William Crowther
     
 -   Star Trek
     
-
 Text based, no graphics, player kept their own maps or notes
-
 These games were designed and written by bored systems programmer to pass the time while waiting for programs to run
 
-**  
+## The Opening Line for “Adventure”
+
+You are standing at the end of a road before a small brick building. Around you is a forest. A small stream flows out of the building and down a gully   
   
-**The Opening Line for “Adventure”
+Adventure
+YOU ARE IN A SPLENDID CHAMBER THIRTY FEET HIGH. THE WALLS ARE FROZEN RIVERS OF ORANGE STONE. AN AWKWARD CANYON AND A GOOD PASSAGE EXIT FROM EAST AND WEST SIDES OF THE CHAMBER.   
 
-  
-
-You are standing at the end of a road before a small brick building. Around you is a forest. A small stream flows out of the building and down a gully**   
-  
-**Adventure
-
-  
-
-YOU ARE IN A SPLENDID CHAMBER THIRTY FEET HIGH. THE WALLS ARE FROZEN RIVERS OF ORANGE STONE. AN AWKWARD CANYON AND A GOOD PASSAGE EXIT FROM EAST AND WEST SIDES OF THE CHAMBER.**   
-  
-**
-
-Star Trek Demo
-
-  
-
+## Star Trek Demo
 [https://www.youtube.com/watch?v=4p6qQEDp0Ug](https://www.youtube.com/watch?v=4p6qQEDp0Ug)
 
-**  
-  
-**
-
-The “Modern Era” (1969)
-
-  
+## The “Modern Era” (1969)
 
 -   “PONG” is born
     
@@ -11793,69 +8371,29 @@ The “Modern Era” (1969)
     
 -   Initially designed to be played on arcade systems, it was then adapted to the first home system that connected to a TV set
     
-
-**  
-**
-
 Pong Demo
-
-  
-
 [https://www.youtube.com/watch?v=XNRx5hc4gYc](https://www.youtube.com/watch?v=XNRx5hc4gYc)
-
-**  
-  
-**
-
 Pong, the first “video”game…1969
-
-**  
-  
-**
 
 The Home Pong Machine  
 sold by Atari…their first  
 product!
 
-**  
-  
-**
-
-Magnavox Odyssey 1972
-
-  
+## Magnavox Odyssey 1972
 
 -   Used overlays that you adhered to the front of your TV to simulate graphics
     
 -   Players had to keep their own score since the machine was not smart enough to do it for them!
     
-
-**  
-**
-
-Intel 4004 Microprocessor - 1972
-
-  
+## Intel 4004 Microprocessor - 1972
 
 -   First commercially available micro-processor – first used in a programmable calculator
     
-
-  
-
 -   This technology made the personal computer possible
     
-
-  
-
 -   Contained 2300 transistors and ran at 100 khz
     
-
-**  
-**
-
-Atari 2600…1977
-
-  
+## Atari 2600…1977
 
 -   First Home Video Game with Plug in ROM cartridges
     
@@ -11867,21 +8405,10 @@ Atari 2600…1977
     
 -   Establishes the Game Publishing Paradigm
     
-
-  
-**  
-**
-
-PAC-MAN !!
-
-**  
-  
-**
+## PAC-MAN !!
 
 A Parade of Games and  
 Game Conosoles
-
-  
 
 -   Asteroids
     
@@ -11909,9 +8436,6 @@ Game Conosoles
     
 -   Microsoft Flight Simulator
     
-
-  
-
 -   Atari
     
 -   Coleco
@@ -11930,29 +8454,16 @@ Game Conosoles
     
 -   Nintendo Wii
     
+## Nintendo Classic  
 
-  
-**  
-**
-
-Nintendo Classic  
 introduced several generations  
 to Computer Games
 
-**  
-  
-**
+## And what game was played on the Nintendo?
 
-And what game was played on  
-the Nintendo?
-
-**  
+Yes, somehow this only comes in eighth. The NES pack-in is the definitive videogame for a generation, and the first experience  
   
-           **Yes, somehow this only comes in eighth. The NES pack-in is the definitive videogame for a generation, and the first experience**  
-  
-**Publishers Model
-
-  
+## Publishers Model
 
 -   New Games were often released for Arcade and Home use simultaneously….
     
@@ -11960,12 +8471,9 @@ the Nintendo?
     
 -   They received royalties for games sold
     
--   Most of the profits are in the game cartridges, not the game console itself**   
-**
+-   Most of the profits are in the game cartridges, not the game console itself   
 
-Some Game Categories
-
-  
+## Some Game Categories
 
 -   Flight Simulators
     
@@ -11987,9 +8495,6 @@ Some Game Categories
     
 -   Sim Games
     
-
-  
-
 -   Single Player
     
 -   Multi-Player (MUDs)
@@ -12002,14 +8507,7 @@ Some Game Categories
     
 -   Console
     
-
-**  
-**
-
-Players today in U.S.  
-for Console and PC games.
-
-  
+## Players today in U.S. for Console and PC games.
 
 -   12,000,000 PC Computer Gamers
     
@@ -12021,23 +8519,14 @@ for Console and PC games.
     
 -   14 to 26 year old male dominated
     
-
 -   Boys and their Toys!
     
-
 73% of 7-29 year olds have played a computer game
-
 In the U.S., sales of Computer Games outnumber books!   
 
-    >150 Million Consoles in use Worldwide
+>150 Million Consoles in use Worldwide
 
-**  
-  
-**
-
-Most Popular Games…so far
-
-  
+## Most Popular Games…so far
 
 -   TETRIS
     
@@ -12053,18 +8542,7 @@ Most Popular Games…so far
     
 -   Halo
     
-
-  
-  
-
-
-**  
-  
-**
-
-Mobile Gaming-The Growth Market
-
-  
+## Mobile Gaming-The Growth Market
 
 -   193M Mobile Gamers in the U.S!
     
@@ -12074,35 +8552,18 @@ Mobile Gaming-The Growth Market
     
 -   Candy Crush Saga top Grossing Game
     
-
 $819M!!!
 
- Global Mobile Gaming is a $68B business today!
+Global Mobile Gaming is a $68B business today!
+Larger than the GDP of Costa Rica
 
-      Larger than the GDP of Costa Rica
-
-  
-**  
-**
-
-Gaming Market Size
-
-  
+## Gaming Market Size
 
 -   By the end of 2019, the global gaming market is estimated to be worth $152 billion, with 45% of that, $68.5 billion, coming directly from mobile games. 
     
-
-  
-
 -   With this tremendous growth (10.2% YoY to be precise) has come a flurry of investments and acquisitions, everyone wanting a cut of the pie.
     
-
-**  
-**
-
-Computer Game Technology
-
-  
+## Computer Game Technology
 
 -   Due to extreme price/performance pressure, video console game hardware is designed specifically for the purpose of running gaming software at lowest cost
     
@@ -12110,46 +8571,25 @@ Computer Game Technology
     
 -   Many game enhancement products exist for PCs however so that games can crossover to that market
     
-
-**  
- **Gaming Software
-
-  
+## Gaming Software
 
 -   Much of the critical software is written in lower level code to enhance execution speed
     
-
+-   Many of the gaming consoles have special machine instructions designed specifically for game functions      
   
-
--   Many of the gaming consoles have special machine instructions designed specifically for game functions**      
-  
-**
-
-Physics Engines 
-
-  
+## Physics Engines 
 
 Realistic Motion is achieved with specially
-
- designed software “physics engines” that 
-
+designed software “physics engines” that 
 perform the calculations for objects that are 
-
 moving through the game space at high speeds
 
-**  
-  
-**
-
-Physics Engines
-
-  
+## Physics Engines
 
 -   Libraries of programs that contain:
     
 -   Physical Characteristics of the objects
     
-
 -   Height
     
 -   Weight
@@ -12158,124 +8598,54 @@ Physics Engines
     
 -   Velocity
     
-
 -   Formulas for all possible combinations of reactions against that object
     
+Physics Engines, don’t always have to follow the laws of Physics!
+Sometimes you want to be able to take a left turn at 400 mph !!!!           
 
-**  
-**Physics Engines, don’t always have to follow the laws of Physics!
-
-  
-
-  
-  
-
-  
-
-Sometimes you want to be able to take a left turn at 400 mph !!!!**           
-  
-**
-
-Video Gaming Graphics
-
-  
+## Video Gaming Graphics
 
 -   Seamless high resolution video processing is the key to high quality games today
     
-
-  
-
 -   Special video hardware that processes more megabits per second is the name of the game here coupled with very efficient vector graphics software
     
-
-**  
-**
-
 X-Box  and PlayStation  the Standards….today anyway
 
-**  
-  
-**
-
-eSports!!
-
-  
-
-  
-  
+## eSports!!
 
 eSports describes the world of competitive, organized video gaming. Competitors from different leagues or teams face off in the same games that are popular with at-home gamers: Fortnite, League of Legends, Counter-Strike, Call of Duty, Overwatch and Madden NFL, to name a few
 
-**  
-  
-**
-
-Team Competition
-
-**  
-  
-**
+## Team Competition
 
 Huge Spectator Events
-
-  
-
 [https://www.youtube.com/watch?v=m0zWiUGrzBk](https://www.youtube.com/watch?v=m0zWiUGrzBk)
 
-**  
-  
-**
-
-Educational Games
-
-  
+## Educational Games
 
 Elementary and secondary schools use computers to play multimedia educational programs and teach kids to explore the Web for information. 
 
-  
-
 -   Museums, CD-ROM encyclopedias, etc. 
     
-
-  
-
 -   Computers can help students with special needs
     
 -   Adapted Keyboards
     
 -   Voice Command
     
-
-  
-  
-**  
-**
-
-Augmented Reality
-
-  
+## Augmented Reality
 
 Adds essential information as you are looking at an object or a drawing…Guides you through the process
 
-              for example,   Pokemon Go!
-
-  
-
+for example,   Pokemon Go!
 Or, repairing a car engine
 
-[https://www.youtube.com/watch?v=P9KPJlA5yd](https://www.youtube.com/watch?v=P9KPJlA5yd)[s](https://www.youtube.com/watch?v=P9KPJlA5yds)
+![https://www.youtube.com/watch?v=P9KPJlA5yd](https://www.youtube.com/watch?v=P9KPJlA5yd)
+![s](https://www.youtube.com/watch?v=P9KPJlA5yds)
 
-  
-**  
-**
-
-Serious Games
-
-  
+## Serious Games
 
 -   Think Tanks use game theory extensively in exploring what/if  situations dealing with:
     
-
 -   Warfare
     
 -   Economic behavior
@@ -12286,36 +8656,18 @@ Serious Games
     
 -   Ecological Impact
     
-
 -   Supercomputers are often employed to explore millions of alternate scenarios and outcomes
     
 
-**  
-**
-
-Training and Simulation
-
-  
+## Training and Simulation
 
 -   Training programs can be expensive so some companies are choosing computer-based training (CBT). 
     
 -   Computer based training ranges from relatively simple on-line help systems to sophisticated virtual reality machines such as those used by the military and airlines to train pilots.
     
+## Boeing 777 Flight Simulator
 
-  
-**  
-**
-
-Boeing 777 Flight Simulator
-
-**  
-  
-**
-
-Computing in the Arts
-
-  
-  
+# Computing in the Arts
 
 -   Dance: computers can be used to analyze the movements of dancers. 
     
@@ -12325,18 +8677,10 @@ Computing in the Arts
     
 -   Digital Video
     
-
-  
-**  
-**
-
-Music
-
-  
+## Music
 
 -   The entire professional music generation chain is highly computerized
     
-
 -   Digitization of original sound
     
 -   Editing and manipulation
@@ -12349,27 +8693,13 @@ Music
     
 -   Downloading / CDs / Streaming
     
-
-
-
-**  
-**
-
 Music, Video and More in your pocket !
-
-  
 
 Introduced in 2001
 
 400 Million Sold!
 
-**  
-  
-**
-
-Computers in the Movies
-
-  
+## Computers in the Movies
 
 -   Animation
     
@@ -12381,38 +8711,15 @@ Computers in the Movies
     
 -   DVD Mastering, Compression and Playback
     
-
-  
-**  
-**
-
 Computer Generated Imaging and Effects
-
-**  
-  
-**
 
 Digital (Filmless) Cinema!
 
-**  
-  
-**
-
 Imagineering
-
-**  
-  
-**
 
 Architecture
 
-**  
-  
-**
-
-High Definition Digital TV
-
-  
+## High Definition Digital TV
 
 -   HDTV standards being rolled out and completed nationwide since 2008
     
@@ -12420,13 +8727,7 @@ High Definition Digital TV
     
 -   HDTV has 6 times the resolution of standard TV
     
-
-**  
-**
-
-Interactive Digital TV
-
-  
+## Interactive Digital TV
 
 -   A highly interactive medium available to practically every household in the  via the Open Cable Stds.
     
@@ -12434,15 +8735,7 @@ Interactive Digital TV
     
 -   Net result: An engaging consumer experience
     
-
-**  
-**
-
 By 2018, 200 million  homes  had access to       Digital Interactive TV.
-
-  
-  
-  
 
 -   The FCC mandated Open Cable Standards require Set Top Box compatibility across ALL cable systems by 2006
     
@@ -12450,44 +8743,26 @@ By 2018, 200 million  homes  had access to       Digital Interactive TV.
     
 -   The Set Top Box becomes the Computer, the Router, the Playstation  and the Digital Recorder all rolled into one
     
-
-**  
-**
-
-iTV Applications
-
-  
+## iTV Applications
 
 -   Video on Demand (500-1000 Mpeg2 channels)
     
 -   Information Enhancement
     
-
 -   Provides viewers with additional information that enhances the TV show  on TV
     
 -   Viewer polling becomes part of the content
     
-
 -   Commerce Applications (T-Commerce)
     
-
 -   Provides viewers with  the capability of buying goods & services while watching TV
     
 -   Financial Services
     
-
-
-
-**  
-**
-
-iTV Applications
-
-  
+## TV Applications
 
 -   Games, Games, Games
     
-
 -   Provides viewers with the capability to interact with the TV show content 
     
 -   Game shows, 
@@ -12496,23 +8771,14 @@ iTV Applications
     
 -   Voting
     
-
 -   Internet Access ( Web, Mail, Chat, etc)
     
 -   Home to Home Videoconferencing
     
-
-  
-**  
-**
-
-The Interactive Cable Box
-
-  
+## The Interactive Cable Box
 
 -   Functionality of a PC, DVR and Home Media Center, all in one
     
-
 -   High definition video (1920 X 1080)
     
 -   Supports on demand Pay Per View
@@ -12523,14 +8789,7 @@ The Interactive Cable Box
     
 -   Full Internet Access
     
-
-  
-**  
-**
-
-TV and Computing Converging at last!!
-
-  
+## TV and Computing Converging at last!!
 
 -   This much discussed event is now starting to occur.
     
@@ -12543,12 +8802,11 @@ TV and Computing Converging at last!!
 -   Practically anyone can be a broadcaster
     
 
-**  
-**
+  
 
 All of this computer power and connectivity has given birth to another vital industry
 
-**
+
 
 http://hint.fm/
 https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en
