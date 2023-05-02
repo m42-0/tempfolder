@@ -1,6 +1,0 @@
-DIAGNOSTICS
-
-
-[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics]
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Reliability Analysis\WMI]
-"WMIEnable"=dword:00000000

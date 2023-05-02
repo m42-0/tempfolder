@@ -1,4 +1,0 @@
-Media Foundation:
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Media Foundation]
-"EnableFrameServerMode"=dword:00000000
