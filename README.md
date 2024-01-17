@@ -1,0 +1,67 @@
+![](https://i.imgur.com/b1D2VOK.jpg)
+<details>
+<summary><h1>Tutorials</h1></summary>
+  
+[Extreme Programming: A Gentle Introduction.](http://www.extremeprogramming.org/)   
+[https://computationstructures.org/](https://computationstructures.org/)   
+[Tutorials | Learn PlayCanvas](https://developer.playcanvas.com/en/tutorials/)   
+[The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)   
+[Singleton Pattern. Singleton pattern is the most simplest… | by Janitha Tennakoon | Engineering at 99x](https://engineering.99x.io/singleton-pattern-47bf15ff2f7f)   
+
+[Singleton Pattern – INTEGU](https://integu.net/singleton-pattern/)   
+[Java Design Patterns | Java Design Patterns](https://java-design-patterns.com/)   
+
+[Singleton Design Pattern With Real World Example In Java | Codiwan - Design Pattern Guide](https://www.codiwan.com/singleton-design-pattern-real-world-example-java/)   
+[Uses of Singleton Pattern (Real World Examples)](https://www.gofpattern.com/design-patterns/module3/singleton-real-world-examples.php)   
+[singleton pattern example - Google 検索](https://www.google.co.jp/search?q=singleton+pattern+example&sca_esv=584647371&source=hp&ei=oU1eZYeIIeHbxc8P3K2NqAw&iflsig=AO6bgOgAAAAAZV5bsWAAMn_a9Yv3t9O4o9bcgmVIsxWJ&ved=0ahUKEwjH3Ligo9iCAxXhbfEDHdxWA8UQ4dUDCAk&uact=5&oq=singleton+pattern+example&gs_lp=Egdnd3Mtd2l6IhlzaW5nbGV0b24gcGF0dGVybiBleGFtcGxlMgkQABiABBgNGBMyCRAAGIAEGA0YEzIJEAAYgAQYDRgTMgkQABiABBgNGBMyBhAAGB4YEzIIEAAYHhgPGBMyCBAAGAUYHhgTMggQABgFGB4YEzIIEAAYBRgeGBMyCBAAGAUYHhgTSPIuUO8LWKUucAF4AJABAJgBlAGgAdsRqgEEMTkuNbgBA8gBAPgBAagCAMICBxAAGIAEGATCAgUQABiABMICBBAAGB7CAgcQABiABBgT&sclient=gws-wiz#ip=1)   
+[Programming tutorials, Coding problems, and Practice questions](https://www.hackerearth.com/practice/)   
+
+[How to Reverse Engineer a Unity Game | Kodeco](https://www.kodeco.com/36285673-how-to-reverse-engineer-a-unity-game)   
+[0.1 — Introduction to these tutorials – Learn C++](https://www.learncpp.com/cpp-tutorial/introduction-to-these-tutorials/)   
+[Home — Memory Management Reference 4.0 documentation](https://www.memorymanagement.org/index.html)   
+[Design Patterns | Object Oriented Design](https://www.oodesign.com/)   
+[Singleton Pattern](https://www.patterns.dev/vanilla/singleton-pattern/)   
+
+
+[Object Oriented Programming in C#](https://www.tutorialsteacher.com/csharp/object-oriented-programming)   
+[Virtus Hub | Start Building Your Dream Game | Virtus Hub](https://www.virtushub.com/)   
+ 
+[zyLabs: Programming - zyBooks](https://www.zybooks.com/catalog/zylabs-programming/)  
+[Design Pattern Catalog | Java Design Patterns](https://java-design-patterns.com/patterns/)  
+[Embedded Software Integration - Developer Help](https://microchipdeveloper.com/esi:start)  
+
+[Learn Computer Fundamentals Tutorial - javatpoint](https://www.javatpoint.com/computer-fundamentals-tutorial)  
+ [Refactoring and Design Patterns](https://refactoring.guru/)  
+
+
+
+
+
+
+</details>  
+
+<details>
+<summary><h1>Projects</h1></summary>
+  
+[Scratch - Imagine, Program, Share](https://scratch.mit.edu/)   
+[Learn Computer Science - Code.org](https://studio.code.org/courses)   
+[Micro:bit Educational Foundation | micro:bit](https://microbit.org/)   
+[HEXTRAIN](http://www.nyangau.org/hextrain/mtxplus.htm)   
+[Hello World, 4 Different Ways | Bumbershoot Software](https://bumbershootsoft.wordpress.com/2016/05/13/hello-world-4-different-ways/)   
+[Hello World on the NES, Byte by Byte | Bumbershoot Software](https://bumbershootsoft.wordpress.com/2022/02/16/hello-world-on-the-nes-byte-by-byte/)   
+[Platform Guides | Bumbershoot Software](https://bumbershootsoft.wordpress.com/platform-guides/)   
+[VHS Tapes as Computer Storage - Hardware / HDD's & SSD's - Level1Techs Forums](https://forum.level1techs.com/t/vhs-tapes-as-computer-storage/191238/8)   
+[Hour of Code games for school | Coding and computer science quizzes](https://kahoot.com/blog/2017/12/04/hour-of-code-games-level-up-students-coding-skills/)   
+[LattePanda - x86 Windows/Linux Single Board Computers](https://www.lattepanda.com/)  
+</details>  
+  
+
+
+
+
+
+
+
+
+
+
