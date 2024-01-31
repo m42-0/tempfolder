@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveNugetPackages>false</ResolveNugetPackages>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{D2FF04E7-A6CB-30E9-B910-6CC3DA1903D6}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\src;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\include;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\src;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\include;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\src;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\include;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\src;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\include;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+C:\Users\mario_\scoop\apps\cmake\3.27.7\bin\cmake.exe -SC:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0 "-BC:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut" --check-stamp-file "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeCCompiler.cmake;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeRCCompiler.cmake;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeSystem.cmake;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\FreeGLUTConfig.cmake.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\config.h.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\freeglut.pc.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\freeglut.rc.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\src\fg_version.h.in;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\BasicConfigVersion-AnyNewerVersion.cmake.in;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeGenericSystem.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeInitializeConfigs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeLanguageInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakePackageConfigHelpers.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeRCInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeSystemSpecificInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckCCompilerFlag.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckCSourceCompiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckFunctionExists.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFile.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFileCXX.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckTypeSize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\MSVC-C.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\MSVC.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindOpenGL.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindPackageHandleStandardArgs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindPackageMessage.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\GNUInstallDirs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckCompilerFlag.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckFlagCommonConfig.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckSourceCompiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-Initialize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-MSVC-C.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-MSVC.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\WindowsPaths.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\WriteBasicConfigVersionFile.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+C:\Users\mario_\scoop\apps\cmake\3.27.7\bin\cmake.exe -SC:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0 "-BC:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut" --check-stamp-file "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeCCompiler.cmake;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeRCCompiler.cmake;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeSystem.cmake;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\FreeGLUTConfig.cmake.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\config.h.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\freeglut.pc.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\freeglut.rc.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\src\fg_version.h.in;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\BasicConfigVersion-AnyNewerVersion.cmake.in;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeGenericSystem.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeInitializeConfigs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeLanguageInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakePackageConfigHelpers.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeRCInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeSystemSpecificInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckCCompilerFlag.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckCSourceCompiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckFunctionExists.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFile.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFileCXX.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckTypeSize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\MSVC-C.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\MSVC.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindOpenGL.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindPackageHandleStandardArgs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindPackageMessage.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\GNUInstallDirs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckCompilerFlag.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckFlagCommonConfig.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckSourceCompiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-Initialize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-MSVC-C.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-MSVC.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\WindowsPaths.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\WriteBasicConfigVersionFile.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+C:\Users\mario_\scoop\apps\cmake\3.27.7\bin\cmake.exe -SC:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0 "-BC:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut" --check-stamp-file "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeCCompiler.cmake;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeRCCompiler.cmake;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeSystem.cmake;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\FreeGLUTConfig.cmake.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\config.h.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\freeglut.pc.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\freeglut.rc.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\src\fg_version.h.in;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\BasicConfigVersion-AnyNewerVersion.cmake.in;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeGenericSystem.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeInitializeConfigs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeLanguageInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakePackageConfigHelpers.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeRCInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeSystemSpecificInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckCCompilerFlag.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckCSourceCompiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckFunctionExists.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFile.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFileCXX.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckTypeSize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\MSVC-C.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\MSVC.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindOpenGL.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindPackageHandleStandardArgs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindPackageMessage.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\GNUInstallDirs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckCompilerFlag.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckFlagCommonConfig.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckSourceCompiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-Initialize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-MSVC-C.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-MSVC.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\WindowsPaths.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\WriteBasicConfigVersionFile.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+C:\Users\mario_\scoop\apps\cmake\3.27.7\bin\cmake.exe -SC:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0 "-BC:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut" --check-stamp-file "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeCCompiler.cmake;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeRCCompiler.cmake;C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\3.27.7\CMakeSystem.cmake;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\FreeGLUTConfig.cmake.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\config.h.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\freeglut.pc.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\freeglut.rc.in;C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\src\fg_version.h.in;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\BasicConfigVersion-AnyNewerVersion.cmake.in;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeGenericSystem.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeInitializeConfigs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeLanguageInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakePackageConfigHelpers.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeRCInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeSystemSpecificInformation.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckCCompilerFlag.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckCSourceCompiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckFunctionExists.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFile.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFileCXX.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckIncludeFiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\CheckTypeSize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\MSVC-C.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Compiler\MSVC.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindOpenGL.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindPackageHandleStandardArgs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\FindPackageMessage.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\GNUInstallDirs.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckCompilerFlag.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckFlagCommonConfig.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Internal\CheckSourceCompiles.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-Initialize.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-MSVC-C.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows-MSVC.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\Windows.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\Platform\WindowsPaths.cmake;C:\Users\mario_\scoop\apps\cmake\3.27.7\share\cmake-3.27\Modules\WriteBasicConfigVersionFile.cmake;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\ZERO_CHECK.vcxproj">
+      <Project>{60B2914D-C842-36BD-9BBA-9ED75E66E90D}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\3dview.vcxproj">
+      <Project>{1A3B9566-A49B-38DB-9BF9-98776CC44B87}</Project>
+      <Name>3dview</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\3dview_static.vcxproj">
+      <Project>{0A9EE095-584C-3E61-B6DA-0769AEF5F1BE}</Project>
+      <Name>3dview_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CallbackMaker.vcxproj">
+      <Project>{20F11663-1BCE-36B8-B281-791ED1453EE9}</Project>
+      <Name>CallbackMaker</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CallbackMaker_static.vcxproj">
+      <Project>{CE05EF03-5B53-3823-806A-B3CD7186A3B2}</Project>
+      <Name>CallbackMaker_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\Fractals.vcxproj">
+      <Project>{4ABC5DA6-4E37-3481-A9F6-CD5FED9280C4}</Project>
+      <Name>Fractals</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\Fractals_random.vcxproj">
+      <Project>{5A8D0DF4-107E-3084-B3C4-9FCE8B636212}</Project>
+      <Name>Fractals_random</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\Fractals_random_static.vcxproj">
+      <Project>{3DA754A4-56F8-322A-975C-24C8D8E1A868}</Project>
+      <Name>Fractals_random_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\Fractals_static.vcxproj">
+      <Project>{BA573FCE-D880-3C2C-A649-5A62DD5F18C0}</Project>
+      <Name>Fractals_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\Lorenz.vcxproj">
+      <Project>{EBBDE019-2DF7-37CC-A681-57D3C841B209}</Project>
+      <Name>Lorenz</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\Lorenz_static.vcxproj">
+      <Project>{BC6A9BFC-BE31-317F-836B-86BDEB2A1F53}</Project>
+      <Name>Lorenz_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\One.vcxproj">
+      <Project>{40DD497E-1606-3F2A-8FA4-63F7C0FE7A6E}</Project>
+      <Name>One</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\One_static.vcxproj">
+      <Project>{4D596524-8640-3110-9355-4AFF0B0030A7}</Project>
+      <Name>One_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\freeglut.vcxproj">
+      <Project>{E561A921-53BB-379B-9DED-BD0AF8D5206B}</Project>
+      <Name>freeglut</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\freeglut_static.vcxproj">
+      <Project>{66CC29B9-956B-3FCB-B38E-E254F693EE58}</Project>
+      <Name>freeglut_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\indexed_color.vcxproj">
+      <Project>{3DD5DCA3-3F2C-3E61-B1EB-E078B23977F2}</Project>
+      <Name>indexed_color</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\indexed_color_static.vcxproj">
+      <Project>{CBECB6E4-59BF-3B68-A296-DEA55971B824}</Project>
+      <Name>indexed_color_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\joystick.vcxproj">
+      <Project>{D29117DA-85AA-34CB-8D88-7751A3B5AC53}</Project>
+      <Name>joystick</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\joystick_static.vcxproj">
+      <Project>{6A2EFEAA-0585-3B88-A1B9-8D7E4205B37A}</Project>
+      <Name>joystick_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\keyboard.vcxproj">
+      <Project>{C96781FC-3131-3C6B-B234-F0C0EBE04C30}</Project>
+      <Name>keyboard</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\keyboard_static.vcxproj">
+      <Project>{CD990544-CFC7-3DDE-80B0-434D075CA166}</Project>
+      <Name>keyboard_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\multi-touch.vcxproj">
+      <Project>{3F098AD5-4F74-3CA7-920D-38F6794FE01F}</Project>
+      <Name>multi-touch</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\multi-touch_static.vcxproj">
+      <Project>{E32E5989-E8E4-3237-A85B-593816D5654F}</Project>
+      <Name>multi-touch_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\resizer.vcxproj">
+      <Project>{ACBE89CB-0EA1-34B8-A646-E3EF90A6DCC3}</Project>
+      <Name>resizer</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\resizer_static.vcxproj">
+      <Project>{5597D4EE-3CDF-3B93-9820-9BE761C887AF}</Project>
+      <Name>resizer_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\shapes.vcxproj">
+      <Project>{EDE2E63D-44CA-30D2-9E00-6A6E279C89E3}</Project>
+      <Name>shapes</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\shapes_static.vcxproj">
+      <Project>{FF72E81F-6203-36AD-9906-93FE67577468}</Project>
+      <Name>shapes_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\smooth_opengl3.vcxproj">
+      <Project>{6671CDE2-9B01-3543-ADB8-CB2E7FBCA9A7}</Project>
+      <Name>smooth_opengl3</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\smooth_opengl3_static.vcxproj">
+      <Project>{D5386585-32BA-3E72-B79C-83A716559AFF}</Project>
+      <Name>smooth_opengl3_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\spaceball.vcxproj">
+      <Project>{D1738691-DFBB-3A19-9DB7-16C9338031FE}</Project>
+      <Name>spaceball</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\spaceball_static.vcxproj">
+      <Project>{91EDB9F3-C9D0-362F-9EA2-7860AF051FCD}</Project>
+      <Name>spaceball_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\subwin.vcxproj">
+      <Project>{1A9057B6-E144-3AF0-B673-A7C89833BA3B}</Project>
+      <Name>subwin</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\subwin_static.vcxproj">
+      <Project>{9FC2D753-C77F-3CDC-9D9F-8043EEEDCFF6}</Project>
+      <Name>subwin_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\timer.vcxproj">
+      <Project>{871C8DB8-C2E4-368B-90AF-DED4B95280E0}</Project>
+      <Name>timer</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\timer_callback.vcxproj">
+      <Project>{F447D924-07E8-3900-B7BF-2C071E929690}</Project>
+      <Name>timer_callback</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\timer_callback_static.vcxproj">
+      <Project>{5B7C12A3-B174-394A-B5F6-DF68EEF7927C}</Project>
+      <Name>timer_callback_static</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\timer_static.vcxproj">
+      <Project>{49A1F5BF-207B-371D-9A47-92CB4D59595B}</Project>
+      <Name>timer_static</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,737 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:211 (message)"
+      - "CMakeLists.txt:2 (PROJECT)"
+    message: |
+      The system is: Windows - 10.0.22621 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (PROJECT)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.7.2+d6990bcfa for .NET Framework
+      Build started 08/11/2023 11:51:40.
+      
+      Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\3.27.7\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
+      PrepareForBuild:
+        Creating directory "Debug\\".
+        Creating directory "Debug\\CompilerIdC.tlog\\".
+      InitializeBuildStatus:
+        Creating "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+        Touching "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\3.27.7\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        Deleting file "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+        Touching "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
+      Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\3.27.7\\CompilerIdC\\CompilerIdC.vcxproj" (default targets).
+      
+      Build succeeded.
+          0 Warning(s)
+          0 Error(s)
+      
+      Time Elapsed 00:00:00.57
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/3.27.7/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (PROJECT)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-od6dxh"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-od6dxh"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-od6dxh'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_193df.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:40.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-od6dxh\\cmTC_193df.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_193df.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-od6dxh\\Debug\\".
+          Creating directory "cmTC_193df.dir\\Debug\\cmTC_193df.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_193df.dir\\Debug\\cmTC_193df.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_193df.dir\\Debug\\cmTC_193df.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_193df.dir\\Debug\\\\" /Fd"cmTC_193df.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\scoop\\apps\\cmake\\3.27.7\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          CMakeCCompilerABI.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_193df.dir\\Debug\\\\" /Fd"cmTC_193df.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\scoop\\apps\\cmake\\3.27.7\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-od6dxh\\Debug\\cmTC_193df.exe" /INCREMENTAL /ILK:"cmTC_193df.dir\\Debug\\cmTC_193df.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-od6dxh/Debug/cmTC_193df.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-od6dxh/Debug/cmTC_193df.lib" /MACHINE:X64  /machine:x64 cmTC_193df.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_193df.vcxproj -> C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-od6dxh\\Debug\\cmTC_193df.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_193df.dir\\Debug\\cmTC_193df.tlog\\unsuccessfulbuild".
+          Touching "cmTC_193df.dir\\Debug\\cmTC_193df.tlog\\cmTC_193df.lastbuildstate".
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-od6dxh\\cmTC_193df.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.33
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:376 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file sys/types.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-sw9p5f"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-sw9p5f"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-sw9p5f'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_f88a1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:41.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-sw9p5f\\cmTC_f88a1.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_f88a1.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-sw9p5f\\Debug\\".
+          Creating directory "cmTC_f88a1.dir\\Debug\\cmTC_f88a1.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_f88a1.dir\\Debug\\cmTC_f88a1.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_f88a1.dir\\Debug\\cmTC_f88a1.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f88a1.dir\\Debug\\\\" /Fd"cmTC_f88a1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-sw9p5f\\HAVE_SYS_TYPES_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_SYS_TYPES_H.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f88a1.dir\\Debug\\\\" /Fd"cmTC_f88a1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-sw9p5f\\HAVE_SYS_TYPES_H.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-sw9p5f\\Debug\\cmTC_f88a1.exe" /INCREMENTAL /ILK:"cmTC_f88a1.dir\\Debug\\cmTC_f88a1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-sw9p5f/Debug/cmTC_f88a1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-sw9p5f/Debug/cmTC_f88a1.lib" /MACHINE:X64  /machine:x64 cmTC_f88a1.dir\\Debug\\HAVE_SYS_TYPES_H.obj
+          cmTC_f88a1.vcxproj -> C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-sw9p5f\\Debug\\cmTC_f88a1.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_f88a1.dir\\Debug\\cmTC_f88a1.tlog\\unsuccessfulbuild".
+          Touching "cmTC_f88a1.dir\\Debug\\cmTC_f88a1.tlog\\cmTC_f88a1.lastbuildstate".
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-sw9p5f\\cmTC_f88a1.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.34
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:377 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file unistd.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-t15pug"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-t15pug"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_UNISTD_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-t15pug'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ed309.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:41.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\cmTC_ed309.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_ed309.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\Debug\\".
+          Creating directory "cmTC_ed309.dir\\Debug\\cmTC_ed309.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_ed309.dir\\Debug\\cmTC_ed309.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_ed309.dir\\Debug\\cmTC_ed309.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ed309.dir\\Debug\\\\" /Fd"cmTC_ed309.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\HAVE_UNISTD_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_UNISTD_H.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ed309.dir\\Debug\\\\" /Fd"cmTC_ed309.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\HAVE_UNISTD_H.c"
+        C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\HAVE_UNISTD_H.c(2,10): fatal  error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\cmTC_ed309.vcxproj]
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\cmTC_ed309.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\cmTC_ed309.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\HAVE_UNISTD_H.c(2,10): fatal  error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-t15pug\\cmTC_ed309.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.23
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:378 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file sys/time.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-kzvnuf"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-kzvnuf"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SYS_TIME_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-kzvnuf'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_08d5b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:42.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\cmTC_08d5b.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_08d5b.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\Debug\\".
+          Creating directory "cmTC_08d5b.dir\\Debug\\cmTC_08d5b.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_08d5b.dir\\Debug\\cmTC_08d5b.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_08d5b.dir\\Debug\\cmTC_08d5b.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_08d5b.dir\\Debug\\\\" /Fd"cmTC_08d5b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\HAVE_SYS_TIME_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_SYS_TIME_H.c
+        C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\HAVE_SYS_TIME_H.c(2,10): fatal  error C1083: Cannot open include file: 'sys/time.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\cmTC_08d5b.vcxproj]
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_08d5b.dir\\Debug\\\\" /Fd"cmTC_08d5b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\HAVE_SYS_TIME_H.c"
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\cmTC_08d5b.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\cmTC_08d5b.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\HAVE_SYS_TIME_H.c(2,10): fatal  error C1083: Cannot open include file: 'sys/time.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-kzvnuf\\cmTC_08d5b.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.19
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:379 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file stdbool.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-au6xpg"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-au6xpg"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STDBOOL_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-au6xpg'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_83f00.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:42.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-au6xpg\\cmTC_83f00.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_83f00.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-au6xpg\\Debug\\".
+          Creating directory "cmTC_83f00.dir\\Debug\\cmTC_83f00.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_83f00.dir\\Debug\\cmTC_83f00.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_83f00.dir\\Debug\\cmTC_83f00.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_83f00.dir\\Debug\\\\" /Fd"cmTC_83f00.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-au6xpg\\HAVE_STDBOOL_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_STDBOOL_H.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_83f00.dir\\Debug\\\\" /Fd"cmTC_83f00.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-au6xpg\\HAVE_STDBOOL_H.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-au6xpg\\Debug\\cmTC_83f00.exe" /INCREMENTAL /ILK:"cmTC_83f00.dir\\Debug\\cmTC_83f00.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-au6xpg/Debug/cmTC_83f00.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-au6xpg/Debug/cmTC_83f00.lib" /MACHINE:X64  /machine:x64 cmTC_83f00.dir\\Debug\\HAVE_STDBOOL_H.obj
+          cmTC_83f00.vcxproj -> C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-au6xpg\\Debug\\cmTC_83f00.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_83f00.dir\\Debug\\cmTC_83f00.tlog\\unsuccessfulbuild".
+          Touching "cmTC_83f00.dir\\Debug\\cmTC_83f00.tlog\\cmTC_83f00.lastbuildstate".
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-au6xpg\\cmTC_83f00.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.32
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:380 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file sys/param.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-mjza8k"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-mjza8k"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SYS_PARAM_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-mjza8k'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_80fcf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:42.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\cmTC_80fcf.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_80fcf.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\Debug\\".
+          Creating directory "cmTC_80fcf.dir\\Debug\\cmTC_80fcf.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_80fcf.dir\\Debug\\cmTC_80fcf.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_80fcf.dir\\Debug\\cmTC_80fcf.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_80fcf.dir\\Debug\\\\" /Fd"cmTC_80fcf.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\HAVE_SYS_PARAM_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_SYS_PARAM_H.c
+        C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\HAVE_SYS_PARAM_H.c(2,10): fatal  error C1083: Cannot open include file: 'sys/param.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\cmTC_80fcf.vcxproj]
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_80fcf.dir\\Debug\\\\" /Fd"cmTC_80fcf.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\HAVE_SYS_PARAM_H.c"
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\cmTC_80fcf.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\cmTC_80fcf.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\HAVE_SYS_PARAM_H.c(2,10): fatal  error C1083: Cannot open include file: 'sys/param.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-mjza8k\\cmTC_80fcf.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.20
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:381 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file sys/ioctl.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-r0p2ut"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-r0p2ut"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SYS_IOCTL_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-r0p2ut'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b9f11.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:43.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\cmTC_b9f11.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_b9f11.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\Debug\\".
+          Creating directory "cmTC_b9f11.dir\\Debug\\cmTC_b9f11.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_b9f11.dir\\Debug\\cmTC_b9f11.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_b9f11.dir\\Debug\\cmTC_b9f11.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b9f11.dir\\Debug\\\\" /Fd"cmTC_b9f11.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\HAVE_SYS_IOCTL_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_SYS_IOCTL_H.c
+        C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\HAVE_SYS_IOCTL_H.c(2,10): fatal  error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\cmTC_b9f11.vcxproj]
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b9f11.dir\\Debug\\\\" /Fd"cmTC_b9f11.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\HAVE_SYS_IOCTL_H.c"
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\cmTC_b9f11.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\cmTC_b9f11.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\HAVE_SYS_IOCTL_H.c(2,10): fatal  error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-r0p2ut\\cmTC_b9f11.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.20
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:382 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file fcntl.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-2ofy8m"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-2ofy8m"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_FCNTL_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-2ofy8m'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5da90.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:43.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-2ofy8m\\cmTC_5da90.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_5da90.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-2ofy8m\\Debug\\".
+          Creating directory "cmTC_5da90.dir\\Debug\\cmTC_5da90.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_5da90.dir\\Debug\\cmTC_5da90.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_5da90.dir\\Debug\\cmTC_5da90.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5da90.dir\\Debug\\\\" /Fd"cmTC_5da90.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-2ofy8m\\HAVE_FCNTL_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_FCNTL_H.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5da90.dir\\Debug\\\\" /Fd"cmTC_5da90.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-2ofy8m\\HAVE_FCNTL_H.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-2ofy8m\\Debug\\cmTC_5da90.exe" /INCREMENTAL /ILK:"cmTC_5da90.dir\\Debug\\cmTC_5da90.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-2ofy8m/Debug/cmTC_5da90.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-2ofy8m/Debug/cmTC_5da90.lib" /MACHINE:X64  /machine:x64 cmTC_5da90.dir\\Debug\\HAVE_FCNTL_H.obj
+          cmTC_5da90.vcxproj -> C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-2ofy8m\\Debug\\cmTC_5da90.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_5da90.dir\\Debug\\cmTC_5da90.tlog\\unsuccessfulbuild".
+          Touching "cmTC_5da90.dir\\Debug\\cmTC_5da90.tlog\\cmTC_5da90.lastbuildstate".
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-2ofy8m\\cmTC_5da90.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.33
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:383 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file usbhid.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-k7oq8q"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-k7oq8q"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_USBHID_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-k7oq8q'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_e1ffc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:44.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\cmTC_e1ffc.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_e1ffc.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\Debug\\".
+          Creating directory "cmTC_e1ffc.dir\\Debug\\cmTC_e1ffc.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_e1ffc.dir\\Debug\\cmTC_e1ffc.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_e1ffc.dir\\Debug\\cmTC_e1ffc.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e1ffc.dir\\Debug\\\\" /Fd"cmTC_e1ffc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\HAVE_USBHID_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_USBHID_H.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e1ffc.dir\\Debug\\\\" /Fd"cmTC_e1ffc.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\HAVE_USBHID_H.c"
+        C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\HAVE_USBHID_H.c(2,10): fatal  error C1083: Cannot open include file: 'usbhid.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\cmTC_e1ffc.vcxproj]
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\cmTC_e1ffc.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\cmTC_e1ffc.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\HAVE_USBHID_H.c(2,10): fatal  error C1083: Cannot open include file: 'usbhid.h': No such file or directory [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-k7oq8q\\cmTC_e1ffc.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.21
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:384 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for gettimeofday"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-iexeg2"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-iexeg2"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_GETTIMEOFDAY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-iexeg2'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_54bcb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:44.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\cmTC_54bcb.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_54bcb.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\Debug\\".
+          Creating directory "cmTC_54bcb.dir\\Debug\\cmTC_54bcb.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_54bcb.dir\\Debug\\cmTC_54bcb.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_54bcb.dir\\Debug\\cmTC_54bcb.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gettimeofday /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_54bcb.dir\\Debug\\\\" /Fd"cmTC_54bcb.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          CheckFunctionExists.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gettimeofday /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_54bcb.dir\\Debug\\\\" /Fd"cmTC_54bcb.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\CheckFunctionExists.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\Debug\\cmTC_54bcb.exe" /INCREMENTAL /ILK:"cmTC_54bcb.dir\\Debug\\cmTC_54bcb.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-iexeg2/Debug/cmTC_54bcb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-iexeg2/Debug/cmTC_54bcb.lib" /MACHINE:X64  /machine:x64 cmTC_54bcb.dir\\Debug\\CheckFunctionExists.obj
+        CheckFunctionExists.obj : error LNK2019: unresolved external symbol gettimeofday referenced in function main [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\cmTC_54bcb.vcxproj]
+        C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\Debug\\cmTC_54bcb.exe : fatal error LNK1120: 1 unresolved externals [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\cmTC_54bcb.vcxproj]
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\cmTC_54bcb.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\cmTC_54bcb.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          CheckFunctionExists.obj : error LNK2019: unresolved external symbol gettimeofday referenced in function main [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\cmTC_54bcb.vcxproj]
+          C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\Debug\\cmTC_54bcb.exe : fatal error LNK1120: 1 unresolved externals [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-iexeg2\\cmTC_54bcb.vcxproj]
+        
+            0 Warning(s)
+            2 Error(s)
+        
+        Time Elapsed 00:00:00.31
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "CMakeLists.txt:385 (CHECK_FUNCTION_EXISTS)"
+    checks:
+      - "Looking for XParseGeometry"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-hy3ven"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-hy3ven"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_XPARSEGEOMETRY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-hy3ven'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5e2b3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:44.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\cmTC_5e2b3.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_5e2b3.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\Debug\\".
+          Creating directory "cmTC_5e2b3.dir\\Debug\\cmTC_5e2b3.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_5e2b3.dir\\Debug\\cmTC_5e2b3.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_5e2b3.dir\\Debug\\cmTC_5e2b3.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=XParseGeometry /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5e2b3.dir\\Debug\\\\" /Fd"cmTC_5e2b3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          CheckFunctionExists.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=XParseGeometry /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5e2b3.dir\\Debug\\\\" /Fd"cmTC_5e2b3.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\CheckFunctionExists.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\Debug\\cmTC_5e2b3.exe" /INCREMENTAL /ILK:"cmTC_5e2b3.dir\\Debug\\cmTC_5e2b3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-hy3ven/Debug/cmTC_5e2b3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-hy3ven/Debug/cmTC_5e2b3.lib" /MACHINE:X64  /machine:x64 cmTC_5e2b3.dir\\Debug\\CheckFunctionExists.obj
+        CheckFunctionExists.obj : error LNK2019: unresolved external symbol XParseGeometry referenced in function main [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\cmTC_5e2b3.vcxproj]
+        C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\Debug\\cmTC_5e2b3.exe : fatal error LNK1120: 1 unresolved externals [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\cmTC_5e2b3.vcxproj]
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\cmTC_5e2b3.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\cmTC_5e2b3.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          CheckFunctionExists.obj : error LNK2019: unresolved external symbol XParseGeometry referenced in function main [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\cmTC_5e2b3.vcxproj]
+          C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\Debug\\cmTC_5e2b3.exe : fatal error LNK1120: 1 unresolved externals [C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-hy3ven\\cmTC_5e2b3.vcxproj]
+        
+            0 Warning(s)
+            2 Error(s)
+        
+        Time Elapsed 00:00:00.31
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:393 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file stdint.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-v4htwv"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-v4htwv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-v4htwv'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4ce78.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:45.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-v4htwv\\cmTC_4ce78.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_4ce78.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-v4htwv\\Debug\\".
+          Creating directory "cmTC_4ce78.dir\\Debug\\cmTC_4ce78.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_4ce78.dir\\Debug\\cmTC_4ce78.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_4ce78.dir\\Debug\\cmTC_4ce78.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4ce78.dir\\Debug\\\\" /Fd"cmTC_4ce78.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-v4htwv\\HAVE_STDINT_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_STDINT_H.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4ce78.dir\\Debug\\\\" /Fd"cmTC_4ce78.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-v4htwv\\HAVE_STDINT_H.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-v4htwv\\Debug\\cmTC_4ce78.exe" /INCREMENTAL /ILK:"cmTC_4ce78.dir\\Debug\\cmTC_4ce78.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-v4htwv/Debug/cmTC_4ce78.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-v4htwv/Debug/cmTC_4ce78.lib" /MACHINE:X64  /machine:x64 cmTC_4ce78.dir\\Debug\\HAVE_STDINT_H.obj
+          cmTC_4ce78.vcxproj -> C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-v4htwv\\Debug\\cmTC_4ce78.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_4ce78.dir\\Debug\\cmTC_4ce78.tlog\\unsuccessfulbuild".
+          Touching "cmTC_4ce78.dir\\Debug\\cmTC_4ce78.tlog\\cmTC_4ce78.lastbuildstate".
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-v4htwv\\cmTC_4ce78.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.34
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake:132 (try_compile)"
+      - "CMakeLists.txt:394 (CHECK_INCLUDE_FILES)"
+    checks:
+      - "Looking for include file inttypes.h"
+    directories:
+      source: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-tsumfr"
+      binary: "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-tsumfr"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_INTTYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-tsumfr'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_49fc0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.7.2+d6990bcfa for .NET Framework
+        Build started 08/11/2023 11:51:45.
+        
+        Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-tsumfr\\cmTC_49fc0.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_49fc0.dir\\Debug\\".
+          Creating directory "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-tsumfr\\Debug\\".
+          Creating directory "cmTC_49fc0.dir\\Debug\\cmTC_49fc0.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_49fc0.dir\\Debug\\cmTC_49fc0.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_49fc0.dir\\Debug\\cmTC_49fc0.tlog\\unsuccessfulbuild".
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_49fc0.dir\\Debug\\\\" /Fd"cmTC_49fc0.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-tsumfr\\HAVE_INTTYPES_H.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.37.32824 for x64
+          HAVE_INTTYPES_H.c
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_49fc0.dir\\Debug\\\\" /Fd"cmTC_49fc0.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-tsumfr\\HAVE_INTTYPES_H.c"
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-tsumfr\\Debug\\cmTC_49fc0.exe" /INCREMENTAL /ILK:"cmTC_49fc0.dir\\Debug\\cmTC_49fc0.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-tsumfr/Debug/cmTC_49fc0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/CMakeScratch/TryCompile-tsumfr/Debug/cmTC_49fc0.lib" /MACHINE:X64  /machine:x64 cmTC_49fc0.dir\\Debug\\HAVE_INTTYPES_H.obj
+          cmTC_49fc0.vcxproj -> C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-tsumfr\\Debug\\cmTC_49fc0.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_49fc0.dir\\Debug\\cmTC_49fc0.tlog\\unsuccessfulbuild".
+          Touching "cmTC_49fc0.dir\\Debug\\cmTC_49fc0.tlog\\cmTC_49fc0.lastbuildstate".
+        Done Building Project "C:\\Users\\mario_\\Documents\\GitHub\\Projects\\Projects\\Graphics Programming\\ogldev\\freeglut\\CMakeFiles\\CMakeScratch\\TryCompile-tsumfr\\cmTC_49fc0.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:00.32
+        
+      exitCode: 0
+...

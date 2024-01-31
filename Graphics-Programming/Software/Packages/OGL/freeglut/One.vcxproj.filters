@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\progs\demos\One\one.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\mario_\Downloads\freeglut-3.4.0.tar\freeglut-3.4.0\progs\demos\One\one.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{53F2154F-93EA-31C0-BDB0-FD0C78FC31C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\freeglutd.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\3dviewd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\3dview_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\CallbackMakerd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\CallbackMaker_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\Fractalsd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\Fractals_randomd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\Fractals_random_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\Fractals_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\Lorenzd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\Lorenz_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\Oned.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\One_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\indexed_colord.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\indexed_color_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\joystickd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\joystick_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\keyboardd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\keyboard_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\multi-touchd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\multi-touch_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\resizerd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\resizer_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\shapesd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\shapes_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\smooth_opengl3d.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\smooth_opengl3_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\spaceballd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\spaceball_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\subwind.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\subwin_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\timerd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\timer_callbackd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\timer_callback_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\timer_staticd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

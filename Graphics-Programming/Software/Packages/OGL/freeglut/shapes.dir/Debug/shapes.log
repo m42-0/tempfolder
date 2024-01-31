@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/CMakeLists.txt
+  shapes.c
+  glmatrix.c
+  Generating Code...
+  shapes.vcxproj -> C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\bin\Debug\shapesd.exe

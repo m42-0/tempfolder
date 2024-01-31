@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mario_\Documents\GitHub\Projects\Projects\Graphics Programming\ogldev\freeglut\CMakeFiles\6f32c28d27c02d33cdfbd1f3eaa19c55\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{918A9E89-6E7F-3939-9DF8-23DDBE8511FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

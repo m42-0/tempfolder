@@ -1,0 +1,6 @@
+[Geometry And Primitives In Game Development - DEV Community](https://dev.to/fkkarakurt/geometry-and-primitives-in-game-development-1og)  
+[Computer Graphics and Geometric Modeling. (davidsalomon.name)](https://www.davidsalomon.name/CGGMadvertis/CGad.html)  
+[What Is a Viewport? | Microsoft Learn](https://learn.microsoft.com/en-us/previous-versions/windows/xna/ff634571(v=xnagamestudio.42))  
+[What Is a View Frustum? | Microsoft Learn](https://learn.microsoft.com/en-us/previous-versions/windows/xna/ff634570(v=xnagamestudio.42))  
+[Learn OpenGL - Chapter 9 (Coordinate Systems) - HackMD](https://hackmd.io/@NTHU-OpenGL-Study-Group/By7R7TpSd)  
+[Traces Overview | Unreal Engine 4.27 Documentation](https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Tracing/Overview/)

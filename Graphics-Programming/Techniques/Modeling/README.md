@@ -1,0 +1,7 @@
+[3d - What's the difference between mesh and a model? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/38412/whats-the-difference-between-mesh-and-a-model)  
+[Sketch on 3D Models: Overview - Morpholio Trace User Guide (morpholioapps.com)](https://morpholioapps.com/userguide/trace/?how-to-sketch-on-3d-models)  
+[How to Trace 2D Drawings to Quickly Create a 3D ARCHICAD Model - ARCHICAD Tutorials](https://archicadtutorials.com/how-to-trace-2d-drawings-to-quickly-create-a-3d-archicad-model/)  
+[What is 3D Modeling? | Siemens Software](https://www.plm.automation.siemens.com/global/en/our-story/glossary/3d-modeling/17977)  
+[How to Make 3D Models: The Ultimate Guide | Aristek Systems | Aristek Systems](https://aristeksystems.com/blog/3d-design-for-everyone/#sculpting)  
+[Simio and Simulation - Modeling, Analysis, Applications - 6th Edition](https://textbook.simio.com/SASMAA/index.html)  
+[Scanning and Detecting 3D Objects with iPhone's Lidar Technology | HackerNoon](https://hackernoon.com/scanning-and-detecting-3d-objects-with-iphones-lidar-technology-2b6q33f7)

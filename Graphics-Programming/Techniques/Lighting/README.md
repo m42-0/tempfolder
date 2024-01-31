@@ -1,0 +1,2 @@
+[env_cascade_light - Valve Developer Community (valvesoftware.com)](https://developer.valvesoftware.com/wiki/Env_cascade_light)  
+[Steam Community :: Guide :: The Big Amazing Guide to Lighting!](https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=158909187)

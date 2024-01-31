@@ -1,0 +1,24 @@
+[Particle System Constraints - Valve Developer Community (valvesoftware.com)](https://developer.valvesoftware.com/wiki/Particle_System_Constraints#Collision_via_traces)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+# CMake generation dependency list for this directory.
+C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/3.27.7/CMakeCCompiler.cmake
+C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/3.27.7/CMakeRCCompiler.cmake
+C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/CMakeFiles/3.27.7/CMakeSystem.cmake
+C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/CMakeLists.txt
+C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/FreeGLUTConfig.cmake.in
+C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/config.h.in
+C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/freeglut.pc.in
+C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/freeglut.rc.in
+C:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0/src/fg_version.h.in
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeCInformation.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckCCompilerFlag.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckFunctionExists.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFile.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckIncludeFiles.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/CheckTypeSize.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/FindOpenGL.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/FindPackageMessage.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/GNUInstallDirs.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Platform/Windows.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake
+C:/Users/mario_/scoop/apps/cmake/3.27.7/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake

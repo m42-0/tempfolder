@@ -1,0 +1,10 @@
+^C:\USERS\MARIO_\DOCUMENTS\GITHUB\PROJECTS\PROJECTS\GRAPHICS PROGRAMMING\OGLDEV\FREEGLUT\CMAKEFILES\6F32C28D27C02D33CDFBD1F3EAA19C55\GENERATE.STAMP.RULE
+setlocal
+C:\Users\mario_\scoop\apps\cmake\3.27.7\bin\cmake.exe -SC:/Users/mario_/Downloads/freeglut-3.4.0.tar/freeglut-3.4.0 "-BC:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/mario_/Documents/GitHub/Projects/Projects/Graphics Programming/ogldev/freeglut/freeglut.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

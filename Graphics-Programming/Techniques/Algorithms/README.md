@@ -1,0 +1,17 @@
+[shader permutation explosion - Google Search](https://www.google.com/search?client=firefox-b-d&q=shader+permutation+explosion)  
+[compilation - Difference between compiled and interpreted languages? - Stack Overflow](https://stackoverflow.com/questions/38491212/difference-between-compiled-and-interpreted-languages/38491646#38491646)  
+[Delta Time – Wikipedia](https://de.wikipedia.org/wiki/Delta_Time)[Game Graphics 101: Rendering Pipeline & Shaders - IT Hare on Soft.ware](http://ithare.com/game-graphics-101-rendering-pipeline/)  
+[GfxSpeak – From Jon Peddie Research](https://gfxspeak.com/)[What is deferred rendering? - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/74/what-is-deferred-rendering)  
+[What kind of coding standard do you prefer - General and Gameplay Programming - GameDev.net](https://www.gamedev.net/forums/topic/713512-what-kind-of-coding-standard-do-you-prefer/)  
+[3D-Fachbegriffe Lexikon – drucktipps3d.de](https://drucktipps3d.de/glossar/)[Das tecChannel 3D-Lexikon - TecChannel Workshop](https://www.tecchannel.de/a/das-tecchannel-3d-lexikon,401299)  
+[Future of Computer Graphics: 2000 and beyond (danielsevo.com)](https://www.danielsevo.com/hocg/hocg_2000.htm)  
+[Talks | Institute of Computer Graphics (jku.at)](https://www.jku.at/en/institute-of-computer-graphics/research/talks/)  
+[Video Game Design - Tri-Tech Skills Center (ksd.org)](https://tritech.ksd.org/learn/video-game-design)  
+[Pixar's RenderMan | The Future of Pixar Technology](https://renderman.pixar.com/learn_tutorials)  
+[Introduction to Computer Graphics, Section B.3 -- Blender Animation (hws.edu)](https://math.hws.edu/graphicsbook/a2/s3.html)  
+[The Importance of 3D Modeling | Exploring its Modern Uses (takeoffpros.com)](https://www.takeoffpros.com/2020/04/27/guide-to-3d-modeling/)  
+[Interpolation vs. Extrapolation | Photon Engine](https://doc.photonengine.com/bolt/current/in-depth/interpolation-vs-extrapolation#)  
+[Computer Graphics for Java Programmers | Request PDF (researchgate.net)](https://www.researchgate.net/publication/321501662_Computer_Graphics_for_Java_Programmers)  
+[Classic 2D Algorithms | Request PDF (researchgate.net)](https://www.researchgate.net/publication/320292927_Classic_2D_Algorithms)
+
+
